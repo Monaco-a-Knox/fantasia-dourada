@@ -1,5 +1,7 @@
 # Fantasia Dourada
 
+PROJETO EM ANDAMENTO 0/41 histórias traduzidas.
+
 Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢想曲†CROSS) abreviado para "Fantasia Dourada".
 
 Basta substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Caso queira, colocar a nossa fonte na pasta MANGAGAMER.
