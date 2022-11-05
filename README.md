@@ -16,4 +16,4 @@ Equipe:
 
 Notas: 
 1) É necessário um macro para inserir acentuação no jogo.
-2) Fantasia (幻想曲) é um ritmo musical. O jogo altera um kanji da paralava para fazer um trocadilho com a expressão "musou".
+2) Fantasia (幻想曲) é um ritmo musical. O jogo altera um kanji da palavra para fazer um trocadilho com a expressão "musou".
