@@ -1,6 +1,6 @@
 # Fantasia Dourada
 
-Arquivos de tradução do jogo musou Ougon Musou Kyoku Cross, abreviado para Fantasia Dourada.
+Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢想曲†CROSS) abreviado para "Fantasia Dourada".
 
 Basta substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Caso queira, colocar a nossa fonte na pasta MANGAGAMER.
 
@@ -11,3 +11,8 @@ Para editar uma linha é necessário colocar o "|"(cursor) na primeira letra, ap
 
 Tradução: Deca (Knox Translations)
 Agradecimento especial: Frost51
+
+
+Notas: 
+1) É necessário um macro para inserir acentuação no jogo.
+2) Fantasia (幻想曲) é um ritmo musical. O jogo altera um kanji da paralava para fazer um trocadilho com a expressão "musou".
