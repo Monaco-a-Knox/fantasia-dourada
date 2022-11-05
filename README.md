@@ -8,7 +8,7 @@ Basta substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Caso queira
 
 Este patch traduz inicialmente apenas os diálogos de cada cenário. Imagens e demais conteúdos visuais permanecem intocados, mas você é livre para contribruir.
 
-Para editar uma linha é necessário colocar o "|"(cursor) na primeira letra, apertar o botão insert do teclado, digitar a tradução e depois apertar espaço para apagar o original. O jogo funciona com base no número de caracteres, logo não é possível apenas apagar um texto e digitar outro.
+Para editar uma linha é necessário colocar o "|"(cursor) na primeira letra, apertar o botão insert do teclado, apertar espaço para apagar o original e inserir a traducão. O jogo funciona com base no número de caracteres, logo não é possível apenas apagar um texto e digitar outro.
 
 Equipe:
 - Tradução: Deca (Knox Transations). 
