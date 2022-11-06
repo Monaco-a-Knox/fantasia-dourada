@@ -11,7 +11,7 @@ Este patch traduz inicialmente apenas os diálogos de cada cenário. Imagens e d
 Para editar uma linha é necessário colocar o "|"(cursor) na primeira letra, apertar o botão insert do teclado, apertar espaço para apagar o original e inserir a traducão. O jogo funciona com base no número de caracteres, logo não é possível apenas apagar um texto e digitar outro.
 
 Equipe:
-- Tradução: Deca (Knox Transations). 
+- Tradução: Deca (Knox Translations). 
 - Agradecimento especial: Frost51 (Programação)
 
 Notas: 
