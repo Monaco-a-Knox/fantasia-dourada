@@ -1,17 +1,14 @@
 
 #v1681I won't get lost again. It's clear where we need to return to. 
- 
-Não vou mais me perder. Está claro para onde devo retornar.
+ Não vou mais me perder. Está claro para onde devo retornar.
  
 #v1772Yeah. Let's go home for real this time. Back to our world.  
 Sim. Desta vez, vamos mesmo voltar para casa. Para o nosso mundo.
  
 #v1682I've kept my adorable little sister waiting for twelve full years, but no more. Aah, it's useless, it's all useless! 
- 
-Deixei minha querida irmãzinha esperando por doze anos, mas agora chega. Aah, isso não está certo, não está nada certo!
-#v1773I've had more than enough of this witches' farce. I'll take Onii-chan back with me to 1998! 
- 
-    
+ Deixei minha querida irmãzinha esperando por doze anos, mas agora chega. Aah, isso não está certo, não está nada certo!
+
+#v1773I've had more than enough of this witches' farce. I'll take Onii-chan back with me to 1998!    
 Já tive o suficiente dessa farsa da bruxa. Levarei o onii-chan comigo para 1998!
  
 #v1823Oh, if it isn't Ange. So, you went back a full 12 years, searching for the brother who never came home?   
@@ -19,23 +16,17 @@ Oh, se não é a Ange. Então, você retornou doze anos, em busca do seu irmão 
  
 #v1774Yeah, that's right. And you're looking way too young for just 12 years ago, Aunt Eva.  
 Sim, isso mesmo. E você parece jovem demais para apenas doze anos atrás, tia Eva.
+
 #v2070Nihihihi. Women are girls no matter how old they get nyeh    
 Nihihihi. Mulheres são garotas, não importa o quão velhas fiquem, nyeh.
- 
 
 #v1683It's about time you gave up playing witches, Aunt Eva.  
 Já está na hora de parar de brincar de bruxas, tia Eva.
- 
 
 #v1824Who are you calling 'aunt'?! I am EVA Beatrice, Head of the Ushiromiya Family! 22 8O  8
-
-
 Quem você está chamando de 'tia'?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
  
-
 #v1825If only you'd learn to respect the new Golden Witch...while you get your guts ripped out and die! 
- 
-    
 Se você ao menos aprendesse a respeitar a nova Bruxa Dourada...enquanto tem suas entranhas arrancadas e morrer bem devagar!
  
 #v1775That settles it. I'll let you keep the past, but we'll be the ones weaving the future.  
@@ -51,9 +42,7 @@ Lutar apesar de tudo é um hobby meu. See you again, have a nice day.
 O que importa é o processo, não o resultado, nyeh. Até mesmo quando se trata de deixar seus arrependimentos para trás.
  
 #v1684...I'll definitely return with you. I can't keep my little sister, ...Ange, waiting any longer. 
- 
-    
-...EU definitivamente retornarei com você. Não posso deixar minha irmãzinha, ...a Ange, esperando por mais tempo.
+...Eu definitivamente retornarei com você. Não posso deixar minha irmãzinha, ...a Ange, esperando por mais tempo.
  
 #v1685Beato... Looking back, the time we spent together was fun, but this is goodbye.  
 Beato... Olhando para trás, o tempo que passamos juntos foi divertido, mas isso é um adeus.
@@ -64,7 +53,7 @@ Você espera que eu abra mão do meu brinquedo favorito? Sua idiota!
 #v1777Onii-chan isn't your toy! I'm through playing along with your game!  
 Ele não é seu brinquedo. Estou cansada de jogar esse seu joguinho!
  
-#v1565No, he is my toy. And if he leaves the palm of my hand, he'll turn to sand and disappear. Foolish little sister, just who convinced you to try and take Battler back from a past that can never be changed?! 2A 8O  8
+#v1565No, he is my toy. And if he leaves the palm of my hand, he'll turn to sand and disappear. Foolish little sister, just who convinced you to try and take Battler back from a past that can never be changed?!
 Não, ele é meu brinquedo. E se ele deixar a palma da minha mão, vai virar areia e desaparecer. Tola irmãzinha, quem foi que a convenceu a tentar buscar o Battler de um futuro que nunca poderá ser alterado?!
  
 #v1566Realize that the very act of inviting you here was merely a prank of those thousand-year-old witches, and despair!!   
@@ -77,88 +66,63 @@ Perceba que o simples ato de convidá-la para cá foi uma mera brincadeira de um
 Afinal, eu sou a BEATRICE de 19989!!
  
 #v1567Oh, so you are to inherit my title 12 years in the future? 2A 8O  8
-
-
 Oh, então você herdará meu título doze anos no futuro?
  
 #v1568Interesting. How truly amusing, ANGE Beatrice!! If you think you can steal away both Battler and my name, just give it a try! 
- 
-    
 Interessante, verdadeiramente interessante, ANGE BEATRICE!! Se acha que pode tomar tanto o Battler quanto meu nome, experimente!
  
 #v1569<Congratulations>, Angeee! You truly are the new Golden Witch! 2A 8O  8
-
-
 Congratulations, Angeee! Você é realmente a nova Bruxa Dourada!
  
- #v1570So, go ahead and despair at the sight of a future where you cannot change a single thing! *cackle*cackle* Wahahahahaaah!!   
+#v1570So, go ahead and despair at the sight of a future where you cannot change a single thing! *cackle*cackle* Wahahahahaaah!!   
 Agora, vá em frente de desespere-se diante de um futuro em que você não pode mudar absolutamente nada! *gargalhada*gargalhada* Wahahahahaaah!!
  
 #v1779...I already knew that. This whole fight is a daydream of mine, my search for self-satisfaction... 2	 8M  8
-
-
 ...Eu já sabia disso. Toda essa luta é um devaneio meu; minha busca pela auto-satisfação...
  
 #v1780No matter how much I struggle, ...I can't change anything about the past or the future or Onii-chan...  
 Não importa o quanto eu lute, ...não posso mudar nada sobre o passado, futuro ou o onii-chan...
  
-##v1571Battler probably will return home, though only in the year 1986. There's no one coming home to you in the 1998 where your brother never returned! 2A 8O  8
-
-
+#v1571Battler probably will return home, though only in the year 1986. There's no one coming home to you in the 1998 where your brother never returned! 2A 8O  8
 O Battler provavelmente voltará para casa, embora no ano de 1986. Ninguém voltará para você em 19998, quando seu irmão nunca retornou!
  
 #v1572How truly foolish and amusing you are, struggling on despite knowing this! Wahahahahahahahahahah!! ,
- 
-    
 Você é verdadeiramente total e divertida, lutando mesmo sabendo disso! Wahahahahahahahahahah!!
  
 #v1781...Thanks, Onii-chan. It didn't last long, but it was fun. 
+ ...Obrigada, onii-chan. Foi por pouco tempo, mas foi divertido.
  
-...Obrigada, onii-chan. Foi por pouco tempo, mas foi divertido.
- 
-&#v1686No. I'm coming home.  
+#v1686No. I'm coming home.  
 Não, eu estou voltando para casa.
  
 #v1782...Onii-chan... 
- 
 ...Onii-chan...
  
-(#v1687I will come home, no matter how many years it takes. So wait for me. No matter what.  
+#v1687I will come home, no matter how many years it takes. So wait for me. No matter what.  
 Eu voltarei para casa, não importa quantos anos leve. Então espere por mim. Não importa o que aconteça.
  
-#v1783Yeah... I'll be waiting... So, make certain you do, ...Onii-chan... 
- 
-    
+#v1783Yeah... I'll be waiting... So, make certain you do, ...Onii-chan...    
 Sim... Eu estarei esperando... Então garanta que voltará, ...onii-chan...
  
-#v1784...I've waited 12 years. It's time...for me to go to where Onii-chan is. 
- 
-    
+#v1784...I've waited 12 years. It's time...for me to go to where Onii-chan is.    
 ...Eu já esperei por doze anos. Está na hora...de eu ir para onde ele está.
 
-#v1785Father, Mother, Onii-chan... I'm coming to you now, so catch me... 
- 
-    
+#v1785Father, Mother, Onii-chan... I'm coming to you now, so catch me...   
 Pai, mãe, onii-chan... Eu estou indo, então me peguem...
  
 #v1977Good morning, Battler-sama. So, have you decided on a plan for today's game?  
 Bom dia, Battler-sama. Então, decidiu qual seu plano para o jogo de hoje?
  
--#v1688When you've got this many characters, it's a real headache just thinking up who's gonna be in a scene with whom, and who's gonna take center stage... 
- 
+#v1688When you've got this many characters, it's a real headache just thinking up who's gonna be in a scene with whom, and who's gonna take center stage... 
 Quando se tem tantos personagens, é uma dor de cabeça pensar em que vai contracenar com quem, e quem vai assumir o papel principal...
  
 #v1978Pu ku ku! I'm afraid a great many petitioners have come to meet with you today. 2* 8N  8
-
-
 Pu ku ku! Temo que um grande numero de pedintes tenha vindo encontrá-lo hoje.
  
 #v1979They all seem quite eager to earn themselves a bigger role in the next game, even if they must resort to force.  
 Todos eles estão ávidos por um grande papel no próximo jogo, mesmo que para isso tenham que recorrer à força.
  
 #v1689Dammit! I'm the Game Master, people! I decide who goes on stage! And anyway, can't I get a little respect here?! 
- 
-    
 Merda! Eu sou o Game Master, pessoal! Eu decido quem vai atuar! E seja como for, poderiam me respeitar um pouco?!
  
 #v1980Oh my, even Shannon-san and Kanon-kun are here. Are you here to petition for a role in the story?  
@@ -177,16 +141,12 @@ M-Mas...! C-Como eu poderia...usar algo tão embaraçoso......?
 Parece que só pedir não será o bastante. Teremos que peticionar à força...!
  
 #v1691If you'd like a role as my opponent, feel free to go ahead, right now. Let's see what you've got! 
- 
-    
 Se quiser um papel como meu oponente, vá em frente e tente, agora mesmo. Vamos ver do que é capaz!
  
 #1981Game and set. I believe that marks the end of your role.   
 Gama and set. Acredito que isto marque o fim do seu papel.
  
 #v1692If you want another one, grab a swimsuit and come back here. Ihihi! 2 8M  8
-
-
 Se quiser outro, consiga um traje de banho e traga-o aqui. Ihihi!
  
 #v1693Also, I wouldn't say no to a bunny suit, gym clothes, or a school swimsuit either, okay? Oh, and you can come too, Kanon-kun. I'm sure you'll have plenty of fans.   
@@ -202,13 +162,9 @@ Afinal, a era das garotas moe é sucedida pela era dos otoko no ko. Coloque um p
 Nnnggg... Kanon, ...vamos desistir do papel. Isso é demais para nós suportarmos...
  
 #v1695Ah, yes, I've thought up a plot! How does an all-girls school swimsuit harem sound?! 2 8M  8
-
-
 Ah, sim, eu pensei num enredo. O que acha de um harém com todas as garotas usando maiô escolar?!
  
 #v1696A boob harem?! Complete with swimsuits and rubbing on suntan lotion? Ihihihihihihihihihihi!! 
- 
-    
 Um harém de peitos? Completo com maiôs e esfregando óleo de bronzear? Ihihihihihihihihihihi!!
  
 #v1573Battler! You have set up a solid role for me, your rival, haven't you?!   
@@ -227,24 +183,18 @@ Se alguém não o parar, vamos ter que começar a evitar os menores de idade. Pu
 Gah, você não pode simplesmente escolher entre mistério ou fantasia, seu idiota?! É melhor eu te dar uma boa surra e alterar o enredo em algo mais decente!
  
 #v1698Gah, pipe down, will you?! Will it be a leopard-print string bikini, or a school swimsuit?! I'll let you pick!! 
- 
-    
 Gah, que tal se acalmar? Vai ser o fio dental de leopardo ou um maiô escolar?! Eu te deixo escolher!!
  
 #v1984And so, the reckless petitions made to Game Master Battler-sama were rejected one after another. 
- 
-    
 E assim, as imprudentes petições feitas ao Game Master Battler-sama foram sendo rejeitadas uma após a outra.
  
 #v1699I beat them all up! Crap, I've run out of characters to use in the story! 
- 
 Eu acabei com todos eles! Droga, agora estou sem personagens para usar na história!
  
 #v1985Pu ku ku! That's quite a predicament. It seems we must seek out a plot involving only you and myself, Battler-sama.  
 Pu ku ku! É uma situação bem complicada. Parece que teremos que encontrar um enredo que envolva apenas nós dois, Battler-sama.
  
 #v1700What, just you and me? And what are we supposed to do? I can't think of anything. 
- 
 O quê? Só você e eu? E o que vamos fazer? Não consigo pensar em nada.
  
 #v1986Surely you jest. You've already thought of a plot. We need only act it out ourselves.  
@@ -731,9 +681,7 @@ V-Virou uma briga entre irmãos...
  
 #v1997Pu ku ku! This is developing into quite an amusing scenario. In that case, let us play our parts as furniture and liven up their family quarrel...! 
 Pu ku ku! Este desenvolvimento é um cenário realmente divertido. Neste caso, vamos fazer nosso papel como mobílias e animar a bringa de família...!
- 
-    
- 
+
 #v1745Aaaaaah! How could I lose our first sibling fiiiiiiiiiiiight?!   
 Aaaaaah! Como eu pude perder nossa primeira briga de irmãoooooooos?!
  
@@ -764,22 +712,15 @@ Irei fazê-lo pedir desculpas por ficar tão obcecado com essa história de duel
  
 #v1944As you wish! 
 Como desejar!
- 
-    
 
 #v1945Let's go, Battler. It's time to prostrate yourself pathetically on the floor while I spank you and you say 'eeeep, I'm so sorry Ange-samaaaaa.' 
 Vamos, Battler. É hora de se prostar pateticamente no chão enquanto eu o espanco e você grita, pedindo perdão a Ange-samaaaa.
- 
-    
 
 #v1748I-I'm so sorry, Ange-samaaaaaa! Eeeep! Eeeeep!! 
 M-Me desculpe, Ange-samaaaaa! Eeeep!Eeeeep!!
- 
-    
- 
+
 #v1800Tell me, Aunt Eva. Just what happened on Rokkenjima that day? 
 Diga-me, tia Eva. O que aconteceu em Rokkenjima naquele dia?
- 
  
 #v1835Well now. I could tell you, but you wouldn't believe it anyway.  
 Então, eu poderia contar, mas você não acreditaria mesmo.
@@ -787,12 +728,9 @@ Então, eu poderia contar, mas você não acreditaria mesmo.
 #v1801Tell me. I'll decide whether I believe it or not. 
 Diga. Eu mesma decidirei se acredito ou não.
  
- 
 #v1836I see. Then come with me if you must, to the Rokkenjima of 1986! There exists no truth there that you can accept! 
 Entendi. Então venha comigo se quiser, para a Rokkenjima de 1986! Lá não existe verdade que você possa aceitar!
- 
-    
- 
+
 #v1999My, my, EVA-sama. What a rare guest you've brought us today.   
 Ora, ora, EVA-sama. Que convidada mais incomum você nos trouxe hoje,
  
@@ -804,13 +742,10 @@ Retorne para o seu velho mundo, Bruxa do Futuro. Este não é um mundo perdoáve
  
 #v1802Don't patronize me! I'm not giving up until I reach the truth!  
 Não tente me amparar! Eu não vou desistir até alcançar a verdade!
-
  
 #v2123No truth will be given to one who lacks the power to endure it. But if you're looking for someone to drink tea with, I will do so. 
 Verdade alguma será concedida aqueles que não possuem o poder para suportá-la. Mas se busca alguém para beber chá, eu posso fazer isso.
- 
-    
- 
+
 #v2000What do you intend to do once you've learned the truth of 12 years ago?   
 O que pretende fazer uma vez que aprenda a verdade sobre doze anos atrás?
  
@@ -825,9 +760,7 @@ Então prossiga, Ange. Eu oro para que você encontra a verdade que tanto deseja
  
 #v1804...Everyone's taking me for a fool. How can this tale filled with witches and magic be the truth of 12 years ago?! 
 ...Todos estão me fazendo de idiota. Como este conto repleto de bruxas e magia pode ser a verdade de doze anos atrás?!
- 
-    
- 
+
 #v1805Onii-chan! I finally found you! Let's go home together!!  
 Onii-chan! Eu finalmente te encontrei! Vamos voltar para casa, juntos!
  
@@ -845,12 +778,9 @@ Não! Eu já esperei por doze anos! Já cansei de ficar sozinha!!
  
 #v1598You mean to stand in the way of our fight? *cackle*cackle* Then I shall show no mercy, little sister of Battler...!  
 Você pretende ficar no meio da nossa luta? *gargalhada*gargalhada* Então eu não mostrarei misericórdia, irmãzinha do Battler...!
- 
 
 #v1599Wait forever in your world 12 years in the future...for a brother who will never come home!! 
 Espere pra sempre em seu mundo, doze anos no futuro...por um irmão que jamais voltará para casa!
- 
-    
  
 #v1807Come back, Onii-chan!! I've already waited 12 years! I don't want to wait any moooooooore!!  
 Volte, onii-chan!! Eu já esperei por 12 anos! Não quero esperar maaaaaaiiiis!!
@@ -860,20 +790,15 @@ Eu irei...definitivamente voltarei para casa... Espere só mais um pouco, Ange..
  
 #v1808No, noooooooo!! Onii-chan!!! 
 Não, Nãoooooooo!! Onii-chan!!
- 
-    
- 
+
 #v1840...And then, for 12 years, none of your family came home. They remained trapped by the Golden and Endless Witch.  
 ...E então, por doze anos, ninguém da sua família retornou para casa. Eles permaneceram aprisionados pela Bruxa Dourada do Infinito.
  
 #v1809............ 
 ............
  
- 
 #v1841Quite a fairy tale, isn't it? *giggle* If only you'd just scream 'don't patronize me' and die. 
 É um conto de fadas e tnanto, não? *risos* Se ao menos tivesse gritado 'não me ampare' e morrido.
- 
-    
 
 #v1810No. There's one thing I can believe. 
 Não. Tem uma coisa que eu posso acreditar.
@@ -886,22 +811,17 @@ Ele jurou que voltaria para casa, custe o que custar.
 #v1812True. I'll always be 6 years old. ...Endlessly. 
 Verdade. Eu sempre terei seis anos. ...Eternamente.
  
-    
- 
 #v2001Indeed. They have been at it for quite some time now, and the battle has been quite fierce.  
 De fato. Eles estão nisso já faz um bom tempo, e a batalha segue bem fervorosa.
  
 #v2125What?! You mean...those two have been continuing their fight ever since then? 
 O quê?! Está dizendo...que aqueles dois seguem lutando desde então?
  
- 
 #v2002Yes. If we do not step in, it truly will last for all eternity.  
 Sim. Se não nos intrometermos, realmente vai durar por toda a eternidade.
  
 #v2126Really, those two... Let us go. We must put a stop to that unproductive battle as soon as possible. 
 Francamente, aqueles dois. Vamos. Precisamos parar aquela batalha improdutiva o quanto antes.
- 
-    
  
 #v2003Oh, perfect timing. Do you know where Milady is?   
 Oh, bem na hora. Sabe onde está a ojou-sama?
@@ -933,9 +853,6 @@ Aqueles dois estão no jardim de rosas, ainda se confrontando sem nunca ficarem 
 
 #v2005My, my. Boredom certainly isn't a problem with those two around. However, it is about time for some tea. 
 Ora, ora. O tédio certamente não é um problema com aqueles dois por perto. Contudo, está na hora de um pouco de chá.
- 
-    
- 
 
 #v1600Because yo mama's so fat, you pea-brained dingbat!   
 Porque sua mãe é tão gorda, seu boboca cérebro de amendoim.
@@ -2174,7 +2091,7 @@ O que disse?! Mas este é o seu precioso tabuleiro...! Vou ajudá-la e vamos rec
  
 %#v2381...So this is where you were, Battler-sama.  
  
-&#v2255How is it going? 
+#v2255How is it going? 
  
  
 #v2382...It's proceeding just as the advance notice said. No problems have occurred.  
@@ -2192,7 +2109,7 @@ O que disse?! Mas este é o seu precioso tabuleiro...! Vou ajudá-la e vamos rec
  
 ,#v2258You still think this is a joke? ...Or do you want to hear how Aunt Natsuhi begged in her very last moments...?  
  
--#v2354...Y-You bastard...!! You really did that...to everyone...?!!   
+#v2354...Y-You bastard...!! You really did that...to everyone...?!!   
  
 #v2384Milady, prepare yourself. ...After all, that is the theme of this game.   
  
@@ -2796,7 +2713,7 @@ _#v2458George-san, please accept this flower.
  
 %#v6472Since we've finally met again, would you care to join me on an intellectual journey?  
  
-&#v6108We have not played together for quite some TIME. I would be happy TO. 
+#v6108We have not played together for quite some TIME. I would be happy TO. 
  
  
 #v6473Then I'll have to find us a special book. I believe I had an interesting one written by that child somewhere around here... 
@@ -2815,7 +2732,7 @@ _#v2458George-san, please accept this flower.
  
     
  
--#v6083Hahah, you totally got me! I never thought you'd see through my alibi trick!  
+#v6083Hahah, you totally got me! I never thought you'd see through my alibi trick!  
  
 #v6226Come on! You give out too many hints! What a waste of a perfectly good trick!   
  
@@ -3427,7 +3344,7 @@ _#v6064No way. In the first place, ...you're the one who wants to yell at me, ar
 %#v6303Aw, too bad! Better luck next time, you two!! 
  
  
-&#v6429Nihihihi! Now to suck up the romantic energy from the two losers nyeh!  
+#v6429Nihihihi! Now to suck up the romantic energy from the two losers nyeh!  
  
 #v6304Just as you'd expect from a pair of maidens starving for love. The pink energy just keeps charging up higher and higher. 
  
@@ -3444,7 +3361,7 @@ _#v6064No way. In the first place, ...you're the one who wants to yell at me, ar
  
 ,#v6431Nihihihi, makes sense nyeh. Love's more interesting when it's incomplete nyeh!  
  
--#v6209I'm confiscating that dangerous arrow! And then, my master will be...*pant*pant*!!  
+#v6209I'm confiscating that dangerous arrow! And then, my master will be...*pant*pant*!!  
  
 #v6509I'll snatch it and pierce you instead, Lambda. Then, I'll make you whisper of your love...while I have fun ignoring it.   
  
@@ -3766,14 +3683,14 @@ _#v0216...You say that, but even you aren't that confident in your theories...
 ##v4102What a letdown. I was an idiot for thinking you might be like Onii-chan. 
 #v5430No kidding. No one could replace your brother. Isn't that right? 
 %#v4103Who are you? If you know something about this island, tell me. 
-&#v5431That's still under investigation. ...I'm the one who wants someone to tell me. 
+#v5431That's still under investigation. ...I'm the one who wants someone to tell me. 
 #v5432What's spurring you on? Is there something you have to gain at the end of this battle? 
 #v4104I know there's nothing. That's right, I have nothing, nothing at all! 
 #v4105I won... Bernkastel! Keep your promise!! 
 #v5781...*giggle*giggle* ...Sure, I'll give you a miracle. 
 +#v4106Is that enough? Have I passed this trial of yours and proved that I have the necessary resolve? 
 ,#v5782...You certainly have. ...*giggle* Yes, this is why you're worthy of receiving my power. 
--#v5783Not bad. You have my praise. ...As a reward, I guess I'll give you any miracle you want. 
+#v5783Not bad. You have my praise. ...As a reward, I guess I'll give you any miracle you want. 
 #v4107Bring back Onii-chan, bring back my family! Give me a miracle...!! 
 /#v4108I'll take back my family no matter what. That's my certain willpower. 
 0#v4764...As long as you don't forget that, it'll definitely come true someday. I promise you that. 
