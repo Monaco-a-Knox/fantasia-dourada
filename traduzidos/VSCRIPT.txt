@@ -1,12 +1,11 @@
-
 #v1681I won't get lost again. It's clear where we need to return to. 
- Não vou mais me perder. Está claro para onde devo retornar.
+Não vou mais me perder. Está claro para onde devo retornar.
  
 #v1772Yeah. Let's go home for real this time. Back to our world.  
 Sim. Desta vez, vamos mesmo voltar para casa. Para o nosso mundo.
  
 #v1682I've kept my adorable little sister waiting for twelve full years, but no more. Aah, it's useless, it's all useless! 
- Deixei minha querida irmãzinha esperando por doze anos, mas agora chega. Aah, isso não está certo, não está nada certo!
+Deixei minha querida irmãzinha esperando por doze anos, mas agora chega. Aah, isso não está certo, não está nada certo!
 
 #v1773I've had more than enough of this witches' farce. I'll take Onii-chan back with me to 1998!    
 Já tive o suficiente dessa farsa da bruxa. Levarei o onii-chan comigo para 1998!
@@ -317,8 +316,6 @@ Entendido. ...Eu devo preparar um novo duelo entre você e o Battler-sama.
 Creio que isso coloque um fim na nossa luta.
  
 #v1581Indeed. For a mere side trip, it wasn't a bad experience at all. 
- 
-    
 Sim. Para uma mera viagem fora da curva, não chegou a ser uma experiência ruim.
  
 #v1712...So, we've finally come back here. 
@@ -329,27 +326,20 @@ Sim. Para uma mera viagem fora da curva, não chegou a ser uma experiência ruim
 Devo dizer que enfrentar você assim é uma experiência comovente, mas também me parece de alguma forma...lamentável. Por que devemos lutar?
  
 #v1713Don't ask stupid questions. I'm here for my family and my sister. You're here to make me acknowledge witches, with both sides trying to refute the other. 2 8M  8
-
-
 Não faça perguntas idiotas. Eu estou aqui pela minha família e minha irmã. Você está aqui para fazer eu reconhecer as bruxas, com ambos os lados refutando um ao outro.
  
 #v1714Stop saying weird things to try and confuse me. 
- 
 Pare de dizer coisas estranhas e tentar me confundir.
  
 #v1583Yes, you're right. It was a pointless question. Please forgive a witch's whims. 
- 
-    
 Sim, tem razão. Foi uma questão sem sentido. Perdoe esse meu capricho de bruxa.
 
 #v1715Let's do this. I'll explain all of your magic with human tricks. 
 Vamos fazer assim. Eu irei explicar sua mágica com truques humanos.
+
 #v1584*cackle* Very well! If you think you can explain my magical closed room murders, then explain away! Come, Ushiromiya Battleeeeeeeeeeeeer!! 
 *gargalhada* Muito bem! Se acha que consegue explicar meus quartos fechados por magia, então explique! Venha, Ushiromiya Battleeeeeeeeeeeeer!!
- 
-    
 
- 
 #v1716'Come, arise. The eldest of the Seven Sisters of Purgatory, Lucifer.' 
 Venha e apareça! A mais velha das Sete Irmãs do Purgatório, Lucifer.
 
@@ -2105,7 +2095,7 @@ O que disse?! Mas este é o seu precioso tabuleiro...! Vou ajudá-la e vamos rec
  
     
  
-+#v2353Battler?! Wh-What kind of joke is this?!   
+#v2353Battler?! Wh-What kind of joke is this?!   
  
 ,#v2258You still think this is a joke? ...Or do you want to hear how Aunt Natsuhi begged in her very last moments...?  
  
@@ -2726,7 +2716,7 @@ _#v2458George-san, please accept this flower.
  
 #v6109That is quite an amusing closed room MURDER. It feels like it should be worth SOLVING.   
  
-+#v6474Let us begin by confirming the closed room definition. Shall we start with the doors and keys?   
+#v6474Let us begin by confirming the closed room definition. Shall we start with the doors and keys?   
  
 ,#v6110Lady Beato, Lady EVA, allow us to sample your closed ROOM! 
  
@@ -3357,7 +3347,7 @@ _#v6064No way. In the first place, ...you're the one who wants to yell at me, ar
  
 #v6306I love you, Bern!! Come on, just get pierced by this Love Maker Guided Arrow, and we'll love each other forever!!  
  
-+#v6508...No way. If I loved you, you wouldn't whisper your love into my ear anymore.   
+#v6508...No way. If I loved you, you wouldn't whisper your love into my ear anymore.   
  
 ,#v6431Nihihihi, makes sense nyeh. Love's more interesting when it's incomplete nyeh!  
  
@@ -3688,7 +3678,7 @@ _#v0216...You say that, but even you aren't that confident in your theories...
 #v4104I know there's nothing. That's right, I have nothing, nothing at all! 
 #v4105I won... Bernkastel! Keep your promise!! 
 #v5781...*giggle*giggle* ...Sure, I'll give you a miracle. 
-+#v4106Is that enough? Have I passed this trial of yours and proved that I have the necessary resolve? 
+#v4106Is that enough? Have I passed this trial of yours and proved that I have the necessary resolve? 
 ,#v5782...You certainly have. ...*giggle* Yes, this is why you're worthy of receiving my power. 
 #v5783Not bad. You have my praise. ...As a reward, I guess I'll give you any miracle you want. 
 #v4107Bring back Onii-chan, bring back my family! Give me a miracle...!! 
