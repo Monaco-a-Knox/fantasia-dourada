@@ -1,18 +1,18 @@
 #v1681I won't get lost again. It's clear where we need to return to. 
 Não vou mais me perder. Está claro para onde devo retornar.
- 
+
 #v1772Yeah. Let's go home for real this time. Back to our world.
 Sim. Desta vez, vamos mesmo voltar para casa. Para o nosso mundo.
- 
+
 #v1682I've kept my adorable little sister waiting for twelve full years, but no more. Aah, it's useless, it's all useless! 
 Deixei minha querida irmãzinha esperando por doze anos, mas agora chega. Aah, isso não está certo, não está nada certo!
 
 #v1773I've had more than enough of this witches' farce. I'll take Onii-chan back with me to 1998!
 Já tive o suficiente dessa farsa da bruxa. Levarei o onii-chan comigo para 1998!
- 
+
 #v1823Oh, if it isn't Ange. So, you went back a full 12 years, searching for the brother who never came home? 
 Oh, se não é a Ange. Então, você retornou doze anos, em busca do seu irmão que nunca retornou?
- 
+
 #v1774Yeah, that's right. And you're looking way too young for just 12 years ago, Aunt Eva.
 Sim, isso mesmo. E você parece jovem demais para apenas doze anos atrás, tia Eva.
 
@@ -24,34 +24,34 @@ Já está na hora de parar de brincar de bruxas, tia Eva.
 
 #v1824Who are you calling 'aunt'?! I am EVA Beatrice, Head of the Ushiromiya Family! 22 8O8
 Quem você está chamando de 'tia'?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
- 
+
 #v1825If only you'd learn to respect the new Golden Witch...while you get your guts ripped out and die! 
 Se você ao menos aprendesse a respeitar a nova Bruxa Dourada...enquanto tem suas entranhas arrancadas e morrer bem devagar!
- 
+
 #v1775That settles it. I'll let you keep the past, but we'll be the ones weaving the future.
 Isso define tudo. Deixarei que mantenha o passado, mas seremos nós que teceremos o futuro.
- 
+
 #v1826Neither the future nor the past will change. No matter how much you struggle, you can't take anyone back with you. Just like how I couldn't take George back with me...! 
 Nem o futuro ou o passado mudarão. Não importa o quanto você lute, não poderá trazer ninguém de volta consigo. Assim como eu não consegui trazer o Geroger comigo...!
- 
+
 #v1776Struggling despite that is a hobby of mine. <See you again, have a nice day.>
 Lutar apesar de tudo é um hobby meu. See you again, have a nice day.
- 
+
 #v2071It's the process that matters, not the result nyeh. Even when it comes to letting go of your regrets. 
 O que importa é o processo, não o resultado, nyeh. Até mesmo quando se trata de deixar seus arrependimentos para trás.
- 
+
 #v1684...I'll definitely return with you. I can't keep my little sister, ...Ange, waiting any longer. 
 ...Eu definitivamente retornarei com você. Não posso deixar minha irmãzinha, ...a Ange, esperando por mais tempo.
- 
+
 #v1685Beato... Looking back, the time we spent together was fun, but this is goodbye.
 Beato... Olhando para trás, o tempo que passamos juntos foi divertido, mas isso é um adeus.
- 
+
 #v1564You expect me to give up my favorite toy? You fool! 
 Você espera que eu abra mão do meu brinquedo favorito? Sua idiota!
- 
+
 #v1777Onii-chan isn't your toy! I'm through playing along with your game!
 Ele não é seu brinquedo. Estou cansada de jogar esse seu joguinho!
- 
+
 #v1565No, he is my toy. And if he leaves the palm of my hand, he'll turn to sand and disappear. Foolish little sister, just who convinced you to try and take Battler back from a past that can never be changed?!
 Não, ele é meu brinquedo. E se ele deixar a palma da minha mão, vai virar areia e desaparecer. Tola irmãzinha, quem foi que a convenceu a tentar buscar o Battler de um futuro que nunca poderá ser alterado?!
 
@@ -81,132 +81,133 @@ Agora, vá em frente de desespere-se diante de um futuro em que você não pode 
 
 #v1780No matter how much I struggle, ...I can't change anything about the past or the future or Onii-chan...
 Não importa o quanto eu lute, ...não posso mudar nada sobre o passado, futuro ou o onii-chan...
- 
+
 #v1571Battler probably will return home, though only in the year 1986. There's no one coming home to you in the 1998 where your brother never returned! 2A 8O8
 O Battler provavelmente voltará para casa, embora no ano de 1986. Ninguém voltará para você em 19998, quando seu irmão nunca retornou!
- 
+
 #v1572How truly foolish and amusing you are, struggling on despite knowing this! Wahahahahahahahahahah!! ,
 Você é verdadeiramente total e divertida, lutando mesmo sabendo disso! Wahahahahahahahahahah!!
- 
+
 #v1781...Thanks, Onii-chan. It didn't last long, but it was fun. 
 ...Obrigada, onii-chan. Foi por pouco tempo, mas foi divertido.
- 
+
 #v1686No. I'm coming home.
 Não, eu estou voltando para casa.
- 
+
 #v1782...Onii-chan... 
 ...Onii-chan...
- 
+
 #v1687I will come home, no matter how many years it takes. So wait for me. No matter what.
 Eu voltarei para casa, não importa quantos anos leve. Então espere por mim. Não importa o que aconteça.
- 
+
 #v1783Yeah... I'll be waiting... So, make certain you do, ...Onii-chan...
 Sim... Eu estarei esperando... Então garanta que voltará, ...onii-chan...
- 
+
 #v1784...I've waited 12 years. It's time...for me to go to where Onii-chan is.
 ...Eu já esperei por doze anos. Está na hora...de eu ir para onde ele está.
 
 #v1785Father, Mother, Onii-chan... I'm coming to you now, so catch me... 
 Pai, mãe, onii-chan... Eu estou indo, então me peguem...
- 
+
 #v1977Good morning, Battler-sama. So, have you decided on a plan for today's game?
 Bom dia, Battler-sama. Então, decidiu qual seu plano para o jogo de hoje?
- 
+
 #v1688When you've got this many characters, it's a real headache just thinking up who's gonna be in a scene with whom, and who's gonna take center stage... 
 Quando se tem tantos personagens, é uma dor de cabeça pensar em que vai contracenar com quem, e quem vai assumir o papel principal...
- 
+
 #v1978Pu ku ku! I'm afraid a great many petitioners have come to meet with you today. 2* 8N8
 Pu ku ku! Temo que um grande numero de pedintes tenha vindo encontrá-lo hoje.
- 
+
 #v1979They all seem quite eager to earn themselves a bigger role in the next game, even if they must resort to force.
 Todos eles estão ávidos por um grande papel no próximo jogo, mesmo que para isso tenham que recorrer à força.
- 
+
 #v1689Dammit! I'm the Game Master, people! I decide who goes on stage! And anyway, can't I get a little respect here?! 
 Merda! Eu sou o Game Master, pessoal! Eu decido quem vai atuar! E seja como for, poderiam me respeitar um pouco?!
- 
+
 #v1980Oh my, even Shannon-san and Kanon-kun are here. Are you here to petition for a role in the story?
 Ora, até a Shannon-san e o Kanon-kun vieram. Estão aqui para peticionar por um papel na história?
- 
+
 #v2037Y-Yes sir! We furniture have come to ask for a front and center role...! 
 S-Sim! Nós, mobílias, viemos pedir por um papel central...!
- 
+
 #v1690Ihihi! Well, if the girls are wearing swimsuits, I might be persuaded.
 Ihihi! Bem, se as garotas usarem roupas de banho, talvez eu seja persuadido.
- 
+
 #v2038B-But...! H-How could I...in such an embarrassing outfit......
 M-Mas...! C-Como eu poderia...usar algo tão embaraçoso......?
- 
+
 #v1895It seems just asking won't be enough after all. We'll be better off petitioning by force...! 
 Parece que só pedir não será o bastante. Teremos que peticionar à força...!
- 
+
 #v1691If you'd like a role as my opponent, feel free to go ahead, right now. Let's see what you've got! 
 Se quiser um papel como meu oponente, vá em frente e tente, agora mesmo. Vamos ver do que é capaz!
- 
+
 #v1981Game and set. I believe that marks the end of your role. 
 Gama and set. Acredito que isto marque o fim do seu papel.
- 
+
 #v1692If you want another one, grab a swimsuit and come back here. Ihihi! 2 8M8
 Se quiser outro, consiga um traje de banho e traga-o aqui. Ihihi!
- 
+
 #v1693Also, I wouldn't say no to a bunny suit, gym clothes, or a school swimsuit either, okay? Oh, and you can come too, Kanon-kun. I'm sure you'll have plenty of fans. 
 E mais, eu não rejeitaria uma roupa de coelinha, uniforme de ginástica ou um maiô escolar, certo? Ah, e você também pode vir, Kanon-kun. Tenho certeza que você tem muitos fãs.
- 
+
 #v1982Oh, yes indeed. You have quite a keen eye, Battler-sama! 
 Ah, de fato. Você tem bons olhos, Battler-sama!
- 
+
 #v1694After all, the era of hot moe girls is followed by the era of crossdressing boys. Put a little makeup on Kanon-kun, and I'll bet you'd hardly recognize him. Ihihihihi!
 Afinal, a era das garotas moe é sucedida pela era dos otoko no ko. Coloque um pouco de maquiagem no Kanon-kun e duvido que será capaz de reconhecê-lo. Ihihihihi!
- 
+
 #v2039Nnnggg... Kanon, ...let's give up on getting a role. This is too much for us... 
 Nnnggg... Kanon, ...vamos desistir do papel. Isso é demais para nós suportarmos...
- 
+
 #v1695Ah, yes, I've thought up a plot! How does an all-girls school swimsuit harem sound?! 2 8M8
 Ah, sim, eu pensei num enredo. O que acha de um harém com todas as garotas usando maiô escolar?!
- 
+
 #v1696A boob harem?! Complete with swimsuits and rubbing on suntan lotion? Ihihihihihihihihihihi!! 
 Um harém de peitos? Completo com maiôs e esfregando óleo de bronzear? Ihihihihihihihihihihi!!
- 
+
 #v1573Battler! You have set up a solid role for me, your rival, haven't you?! 
 Battler! Você preparou um bom papel para mim, sua rival, não é?!
- 
+
 #v1697Don't worry. You'll be serving at my side in a tiny bikini. Ihihi!
 Não se preocupe. Você servirá ao meu lado, usando um microbiquíni. Ihihi!
- 
+
 #v2117My, my. It seems that being the Game Master really has brought out your dark side. 
 Ora, ora. Parece que ser o Game Master realmente despertou o lado negro dele.
- 
+
 #v1983If someone doesn't put a stop to Battler-sama, we might have to start turning away children under 18. Pu ku ku!
 Se alguém não o parar, vamos ter que começar a evitar os menores de idade. Pu ku ku!
- 
+
 #v1574Gah, can't you just pick mystery or fantasy, you fool?! I'd better give you a good thrashing and alter the plot into something decent! 
 Gah, você não pode simplesmente escolher entre mistério ou fantasia, seu idiota?! É melhor eu te dar uma boa surra e alterar o enredo em algo mais decente!
- 
+
 #v1698Gah, pipe down, will you?! Will it be a leopard-print string bikini, or a school swimsuit?! I'll let you pick!! 
 Gah, que tal se acalmar? Vai ser o fio dental de leopardo ou um maiô escolar?! Eu te deixo escolher!!
- 
+
 #v1984And so, the reckless petitions made to Game Master Battler-sama were rejected one after another. 
 E assim, as imprudentes petições feitas ao Game Master Battler-sama foram sendo rejeitadas uma após a outra.
- 
+
 #v1699I beat them all up! Crap, I've run out of characters to use in the story! 
 Eu acabei com todos eles! Droga, agora estou sem personagens para usar na história!
- 
+
 #v1985Pu ku ku! That's quite a predicament. It seems we must seek out a plot involving only you and myself, Battler-sama.
 Pu ku ku! É uma situação bem complicada. Parece que teremos que encontrar um enredo que envolva apenas nós dois, Battler-sama.
- 
+
 #v1700What, just you and me? And what are we supposed to do? I can't think of anything. 
 O quê? Só você e eu? E o que vamos fazer? Não consigo pensar em nada.
- 
+
 #v1986Surely you jest. You've already thought of a plot. We need only act it out ourselves.
 É claro que está brincando. Você já pensou no enrendo. Só precisamos atuar nós mesmos agora.
- 
+
 #v1701You mean...the Great Boob Harem, Swimsuits, and Suntan Lotion Maneuver...? 
 Está falando...do Grande Harém de Peitos, Trajes de Banho e Bronzeador...?
- 
+
 #v1987Perhaps I should get out my special silver bikini briefs! 2, 8N8
 Talvez eu deve preparar minhas sínteses 
+
 #v1988Then I could rub rose-tinted suntan lotion all over your back and rear. How does that sound?
 E então esfregar uma loção de bronzear cor-de-rosa por toda sua costas. Que tal?
- 
+
 #v1702No!! Hell no!! You're joking, right...? 
 Não!! Sem chance!! Tá de brincadeira, né...?
 
@@ -221,97 +222,97 @@ P-Para com isso, Ronovo... Tá brincando, né? Né...? G-G-Gyaaaaaaaaaaaaaaaaaah
 
 #v1704What's going on? Aren't you the Golden Witch? How the heck did your game board get taken over? 
 O que está acontecendo. Você não é a Bruxa Dourada? Como deixou que seu tabuleiro fosse tomado?
- 
+
 #v1575I certainly wasn't counting on that person solving the epitaph. The new witch, who solved the riddle of the gold, is now the new ruler of this game.
 Eu não estava contando que alguém fosse resolver o epitáfio. A nova bruxa, que resolveu o epitáfio, é a nova governante deste jogo.
- 
+
 #v1705We'll take it back. This is our game. We don't need any outsiders here! 
 Vamos recuperá-lo. Este é o nosso jogo. Não precisamos de intrusos aqui!
- 
+
 #v1576But of course. This is our bloodstained tale. Between the two of us, we have no shortage of fresh, bloody ink! 
 Mas é claro! Este é o nosso conta banhado à sangue. Já há entre nós tinta fresca e sangrenta o suficiente!
- 
+
 #v2072Nihihihi! That Predecessor-sama sure is dumb nyeh. And we even let her get away once too nyeh.
 Nihihihi! A antecessora é tão idiota, nyeh. E nós ainda deixamos ela se safar uma vez também, nyeh.
- 
+
 #v1924Beatrice-sama, please forgive me! And please, prepare yourself...! 
 BEATRICE-sama, por favor me perdoe! E por favor, prepare-se...!
- 
+
 #v1577Excellent, that's my furniture! Fear not, I will allow you to call me master again very soon now.
 Excelente, o esperado da minha mobília! Não tema, pois logo deixarei que me chame de mestra novamente.
- 
+
 #v2073Looks like the Predecessor-sama's tough talk is dialed up to max nyeh. And this is coming from someone who just had to run for her life
 Parece que as falas da antecessora estão ligadas no máximo, nyeh. E quem diz isso é alguém que precisa correr por sua vida.
- 
+
 #v1706And now it's your turn to see what that's like. Let's go, Beato! Let's take back what's ours! 
 Agora é sua vez de ver como se parece. Vamos, Beato! Vamos recuperar o que é nosso!
- 
+
 #v1578How's that? Now can you feel who the ruler of this game board is?!
 Que tal? Agora consegue ver quem governa este tabuleiro?!
- 
+
 #v2074Ukyuu. I give up nyeh. Please, go and settle this with a general vs general match nyeh. 
 Ukyuu. Eu desisto, nyeh. Por favor, vá e decida isso em uma disputa entre generais, nyeh.
- 
+
 #v1707Who on earth stole the game board from Beato? Who is this new witch?
 Quem diabos roubou o tabuleiro da Beato? Quem é essa nova bruxa?
- 
+
 #v1925...It's someone you know well. She solved the riddle of the epitaph and took the name of the Golden Witch as her own. 
 ...É alguém que você conhece bem. Ela resolveu o enigma do epitáfio e assumiu o nome de Bruxa Dourada.
- 
+
 #v1708Someone I know well...? You mean...someone in my family...?! 
 Alguém que eu conheço muito bem...? Quer dizer...alguém da minha família...?!
- 
+
 #v1709No way... So the new Golden Witch is...Aunt Eva?!
 Sem chance... Então a nova Bruxa Dourada é...a tia Eva?!
- 
+
 #v1991Indeed. The one who solves the epitaph shall inherit all. Those were the rules...
 Exatamente. Aquele a resolver o epitáfio deve herdar tudo. Essas são as regras...
- 
+
 #v1827I surpassed the trial of the epitaph, and now everything belongs to me! Got a problem with that?! 
 Eu superei o desafio do epitáfio, e agora tudo pertence a mim. Algum problema?!
- 
+
 #v1710...You can take the gold. If those are the rules, I've got no complaints. 
 ...Você pode ficar com o ouro. Se são essas as regras, não tenho do que reclamar.
- 
+
 #v1579But not our game board! The two of us won't let anything disturb our fight! You've gone too far. It's time for you to give us our battle back!!
 Mas não o nosso tabuleiro. Nós não deixaremos que perturbe nosso embate. Você já foi longe demais. Está na hora de devolver nossa batalha!!
- 
+
 #v1828You're talking about something that happened when you were the witch, right? 22 8O8
 Está falando sobre algo que aconteceu quando você era uma bruxa, né?
 
 #v1829I control this world! It's mine! Your time has long since ended! If only you'd just give up and die! 
 Eu contro este mundo! É meu! Seu tempo já passou! Basta desistir e morrer bem devagar!
- 
+
 #v1830Impossible... H-How can a witch deny a witch?! No, I don't want this! N-Noooooooooooooooo!! 
 Impossível... C-Como uma bruxa pode negar uma bruxa?! Não, eu não quero isso! N-Nãoooooooooooooooo!!
- 
+
 #v1992Splendidly done, 'Beatrice-sama'. It is an honor to serve you once more. 
 Esplêndido, 'BEATRICE-sama'. É uma honra servi-la mais uma vez.
- 
+
 #v1580Indeed. I'll return the entirety of the game board to normal. Ready a new game immediately.
 De fato. Eu irei retornar o tabuleiro de volta ao normal em sua integridade. Prepare um novo jogo imediatamente.
- 
+
 #v1993Understood. ...I shall immediately prepare another duel between you and Battler-sama. 
 Entendido. ...Eu devo preparar um novo duelo entre você e o Battler-sama.
- 
+
 #v1711I guess that's the end of our common front. 
 Creio que isso coloque um fim na nossa luta.
- 
+
 #v1581Indeed. For a mere side trip, it wasn't a bad experience at all. 
 Sim. Para uma mera viagem fora da curva, não chegou a ser uma experiência ruim.
- 
+
 #v1712...So, we've finally come back here. 
 ...Então, finalmente estamos voltando.
- 
+
 #v1582I must say, I find facing off against you like this to be a moving experience, but it also seems...regrettable somehow. Why must we fight?
 Devo dizer que enfrentar você assim é uma experiência comovente, mas também me parece de alguma forma...lamentável. Por que devemos lutar?
- 
+
 #v1713Don't ask stupid questions. I'm here for my family and my sister. You're here to make me acknowledge witches, with both sides trying to refute the other. 2 8M8
 Não faça perguntas idiotas. Eu estou aqui pela minha família e minha irmã. Você está aqui para fazer eu reconhecer as bruxas, com ambos os lados refutando um ao outro.
- 
+
 #v1714Stop saying weird things to try and confuse me. 
 Pare de dizer coisas estranhas e tentar me confundir.
- 
+
 #v1583Yes, you're right. It was a pointless question. Please forgive a witch's whims. 
 Sim, tem razão. Foi uma questão sem sentido. Perdoe esse meu capricho de bruxa.
 
@@ -326,105 +327,105 @@ Venha e apareça! A mais velha das Sete Irmãs do Purgatório, Lucifer.
 
 #v1926What the...? I'm that incompetent Battler's furniture?! How humiliating...!
 Mas o quê...? Eu sou a mobília daquele incompetente do Battler? Quanta humilhação...!
- 
+
 #v1717Sorry I'm so incompetent. But right now, I'm your master. I'm gonna have you lend me your power. 
 Desculpe por ser tão incompetente, mas agora eu sou seu mestre. E preciso do seu poder emprestado.
- 
+
 #v1927Nng, damn you, taking advantage of the fact that furniture can't disobey their master... I hate this...! 
 Nng, droga. Tirando vantagem do fato de mobílias não poderem desobedecer seus mestres... Eu odeio isso...!
- 
+
 #v2075Oh, if it isn't Lucifer-chan. So, you're Battler's furniture now nyeh? 
 Oh, se não é a Lucifer-chan. Virou uma mobília do Battler agora, é, nyeh?
- 
+
 #v1928Go ahead, laugh! To think that one as noble as me would end up as furniture serving a mere Human... Nngg...!
 Vá em frente e ria! E pensar que alguém tão nobre como eu acabaria servindo de mobília de um mero humano... Nngg...!
- 
+
 #v1994You seem surprisingly accepting of the arrangement. However, you must pardon me. I'm afraid I must ask the two of you to leave. 
 Você parece estar aceitando bem o acordo. Contudo, precisa me perdoar. Temo que devo pedir para os dois se retirarem.
- 
+
 #v1718Sorry, but we can't do that. Get out of the way. If you don't hurry, we're gonna get this party started! 
 Desculpa, mas não podemos fazer isso. Se não se apressar, vamos começar a festa.
- 
+
 #v1929Party? Hey, Battler, what exactly are we fighting for...?
 Festa? Ei, Battler, pelo que exatamente estamos lutando...?
- 
+
 #v2076Nihihihi! Such pride, ignoring us completely like that! We're gonna make you regret it nyeh!! 
 Nihihihi! Quanto orgulho, nos ignorando completamente. Faremos você se arrepender, nyeh!!
- 
+
 #v1995Splendidly done. I'm quite pleased that it wasn't necessary for me to hold back. Hurry along now. 
 Magnífico. Fico muito contente de não ter sido necessário me conter. Agora se apresse.
- 
+
 #v1719Yeah, I know. The riddle of the epitaph is mine. I've got to solve it!
 Sim, eu sei. o enigma do epitáfio é meu. Tenho que resolvê-lo!
- 
+
 #v2077Nihi! My master already solved it nyeh. The Golden Witch isn't Beato anymore nyeh! 
 Nihi! Minha mestre já o resolveu, nyeh. A Bruxa Dourada não é mais a Beato!
- 
+
 #v1930Wh-What did you say?! What's this all about, Battler?! 
 O-O que disse? Do que tudo isso se trata, Battler?!
- 
+
 #v1720My enemy is the Golden Witch, Beatrice. Taking on 'Beatrice, the Former Witch' would just be embarrassing! I'm not giving up the riddle of the epitaph to anyone! That's a challenge Beato gave to me! 
 Minha inimiga é a Bruxa Dourada, BEATRICE. Vencer a 'Antiga Bruxa BETRICE' seria vergonhoso! Não darei o enigma do epitáfio para ninguém! Este é um desafio entre a Beato e eu!
- 
+
 #v1585You did splendidly, solving the epitaph. I acknowledge it, and I also acknowledge you as the new Golden Witch. 
 Você foi expendido resolvendo o epitáfio. Eu reconheço isso, e também a reconheço como Nova Bruxa Dourada.
- 
+
 #v1721Wait, Beato! I solved the riddle of the epitaph!!
 Espera, Beato! Eu resolvi o enigma do epitáfio!!
- 
+
 #v1831Too late! A new witch has been born! After all, I solved the epitaph first!
 Tarde demais. Uma nova bruxa já nasceu. Afinal, eu resolvi o epitáfio primeiro!
- 
+
 #v1586...Too bad, Battler. I never thought that the game between you and me would end like this... 
 ...Que pena, Battler. Nunca pensei que nosso jogo fosse terminar assim...
- 
+
 #v1931Beatrice-sama arranged for this game and the epitaph for your sake, understand?! Why couldn't you solve it faster than anyone?! 
 A BEATRICE-sama preparou este jogo e o epitáfio por você, entendeu? Por que não pôde resolvê-lo antes dos outros?!
- 
+
 #v1722I know. That's why I've come to crush this coronation. 2 8M8
 Eu sei disso. E é por isso que vim estragar essa coroação.
- 
+
 #v1723Sorry, Aunt Eva. This is a game between Beato and me. I'll let you have the gold, so will you back off?
 Desculpa, tia Eva. Este é um jogo entre a Beato e eu. Eu a deixo ficar como ouro, então você abre mão do resto?
- 
+
 #v1832Huh? The 20 billion yen in gold, the title of witch, and the inheritance of the Ushiromiya Family Headship...! All of that belongs to me, get it?!
 Hã? 20 bihlões de ienes em ouro, o título e bruxa e a herança da liderança da família Ushiromiya...! Tudo isso pertence a mim, entendeu?!
- 
+
 #v1833If you're gonna get in my way, maybe you should just give up and die too!
 Se vai ficar no meu caminho, talvez seja melhor você desistir e morrer bem devagar!
- 
+
 #v1587What a shame, Battler! And I truly did want to hear your answer to the epitaph's riddle...!! 
 Que pena, Battler! Eu realmente queria ouvir a sua resposta para o enigma do epitáfio...!!
- 
+
 #v1834My gold! The title of witch, and the inheritance of the Headship! All of it...all of it is supposed to be mine!! 
 Meu ouro! Meu título de bruxa e a liderança da família! Tudo isso...tudo isso deveria ser meu!!
- 
+
 #v1724Forgive me. You can have all the gold, but this riddle alone belongs to me! 
 Sinto muito. Você pode ficar com todo o ouro, mas o enigma pertence apenas a mim!
- 
+
 #v1588Battler... Did you truly...solve my riddle? 
 Battler... Você realmente...resolveu meu enigma?
- 
+
 #v1725Yeah. Sorry to keep you waiting. 'Behold the sweetfish river running through my beloved hometown...'
 Sim. Desculpe deixá-la esperando. O rio dos ayus passa pela minha amada cidade passada...
- 
+
 #v1589...Very well. Let's hear your theories. 
 ...Muito bem. Deixe-me ouvir suas teorias.
- 
+
 #v1932Have you finished with your theories about the epitaph?
 Terminou de teorizar sobre o epitáfio?
- 
+
 #v1726...Yeah. The match between me and Beato...has been settled. I'm grateful for your help. ...Sim. A disputa entre a Beato e eu...chegou ao fim. Eu sou grato pela sua ajuda.
- 
+
 #v1933I'm Beatrice-sama's furniture. For the sake of my master, I'd become even a chair or a rug. When I lent you my power, it wasn't because I acknowledged you as my master.
 Eu sou uma mobília da BEATRICE-sama. Pelo bem da minha mestra, eu me tornaria até mesmo uma cadeira ou um tapete. Quando emprestei meu poder a você, não foi porque o reconheci como meu mestre.
- 
+
 #v1727As your new master, I'd like to reward you. What do you want? 
 Como seu novo mestre, eu gostaria de recompensá-la. O que você quer?
- 
+
 #v1934I can't accept you as my new master.
 Não posso aceitá-lo como meu novo mestre.
- 
+
 #v1728......Is that 'what you want'? 
 ......É isso o que 'você quer'?
 
@@ -434,7 +435,7 @@ Sim, isso mesmo! Tente me dar uma lição física para provar que você é meu n
 #v1729Sure! I'll show you who's in charge... with force! Come at me with all you've got!! 
 Claro! Vou mostrar a você quem é que manda... com força! Venha com tudo o que tiver!!
 
-#v1936If you manage to make me crawl, I'll swear my loyalty to you while begging for my life and kissing your shoes!! 
+#v1936If you manage to make me crawl, I'll swear my loyalty to you while begging for my life and kissing your shoes!!
 Se conseguir me fazer rastejar, eu irei jurar lealdade e implorar por minha vida beijando os seus sapatos!!
 
 #v1937Here I come, Battleeeeeeeeeeer!! 
@@ -445,28 +446,28 @@ Por favor...! Você é o único para quem eu posso recorrer, Battler-sama...!
 
 #v1730If you think I'll do, of course I'll help, but what's this all about?
 Se acha que o farei, é claro que irei ajudar, mas e quanto a tudo isso?
- 
+
 #v2041Your help would be especially appreciated, and...Umm, ...am I being a burden...? 
 Sua ajuda seria muito apreciada e... Bem, ...eu estou sendo um fardo...?
 
 #v1731N-No, not at all.
 N-Não, é claro que não.
- 
-#v1732How could a breast sommelier like me possibly turn down what's bobbing up and down right before my eyes, ihihihihi! 
+
+#v1732How could a breast sommelier like me possibly turn down what's bobbing up and down right before my eyes, ihihihihi!
 Como um sommelier de peitos como eu poderia ficar desapontado com o que balança bem diante dos meus olhos, ihihihihi!
 
 #v2118So, you chose Battler-kun. A wise decision.
 Então, você escolheu o Battler-kun. Uma sábia decisão.
- 
+
 #v1590I'm Battler's rival, so I can't join forces with him... but you'll do nicely. 
 Eu sou a rival do Battler, por isso não posso juntar forças com ele... mas você pode fazê-lo muito bem.
- 
+
 #v2042Thank you very much. The two of us have already warmed up enough.
 Muitíssimo obrigada. Nós dois já estamos aquecidos;
- 
-#v1591Very well. Neither you nor I shall hold back in the slightest. 
+
+#v1591Very well. Neither you nor I shall hold back in the slightest.
 Pois bem. Nenhum de nós deve se conter minimamente.
- 
+
 #v1733A duel between Shannon-chan and Beato? So, I guess I'm her second. 28N8
 Um duelo entre a Shannon-chan e a Beato? Então acho que eu fico na reserva.
 
@@ -475,40 +476,40 @@ Um duelo entre a Shannon-chan e a Beato? Então acho que eu fico na reserva.
 
 #v1592Magnificent! It was a splendid fight, one which leaves me with no regrets!
 Magnífico! Foi uma luta esplêndida, na qual posso deixar sem arrependimentos!
- 
+
 #v2119Thank you too, Battler-kun. Please continue to support Shannon-chan. 
 Obrigado a você também, Battler-kun. Por favor, continue a apoiar a Shannon-chan.
- 
+
 #v1735That's fine with me, but what is all this? Who are we fighting against? 
 Por mim, tudo bem, mas o que foi tudo isso? Contra que estamos lutando?
- 
+
 #v2043That's...umm...
 Isso...bem...
- 
+
 #v1593Hmph. You might call it a grand brother-sister battle. I imagine it will be tough on you too, Battler, but stay with her as a witness until the end. 
 Hmph. Você pode chamar isso de uma grande batalha entre irmãos. Eu imagino que seja difícil para você também, Battler, mas fique com ela como testemunha até o fim.
- 
+
 #v1736A witness? ...I thought I was being Shannon-chan's bodyguard. 
 Testemunha? ...Eu pensei que eu era o guarda-costas da Shannon-chan.
 
 #v1896So, you've finally come. ...Shall we begin, Nee-san? 
 Então você finalmente veio. ...Vamos começar, nee-san?
- 
+
 #v1737H-Hold on a sec, what's going on here?! Why are Shannon-chan and Kanon-kun fighting?! 
 E-Esperem um pouco, o que está acontecendo?! Por que a Shannon-chan e o Kanon-kun precisam lutar?!
- 
+
 #v2044We must fight. It's something that simply can't be avoided. For both of our sakes.
 Nós devemos lutar. É algo que não pode simplesmente ser evitado. Pelo bem de ambos.
- 
+
 #v1996Battler-sama, you've been chosen as their witness. Please, watch this fight until the end, without saying anything. 
 Battler-sama, você foi escolhidocomo testemunha. Por favor, assista esta lut até o fim, sem dizer nada.
- 
+
 #v1738Stop it, you two! Why should a pair of people who are as close as real siblings be forced to fight?! 
 Parem, vocês dois. Por que pessoas tão próximas como irmãos precisam ser forçados a lutar?!
- 
+
 #v2045Let's begin, Kanon-kun. ...To me, you're...
 Vamos começar, Kanon-kun. ...Para mim, você...
- 
+
 #v1897To me, you're...
 Para mim também, você...
 
@@ -517,31 +518,31 @@ Só está no meu caminho.
 
 #v1739Tell me. Why did you have to challenge Kanon-kun to a duel? 
 Me diga. POr que você teve que desafiar o Kanon-kun para um duelo?
- 
+
 #v2046We furniture don't have the right to love. We needed the duel to gain that right. 
 Nós, mobílias, não temos o direito de amar. Precisamos duelar para obtê-lo.
- 
+
 #v1740Why would a duel give you the right to accept an engagement ring? I don't get it. 
 Por que um duelo daria a você a chance de aceitar um anel de noivado? Não faz sentido.
- 
+
 #v1594It's the other way around. If Shannon was capable of earning that right, she would have tackled any sort of trial. 
 É o contrário. Se a Shannon for capaz de receber aquele anel, ela terá que aceitar qualquer tipo de julgamento. 
 
 #v1898And Nee-san won through. That's why, at this very moment, she's gained the right to love. 
 E a nee-san venceu. É por isso que, neste exato momento, ela obteve o direito de amar.
- 
+
 #v2047To all of you humans, engagement may mean nothing more than a single small ring. 2 8M8
 Para vocês, humanos, o noivado não significa nada mais do que um mísero anel.
- 
+
 #v2048...However, to us furniture, it's something so heavy, so big, that we can't fully carry the burden.
 ...Contudo, para nós mobílias, é algo muito pesado, que não conseguimos carregar totalmente.
- 
+
 #v1595Have you ever been in love? If not, you won't understand. 
 Você já esteve apaixonado? Se não, nunca entenderá.
- 
+
 #v1741...No, I haven't. So, I don't get it at all. ...But there's one thing I do get.
 ...Não, eu nunca estive. Por isso, não entendo nada disso. ...Mas tem uma coisa que eu entendo.
- 
+
 #v1899And what...is that? 
 E o que...seria?
 
@@ -550,97 +551,97 @@ Shannon-cha, ...parabéns pelo seu noivado.
 
 #v1938The Seven Sisters of Purgatory are right here! Did you call for us, Ange-sama?
 As Sete Irmãs do Purgatório estão aqui! Você nos chamou, Ange-sama?
- 
+
 #v1786Onii-chan, what's taking you so long?! You keep playing with witches instead of coming home!! 
 Onii-chan, por que está demorando tanto. Você prefere brincar com bruxas em vez de voltar para casa!!
 
 #v1939W-Well, those two are fated to fight for all eternity...
 B-Bem, os dois estão destinados a lutar por toda a eternidade...
- 
+
 #v1787And who decided that was fate? The Game Master? Then I'll take their place! 2
 E quem decidiu esse destino? o Game Master? Então assumirei esse posto!
- 
+
 #v1788I'll rewrite the plot so that Onii-chan comes home right away! 
 Irei reescrever o roteiro para que ele possa voltar agora mesmo!
 
 #v1789So, this may be a bit sudden, but from this day forth, I'm the Game Master.
 Então, sei que pode ser meio repentino, mas desde dia em diante, eu sou a Game Master.
- 
+
 #v1596What?! You think I'd let you do that, you dolt?! Enough of this foolishness!
 O quê?! Acha que vou deixar você fazer isso? Endoidou? Chega dessa baboseira!
- 
+
 #v2120You were fortunate even to be given a chance to participate as a piece. I'd say your ambitions are a tad too high. 
 Você já tem muita sorte só de ter a oportunidade de participar como uma peça. Eu diria que suas ambições estão muito elevadas.
- 
+
 #v1940I-I told her the same thing, ...but Ange-sama wouldn't listen... 
 E-Eu disse a mesma coisa, ...mas a Ange-sama não escuta...
- 
+
 #v1790Why should I care? This is a revolution! I'll beat you up and write the plot myself, starting today! 
 Por que eu deveria me importar? Isto é uma revolução! Vou acabar com você e reescrever o enrendo, começando hoje mesmo!
- 
+
 #v1597I'd rather give the position of Game Master to Battler than let you steal it! 
 Prefiro passar a posição de Game Master ao Battler do que deixar você roubá-la!
- 
+
 #v1791Oh? I guess that means Onii-chan will be coming home soon.
 Oh? Acho que isso significa que ele voltará para casa em breve.
- 
+
 #v2121Battler-kun does want to finish his fight with Beato. I doubt he would agree to go back with you so easily. 
 O Battler0kun quer terminar sua luta com a Beato. Eu duvido que ele concorde em voltar tão facilmente.
- 
+
 #v1941Wh-What will we do, Ange-sama? Are we going to defeat Battler as well...? 
 O-O que faremos, Ange-sma? Vamos derrotar o Battler também...?
- 
+
 #v1792Isn't it obvious?! I can't forgive him for leaving his little sister all alone and going off to play with witches! 2 8M8
 Não é óbvio?! Não posso perdoá-lo por ter deixado sua irmãzinha sozinha e ido brincar com bruxas!
 
 #v1793I'm gonna beat him up and open his eyes wide! 
 Vou derrotá-lo e abrir seus olhos!
- 
+
 #v1743W-Wait, Ange...! There's this fight that I just have to finish... 
 E-Espera,Ange...! Eu preciso terminar essa luta...
- 
+
 #v1794Why are you talking like an idiot?! How long do you plan on leaving your little sister all on her own, you incompetent?!!
 Por que está falando como um idiota? Quanto tempo mais planeja deixar sua irmãzinha sozinha, seu incompetente?!
- 
+
 #v1744N-Now look here, this is a fated showdown we're talking about! Pipe down for a bit and get out of the way! 
 E-Escuta aqui, estamos falando de um embate predestinado aqui! Se aquieta e saia do nosso caminho!
- 
+
 #v1795That's my line!! Idiot, idiot, I hate you, I hate you!! 
 Sou eu quem deveria dizer isso! Idiota, idiota, eu te odeio, te odeio!!
- 
+
 #v1942I-It's become a sibling squabble...
 V-Virou uma briga entre irmãos...
- 
+
 #v1997Pu ku ku! This is developing into quite an amusing scenario. In that case, let us play our parts as furniture and liven up their family quarrel...! 
 Pu ku ku! Este desenvolvimento é um cenário realmente divertido. Neste caso, vamos fazer nosso papel como mobílias e animar a bringa de família...!
 
 #v1745Aaaaaah! How could I lose our first sibling fiiiiiiiiiiiight?! 
 Aaaaaah! Como eu pude perder nossa primeira briga de irmãoooooooos?!
- 
+
 #v1796How could you lose, when you're letting a witch lead you around by the nose all the time?! So, now I'm the Game Master! 
 Como você pôde perder, quando deixa uma bruxa mandar em você esse tempo todo?! Então, agora eu sou a Game Master!
- 
+
 #v1943Ange-sama, congratulations on becoming the Game Master!
 Parabéns por se tornar a Game Master, Ange-sama.
- 
+
 #v1746B-But you can't do that! This is our precious game, mine and Beato's...! 
 Mas você não pode fazer isso! Este é o nosso precioso jogo, meu e da Beato...!
- 
+
 #v1797Gaaaah!! You're pissing me off! Why are you still going on about her...?!!
 Gaaaah!! Você está me irritando! Por que ainda está indo atrás dela...?!
- 
+
 #v1747A woman couldn't understand how momentous a fated duel is! Get the women out of here...!
 Mulheres jamais vão entender o quão grandioso é um duelo fatal! Tirem as mulheres daqui...!
- 
+
 #v1998Well now, Ange-sama. Pardon me for advancing this so quickly, but what sort of tale would you like to make? 
 Pois bem, Ange-sama. Perdoe-me por adiantar as coisas tão rapidamente, mas que tipo de conto você gostaria de tecer?
- 
+
 #v1798I want to head home with Onii-chan right away, but I've changed my mind a bit. I'll start by making Onii-chan apologize! 2 8M8
 Eu quero voltar para casa com o onii-chan agora mesmo, mas eu mudei um pouco de ideia. Vou começar fazendo ele pedir desculpas.
 
 #v1799I'll make him say he's sorry he got so fixated on this duel thing that he totally forgot about me!! 
 Irei fazê-lo pedir desculpas por ficar tão obcecado com essa história de duelo a ponto de esquecer completamente de mim.
- 
+
 #v1944As you wish! 
 Como desejar!
 
@@ -652,82 +653,82 @@ M-Me desculpe, Ange-samaaaaa! Eeeep!Eeeeep!!
 
 #v1800Tell me, Aunt Eva. Just what happened on Rokkenjima that day? 
 Diga-me, tia Eva. O que aconteceu em Rokkenjima naquele dia?
- 
+
 #v1835Well now. I could tell you, but you wouldn't believe it anyway.
 Então, eu poderia contar, mas você não acreditaria mesmo.
- 
+
 #v1801Tell me. I'll decide whether I believe it or not. 
 Diga. Eu mesma decidirei se acredito ou não.
- 
+
 #v1836I see. Then come with me if you must, to the Rokkenjima of 1986! There exists no truth there that you can accept! 
 Entendi. Então venha comigo se quiser, para a Rokkenjima de 1986! Lá não existe verdade que você possa aceitar!
 
 #v1999My, my, EVA-sama. What a rare guest you've brought us today. 
 Ora, ora, EVA-sama. Que convidada mais incomum você nos trouxe hoje,
- 
+
 #v1837You people tell her too. Tell this little girl from 12 years in the future that there isn't any truth that she's capable of understanding.
 Digam a ela também. Digam para esta garotinha de doze anos no futuro que não há nenhuma verdade na qual ela seja capaz de entender.
- 
+
 #v2122Return to your old world, Witch of the Future. This world is not a forgiving one. 
 Retorne para o seu velho mundo, Bruxa do Futuro. Este não é um mundo perdoável.
- 
+
 #v1802Don't patronize me! I'm not giving up until I reach the truth!
 Não tente me amparar! Eu não vou desistir até alcançar a verdade!
- 
+
 #v2123No truth will be given to one who lacks the power to endure it. But if you're looking for someone to drink tea with, I will do so. 
 Verdade alguma será concedida aqueles que não possuem o poder para suportá-la. Mas se busca alguém para beber chá, eu posso fazer isso.
 
 #v2000What do you intend to do once you've learned the truth of 12 years ago? 
 O que pretende fazer uma vez que aprenda a verdade sobre doze anos atrás?
- 
+
 #v1803I'm the only one who knows nothing! As the final member of the Ushiromiya Family, I have a right to know what happened that day! 
 Eu sou a única que não sabe nada. Como último membro da família Ushiromiya, eu tenho o direito de saber o que aconteceu naquele dia!
- 
+
 #v1838You do have that right. That's why I'm telling you about it. But you won't believe me!
 Você tem o direito. Por isso estou a alertando sobre isso, mas você não vai acreditar em mim.
- 
+
 #v2124Then proceed, Ange. I pray that you find the truth you desire... 
 Então prossiga, Ange. Eu oro para que você encontra a verdade que tanto deseja...
- 
+
 #v1804...Everyone's taking me for a fool. How can this tale filled with witches and magic be the truth of 12 years ago?! 
 ...Todos estão me fazendo de idiota. Como este conto repleto de bruxas e magia pode ser a verdade de doze anos atrás?!
 
 #v1805Onii-chan! I finally found you! Let's go home together!!
 Onii-chan! Eu finalmente te encontrei! Vamos voltar para casa, juntos!
- 
+
 #v1749Sorry, Ange... I'll definitely return, ...so please wait just a little longer... 
 Desculpa, Ange... Eu definitivamente retornarei, ...por isso peço que espere um pouco mais...
- 
+
 #v1839This is the truth. Your brother has been fighting against a witch in an endless game. It won't end for all eternity, and he will never come home!
 Esta é a verdade. Seu irmão tem lutado um jogo infinito contra uma bruxa. Não terminará por toda a eternidade, e ele nunca voltará para casa!
- 
+
 #v1750It isn't eternal! I'll finish this up quickly and come home, okay...?! So please wait just a bit longer...! I can't back down from this fight...!! 
 Não é eterno! Eu irei acabar com isso de uma vez e voltar, certo...? Por isso peço que espere um pouco mais...! Não posso recuar desta luta...!
- 
+
 #v1806No! I've already waited a full 12 years! I've had enough of being alone!!
 Não! Eu já esperei por doze anos! Já cansei de ficar sozinha!!
- 
+
 #v1598You mean to stand in the way of our fight? *cackle*cackle* Then I shall show no mercy, little sister of Battler...!
 Você pretende ficar no meio da nossa luta? *gargalhada*gargalhada* Então eu não mostrarei misericórdia, irmãzinha do Battler...!
 
 #v1599Wait forever in your world 12 years in the future...for a brother who will never come home!! 
 Espere pra sempre em seu mundo, doze anos no futuro...por um irmão que jamais voltará para casa!
- 
+
 #v1807Come back, Onii-chan!! I've already waited 12 years! I don't want to wait any moooooooore!!
 Volte, onii-chan!! Eu já esperei por 12 anos! Não quero esperar maaaaaaiiiis!!
- 
+
 #v1751I will...definitely come back... Wait just a bit longer, Ange... 
 Eu irei...definitivamente voltarei para casa... Espere só mais um pouco, Ange...
- 
+
 #v1808No, noooooooo!! Onii-chan!!! 
 Não, Nãoooooooo!! Onii-chan!!
 
 #v1840...And then, for 12 years, none of your family came home. They remained trapped by the Golden and Endless Witch.
 ...E então, por doze anos, ninguém da sua família retornou para casa. Eles permaneceram aprisionados pela Bruxa Dourada do Infinito.
- 
-#v1809............ 
+
+#v1809............
 ............
- 
+
 #v1841Quite a fairy tale, isn't it? *giggle* If only you'd just scream 'don't patronize me' and die. 
 É um conto de fadas e tnanto, não? *risos* Se ao menos tivesse gritado 'não me ampare' e morrido.
 
@@ -746,7 +747,7 @@ Ele jurou que voltaria para casa, custe o que custar.
 
 #v1812True. I'll always be 6 years old. ...Endlessly. 
 Verdade. Eu sempre terei seis anos. ...Eternamente.
- 
+
 #v2001Indeed. They have been at it for quite some time now, and the battle has been quite fierce.
 De fato. Eles estão nisso já faz um bom tempo, e a batalha segue bem fervorosa.
 
@@ -755,31 +756,31 @@ O quê?! Está dizendo...que aqueles dois seguem lutando desde então?
 
 #v2002Yes. If we do not step in, it truly will last for all eternity.
 Sim. Se não nos intrometermos, realmente vai durar por toda a eternidade.
- 
+
 #v2126Really, those two... Let us go. We must put a stop to that unproductive battle as soon as possible. 
 Francamente, aqueles dois. Vamos. Precisamos parar aquela batalha improdutiva o quanto antes.
- 
+
 #v2003Oh, perfect timing. Do you know where Milady is? 
 Oh, bem na hora. Sabe onde está a ojou-sama?
- 
+
 #v2127That child, fighting unproductive battles all the time...! It's about time we went to cool her head...
 Aquela criança... lutando batalhas improdutivas o tempo todo...! Já está na hora de irmos esfriar a cabeça dela...
- 
+
 #v1844I know where she is, but I'm not telling. This works out great for me.
 Eu sei onde ela está, mas não irei contar. Assim é melhor para mim.
- 
+
 #v2078If Beatrice-sama and Battler crush each other, EVA-sama can become the Game Master without doing anything nyeh
 Se a Beatrice-sama e o Battler esmagarem um ao outro, a EVA-sama poderá se tornar a Game Master sem fazer nada, nyeh.
- 
+
 #v2128I'll make them stop their fight, but I won't let you get in their way either! I shall be your opponent in Beato's place! 
 Eu irei fazê-los parar aquela briga, mas não deixarei você se intrometer. Serei sua oponente no lugar da Beato!
 
 #v2129This game board belongs to that child. Know your place! 
 Este tabuleiro pertence àquela criança. Conheça seu lugar!
- 
+
 #v2004Where is Milady? Let us have a talk with them.
 Onde está a ojou-sama? Deixe-nos falar com ela.
- 
+
 #v1845Aaah, how could I lose?! 410, why don't you just tell them?!
 Aaah, como eu pude perder? 410, por que não diz a eles?!
 
@@ -794,16 +795,16 @@ Porque sua mãe é tão gorda, seu boboca cérebro de amendoim.
 
 #v1752What'd you say, you stupid retarded dumbass?! You insensiti#&\%$!! 
 O que disse, seu retardado idiota imbecil?! Seu insensíve#&\%$!!
- 
+
 #v2006Ah, it would appear that they have run out of things to argue about and have resorted to juvenile squabbling. 
 Oh, parece que eles ficaram sem nada para argumentar e resolveram recorrer para uma briga de quinta série.
- 
+
 #v2130Hey, you two! Stop fighting and cool your heads! It's time to take a break and have some tea!
 Ei, vocês dois! Parem de brigar e esfriem a cabeça. Está na hora de fazer uma pausa e tomar um chá!
- 
+
 #v1753I'm right in the middle of a fight! I've got no time for tea!
 Estou no meio de uma luta agora! Não tenho tempo para chazinho!
- 
+
 #v1601Yeah, yeah! And I was just about to win! Stay out of my way, Teacheeer!! 
 Isso mesmo! E eu estou prestes a vencer! Fique fora disso, professoraaaa!!
 
@@ -836,22 +837,22 @@ Mesmo depois de ganhar uma dica, você não consegue resolver um truque simples,
 
 #v1756Shut up, and repeat it! You giant-boobed brainless witch! 
 Cale a boca e repita isso! Sua bruxa peituda sem cérebro!
- 
+
 #v1605Waaaaaaah, Teacher! Everyone's being mean to me for some reason!! 
 Waaaaaaah, professora. Todo mundo está sendo cruel comigo por algum motivo!!
- 
+
 #v2134Perhaps this is a good chance for you to take a long, hard look at your everyday behavior...
 Talvez essa seja uma boa oportunidade para você parar e pensar bem sobre o seu comportamento...
- 
+
 #v1606No, not that! Someone's suddenly gone and become the Game Master...! 2F 8M8
 Não, sem chance! Alguém sumiu de repente e virou o Game Master...!
 
 #v1607They've rewritten the plot to one where I get bullied...! 
 Reescreveram o enrendo para um onde eu sou maltratada...!
- 
+
 #v2135What did you say?! But this is your precious game board...! I'll lend a hand, so let's go and take it back...! 
 O que disse?! Mas este é o seu precioso tabuleiro...! Vou ajudá-la e vamos recuperá-lo...!
- 
+
 #v1900Forgive my presumption, but the new Game Master has ordered me to attack you.
 Perdoe minha presunção, mas o novo Game Master ordenou que eu o atacasse.
 
@@ -860,7 +861,7 @@ Quem é o novo Game Master? A Beato não lembra de ter aberto mão do título a 
 
 #v1608Quite right! Only I have the right to do whatever I please in my game!
 Isso mesmo! Apenas eu tenho o direito de fazer o que bem entendo no meu jogo!
- 
+
 #v2008Well, our orders were to show you exactly how much you've done that up until now. Pu ku ku! 
 Bem, nossas ordens são para mostrar a você exatamente o que tem feito até agora. Pu ku ku!
 
@@ -920,7 +921,7 @@ Você não pode esperar e acreditar que este dia chegará...?
 
 #v2144You're a wonderful little sister, with a strong heart filled full of faith in your brother. He will come home. Someday, no matter what.
 Você é uma irmãzinha maravilhosa, com um forte coração repleto de fé em seu irmão. Ele voltará para casa. Algum dia, a qualquer custo.
- 
+
 #v1817Virgilia... 
 Virgilia...
 
@@ -941,13 +942,13 @@ N-Não, isso não, por favor, pare, tudo menos a cavalinhaaaa, é grande demaaaa
 
 #v2080Waaah, Virgilia-sama! Someone stole our fresh, sweet, yummy carrots nyeeeh!!
 Waaah, Virgilia-sama! Alguémroubou nossas doces, frescas e deliciosas cenouras, nyeeeh!!
- 
+
 #v2146A-A thief? Who knew we had such a naughty person in the area... What a predicament... 
 U-Um ladrão? Quem diria que temos uma pessoa perversa dessas por perto... Mas que problemão...
- 
+
 #v2081And they were high-grade carrots I was really looking forward to nyeh! That's so mean nyeh!
 E eram cenouras de alta qualidade que eu estava ansiosa para saborear, nyeh! Isso é horrível, nyeh!
- 
+
 #v2147Yes, yes, I understand. Don't cry. Let's look for them together, okay? 
 Sim, sim, eu entendo. Não chore. Vamos procurar poe elas juntas, tá?
 
@@ -956,7 +957,7 @@ Estamos perguntando em todo canto, mas ainda não temos a menor ideia de quem é
 
 #v2148How troublesome... Ah, Kanon-kun, perfect timing. Do you have any idea where we might find some carrots?
 É mesmo um problema... Ah, Kanon-kun, bem na hora. Tem alguma ideia de onde podemos encontrar cenouras?
- 
+
 #v1902Carrots...? Well, I did hear that we would be having sauteed carrots and burdock for dinner.
 Cenouras...? Bem, eu ouvi que teríamos cenouras salteadas e bardana para o jantar.
 
@@ -992,7 +993,7 @@ Te encontrei, nyeh! Devolva essas cenouras de alta qualidade que nós poupamos n
 
 #v2151Those carrots belong to this child. Sorry, but I'll have to ask you to return them.
 Essas cenouras pertencem a esta criança. Sinto muito, mas terei que pedir para devolverem.
- 
+
 #v2050B-But we can't...! If we lose our carrots, we won't be able to have dinner...! 
 M-Mas não podemos...! Se perdermos as cenouras, não poderemos preparar o jantar...!
 
@@ -1001,14 +1002,14 @@ Nós também não teremos jantar, nyeh! Devolva as nossas cenouras, nyeh!
 
 #v2088We've taken them back nyeh! Our yummy, yummy super carrots!
 Nós as recuperamos, nyeh! Nossas superdeliciosas e saborosas cenouras!
- 
+
 #v2011It would appear that our normal carrots were swapped for those of the Chiester Sisters Corps.
 Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Irmãs Chiester.
 
 #v2051I-If so, what happened to the normal carrots we ordered...? 
 
 #v2089When I went to the kitchen around noon looking for a snack, I saw a bunch of lonely-looking carrots just begging me to eat them, so I gobbled them up nyeh
- 
+
 #v2152...410!! So, you're the cause of all this! I'm confiscating these! 
 
 #v2090Nyeh?!?! But what about our dinner?! Nyeh, nyeh?! 
@@ -1022,11 +1023,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2092I knew it! I just wanted to nibble on them raw nyeh, that's mean nyeh, waaaaah...! 
 
 #v2012Good morning, Milady. What sort of plot will you choose for today?
- 
+
 #v1617Hmm? *cackle*cackle* Isn't it obvious? It will be the usual serial closed room murder case, with people dying all over the place...! 
 
 #v2013Then let us begin tonight's murder drama. How shall we proceed...?
- 
+
 #v1618Hmph. You know I'll just win again. It would be nice to experience the taste of defeat every once in a while. 
 
 #v2052Beatrice-sama! I don't understand! Why are you bringing about such a tragedy?! 
@@ -1034,7 +1035,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2014Milady cannot revive unless she performs a ceremony and kills 13 people. 
 
 #v1619I won't ask you to let yourself be sacrificed quietly. Resist however you please. Even that is part of the ceremony. ...*cackle*cackle*!
- 
+
 #v1904Nee-san, she really is an evil witch! We'll never be able to understand each other! 
 
 #v1620And I don't ask to be understood. If you don't want to die, try and kill me. You have been given plenty of time: however long it takes for me to kill 13 people! 
@@ -1052,11 +1053,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1758Beato, I finally found you! This is the end of your weird murder ceremony! 
 
 #v1623Oh, you seem quite enthusiastic. ...I assume you already have it solved, then? All of my closed room murder riddles?
- 
+
 #v1759Nng... I-I'm working on that right now! But anyway, I can't let you kill any more people!! 
 
 #v1624Have you ever paused to consider why I'm going to all the effort of killing that many...?
- 
+
 #v1760Why should I care about a bizarre black magic ceremony?! I can't sit by while you kill us for your own reasons...!! 
 
 #v1625...Hmph. That's perfectly correct. I am killing for my own reasons. Too bad, Battler. It looks like you'll disappoint me after all...!! 
@@ -1064,19 +1065,19 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1761...No good, huh...? How...can I...defeat her...? 
 
 #v1626It's useless. Until you solve my riddles, you cannot kill any witches. ...Fall off the board along with my disappointment, Battler the piece.
- 
+
 #v1762Dammit, ......someday...I'll definitely...... 
 
 #v2016And thus ends the ceremony of 13 murders.
- 
+
 #v1627It would seem that, once more, no one has solved the riddle. 
 
 #v2017Your closed rooms are quite difficult. It must be hard for mere humans to solve them...
- 
+
 #v1628Even though I went easy on them many times, giving them so many hints, ...it would seem that none have managed to reach me... 
 
 #v2018Will you give even further hints in the next game? Or perhaps make the riddles a tad more complicated...?
- 
+
 #v1629Hmph... Now that certainly is pride. But very well. ...I'll win for all eternity, until I am given defeat. 
 
 #v1630I am the Golden Witch, Beatrice. Try and solve my riddles. If you can, you may do as you please with my life and 20 billion yen in gold! 
@@ -1084,33 +1085,33 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1631Try and kill me! Ihihyahyahyaaah!! 
 
 #v2019Congratulations. Now that you have solved the riddle of the epitaph, you are the new Golden Witch.
- 
+
 #v1846I really am a witch now, right?! I can do anything with magic, right?! 
 
 #v2020Indeed. Please enjoy the power of magic to your heart's content, using it for whatever purpose you can imagine.
- 
+
 #v1847A-Ahahahahaha...!! I'm a witch! I can make any dream come true with magic! With gold! Aha, ahahahaha...!! 
 
 #v1632So, EVA, what's it like having the power of the Golden Witch? It's easy to get drunk on it, is it not? 
 
 #v1848That's right, Predecessor-sama! This power truly is wonderful! I can kill anyone. I can revive anyone!
- 
+
 #v1633Well, umm, still... The Golden Witch must have some restraint. Perhaps now is a good time to hold off on the pranking just a bit... 
 
 #v1849Huh? What are you talking about, Predecessor-sama? I'm just being ruthless, brutal, <pop>, and <cute>, just like the old you!
- 
+
 #v2155It looks like it will take more than words to make her understand... There's no helping it. 
 
 #v1850What the hell?! Am I the new witch or not?! It's not right for retired witches to butt in like that! 
 
 #v2021Whether you act with restraint or do precisely as you please...is entirely up to you, EVA-sama.
- 
+
 #v1851I know that! I am justice, I am truth! 26 8M8
 
 #v1852On this island, who lives and who dies, what gets created and what gets destroyed...is all decided by me!! 
 
 #v2022Yes, that is what the Golden Witch is. She is even the god of this island.
- 
+
 #v1853That's right, I'm God! *giggle* Ahahahah!! 
 
 #v1854I'll keep on killing...to prove that I'm nothing like those lowly Humans! 
@@ -1120,25 +1121,25 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1855*giggle* ...You don't believe me, do you? But this is the truth! 
 
 #v2023EVA-sama solved the riddle of the epitaph, gaining the Ushiromiya Family Headship, the gold, and the power of the witch. This is the truth.
- 
+
 #v1820How could I believe that?! You're the culprit. You killed everyone, took all the gold for yourself, and shrouded everything in darkness!! 
 
 #v2024If that is your truth, Ange-sama, then even we cannot refute it. 
 
 #v1856If you want to think of me as the culprit, go ahead! 22 8M8
- 
+
 #v1857If only you'd just believe that I killed your family, so that you can cry bitterly, give up, and die! Ahahahahahahahahah!! 
 
 #v2025With this, the only one who knows the truth of that island is you, EVA-sama...
- 
+
 #v1858If I never speak of the truth until my death, ...what happened on that island can be whatever I want it to be. 
 
 #v2026What happened on that island on that day? The entirety of that answer has been sealed in a cat box, to which only EVA-sama holds a key...
- 
+
 #v1859And I'll hold onto it until I die. I won't tell Ange about the truth of that island. You can be certain of that. ...*giggle*, *giggle*giggle*! 
 
 #v2027...Why did you name Ange-sama as the final Golden Witch?
- 
+
 #v1860That kid will weave together her own truth. If she wants to know, she'll know. I'm not interested in what happens after my death. 
 
 #v2028Are you quite certain? You'll be despised until the very end of your life. 
@@ -1152,7 +1153,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1634Come, arise. The eldest of the Seven Sisters of Purgatory, Lucifer. 
 
 #v1946Lucifer of Pride, right here! What are your orders?!
- 
+
 #v1635The same as always. Make me laugh. That is all. 
 
 #v1947Understood. I'll give my master a chorus of all her enemies' death throes! 
@@ -1162,15 +1163,15 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1636I am a witch of butterflies and smoke. No sort of barricade or closed room can stop my murders! 
 
 #v1948Even you will end up as a corpse sitting out in the open, adorning yet another closed room murder!
- 
+
 #v1764Closed room murders don't exist! I'll prove that magic and closed rooms are all fake! 
 
 #v1637Just you try!! You can't do it, so die! Die in a closed room locked from the inside!! 
 
 #v1638Is that where your reasoning ends? I've crushed all your pitiful blue truths!
- 
+
 #v1905...I...did warn you... Beatrice-sama...is a witch...
- 
+
 #v1765I can't...accept something like this... D-Dammit... 
 
 #v1949The closed room murder is complete! The doors, windows, locks and chains cannot be opened or sealed from the outside! 
@@ -1178,13 +1179,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1639It would seem that yet another closed room murder has occurred. Hey, has anyone seen the detective? The culprit? The trick? Hyahyahahahahah!! 
 
 #v1640Ah, Shannon. Why does your face look so terrifying, even though the door to the Golden Land is about to be opened?
- 
+
 #v2055...Please, stop these make-believe closed room murders. I'll defeat you and end this. 
 
 #v1641You, defeat me? How amusing. And which mystery from my epitaph serial murders do you think you can solve...?! 
 
 #v1950Magical crimes, which no Human could possibly have committed! This is what proves that my master is a witch!
- 
+
 #v2056No. That proves that you aren't a witch. A true witch wouldn't need to use closed room murders to prove that magic exists! 
 
 #v1642Then I'll use you, the one person who denies that fact, to complete my closed room murders, thus proving that I am a witch. 
@@ -1198,13 +1199,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1951Perfect locks, perfect isolation, and perfect separation! It's a closed room that's impossible to reason away, absolutely perfect, and completely sealed, Beatrice-sama!! 
 
 #v1645You have my gratitude, Shannon. By making you the 13th human sacrifice, I have finally completed a true magical closed room murder...!
- 
+
 #v2058...It's pointless. ...The closed room murder is no more than a device of the mystery genre, designed to be broken. 
 
 #v1646Indeed. Closed room murders are merely puzzles. They're made to be solved, so in the end, they exist for the sake of entertainment. However, an unsolvable puzzle rises to the level of magic!
- 
+
 #v2059...This closed room, ...the epitaph, the riddles, and this entire tale... ...All of it will be solved by someone, someday.
- 
+
 #v2060You'll only be able to be a witch for that short period of time... 
 
 #v1952...Beatrice-sama, are we merely phantoms, unable to exist for more than a brief moment...? 
@@ -1216,7 +1217,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1863Have I...become a witch now?! The Golden Witch, Beatrice?! 
 
 #v1648Listen up, new Beatrice! The Golden Witch is strong! But what is strength?!
- 
+
 #v1864I know, Predecessor-sama! Strength means you don't lose to anyone! The Golden Witch is the ruler of Rokkenjima! 
 
 #v1649That's riiiiiight!! Now, let's go, new Beato! Let's rout the Humans and complete the ceremony of your resurrection! 
@@ -1224,7 +1225,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1650Come, arise! The Chiester Sisters Corps and the Seven Sisters of Purgatory! 
 
 #v1954The Seven Sisters of Purgatory, right here!
- 
+
 #v2093Chiester 410, right here. You rang, Beatrice-sama? I mean, Predecessor-sama? Nihi! 
 
 #v1865Don't tell me I'm supposed to test my strength on this furniture. *giggle*giggle*! 
@@ -1232,7 +1233,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1651You heard her, furniture and weapons. Test her to see whether she is fit to be the new Golden Witch...! 
 
 #v2094Ukyuu, any more would be beyond my pay grade nyeh...
- 
+
 #v1955W-We're no match for her...! I believe...she has the power to call herself the Golden Witch...! 
 
 #v1866How'd you like that? Isn't that enough to qualify me as your replacement? 
@@ -1244,11 +1245,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1766Stop it, stop iiiiiiit!! How is this fun?! I already can't forgive you for killing them, but to do it in such a brutal way...!! 
 
 #v1653Uhyahyahya! What did you think of that, Battler? This new witch isn't half bad, is she? 2B 8M8
- 
+
 #v1654You could hardly get bored watching this, isn't that right? Uhyahyahya!!
- 
+
 #v1767What's so funny?! How was that amusing?! If you can laugh at that, you're no witch. You're just a monster!!
- 
+
 #v2156Beato, shouldn't you teach her that the Endless Magic should be wielded with restraint...? 
 
 #v1868...All of you, just stop complaining already. What's your beef? If you've got a problem with what I'm doing, why don't you just give up and diiiiiiiie?! 
@@ -1256,9 +1257,9 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1869*giggle* Ahahahaha! I'll tear your corpse up just as much as the others! 
 
 #v1870So much that it'll make George's look peaceful!!
- 
+
 #v1768...Is this...what the Golden Witch is...? 2 8O8
- 
+
 #v1769Tell me, Beato! Is the witch Maria idolized...nothing more than a brutal monster?!! 
 
 #v1655......Nng, ...that's... 
@@ -1266,15 +1267,15 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1871Shut up! How many times do I have to kill yooou? If only you'd just beg 'please, don't bring me back to life again' and die! 
 
 #v1872Ahahahaha! Magic, cunning, and brutality! I'm a fitting Golden Witch in all three ways, am I not? 26 8M8
- 
+
 #v1873Though I'm not quite as brutal as you yet, Predecessor-sama! 
 
 #v1656...N-New Beatrice, it is now clear how well-suited you are to being a witch. 2G 8N8
- 
+
 #v1657So, would you mind, umm, ...toning down the brutality just a bit...?
- 
+
 #v1658A-Anyway, this is an order from your Predecessor. Refrain from excess brutality from this point forth...
- 
+
 #v1875No way. Why should I have to show you respect? 
 
 #v1876I'm the only one who gets to decide what happens on this island...and the only one who gets to record what happened! 
@@ -1282,11 +1283,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1877I am the god of this island! As if I'd even write about you...!! Hahahah, ahahahahahah!! 
 
 #v1878If only you'd just give up and die! ,
- 
+
 #v1906Wh-What are you doing here...?! What do you want with me...?!! 
 
 #v1956My master has ordered me to toughen up your frail body. Be grateful!
- 
+
 #v1907I don't believe I've ever lost to you in a one-on-one fight. You're the frail one...! 
 
 #v1957I-I just let my guard down for a moment! C-Come! I'll toughen you up...!! 
@@ -1298,7 +1299,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1908Hmph. More like I'm giving you a lesson on how this is done. 
 
 #v1959Wh-What did you say...?! How proud can you be...?!!
- 
+
 #v2157*giggle* Since we're all here, why don't we join forces? Ronove, let's hold a practice match. 
 
 #v2031I can see the results of your training. You've made good use of your unique strengths. 
@@ -1308,19 +1309,19 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1909Hmph. At best, you've only just managed to catch up with me. You sure talk tough. 
 
 #v1961You're the one being trained here! I'm your coach! The example for you to follow!!
- 
+
 #v2158*giggle* Work hard, you two, and keep on challenging one another. 
 
 #v2095Nihi! Lucifer-chan, I see you're training hard nyeh! 
 
 #v1962Like I keep saying, Kanon's the one being trained, and I'm his coach! Isn't that right, Beatrice-sama?!
- 
+
 #v1659Huh? W-Well, they say that if you want to teach anyone anything, you need to study three times as hard. So, this will count as training for you too, thus killing two birds with one stone...! 
 
 #v1910There, see? It is training for you after all, ...Miss Incompetent Furniture. 
 
 #v1963Y-You're the incompetent furniture! Beatrice-sama! Please, give me some sort of trial so that I can prove he's more incompetent than I am!
- 
+
 #v1660Ooh, sounds interesting! Let's hold a practice round, Kanon, Lucifeeeeeer!! 
 
 #v2096Ukyuu... I never thought I'd get beaten by Kanon nyeh... 
@@ -1346,7 +1347,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2098We need better treatment nyeh! I say that laborers and furniture should rise up nyeh! 
 
 #v1967Wh-What are you talking about?! I-It's not like I have any problems with how we're treated...!
- 
+
 #v2099If you don't speak up every now and then, you're selling your dignity nyeh! If you put your foot down, I'm sure your stock will rise with your sisters nyeh. 
 
 #v1968N-Nnngg...... Is that...true...? 
@@ -1356,13 +1357,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1969I-I don't really have any issues, uh, but 410 is very, umm...! 
 
 #v2100I want higher-quality carrots in our meals nyeh! And Lucifer-chan wants snacks and time for a midday nap nyeh!
- 
+
 #v2032Pu ku ku! Lucifer, you wanted time to take midday naps? 
 
 #v1970I-I never said I wanted time for naps...! 410...!! 
 
 #v2033Hmm, they seem adamant in their desire for better treatment... What shall we do?
- 
+
 #v2160U-Understood. I'll propose to Beato that we get you good carrots, snacks, and time for a nap... 
 
 #v2101That's not enough nyeh! We're gonna deal with Beatrice-sama directly, winning ourselves more and more favorable terms nyeh! 
@@ -1374,31 +1375,31 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1664Lowly furniture is demanding that I let them have snacks and naps? Know your place! 
 
 #v2103I'm not the one who wants to take naps, that's Lucifer-chan nyeh.
- 
+
 #v1665Oooh, Lucifer-chaaaaan? Do your duties as furniture leave you with that much free time? So much free time that it makes you sleeeeeeeeepy?! 
 
 #v1972F-Forgive me! 410 made me do it...! 
 
 #v2104Come on, don't forget your pride as the eldest sister! Your little sisters are watching you nyeh
- 
+
 #v1973Nn... Umm, uh, a-as the eldest sister, I d-demand that you supply the Seven Sisters of Purgatory with snacks and the right to take naps...! *stomp*! 
 
 #v1879Geez, this is such a pain... If only you'd just give them their snacks and naps...
- 
+
 #v1666I-I can't bear to let furniture defeat me and force me to accept their terms! Gaaaaah!! 
 
 #v2105There's no point saying that nyeh. If you don't accept our demands, Lucifer-chan's gonna quit being furniture...!
- 
+
 #v1667D-Do you really think I'd want to keep furniture that rises up against me?!! 
 
 #v1974I-I want to serve by your side always! The snacks and naps aren't really that... 
 
 #v2106We'll never give up our snacks and naps and delicious carrots nyeh! That's what Lucifer-chan's trying to say nyeh! I'm here as her representative nyeh!
- 
+
 #v1668D-Damn you, Lucifeeeeer!! Have you forgotten everything you owe me, to make such a demand as thaaaaaat?!! *glare*! Grrrrrr!! 
 
 #v1975Wait, the carrots obviously weren't my idea, right?! Beatrice-sama, forgive meeeeee!!
- 
+
 #v1669...Understood. Very well, I accept your terms. After all, I would be in quite a fix without the Seven Sisters. *sulk* 
 
 #v1976And now we're eating three meals of carrots a day!! My sisters all call me a moron and do horrible things to me...!! Stupid 410, waaaaaaaaah! 
@@ -1406,7 +1407,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1914That's an easy trial. If passing through it means I'll know that the ocean is blue... 
 
 #v2061Yeah, let's do our best. I'm sure we can do it.
- 
+
 #v1915Is it really okay to believe...in the power of the brooch that witch gave us? 
 
 #v2062If we don't, the magic will have no power. 
@@ -1414,45 +1415,45 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2034Ah, Zepar and Furfur's trial, is it? I do hope it bears fruit for you. 
 
 #v2063Thank you very much. To complete the trial, we have to win seven battles.
- 
+
 #v2161If we will suffice, shall we handle the fourth? 
 
 #v1916I appreciate the sentiment, but it won't be a trial if you go easy on us.
- 
+
 #v2035Pu ku ku, fear not. We aren't young enough to risk that. 
 
 #v1917The fourth trial is complete...! We mustn't lose...!
- 
+
 #v2162You've grown stronger. Power resides within people who have a goal to shoot for. 
 
 #v2064Even if we're furniture...?
- 
+
 #v2036Of course. Or rather, in the first place, do you think furniture has ever made an attempt to become human?
- 
+
 #v2163We'll cheer you on through the remaining trails. Let the magic of protection go with you. 
 
 #v2065Beatrice-sama...! We've won all the trials leading up to here...!
- 
+
 #v1670Splendidly done. That strength of will...can no longer be called furniture. 
 
 #v1918Of course! After all, I'm the zero on your roulette.
- 
+
 #v1671Interesting. So, this is a trial both for you and for me. Zepar and Furfur, this certainly is quite a diversion you've arranged for. 
 
 #v2066Beatrice-sama, give us our trial. In exchange, we'll become a trial for the witch.
- 
+
 #v1672We truly are on an even footing. ...Very well.
- 
+
 #v1673I, Beatrice, shall carry out your final trial! Come, furnituuuuuuure!! 
 
 #v1674Magnificently...done... Are you that intent on learning what love is...? 
 
 #v1919We have the right. The right to know if the ocean really is blue.
- 
+
 #v1675..You've overcome the trial that I am. You probably do have that right... However, let me make one final complaint... 
 
 #v2067...What is it?
- 
+
 #v1676...Two against one? ...That's not fair... Well, ...all right then... Do as best as you can manage...at your final trial... 
 
 #v1920...With this, have I really managed to become Human? It doesn't seem real yet. 
@@ -1461,26 +1462,27 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 
 #v1921Nee-san, what on earth is that final trial the witch mentioned, at the end? I thought it was supposed to end with 7 trials. 
 
-............ 
+............
 
-#v1922...Nee-san? 
+#v1922...Nee-san?
+Nee-san?
 
 #v2107Chiester 410, right here. Did you need me for something nyeh?
- 
+
 #v1880Let me be blunt. How high are we in the character popularity poll? 
 
 #v2108The high-rankers are all made of steel. There's no way for us to sneak in there nyeh.
- 
+
 #v1881But aren't strength and justice one and the same, along with popularity?!
- 
+
 #v1882I've decided! I'm gonna crush everyone who's more popular than me! A little bit of that, and wow, we'll be ranked number one!! 
 
 #v2109EVA-sama! Those two are always in the character poll top 3 nyeh!
- 
+
 #v1770Huh? The character poll top 3? Hey, yeah, now that you mention it. 
 
 #v1883I need all the characters more popular than me to disappear, so prepare yourself!
- 
+
 #v1821At your age, you'd be better off not trying to take on kids in a popularity poll. And speaking of age, it's about time you started acting yours. 
 
 #v1884Aaaaah!! I can't forgive you for being more popular than me despite being a hamburger! If only you'd just give up and die! 
@@ -1488,23 +1490,23 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1885Strength is justice...and popularity! Voting for frail heroines who'd fly away if you blew on them is so last century! 
 
 #v2110And in this century, power is still justice nyeh. Nyeh nyeh!
- 
+
 #v1886Did that grab us the top spot yet? 
 
 #v2111Checking the web, and it looks like we've still got plenty of rivals left nyeh.
- 
+
 #v1887Come on! Let's turn all our higher-ranked rivals into <pop>, <cute> lumps of goo...!! 
 
 #v1677Were you looking for the eternal number one?! That would be me, wouldn't it?! You've kept me waiting, EVAAAAAAA!! 
 
 #v1888Why is this kid number one...?! What are these 21st century kids into...?!
- 
+
 #v1678I'd say they're quite perceptive! If they can understand my charm, perhaps Humans aren't quite so bad! 
 
 #v2112She'll definitely be number one in the next popularity poll nyeh. What'll we do nyeh? 
 
 #v1889Isn't it obvious?! I'll beat everyone who's more popular than me to death!! Give up and hand over your number one slot!!
- 
+
 #v1679Hyahyahya! How pleasurable are the howls of low-ranked, stagnant characters!? I'll put up with your pathetic challenge, defeat you, and leave me looking even better!! 
 
 #v1680Th-There's hardly any point to having a character poll if I'm not in it, right?! That'd be like having coffee without cream...! 
@@ -1528,25 +1530,25 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v1894Huh? What the heck? ...Does that mean... 
 
 #v2328I'm tired of this! I hate having my role be 'the kid who gets killed' all the time!
- 
+
 #v2297I agree completely. It's about time we had a chance to shine. 
 
 #v2329And anyway, if we leave everything to Battler, this crime will never end!
- 
+
 #v2298Exactly. Let's take on the crime ourselves this time around. 
 
 #v2234What?! I'm incompetent, so you want to swap main characters?! I-I've been giving it my all... in my own way! 
 
 #v2330How many times are you gonna get us killed before you're satisfied?! I've had enough!
- 
+
 #v2273...They have a point. You are a moron, Onii-chan. 
 
 #v2299We've decided to search for the culprit ourselves. Battler-kun, it's time to step down.
- 
+
 #v2235B-But I'm the main character...! I can't do that...!! 
 
 #v2274Yup, Onii-chan lost. Time to take you back to the future.
- 
+
 #v2236Noooooooo, I'm the main character, gaaaaaaaahhhh... 
 
 #v2300Leave the search for the culprit to us. Let's go. We're the main characters now. 
@@ -1556,15 +1558,15 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2301And we've already got a lead on the culprit. Come on, let's go...! 
 
 #v2332And with that out of the way... The culprit is you! How's that? I'm spot on, aren't I?!
- 
+
 #v2209Whaaaat?! Aren't you going to try and reason out who I actually am or anything like that?! Wow, it looks like I was the culprit all along! What a shocker! 
 
 #v2302Who you are isn't the problem. We're here to stop you from committing these crimes.
- 
+
 #v2210I-I would have hoped that you'd worry a bit more about my identity and motives and stuff... Oh, now I get it, all those crimes were my fault the whole time! Wooow, whoooa, huuuuh! 
 
 #v2303I have an idea as to your identity. ...Do you want me to say it out loud?
- 
+
 #v2211...Hmph. ...Very well then. I'm perfectly fine being a witch of unknown origins! Come now, if you think you can defeat me, let's see you try!! 
 
 #v2212Nggg...ggghhh... It's my...utter defeat... 
@@ -1592,25 +1594,25 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2214I suppose this is also one of the endings I hoped for. ...Victory is yours, Ushiromiya...George... 
 
 #v2440Yes. ...I'll accept this engagement ring.
- 
+
 #v2309I will make you mine. This battle is unavoidable if I am to accomplish that. 
 
 #v2441...Yes. I've also decided to show my resolve with my strength.
- 
+
 #v2310I'll show you my strength. So show me yours, too. 
 
 #v2337So you came, Shannon, George nii-san! Come on, let's settle this! 
 
 #v2442Yes, Milady. We'll overcome this trial and be joined together.
- 
+
 #v2367And we will overcome this trial...and step into a new world. 
 
 #v2311If fate had permitted it, ...I would have wanted the four of us to step into it together.
- 
+
 #v2338There's no helping it. Only one pair will be joined. Let's get this started!! 
 
 #v2443I'm so sorry, Milady, Kanon-kun...! Please forgive me...!
- 
+
 #v2339Sure, no hard feelings... Go and find happiness, dammit! 
 
 #v2312Shannon, you aren't furniture anymore. You've gained the right to be joined with another. 
@@ -1620,33 +1622,33 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2313We just have to blaze a path forward. I won't let anyone get in our way! 
 
 #v2314I need you to acknowledge our marriage, Mother. No one can tear us apart.
- 
+
 #v2287George! How many times do I have to tell you?! That woman isn't worthy of the family name!!
- 
+
 #v2215...Shannon, you did well to make it this far. ...Are you fully prepared? 
 
 #v2445Yes, Beatrice-sama. ...I'm prepared to abandon everything...in order to be joined with him.
- 
+
 #v2216Very well. ...Then prove it. Let us clear your path.
- 
+
 #v2288Shannon, you little thief! George deserves better than you! I'll mush you up so bad, you'll never appear again!! 
 
 #v2315So long, Mother. We will find happiness. That's for certain.
- 
+
 #v2289Geooooooorge, gyaaaaaah, nooooooooo...!! 
 
 #v2446Forgive me, Eva-sama... ...I'll definitely...bring George-san happiness.
- 
+
 #v2217Well done, you two. I've witnessed your resolve. 
 
 #v2316We swear to bring each other happiness, no matter what. ...Enough for Jessica-chan and Kanon-kun as well. 
 
 #v2447...And also for you two.
- 
+
 #v2218Indeed. And don't you forget it. ...You two succeeded in gathering the love that had split into three. Do not forget the two pairs of lovers you stole it from. 
 
 #v2317I won't. No matter what. ...Please, watch over us for all eternity.
- 
+
 #v2219...Hmph. Ronove, are you there?! Now then, let us begin their wedding ceremony! From the demon world to the heavens! Summon honored guests from everywhere and hold the greatest of all weddings! 
 
 #v2448...George-san. ...We'll be together forever now, right? 
@@ -1656,7 +1658,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2340You're a guy, aren't you?! Then be a man and spit it out! 
 
 #v2368But...I am furniture.
- 
+
 #v2341There it is again! Every time you open your mouth, it's furniture, furniture, furniture! I'll whip you into shape until you grow a pair! 
 
 #v2369M-Milady, that hurts, please let go...! 
@@ -1664,25 +1666,25 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2370...But...I am furniture... 
 
 #v2342Then become human! Change from being furniture to being human! Find the power to do that!
- 
+
 #v2459Furniture is furniture nyeh. Kanon will be furniture no matter what he does nyeeeh, nihihihi! 
 
 #v2343Then we'll surpass furniture and make you human! Kanon-kun is about to become more than furniture!
- 
+
 #v2388You think incompetent furniture like Kanon can surpass us?! I'll make you regret your pride! 
 
 #v2344Hey, did you see that?! Kanon-kun isn't furniture like you anymore! 
 
 #v2371...Can I really...surpass being furniture...?
- 
+
 #v2345You can! You've got me with you! You can find the courage! 
 
 #v2372...Courage... ...Does it exist in my heart as well, ...I wonder...?
- 
+
 #v2346Looks like you still don't have the guts to do it! I'll toughen you up even more! Come on, keep 'em coming! 
 
 #v2390So then, Battler-sama, what will the next scenario be?
- 
+
 #v2237Hmm, yeah, what'll we do with it this time...? Oh, hi Jessica. 
 
 #v2347Come on, Kanon-kun! You've got the confidence now! Say it! 
@@ -1704,9 +1706,9 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2375I...umm...... .........! 2 8M8
 
 #v2376(...Courage... ...Give me...courage......!) 2 8M8
- 
+
 #v2377I-I... ...I want to play music with Milady...!!
- 
+
 #v2239Oh, is that it? Sure. You could perform together at the school cultural festival. Ronove, write up a scenario like that. 
 
 #v2350Kanon-kun, you said it...! You aren't furniture anymore, ...you're human...!! 
@@ -1722,21 +1724,21 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2401There's no way for the culprit to escape Rokkenjima. They must be on this island. 
 
 #v2240...Aunt Rosa, don't tell me...that you think one of us is behind it...
- 
+
 #v2402If there's no one on this island other than the 18 of us, then it follows, doesn't it? 
 
 #v2241I can't believe...that one of the family members or the servants is the culprit...
- 
+
 #v2403I don't want to think that either. So, let's start searching. Searching for a 19th person. 
 
 #v2404Pardon me, ...but please give me your alibis.
- 
+
 #v2449I-I was in the servant room at the time...! Right, Kanon-kun?! 
 
 #v2405The servants might all be in on this together. ...So, you have no other alibi? 
 
 #v2242Stop that, Aunt Rosa! If you suspect people like that, no one's gonna be able to prove an alibi!
- 
+
 #v2380...It's only natural. You can only be sure someone isn't a culprit if it's yourself...or a corpse. 
 
 #v2406......Are you a sheep? Or a wolf? Tell me. 
@@ -1748,39 +1750,39 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2244Are you okay, Shannon-chan, Kanon-kun...? Just try and hold out until the typhoon passes... 
 
 #v2408True. When the police come, let's make up. ...Until then, don't resist, okay?
- 
+
 #v2450...Yes, Rosa-sama... 
 
 #v2245None of them were suspicious... There really isn't a culprit...!
- 
+
 #v2409That's true enough. None of them were suspicious. ...So now we know.
- 
+
 #v2246We know? ...What do we know?
- 
+
 #v2410Battler-kun, I've concluded that you're the wolf. ...These crimes wouldn't have been possible for anyone but you.
- 
+
 #v2247Th-That's insane!! Wh-Why would you say thaaaaaaat?!!
- 
+
 #v2220...How sad. The red truth doesn't exist in the human world. Therefore, no sort of truth will reach Rosa.
- 
+
 #v2411Battler-kun, you were the culprit, weren't you...? How could you...do that to everyone...?!!
- 
+
 #v2248Heheheh... Took you long enough to notice, ...Aunt Rosa...
- 
+
 #v2249Stop it!! That wasn't me! Don't point your gun at me!! 
 
 #v2250How can I get you to believe me, Aunt Rosa...?!!
- 
+
 #v2412How could anyone but you have put that letter there? And there's much more than just that. If you can explain it all, I'll believe you. 
 
 #v2251I told you, I'm not the culprit! If we're gonna go there, what about you?! Can you prove your own innocence?!!
- 
+
 #v2413No one can trust anyone but themselves. So, it's only natural that they suspect everyone else. Isn't that how the world works? 2e 8M8
 
 #v2414If you believe, you'll be betrayed. If you don't believe, no one will betray you. You'll avoid being sad for all eternity. 
 
 #v2252...You're so...pitiable, Aunt Rosa. ...Have you been living that way...all this time...?
- 
+
 #v2415I'm sure your innocence will be proven eventually. ...When it is, let's make up. ...In the next life. 
 
 #v2416Beatrice, you're there, aren't you?! The promised time has come! ...Show yourself now...and take Maria and me from this place!! 
@@ -1798,17 +1800,17 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2422If you solve the riddle of the epitaph, ...you get the gold, right? 
 
 #v2221Indeed, I promise it! If you manage to spectacularly solve the epitaph's riddle, I shall give you 20 billion yen in gold!
- 
+
 #v2423A witch never goes back on her word, right? I'll solve it. You can count on that!! 
 
 #v2222Well said. Then allow me to watch as you do!
- 
+
 #v2424I'll definitely get that gold. With 20 billion yen, no dream would be impossible! 
 
 #v2319...In other words, the first twilight's connection to a quadrillion is- 
 
 #v2425Would you mind telling me a bit more about that?!
- 
+
 #v2253Sorry, but no. After all, we're after the gold too! 
 
 #v2223*cackle* Of course they won't tell you that easily. 
@@ -1828,33 +1830,33 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2429Shut up! When is it ever wrong to work hard in search of happiness?! 
 
 #v2225What a coincidence. To think that Eva would solve the epitaph too...!
- 
+
 #v2290I'm the one who's surprised! So, you solved it too, Rosa? It looks like you were just a little too late! 
 
 #v2430...Nngg. I can't believe Nee-san beat me to it...!
- 
+
 #v2460What'll we do nyeh? Are you gonna split it evenly like you agreed to nyeh?
- 
+
 #v2291Of course I'm not giving it to them! Rosa, if only you'd just give up and die! 
 
 #v2431Sorry, but I'm taking my share. I'm taking every last yen's worth! I definitely won't give it up!
- 
+
 #v2292Even if you pay off that debt of yours, there's no way that man's coming home! If you've even managed to realize that yourself, why are you so fixated on getting the gold? 
 
 #v2432...Sh-Shut up!! You don't know how I feel!!
- 
+
 #v2293Yeah, that's true, I don't know!! I've been wanting to have a sibling squabble with you for ages!! 
 
 #v2433As we decided, I'm taking my share. Get it as cash and transfer it over to me within three months.
- 
+
 #v2294...*sob* Okay, I'll transfer it over to you... 
 
 #v2434With this, I'll be able to pay off that man's debt. ...Now, I'm...
- 
+
 #v2295...Are you still not over that man who got you to be a cosigner and then ran away with the money? 
 
 #v2435...Who knows. Certainly not me. But there's one thing I can say. ...With this, I've managed to put an end to one of my regrets.
- 
+
 #v2296I see. Now, you're finally back to being your own woman... 
 
 #v2436Wrong. I'm back to being a single mother, with a daughter to look after. 
@@ -1868,21 +1870,21 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2438Aaaah! I love open air baths. I love crab and sea urchin It feels like my skin's getting younger. Heheh, and who knows, maybe there's a new love waiting for me... 
 
 #v2381...So this is where you were, Battler-sama.
- 
+
 #v2255How is it going? 
 
 #v2382...It's proceeding just as the advance notice said. No problems have occurred.
- 
+
 #v2256This is boring. 
 
 #v2383...Boring...?
- 
+
 #v2257How about I give them a chance to fight back against my crimes? ...Heheheheheheheh! 
 
 #v2353Battler?! Wh-What kind of joke is this?! 
 
 #v2258You still think this is a joke? ...Or do you want to hear how Aunt Natsuhi begged in her very last moments...?
- 
+
 #v2354...Y-You bastard...!! You really did that...to everyone...?!! 
 
 #v2384Milady, prepare yourself. ...After all, that is the theme of this game. 
@@ -1890,7 +1892,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2259Let's hear you beg, too. ...Entertain me, Jessica. 
 
 #v2260What's up with you? Are you crying?
- 
+
 #v2355I...don't believe it... ...How could Battler...be the culprit...? 
 
 #v2261A surprisingly dull way to die. ...I expected you to make more entertaining sounds than that. ...You've disappointed me, Jessica. 
@@ -1902,11 +1904,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2321...I don't want to believe it, but I've concluded that you're the culprit, ...Battler-kun. 
 
 #v2263Finally. I thought you at least would've managed to spot it long ago.
- 
+
 #2322Oh, I did. ...However, because I was too naive to believe it, more and more people have died. 
 
 #v2264So, you acted all flustered and locked your true thoughts away, and all the while kept an eye on me. ...Hahah, hahahahahahaha! You're quite the actor, George-aniki!
- 
+
 #v2323How about we both stop pretending? I won't wait for the police to decide what to do with you. 
 
 #v2265I like that look on your face. ...Heh, ...hahahahahahahaha! I'm finally starting to laugh! Let's put an end to this boring party! 
@@ -1914,11 +1916,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2324...I don't get it... Why would you...have to do something like that...? 
 
 #v2266Heh. The crime was possible for me. That's all this tale is about.
- 
+
 #v2325I don't understand...what you're saying... ...Even if the crime was possible for you, what sort of reason... what sort of need could you have had that drove you to it? 
 
 #v2267Motives aren't necessary in orthodox mystery novels. ...If I could've committed the crime, then I could've been the culprit. That's all there is to it. I'm merely one of those possible answers.
- 
+
 #v2326...What are...you talking about...? ...Nnng...... 
 
 #v2227Heheheh. George, it is not for you to understand. This is how my cat box is to be enjoyed. 
@@ -1938,7 +1940,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2356Yeah, could there be something really convenient, like shooting an arrow through the heart of the person you're after?! 
 
 #v2452Beatrice-sama, don't you have any magical items that could shoot an arrow through the heart of the opposite sex...?
- 
+
 #v2231Roses of the demon world do have the power to steal hearts. However, they only bloom rarely. 
 
 #v2357A demon rose that can strike at the heart of the opposite sex... ...Let's look for it! And make our love come true! 
@@ -1948,19 +1950,19 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2453I-Is that true?! 410-san, please tell me where they were...! 
 
 #v2358If we could make a bouquet of those and give them out for Valentine's Day, that'd be just perfect! Eheheh!
- 
+
 #v2462Nihihihi, not telling you where they are is what makes it a trial of love nyeeeh. If you wanna find them, look for yourself nyeh! 
 
 #v2359Hah, are you saying we've gotta make you tell us by force?! Perfect. I'll show you my flaming fists of love...! 
 
 #v2360Come on, tell us! Where are the demon roses blooming?!
- 
+
 #v2463I don't know where they're blooming nyeh... But I did see some fallen petals nyeh... 
 
 #v2454Which proves that they're definitely blooming somewhere on this island...! 
 
 #v2361Yeah! I'm getting all fired up! Let's keep searching. This has to be a trial of love! Let's go, let's go!
- 
+
 #v2389What the hell is going on here?! I was just standing next to her, and then I got beat up! Waaaah!! 
 
 #v2392Roses of the demon world...? Well now, I'm afraid I haven't the slightest idea. 
@@ -1968,7 +1970,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2455Milady... Why did you think Ronove-sama would know...? 
 
 #v2362I remembered something! ...That's right, this guy is the key to the demon roses!
- 
+
 #v2393Ah. Come to think of it, roses do bloom from my blood, don't they? I had completely forgotten. 
 
 #v2456Y-Yes, come to think of it...! So, if we're looking for demon roses on this island...! 
@@ -1980,13 +1982,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2457I-Incredible... Roses really are blooming from his nosebleed... 
 
 #v2364I'm gonna give Kanon-kun a huge bouquet, so I'd better squeeze a bit more out! Come on, come on, come on!
- 
+
 #v2395M-Maidens can be quite ruthless creatures when it comes to romance... 
 
 #v2458George-san, please accept this flower.
- 
+
 #v2365Kanon-kun, please accept this bouquet...!!
- 
+
 #v2327This rose is beautiful. Thank you, Shannon.
 
 #v2387...Thank you very much, Milady... But where did you find this many roses...?
@@ -2002,25 +2004,25 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2275What, are you blind? Anyone could tell by looking! 
 
 #v2466No, no. The truth could be the exact opposite, which is what makes this subject so deep.
- 
+
 #v2276No! At least when it comes to this, I'm definitely right! There's no way I'm backing off! 
 
 #v2467Oh my. In that case, perhaps we should ask someone else's opinion? 
 
 #v2464That's a deep problem nyeh... I can't sort it out easily nyeh!
- 
+
 #v2277There's nothing deep about it. Anyone could solve this at a glance!
- 
+
 #v2468It's proving surprisingly hard to find a good second opinion... Ah, Beato, perfect timing! @  h
- 
+
 #v2278Give us your take on this too. Of course, you agree with me, right?!
- 
+
 #v2232Huh? What is this drivel?! And anyway, 'that' belongs to me! Both of your opinions are rejected! 
 
 #v2279'It' doesn't belong to anyone, understand? Don't pretend to own what's public property! 
 
 #v2469At any rate, you must tell us your view on the subject, Beato. You agree with me, yes?
- 
+
 #v2233I-If I had to say one way or the other, ...Ange's version is more to my tastes. 
 
 #v2280There, you see that?! You're overthinking it so much, you can't see crap! 
@@ -2028,13 +2030,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2470You're the ones who don't understand! I must be right! 
 
 #v2281Aaah!! Onii-chan and Ronove are together!
- 
+
 #v2269You got a problem with that...? We're having our afternoon tea. Ronove's running the whole show. 
 
 #v2282You're letting Ronove do it all?! There, did you see that?! 
 
 #v2471No, no, we cannot be sure yet! Looking merely at the surface will tell you nothing!
- 
+
 #v2398If you wish to join us, I could prepare some more tea. 
 
 #v2283Yeah, like we'd get in the way! Anyway, which one of you is which?! I'm gonna find out! 
@@ -2044,9 +2046,9 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v2284Watching them fight just now, I've got a pretty good handle on Onii-chan's role. And it looks like I was right! 
 
 #v2472Oooh, how humiliating... To think that I, who was once considered a foremost expert, could be so blind...
- 
+
 #v2271...Ronove, do you have any idea what all this is about?
- 
+
 #v2399I...doubt you will find it amusing, Battler-sama. 
 
 #v2285Onii-chan's the uke! Bat/Ron isn't bad, but seriously, Onii-chan's totally the uke! 
@@ -2064,15 +2066,15 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6344You certainly do exhibit excellent conduct, have a superb academic background, and possess great skill in the martial arts, George-sama. 
 
 #v6229But something's missing! Why am I still rough around the edges?!
- 
+
 #v6345The path to becoming a true man is a difficult one. ...I wonder, would you really be able to keep up? 
 
 #v6230Tell me how to become a man! This time, I'll be reborn for real!! ,2Q 8N8
 
 #v6141What's George onii-chan lacking? Obviously, he's not enough of a sadist!
- 
+
 #v6467George-san, kindness alone will get you no further than friendship. A woman's heart desires roughness from time to time.
- 
+
 #v6142This is totally the era of the sadist! Cool, intellectual sadists are what these times need! 
 
 #v6346Do you understand? A man's charm does not come from kindness alone. 
@@ -2082,7 +2084,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6468Come on, put your heart into it! Yes, fill yourself with a quiet anger. Try again! 
 
 #v6232...Now do you get it? Stay quiet and just do as I say...
- 
+
 #v614370 points! You still need more training, but Dark George might not be half bad! 
 
 #v6347Splendid, George-sama! If you keep this up, your life as a hot stud is just around the corner! 
@@ -2090,13 +2092,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6233Y-You think so...? A-All right, I'm gonna be reborn as Dark George...! 
 
 #v6234Hey, Shannon. ...I've come to make you mine.
- 
+
 #v6387Huh? G-George-sama...? Y-You seem different somehow...
- 
+
 #v6336What are you trying to pull, four-eyes? I'll tear your relationship apart! 
 
 #v6235Not happening. Your new job will be crawling on all fours and licking my shoes.
- 
+
 #v6337Wh-What...? Wh-What's he talking about...?! 
 
 #v6348Pu ku ku! Now, let us see if you are a match for George-sama, now that he has awakened as a glasses sadist. 
@@ -2104,11 +2106,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6338I-I don't believe it. How can George be this strong...?! 
 
 #v6236Get on the floor. And kiss my shoes. Disobedience will not be tolerated.
- 
+
 #v6339I-I have to do this...for George...?! ...B-But...I can't disobey him... 
 
 #v6237Shannon, kneel. And swear your eternal love to me. ...I'm not letting you say no, either.
- 
+
 #v6388Wh-What happened...? You seem...different somehow today... 
 
 #v6238Good girl, Shannon. And you too, Lucifer. ...Heheheh, hahahahahahah! 
@@ -2128,7 +2130,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6242Hey, if it isn't Beato. Why did you call me to a place like this? 
 
 #v6067Can you truly love Shannon for the rest of your life?! I'm here to test you!
- 
+
 #v6243Oh, you don't have to ask. I'll prove it to you. 
 
 #v6068*cackle*cackle*! Talk tough while you can! Tremble at my judgement! 
@@ -2144,11 +2146,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6070*cackle*cackle*! What do you say, George?! Can you still love Shannon after that? Huuuuh?! 
 
 #v6245This is my answer! I will love Shannon, and only Shannon, forever...!!
- 
+
 #v6213George, don't be fooled! I'm sure she's just pushing them up anyway! 
 
 #v6246I wasn't attracted to Shannon just because of her breasts! Not just because of her breasts!!
- 
+
 #v6353Pu ku ku! Nothing triggers a man's desire more than that part of the body! The greater the size, the greater the spirit! 
 
 #v6071I see, George is weak against large breasts. I see, I see... *cackle*cackle*...! 
@@ -2158,9 +2160,9 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6340*giggle*... Why don't you forget Shannon and have some fun with us...? 
 
 #v6247Th-The Seven Sisters and the Chiesters?! Wh-What business do you all have with me...?!
- 
+
 #v6341Hey, George-sama, come and see which one of us has the biggest boobs...
- 
+
 #v641645's are sensitive, and 00's are perfectly shaped nyeh. But mine are the biggest nyeh. 
 
 #v6072*cackle* Quite a sight, is it not? All the bountiful, beautiful, bouncing breasts of the Seven Sisters and the Chiesters! Let Shannon go, and I'll give you this harem of 10 pairs of massive breasts. What do you say, Ushiromiya Geooooorge?! 
@@ -2168,7 +2170,8 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6248Shannon, I love you more than anyone else in the world. That will never change, for all eternity. 
 
 #v6389...G-George-san...
- 
+...G-George-san...
+
 #v6249But...my hands have already been dirtied. ...I don't have the right to touch you anymore. Forgive me, Shannon... 
 
 #v6390H-Huh...?! What do you mean by that?! Please wait, George-saaaaaan!! 
@@ -2194,19 +2197,19 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6361I solved the epitaph too, right? Don't you think it's only fair that I also become a witch? 
 
 #v6214You want to become ROSA Beatrice? I didn't think you were such a maiden at heart.
- 
+
 #v6362E-Even I want to use magic while wearing a cute outfit. Got a problem with that?! 
 
 #v6215No, not at all! I'll lend a hand in making that dream come true! 
 
 #v6073What, Rosa wants to become a witch too?! Oho, I see!
- 
+
 #v6469Your training will be quite grueling. Are you prepared? 
 
 #v6363I-It's not like I want to become a witch. I just want to use some sparkling magic while wearing cute clothes... 
 
 #v6216So, you'd rather be a magical girl than a witch. *giggle* That's our Rosa!
- 
+
 #v6074Hmmm! In that case, let's give you a little test to see if you have what it takes! 
 
 #v6364H-How's that?! Do I have what it takes?! 
@@ -2214,15 +2217,15 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6217So, even after becoming a mother, you still can't get over your dream of being a magical girl! 
 
 #v6365'At your age!' Or, 'even though you have a kid!' If I hear anything else like that, I'll knock you to the ground!
- 
+
 #v6075I-I would never! Now then, if you win just three more times, I'll make you a magical girl!
- 
+
 #v6470M-Magical girls instead of witches... Will there be no one to follow in my footsteps? Tohoho...ho... 
 
 #v6161Pfft, *giggle*! A magical girl? Don't you mean a magical MILF?
- 
+
 #v6105...There might be quite a lot of demand for that in some QUARTERS.
- 
+
 #v6162Why don't you call yourself Pretty MILF Soldier Sailor Rosa? Heheheheh! 
 
 #v6366...Wh-Who are you calling a Pretty MILF Soldier...? ......*snap* 
@@ -2256,11 +2259,11 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6471...P-Perhaps it wouldn't be so bad...if I joined in... *blush*... 
 
 #v6418...Did you call for me nyeh, Black Witch Rosa-sama?
- 
+
 #v6372You've gone a bit too far. ...You understand, right? 
 
 #v6419Y-Yes ma'am!! M-My apologies nyeeeh!!
- 
+
 #v6373Come, it's time to tidy up... Down to the last speck... 
 
 #v6144A-Aunt Rosa?! What are you trying to pull?! 
@@ -2268,13 +2271,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6374It looks like you've been playing a bit too roughly. ......It's time to tidy up, Ange-chan. 
 
 #v6420You can't disobey the Black Witch nyeh! Stop struggling and let yourself get tidied up nyeh!
- 
+
 #v6278Who cares about the black witch...?! If you think you can tidy us up, then do it!! 
 
 #v6375Let's get started!! I won't leave a single fragment of anybody behind!!! 
 
 #v6279I-It's no use... Maria-sama, ...I'm so sorry...
- 
+
 #v6145Stop, don't destroy our dreams...!! Nooooooooo!! 
 
 #v6376Forgive me, Ange-chan, but all dreams must end. 
@@ -2286,13 +2289,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6392Please, stop...! Why are you crushing the children's dreams?! 
 
 #v6378If you have a dream, put it on drawing paper. It looks like your dream's gotten a bit too big...
- 
+
 #v6078...The Black Witch who destroys the world of dreams, is it...? I've heard the rumors... 
 
 #v6422She's a terrifying witch who smashes kids' dreams into little bits nyeh. None can oppose her nyeh... 
 
 #v6379Come, it's time to tidy up... Get it absolutely clean, without a smidgen of dirt...!!
- 
+
 #v6393I-I won't let you...! I'll protect Maria-sama's dreams...! 
 
 #v6394Please, don't do it...! That castle belongs to Maria-sama...!! 
@@ -2320,7 +2323,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6164Amakusa was planning to kill you. It's an easy bit of reasoning that anyone could reach. 
 
 #v6146...Every last one of them just wants me dead. ...Wonderful.
- 
+
 #v6165So, what are you going to do, comrade Ange? Wanna live a bit longer just to piss them off? 
 
 #v6147I've got no reason to die for them. I'll keep living and living...until I reach my truth! 
@@ -2338,15 +2341,15 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6149...Who the culprit is...might be completely meaningless. 
 
 #v6168What's wrong, comrade Ange? Has the Witch of Truth stopped seeking it?
- 
+
 #v6150After all, ...to me, who the culprit is doesn't really matter. 
 
 #v6169To you. What truth are you actually looking for?
- 
+
 #v6151The truth I'm looking for... ...That's... 
 
 #v6096Sorry, Ange... I'll definitely come back, ...so please wait just a bit longer...
- 
+
 #v6081It's useless! Battler will never come home! None can escape from my game board! 
 
 #v6152In the first place, I really don't give a damn about your game. The truth I'm looking for is... 
@@ -2380,13 +2383,13 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6107It has been too LONG. I have come for some TEA. 
 
 #v6472Since we've finally met again, would you care to join me on an intellectual journey?
- 
+
 #v6108We have not played together for quite some TIME. I would be happy TO. 
 
 #v6473Then I'll have to find us a special book. I believe I had an interesting one written by that child somewhere around here... 
 
 #v6225What do you think?! It's a perfect closed room! Now that's what I call a magical crime!!
- 
+
 #v6082Come! I shall cut down any sort of trick you have! 
 
 #v6109That is quite an amusing closed room MURDER. It feels like it should be worth SOLVING. 
@@ -2396,7 +2399,7 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6110Lady Beato, Lady EVA, allow us to sample your closed ROOM! 
 
 #v6083Hahah, you totally got me! I never thought you'd see through my alibi trick!
- 
+
 #v6226Come on! You give out too many hints! What a waste of a perfectly good trick! 
 
 #v6111That was quite CHALLENGING. I want to keep figuring out such TRICKS! 
@@ -2406,21 +2409,21 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6112Come, we'll welcome any sort of closed ROOM! Let us expose trick after closed room TRICK! 
 
 #v6476This looks like a difficult closed room. Beato was apparently quite confident in it.
- 
+
 #v6354Pu ku ku. You two won't be able to break this closed room. 
 
 #v6113We will break through any sort of closed room TRICK. Defend YOURSELF...!
- 
+
 #v6355You won't break it. This closed room has no trick. 
 
 #v6114There are no closed rooms without TRICKS! Allow me to challenge YOURS! 
 
 #6115This closed room is STRANGE. ...There really are no tricks, just Battler and Ronove shut up inside IT.
- 
+
 #v6356Pu ku ku. Welcome to the forbidden closed room, you two. The forbidden room where Battler-sama and I are locked up for all eternity...
 
 #v6097Ronove, ...is someone there...? There's no way anyone but us could be here, right...?
- 
+
 #v6357Oh, my apologies, Battler-sama. ...I'm sorry, that was a kitty just now. My adorable pet kitty... 
 
 #v6116Why are Battler and Ronove lying on a canopy bed TOGETHER? This closed room is very HARD. 
@@ -2442,19 +2445,19 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6053...Oh, it's you. ...Are you still here? 
 
 #v6396...I'll stay with you always.
- 
+
 #v6054With me, ...and not Battler? ...You know who I am, don't you? 
 
 #v6397...Yes. And with that in mind, ...I ask that you take me with you.
- 
+
 #v6055You're a woman with strange tastes. ...Okay, I'll grant that wish of yours. 
 
 #v6254Sh-Shannon?! What is this all about...?! Tell me...!!
- 
+
 #v6385Get back, George-kun!! Where were you two when the crime took place? Do you have an alibi?! 
 
 #v6056...An alibi? ...I've got even less of those...than I have warm blood flowing through my veins.
- 
+
 #v6255Y-You two are the culprits?! Shannon, answer me!! I don't want to believe it...!! 
 
 #v6057Shannon. There's no need to answer. ...Just follow along behind me. 
@@ -2466,17 +2469,17 @@ Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Ir
 #v6399Forgive me, George-sama. ...Right now, ...I'm not the Shannon you loved... 
 
 #v6058That's right, you aren't Shannon. ......You're Sayo. That's your true name.
- 
+
 #v6400...Yes. ...I dedicate my true name...to you... 
 
 #v6059You're pretty cold-blooded...for a woman who looks like she couldn't kill a fly. ...But I can't say I dislike that, either... 
 
 #v6258Shannon?! Battler?! ...Wh-Why are you two the culprits?! Why?!!
- 
+
 #v6280Milady, get back. ...Right now, ...she isn't the Shannon you know. 
 
 #v6060That's right. ...After abandoning her false name, ...Sayo has regained her true one.
- 
+
 #v6281...Is that...your answer, Nee-san...? 
 
 #v6401Would it be so bad...to have an answer like this as one grain amidst a billion Fragments...? 
