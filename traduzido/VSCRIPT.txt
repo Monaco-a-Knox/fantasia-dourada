@@ -11156,10 +11156,10 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 
 Undefined line - Partner Conversations - First Person
-Linha indefinida - Conversa de Duplas - Primeira Pessoa 
+Linha indefinida - Diálogo das Duplas - Primeira Pessoa 
 
 Undefined line - Partner Conversations - Second Person
-Linha indefinida - Conversa de Duplas - Segunda Pessoa
+Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v0334Hey, that's not a bad disguise...! I'll rip it right off! 
 
@@ -13330,13 +13330,13 @@ Não ignora o coração. Não deixarei que afirme que entende de mistério.
 #v3566How sad. ...Even when faced with myself, I can't feel fear.
 
 Undefined line - Pre-Match Conversation 1
-Linhas indefinidas - Conversa Pré-Jogo 1
+Linhas indefinidas - Diálogo Pré-Jogo 1
 
 Undefined line - Pre-Match Conversation 2
-Linhas indefinidas - Conversa Pré-Jogo 2 
+Linhas indefinidas - Diálogo Pré-Jogo 2 
 
 Undefined line - Pre-Match Conversation 3
-Linhas indefinidas - Conversa Pré-Jogo 3 	
+Linhas indefinidas - Diálogo Pré-Jogo 3 	
 
 #v3567From now on, you're gonna be my pet. ...Come on, ...strip.
 De agora em diante, você será meu animal de estimação. ...Vamos, ...tire tudo.
