@@ -22,7 +22,8 @@ Nihihihi. Mulheres são garotas, não importa o quão velhas fiquem, nyeh.
 #v1683It's about time you gave up playing witches, Aunt Eva.
 Já está na hora de parar de brincar de bruxas, tia Eva.
 
-#v1824Who are you calling 'aunt'?! I am EVA Beatrice, Head of the Ushiromiya Family! 2Quem você está chamando de 'tia'?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
+#v1824Who are you calling 'aunt'?! I am EVA Beatrice, Head of the Ushiromiya Family!
+Quem você está chamando de 'tia'?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
 
 #v1825If only you'd learn to respect the new Golden Witch...while you get your guts ripped out and die! 
 Se você ao menos aprendesse a respeitar a nova Bruxa Dourada...enquanto tem suas entranhas arrancadas e morrer bem devagar!
@@ -181,7 +182,7 @@ Se alguém não o parar, vamos ter que começar a evitar os menores de idade. Pu
 Gah, você não pode simplesmente escolher entre mistério ou fantasia, seu idiota?! É melhor eu te dar uma boa surra e alterar o enredo em algo mais decente!
 
 #v1698Gah, pipe down, will you?! Will it be a leopard-print string bikini, or a school swimsuit?! I'll let you pick!! 
-Gah, que tal se acalmar? Vai ser o fio dental de leopardo ou um maiô escolar?! Eu te deixo escolher!!
+Gah, que tal se acalmar? Vai ser o fio dental com estampa leopardo ou um maiô escolar?! Eu te deixo escolher!!
 
 #v1984And so, the reckless petitions made to Game Master Battler-sama were rejected one after another. 
 E assim, as imprudentes petições feitas ao Game Master Battler-sama foram sendo rejeitadas uma após a outra.
@@ -202,7 +203,7 @@ O quê? Só você e eu? E o que vamos fazer? Não consigo pensar em nada.
 Está falando...do Grande Harém de Peitos, Trajes de Banho e Bronzeador...?
 
 #v1987Perhaps I should get out my special silver bikini briefs!
-Talvez eu deve preparar minhas sínteses 
+Talvez eu deve preparar minhas amostras especiais de biquínis prateados!
 
 #v1988Then I could rub rose-tinted suntan lotion all over your back and rear. How does that sound?
 E então esfregar uma loção de bronzear cor-de-rosa por toda sua costas. Que tal?
@@ -276,7 +277,8 @@ Eu superei o desafio do epitáfio, e agora tudo pertence a mim. Algum problema?!
 #v1579But not our game board! The two of us won't let anything disturb our fight! You've gone too far. It's time for you to give us our battle back!!
 Mas não o nosso tabuleiro. Nós não deixaremos que perturbe nosso embate. Você já foi longe demais. Está na hora de devolver nossa batalha!!
 
-#v1828You're talking about something that happened when you were the witch, right? 2Está falando sobre algo que aconteceu quando você era uma bruxa, né?
+#v1828You're talking about something that happened when you were the witch, right?
+Está falando sobre algo que aconteceu quando você era uma bruxa, né?
 
 #v1829I control this world! It's mine! Your time has long since ended! If only you'd just give up and die! 
 Eu contro este mundo! É meu! Seu tempo já passou! Basta desistir e morrer bem devagar!
@@ -1360,6 +1362,7 @@ De fato, foi esplêndido! Não tenho nada mais a dizer. Liberte-se por aí à vo
 
 #v1766Stop it, stop iiiiiiit!! How is this fun?! I already can't forgive you for killing them, but to do it in such a brutal way...!! 
 Pare, pare com isoooooo! Como isso pode ser divertido? Já não posso perdoá-la por matá-los, mas ainda decide fazer isso de uma maneira tão brutal...!!
+
 #v1653Uhyahyahya! What did you think of that, Battler? This new witch isn't half bad, is she? 2B 8M8
 
 #v1654You could hardly get bored watching this, isn't that right? Uhyahyahya!!
@@ -1475,6 +1478,7 @@ Viu só? No fim, é um treinamento focado em você. ...Srta. Mobília Incompeten
 
 #v1963Y-You're the incompetent furniture! Beatrice-sama! Please, give me some sort of trial so that I can prove he's more incompetent than I am!
 V-Você é a mobília incompetente! BEATRICE-sama! Por favor, dê-me algum tipo de provação para que eu possa demonstrar que ele é mais incompetente que eu!
+
 #v1660Ooh, sounds interesting! Let's hold a practice round, Kanon, Lucifeeeeeer!! 
 
 #v2096Ukyuu... I never thought I'd get beaten by Kanon nyeh...
@@ -1499,128 +1503,188 @@ Ambos são realmente fortes, nyeh... Realmente não sei definir...
 Não pode deixar as coisas assim! BEATRICE-sama, quem é mais forte, eu ou ela?!
 
 #v1662Well, umm... Both of you are so fast, I couldn't tell Wahahaha... 
+Bem, hmm... Ambossão rápidos, então não sou capaz de dizer. Wahahaha...
 
-#v2165You can't leave it at that!! Fight us again, and pay attention this time!! 
+#v2165You can't leave it at that!! Fight us again, and pay attention this time!!
+Não pode deixar as coisas assim!! Lute de novo e preste atenção desta vez!!
 
-#v1663A-A-Again?! B-But I couldn't! Please, stooop!! 
+#v1663A-A-Again?! B-But I couldn't! Please, stooop!!
+D-Denovo? M-Mas eu não posso! Por favo, pareeee!
 
-#v2098We need better treatment nyeh! I say that laborers and furniture should rise up nyeh! 
+#v2098We need better treatment nyeh! I say that laborers and furniture should rise up nyeh!
+Precisamos de um treinamento melhor, nyeh! Digo que trabalhadores e mobílias deveriam se rebelar, nyeh!
 
 #v1967Wh-What are you talking about?! I-It's not like I have any problems with how we're treated...!
+D-Do que está falando?! N-Não é como se eu tivesse algum problema com a forma como somos tratados...!
 
 #v2099If you don't speak up every now and then, you're selling your dignity nyeh! If you put your foot down, I'm sure your stock will rise with your sisters nyeh. 
+Se você não falar de vez em quando, estará selando sua dignidade, nyeh! Se colocar os pés no cháo, tenho certeza que seu valor aumentrá junto com o de suas irmãs, nyeh!
 
-#v1968N-Nnngg...... Is that...true...? 
+#v1968N-Nnngg...... Is that...true...?
+N-Nngg...... Isso...é verdade...?
 
-#v2159What? Better treatment? What is it that's upset you two? 
+#v2159What? Better treatment? What is it that's upset you two?
+O quê? Um melhor tratamento? O que deu em vocês?
 
-#v1969I-I don't really have any issues, uh, but 410 is very, umm...! 
+#v1969I-I don't really have any issues, uh, but 410 is very, umm...!
+E-Eu realmente não tenho nenhum problema, hmm, mas a 410 é meio, bem...! 
 
 #v2100I want higher-quality carrots in our meals nyeh! And Lucifer-chan wants snacks and time for a midday nap nyeh!
+Eu quero cenouras de alta qualidade nas nossas refeições, nyeh! E a Lucifer-chan quer lanchinhos e um cochilo ao meio-dia, nyeh!
 
 #v2032Pu ku ku! Lucifer, you wanted time to take midday naps? 
+Pu ku ku! Lucifer, você quer dormir ao meio-dia?
 
 #v1970I-I never said I wanted time for naps...! 410...!! 
+E-Eu nunca disse nada sobre cochilar...! 410...!!
 
 #v2033Hmm, they seem adamant in their desire for better treatment... What shall we do?
+Hmm, parece que elas serão bem inflexíveis em relação aos seus desejos por um melhor tratamento... O que devemos fazer?
 
-#v2160U-Understood. I'll propose to Beato that we get you good carrots, snacks, and time for a nap... 
+#v2160U-Understood. I'll propose to Beato that we get you good carrots, snacks, and time for a nap...
+E-Entendido. Irei propoar à Beato para que tenhamos suas boas cenouras, lanche e horário de sesta...
 
-#v2101That's not enough nyeh! We're gonna deal with Beatrice-sama directly, winning ourselves more and more favorable terms nyeh! 
+#v2101That's not enough nyeh! We're gonna deal with Beatrice-sama directly, winning ourselves more and more favorable terms nyeh!
+Não é o suficiente, nyeh! Vamos lidar diretamente com a BEATRICE-sama, vencer e chegar a condições cada vez mais favoráveis, nyeh!
 
-#v1971N-No...! Haven't we gotten enough?! How could we possibly deal with her directly...?! 
+#v1971N-No...! Haven't we gotten enough?! How could we possibly deal with her directly...?!
+N-Não...! Já não conseguimos o bastante? Como vamos lidar com ela diretamente...?!
 
-#v2102Come on, let's go nyeh! The struggle between the labor class and ruling class has only begun nyeh! 
+#v2102Come on, let's go nyeh! The struggle between the labor class and ruling class has only begun nyeh!
+Qual é, vamos lá, nyeh! A luta entre a classe operária e a classe dominante só está começando, nyeh!
 
-#v1664Lowly furniture is demanding that I let them have snacks and naps? Know your place! 
+#v1664Lowly furniture is demanding that I let them have snacks and naps? Know your place!
+Reles mobílias estão demandando que eu as deixe lanchar e tirar cochilos? Conhecem seu lugar!
 
 #v2103I'm not the one who wants to take naps, that's Lucifer-chan nyeh.
+Não sou eu que quero o cochilo, é a Luchifer-chan, nyeh.
 
 #v1665Oooh, Lucifer-chaaaaan? Do your duties as furniture leave you with that much free time? So much free time that it makes you sleeeeeeeeepy?! 
+Oooh, Lucifer-chaaaaan? Realizar suas tarefas de mobília a deixa com tanto tempo livre? Tanto tempo livre que a deixa com soooono?!
 
 #v1972F-Forgive me! 410 made me do it...! 
+P-Perdão! Foi a 410 que...!
 
 #v2104Come on, don't forget your pride as the eldest sister! Your little sisters are watching you nyeh
+Vamos, não esqueça do seu oprgulho como irmã mais velha! Suas irmãzinhas estão assistindo, nyeh.
 
-#v1973Nn... Umm, uh, a-as the eldest sister, I d-demand that you supply the Seven Sisters of Purgatory with snacks and the right to take naps...! *stomp*! 
+#v1973Nn... Umm, uh, a-as the eldest sister, I d-demand that you supply the Seven Sisters of Purgatory with snacks and the right to take naps...! *stomp*!
+Nng... Hmmm, uh, c-como irmã mais velha, e d-demando que você supra as Sete Irmãs do Purgatório com lanches e o direito de cochilar...! *pisão*!
 
 #v1879Geez, this is such a pain... If only you'd just give them their snacks and naps...
+Francamente, mas que incomodo... Se você ao menos desse os lanches de repousos...
 
-#v1666I-I can't bear to let furniture defeat me and force me to accept their terms! Gaaaaah!! 
+#v1666I-I can't bear to let furniture defeat me and force me to accept their terms! Gaaaaah!!
+N-Não posso suportar ser derrotada por uma mobília e ainda aceitar as condições dela! Gaaaaah!!
 
 #v2105There's no point saying that nyeh. If you don't accept our demands, Lucifer-chan's gonna quit being furniture...!
+Não adianta nada dizer isso, nyeh. Se não aceitar nossas demandas, a Lucifer-chan vai deixar de ser uma mobília...!
 
 #v1667D-Do you really think I'd want to keep furniture that rises up against me?!! 
+V-Você acha mesmo que eu gostaria de mantar mobílias que se rebelam contra mim?!
 
-#v1974I-I want to serve by your side always! The snacks and naps aren't really that... 
+#v1974I-I want to serve by your side always! The snacks and naps aren't really that...
+E-Eu quero servir para sempre ao seu lado! Os lanches e cochilos não são realmente importantes... 
 
 #v2106We'll never give up our snacks and naps and delicious carrots nyeh! That's what Lucifer-chan's trying to say nyeh! I'm here as her representative nyeh!
+Nunca desistiremos dos nossos lanches, cochilos e deliciosas cenouras, nyeh! É isso o que a Lucifer-chan está tentando dizer, nyeh! Estou aqui como representante dela, nyeh!
 
 #v1668D-Damn you, Lucifeeeeer!! Have you forgotten everything you owe me, to make such a demand as thaaaaaat?!! *glare*! Grrrrrr!! 
+M-Maldita, Lucifeeeeer!! Esqueceu tudo o que você me deve, para querer fazer uma demanda dessaaaaas?! *encara* Grrrrrr!! 
 
 #v1975Wait, the carrots obviously weren't my idea, right?! Beatrice-sama, forgive meeeeee!!
+Espera, as cenouras claramente não foram ideia minha, certo?! BEATRICE-sama, me perdoeeeee!!
 
 #v1669...Understood. Very well, I accept your terms. After all, I would be in quite a fix without the Seven Sisters. *sulk* 
+...Entendi. Pois bem, aceitarei suas condições. Afinal, eu estaria com um belo problema sem as Sete Irmãs. Hmpf!
 
 #v1976And now we're eating three meals of carrots a day!! My sisters all call me a moron and do horrible things to me...!! Stupid 410, waaaaaaaaah! 
-
+E agora comemos três refeições de cenouras ao dia!! Minhas irmãs estão me chamando de idiota e fazendo coisas horríveis comigo...!! 410, sua imbecil, waaaaaaaaah!
 #v1914That's an easy trial. If passing through it means I'll know that the ocean is blue... 
 
 #v2061Yeah, let's do our best. I'm sure we can do it.
+Sim, vamos dar o nosso melhor. Tenho certeza que conseguimos.
 
 #v1915Is it really okay to believe...in the power of the brooch that witch gave us? 
+Está mesmo tudo bem acreditar...no poder do broche que a bruxa nos deu?
 
-#v2062If we don't, the magic will have no power. 
+#v2062If we don't, the magic will have no power.
+Se não acreditarmos, a magia não terá efeito.
 
-#v2034Ah, Zepar and Furfur's trial, is it? I do hope it bears fruit for you. 
+#v2034Ah, Zepar and Furfur's trial, is it? I do hope it bears fruit for you.
+Ah, a provação de Zepar e Furfur, né? Espero que ela dê frutos para você.
 
 #v2063Thank you very much. To complete the trial, we have to win seven battles.
+Muito obrigada. Para completar a provação, precisamos vencer sete batalhas.
 
 #v2161If we will suffice, shall we handle the fourth? 
+Se formos suficientes, devemos lidar com o quarto?
 
 #v1916I appreciate the sentiment, but it won't be a trial if you go easy on us.
+Eu aprecio seus sentimentos, mas não será uma provação se você pegar leve conosco.
 
-#v2035Pu ku ku, fear not. We aren't young enough to risk that. 
+#v2035Pu ku ku, fear not. We aren't young enough to risk that.
+Pu ku ku, não tema. Não somos jovens o bastante para assumir o risco.
 
 #v1917The fourth trial is complete...! We mustn't lose...!
+A quarta provação está completa...! Não podemos perder...!
 
-#v2162You've grown stronger. Power resides within people who have a goal to shoot for. 
+#v2162You've grown stronger. Power resides within people who have a goal to shoot for.
+Você ficou mais forte. O poder reside dentro daqueles que almejam por um objetivo.
 
 #v2064Even if we're furniture...?
+Mesmo sendo mobílias como nós...?
 
 #v2036Of course. Or rather, in the first place, do you think furniture has ever made an attempt to become human?
+É claro. Ou melhor, em primeiro lugar, você acha que alguma mobília já tentou se tornar humana?
 
 #v2163We'll cheer you on through the remaining trails. Let the magic of protection go with you. 
+Iremos apoiar vocês durantes as provações que restam. Deixe que a magia da proteção os acompanhe.
 
 #v2065Beatrice-sama...! We've won all the trials leading up to here...!
+BEATRICE-sama...! Nós vencemos todas as provações e chegamos até aqui...!
 
 #v1670Splendidly done. That strength of will...can no longer be called furniture. 
+Esplêndido. Com essa força de vontade...não podem mais ser chamados de mobílias.
 
 #v1918Of course! After all, I'm the zero on your roulette.
+É claro! Afinal, eu sou o zero da sua roleta.
 
 #v1671Interesting. So, this is a trial both for you and for me. Zepar and Furfur, this certainly is quite a diversion you've arranged for. 
+Interessante. Então, esta é uma provação para todos nós. Zepar e Furfur, esta é certamente uma bela diversão que vocês arranjaram.
 
 #v2066Beatrice-sama, give us our trial. In exchange, we'll become a trial for the witch.
+BEATRICE-sama, nossa provação. Em troca, seremos uma provação para a bruxa.
 
 #v1672We truly are on an even footing. ...Very well.
+Estamos realmente em pé de igualdade. ...Muito bem.
 
 #v1673I, Beatrice, shall carry out your final trial! Come, furnituuuuuuure!! 
+Eu, BEATRICE, devo conduzir a última provação de vocês! Venham,mobíliaaaaaaas!!
 
 #v1674Magnificently...done... Are you that intent on learning what love is...? 
+Magnífico.... Vocês estão dispostos a aprender sobre o amor...?
 
 #v1919We have the right. The right to know if the ocean really is blue.
+Nós temos o direito. O direito de saber que o oceano é mesmo azul.
 
 #v1675..You've overcome the trial that I am. You probably do have that right... However, let me make one final complaint... 
+...Vocês superaram minha provação. Provavelmente têm esse direito... Contudo, deixe-me fazer uma reclamação final...
 
 #v2067...What is it?
+...O que seria?
 
 #v1676...Two against one? ...That's not fair... Well, ...all right then... Do as best as you can manage...at your final trial... 
+...Dois contra um? ...Isso não é justo... Bem, ...que seja então... Façam o melhor que conseguirem...na última provação de vocês...
 
-#v1920...With this, have I really managed to become Human? It doesn't seem real yet. 
+#v1920...With this, have I really managed to become Human? It doesn't seem real yet.
+...Com isto, eu realmente me tornei humano? Não parece real ainda.
 
 #v2068Now, all that matters is what you feel. You have to take your final step towards becoming Human...by the strength of your own courage. 
+Agora, tudo o que importa é o que você sente. Você precisa dar o passo final para se tornar humano...com a força da sua própria coragem.
 
 #v1921Nee-san, what on earth is that final trial the witch mentioned, at the end? I thought it was supposed to end with 7 trials. 
+Nee-san, o que diabos é essa última provação que a bruxa mencionou em sua deixa final? Eu pensei que acabaria na sétima.
 
 ............
 ............
@@ -1629,20 +1693,28 @@ Não pode deixar as coisas assim! BEATRICE-sama, quem é mais forte, eu ou ela?!
 Nee-san?
 
 #v2107Chiester 410, right here. Did you need me for something nyeh?
+Chiester 410, está aqui. Precisa de mim para algo, nyeh?
 
-#v1880Let me be blunt. How high are we in the character popularity poll? 
+#v1880Let me be blunt. How high are we in the character popularity poll?
+Irei direto ao ponto. O quão alto estamos nas pesquisas de popularidade de personagens?
 
 #v2108The high-rankers are all made of steel. There's no way for us to sneak in there nyeh.
+Os mais bem colocados são todos feitos de aço. Não tem como nos infiltramos lá, nyeh.
 
 #v1881But aren't strength and justice one and the same, along with popularity?!
+Mas força e justiça um junto à popularidade?
 
 #v1882I've decided! I'm gonna crush everyone who's more popular than me! A little bit of that, and wow, we'll be ranked number one!! 
+Já decidi. Vou esmagar todos que são mais populares que eu! Só fazer isso um pouquinho e, nossa, nós seremos as números um!!
 
 #v2109EVA-sama! Those two are always in the character poll top 3 nyeh!
+EVA-sama! Esses dois estãosempre no top 3 das pesquisas, nyeh!
 
 #v1770Huh? The character poll top 3? Hey, yeah, now that you mention it. 
+Hã? O top 3 da pesquisa de personagens? Ei, agora que mencionou...
 
 #v1883I need all the characters more popular than me to disappear, so prepare yourself!
+Eu preciso que todos os personagens mais populares que eu desapareçam, então preparem-se!
 
 #v1821At your age, you'd be better off not trying to take on kids in a popularity poll. And speaking of age, it's about time you started acting yours. 
 
@@ -5305,7 +5377,7 @@ Isso deve bastar, nyeh! Gostou, nyeh?
 Não foi ruim... E-Esse é o tipo de mobília que eu mereço!
 
 #v1316If that caught your interest, please use me as a guard. I'll take three snack periods a day and free naps nyeh! 
-Se isso chamou sua atenção, por favor use-me como guarda. Fico com três intervalos para o lanche por dia e cochilhos ilimitados, nyeh!
+Se isso chamou sua atenção, por favor use-me como guarda. Fico com três intervalos para o lanche por dia e cochilos ilimitados, nyeh!
 
 #v0572It looks like I'll have to be satisfied with that arrangement... Okay, it's a deal... 
 Parece que tenho que ficar satisfeita com o que foi combinado... Yduo bem, temos um acordo...
@@ -12876,7 +12948,7 @@ Linha indefinida - Conversa de Duplas - Segunda Pessoa
 #v5680Put that gun down. Stop making this more complicated than it needs to be. 
 
 #v5681I didn't come here to get in your way. ...But, I guess you can't hear me. 
-Eu não vi aqui para ficar no seu caminho. ...Mas parece que você não consegue me ouvir.
+Eu não vim aqui para ficar no seu caminho. ...Mas parece que você não consegue me ouvir.
 
 #v5682Don't ignore the heart. I won't let you claim to understand mysteries. 
 Não ignora o coração. Não deixarei que afirme que entende de mistério.
@@ -13655,4 +13727,4 @@ Está procuranco por um teste de coragem...?Hah, continue a me fazer rir.
 Eu amo o quão quente você é... É tão gostoso...
 
 #v6542Hahahahahahah... I smell blood.
-#v6542Hahahahahahah... Sinto cheiro de sangue.	
+Hahahahahahah... Sinto cheiro de sangue.	
