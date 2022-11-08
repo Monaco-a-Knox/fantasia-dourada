@@ -22,8 +22,7 @@ Nihihihi. Mulheres são garotas, não importa o quão velhas fiquem, nyeh.
 #v1683It's about time you gave up playing witches, Aunt Eva.
 Já está na hora de parar de brincar de bruxas, tia Eva.
 
-#v1824Who are you calling 'aunt'?! I am EVA Beatrice, Head of the Ushiromiya Family! 22 8O8
-Quem você está chamando de 'tia'?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
+#v1824Who are you calling 'aunt'?! I am EVA Beatrice, Head of the Ushiromiya Family! 2Quem você está chamando de 'tia'?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
 
 #v1825If only you'd learn to respect the new Golden Witch...while you get your guts ripped out and die! 
 Se você ao menos aprendesse a respeitar a nova Bruxa Dourada...enquanto tem suas entranhas arrancadas e morrer bem devagar!
@@ -32,7 +31,7 @@ Se você ao menos aprendesse a respeitar a nova Bruxa Dourada...enquanto tem sua
 Isso define tudo. Deixarei que mantenha o passado, mas seremos nós que teceremos o futuro.
 
 #v1826Neither the future nor the past will change. No matter how much you struggle, you can't take anyone back with you. Just like how I couldn't take George back with me...! 
-Nem o futuro ou o passado mudarão. Não importa o quanto você lute, não poderá trazer ninguém de volta consigo. Assim como eu não consegui trazer o Geroger comigo...!
+Nem o futuro ou o passado mudarão. Não importa o quanto você lute, não poderá trazer ninguém de volta consigo. Assim como eu não consegui trazer o George comigo...!
 
 #v1776Struggling despite that is a hobby of mine. <See you again, have a nice day.>
 Lutar apesar de tudo é um hobby meu. See you again, have a nice day.
@@ -59,7 +58,7 @@ Não, ele é meu brinquedo. E se ele deixar a palma da minha mão, vai virar are
 Perceba que o simples ato de convidá-la para cá foi uma mera brincadeira de uma bruxa milenar e caía em desespero!!
 
 #v1778...I told you, I've had enough of people pretending to be witches! I'm taking Onii-chan back with me to 1998! You can be certain of that! 
-...Eu já disse que estou farta de pessoas se passando por bruxas! Estou levando o onii-chhan comigo para 1998! Pode ter certeza disso!
+...Eu já disse que estou farta de pessoas se passando por bruxas! Estou levando o onii-chan comigo para 1998! Pode ter certeza disso!
 
 #v1822After all, I'm the Beatrice of 1998!!
 Afinal, eu sou a BEATRICE de 19989!!
@@ -202,7 +201,7 @@ O quê? Só você e eu? E o que vamos fazer? Não consigo pensar em nada.
 #v1701You mean...the Great Boob Harem, Swimsuits, and Suntan Lotion Maneuver...? 
 Está falando...do Grande Harém de Peitos, Trajes de Banho e Bronzeador...?
 
-#v1987Perhaps I should get out my special silver bikini briefs! 2, 8N8
+#v1987Perhaps I should get out my special silver bikini briefs!
 Talvez eu deve preparar minhas sínteses 
 
 #v1988Then I could rub rose-tinted suntan lotion all over your back and rear. How does that sound?
@@ -277,8 +276,7 @@ Eu superei o desafio do epitáfio, e agora tudo pertence a mim. Algum problema?!
 #v1579But not our game board! The two of us won't let anything disturb our fight! You've gone too far. It's time for you to give us our battle back!!
 Mas não o nosso tabuleiro. Nós não deixaremos que perturbe nosso embate. Você já foi longe demais. Está na hora de devolver nossa batalha!!
 
-#v1828You're talking about something that happened when you were the witch, right? 22 8O8
-Está falando sobre algo que aconteceu quando você era uma bruxa, né?
+#v1828You're talking about something that happened when you were the witch, right? 2Está falando sobre algo que aconteceu quando você era uma bruxa, né?
 
 #v1829I control this world! It's mine! Your time has long since ended! If only you'd just give up and die! 
 Eu contro este mundo! É meu! Seu tempo já passou! Basta desistir e morrer bem devagar!
@@ -407,7 +405,7 @@ Sinto muito. Você pode ficar com todo o ouro, mas o enigma pertence apenas a mi
 Battler... Você realmente...resolveu meu enigma?
 
 #v1725Yeah. Sorry to keep you waiting. 'Behold the sweetfish river running through my beloved hometown...'
-Sim. Desculpe deixá-la esperando. O rio dos ayus passa pela minha amada cidade passada...
+Sim. Desculpe deixá-la esperando. 'O rio dos ayus passa pela minha amada cidade passada...'
 
 #v1589...Very well. Let's hear your theories. 
 ...Muito bem. Deixe-me ouvir suas teorias.
@@ -806,13 +804,13 @@ Ei, vocês dois! Parem de brigar e esfriem a cabeça. Está na hora de fazer uma
 Estou no meio de uma luta agora! Não tenho tempo para chazinho!
 
 #v1601Yeah, yeah! And I was just about to win! Stay out of my way, Teacheeer!! 
-Isso mesmo! E eu estou prestes a vencer! Fique fora disso, professoraaaa!!
+Isso mesmo! E eu estou prestes a vencer! Fique fora disso, professoraaaaa!!
 
 #v2131Cool your heads for a bit! This is a game for ladies and gentlemen, isn't it? It certainly isn't a shouting match! 
 Se acalmem um pouco! Este é um jogo para damas e cavalheiros, não é? Certamente não é uma disputa de berros!
 
 #v1602You didn't have to hit me, Teacheeer. Battler just can't take a joke... 
-Não precisava me bater, professoraaaa. É o Battler que não entende a piada...
+Não precisava me bater, professoraaaaa. É o Battler que não entende a piada...
 
 #v1754She provoked me, saying 'can't you even solve such a simple closed room trick?', and it pissed me off... 
 Ela me provocou, dizendo 'você não consegue nem resolver um simples truque de quarto fechado', e isso me deixou muito irritado...
@@ -950,7 +948,7 @@ U-Um ladrão? Quem diria que temos uma pessoa perversa dessas por perto... Mas q
 E eram cenouras de alta qualidade que eu estava ansiosa para saborear, nyeh! Isso é horrível, nyeh!
 
 #v2147Yes, yes, I understand. Don't cry. Let's look for them together, okay? 
-Sim, sim, eu entendo. Não chore. Vamos procurar poe elas juntas, tá?
+Sim, sim, eu entendo. Não chore. Vamos procurar por elas juntas, tá?
 
 #v2082We've been asking around everywhere, but we still don't have a clue who the carrot thief is nyeh! 
 Estamos perguntando em todo canto, mas ainda não temos a menor ideia de quem é o ladrão de cenouras, nyeh!
@@ -1025,7 +1023,7 @@ Vamos usar essas cenouras para preparar uma refeição que você e os humanos po
 Nyeh?! Espera, para! Já vi aonde isso vai parar, nyeh! Não faça isso, nyeh!!
 
 #v2154Here you go, let's all eat it together. We even have enough for seconds. It's Virgilia onee-san's special carrot and mackerel miso curry rice soup
-Vamos lá, vamos todos comer juntos. Temos o suficiente até para repetir. É o missô curry esoecial da Virgilia onee-san com cenouras e cavalinha.
+Vamos lá, vamos todos comer juntos. Temos o suficiente até para repetir. É o missô curry especial da Virgilia onee-san com cenouras e cavalinha.
 
 #v2092I knew it! I just wanted to nibble on them raw nyeh, that's mean nyeh, waaaaah...! 
 Eu sabia! Eu só queria beliscar elas cruas, nyeh! Isso é horrível, nyeh! Waaaah...!
@@ -1208,7 +1206,7 @@ E eu irei mantê-la comigo até a minha morte. Não direi à Ange sobre a verdad
 ...Por que nomeou a Ange-sama como a última Bruxa Dourada?
 
 #v1860That kid will weave together her own truth. If she wants to know, she'll know. I'm not interested in what happens after my death.
-Aquela criança tecerá junto a sua prórpia verdade. Se ela quiser saber, ela saberá. Não estou interessada no que acontecerá após a minha morte.
+Aquela criança tecerá junto a sua própria verdade. Se ela quiser saber, ela saberá. Não estou interessada no que acontecerá após a minha morte.
 
 #v2028Are you quite certain? You'll be despised until the very end of your life.
 Tem certeza disso? Você será odiada até seu último suspiro.
@@ -1293,7 +1291,9 @@ Vejo que não há como enganá-la. Está correta. Todos os assassinatos de quart
 
 #v1951Perfect locks, perfect isolation, and perfect separation! It's a closed room that's impossible to reason away, absolutely perfect, and completely sealed, Beatrice-sama!! 
 Trancas perfeitas, isolamento perfeito e separação perfeita! É um quarto fechado impossível de se raciocinar, absolutamente perfeito e completamente selado, BEATRICE-sama!!
+
 #v1645You have my gratitude, Shannon. By making you the 13th human sacrifice, I have finally completed a true magical closed room murder...!
+Você tem minha gratidão, Shannon. Ao se sacrificar como 13º humano, eu finalmnente completei um verdadeiro assassinato de quarto fechado...!
 
 #v2058...It's pointless. ...The closed room murder is no more than a device of the mystery genre, designed to be broken.
 ...É tudo em vão. ...Assassinatos de quarto fechado não são nada mais do que dispositivos do gênero do mistério, designados para serem quebrados.
@@ -1302,7 +1302,7 @@ Trancas perfeitas, isolamento perfeito e separação perfeita! É um quarto fech
 De fato. Assassinatos de quartos fechados são meros enigmas. São feitos para serem resolvidos, por isso, no fim, eles existem pelo bem do entretenimento. Contudo, Um enigma irresolúvel eleva-se ao nível da magia!
 
 #v2059...This closed room, ...the epitaph, the riddles, and this entire tale... ...All of it will be solved by someone, someday.
-...Este quarto fehcado, ...o epitáfio, os enigmas e a integridade deste conto... ...Tudo será resolvido por alguém, algum dia.
+...Este quarto fechado, ...o epitáfio, os enigmas e a integridade deste conto... ...Tudo será resolvido por alguém, algum dia.
 
 #v2060You'll only be able to be a witch for that short period of time...
 Você só será capaz de ser uma bruxa durante esse curto período de tempo...
@@ -1314,7 +1314,7 @@ Você só será capaz de ser uma bruxa durante esse curto período de tempo...
 Somos fantasmas vivendo dentro da caixa de gato. ...Até que seja aberta, mesmo um único momento é eterno.
 
 #v1953...Beatrice-sama, may you live forever...
-Espero que você viva para smpre, BEATRICE-sama...
+Espero que você viva para sempre, BEATRICE-sama...
 
 #v1863Have I...become a witch now?! The Golden Witch, Beatrice?! 
 Eu me tornei...uma bruxa agora? A Bruxa Dourada, BEATRICE?!
@@ -1332,118 +1332,171 @@ Exaaaaatamente! Agogra, vamos lá, Beato. Vamos derrotar os humanos e completar 
 Venham, apareçam! Tropa das Irmãs Chiester e Sete Irmãs do Purgatório!
 
 #v1954The Seven Sisters of Purgatory, right here!
+Sete Irmãs do Purgatório, estamos aqui!
 
-#v2093Chiester 410, right here. You rang, Beatrice-sama? I mean, Predecessor-sama? Nihi! 
+#v2093Chiester 410, right here. You rang, Beatrice-sama? I mean, Predecessor-sama? Nihi!
+Chiester 410, está aqui. Chamo, BEATRICE-sama? Quero dizer, antecessora? Nihi!
 
-#v1865Don't tell me I'm supposed to test my strength on this furniture. *giggle*giggle*! 
+#v1865Don't tell me I'm supposed to test my strength on this furniture. *giggle*giggle*!
+Não vai me dizer que é para eu testar minha força nestas mobílias, vai? *risos*risos*! 
 
-#v1651You heard her, furniture and weapons. Test her to see whether she is fit to be the new Golden Witch...! 
+#v1651You heard her, furniture and weapons. Test her to see whether she is fit to be the new Golden Witch...!
+Vocês a ouviram, mobílias e armas. Testem-na para ver se ela é adequada para ser a nova Bruxa Dourada...!
 
 #v2094Ukyuu, any more would be beyond my pay grade nyeh...
+Ukyuu, meu salário não cobre mais do que isso, nyeh...
 
-#v1955W-We're no match for her...! I believe...she has the power to call herself the Golden Witch...! 
+#v1955W-We're no match for her...! I believe...she has the power to call herself the Golden Witch...!
+N-Não somos páreos para ela...! Eu acredito...que ela detém do poder para se nomear como Bruxa Dourada...! 
 
-#v1866How'd you like that? Isn't that enough to qualify me as your replacement? 
+#v1866How'd you like that? Isn't that enough to qualify me as your replacement?
+O que achou disso? É o suficiente para eu estar qualificada para ser sua substituta?
 
-#v1652Indeed, splendidly done! I have nothing else to say. Run wild as you please and sate my boredom...!! 
+#v1652Indeed, splendidly done! I have nothing else to say. Run wild as you please and sate my boredom...!!
+De fato, foi esplêndido! Não tenho nada mais a dizer. Liberte-se por aí à vontade e sacie meu tédio...!!
 
-#v1867*giggle*giggle*! I am the Golden Witch, EVA Beatrice!! I can do whatever I want, whether it's to let people live or die, revive them, or kill them again!! 
+#v1867*giggle*giggle*! I am the Golden Witch, EVA Beatrice!! I can do whatever I want, whether it's to let people live or die, revive them, or kill them again!!
+*risos*risos*! Eu sou a Bruxa Dourada, EVA BEATRICE!! Posso fazer o que quiser, seja deixando as pessoas vivas ou não, revivendo-as ou as matando novamente!!
 
 #v1766Stop it, stop iiiiiiit!! How is this fun?! I already can't forgive you for killing them, but to do it in such a brutal way...!! 
-
+Pare, pare com isoooooo! Como isso pode ser divertido? Já não posso perdoá-la por matá-los, mas ainda decide fazer isso de uma maneira tão brutal...!!
 #v1653Uhyahyahya! What did you think of that, Battler? This new witch isn't half bad, is she? 2B 8M8
 
 #v1654You could hardly get bored watching this, isn't that right? Uhyahyahya!!
+Você dificilmente ficaria aborrecida vendo isso, não estou certa? Uhyahyahya!!
 
 #v1767What's so funny?! How was that amusing?! If you can laugh at that, you're no witch. You're just a monster!!
+O que é tão divertido?! Como isso é entretenimento? Se você consegue rir disso, então não é uma bruxa. É apenas um monstro!!
 
-#v2156Beato, shouldn't you teach her that the Endless Magic should be wielded with restraint...? 
+#v2156Beato, shouldn't you teach her that the Endless Magic should be wielded with restraint...?
+Beato, você não deveria ensiná-la que a Magia do Infinito deveria ser utilizada com ressalvas...?
 
 #v1868...All of you, just stop complaining already. What's your beef? If you've got a problem with what I'm doing, why don't you just give up and diiiiiiiie?! 
+...Vocês, só parem de reclamar logo. Tem algo contra mim? Se tem algum problema com o que estou fazendo, por que simplesmente não desiste e morre bem devagaaaaaar?!
 
 #v1869*giggle* Ahahahaha! I'll tear your corpse up just as much as the others! 
+*risos* Ahahahaha! Vou estraçalhar seu cadáver assim como fiz com os outros!
 
 #v1870So much that it'll make George's look peaceful!!
+Ao ponto de fazer o George parecer tranquilo!!
 
-#v1768...Is this...what the Golden Witch is...? 2 8O8
+#v1768...Is this...what the Golden Witch is...? 
+...Isto é...a essência da Bruxa Dourada...?
 
 #v1769Tell me, Beato! Is the witch Maria idolized...nothing more than a brutal monster?!! 
+Diga-me, Beato! A bruxa que a Maria idolatrava...não é mais do que um monstro cruel?!
 
 #v1655......Nng, ...that's... 
+......Nng, ...isso...
 
 #v1871Shut up! How many times do I have to kill yooou? If only you'd just beg 'please, don't bring me back to life again' and die! 
+Calado! Quantas vezes mais vou ter que te matar? Se ao menos você implorasse dizendo: 'por favor, não me traga de volta à vida de novo' e morresse de uma vez!
 
 #v1872Ahahahaha! Magic, cunning, and brutality! I'm a fitting Golden Witch in all three ways, am I not? 
+Ahahahaha! Magia, astúcia e brutalidade! Eu sou digna de ser a Bruxa Dourada por todos os meios, não sou?
 
 #v1873Though I'm not quite as brutal as you yet, Predecessor-sama! 
+Embora eu ainda não seja tão brutal quanto você era, antecessora!
 
-#v1656...N-New Beatrice, it is now clear how well-suited you are to being a witch. 2G 8N8
+#v1656...N-New Beatrice, it is now clear how well-suited you are to being a witch.
+...N-Nova BEATRICE, agora está claro o quão apta você está para ser uma bruxa.
 
 #v1657So, would you mind, umm, ...toning down the brutality just a bit...?
+Então, se não se importar, hmm, ...diminua só um pouquinho a brutalidade, tá...?
 
 #v1658A-Anyway, this is an order from your Predecessor. Refrain from excess brutality from this point forth...
+S-Seja como for, esta é uma ordem da sua antecessora. Evite o excesso de brutalidade a partir de agora...
 
 #v1875No way. Why should I have to show you respect? 
+Sem chance. Por que eu tenho que demonstrar respeito a você?
 
-#v1876I'm the only one who gets to decide what happens on this island...and the only one who gets to record what happened! 
+#v1876I'm the only one who gets to decide what happens on this island...and the only one who gets to record what happened!
+Eu sou a única que decide o que acontece nesta ilha...e a única que lembrará do que aconteceu!
 
 #v1877I am the god of this island! As if I'd even write about you...!! Hahahah, ahahahahahah!! 
+Eu sou o deus desta ilha! Como se eu tivesse escrito até mesmo sobre você...! Hahahah, ahahahahahah!!
 
-#v1878If only you'd just give up and die! ,
+#v1878If only you'd just give up and die!
+Se você apenas desistisse e morresse bem devagar!
 
-#v1906Wh-What are you doing here...?! What do you want with me...?!! 
+#v1906Wh-What are you doing here...?! What do you want with me...?!!
+O-O que está fazendo aqui...?! O que quer comigo?! 
 
 #v1956My master has ordered me to toughen up your frail body. Be grateful!
+Minha mestra ordenou que eu fortalecesse este seu corpo frágil. Seja grata!
 
-#v1907I don't believe I've ever lost to you in a one-on-one fight. You're the frail one...! 
+#v1907I don't believe I've ever lost to you in a one-on-one fight. You're the frail one...!
+Eu não acredito que eu perderia para você em uma luta de um contra um. Você que é frágil...!
 
-#v1957I-I just let my guard down for a moment! C-Come! I'll toughen you up...!! 
+#v1957I-I just let my guard down for a moment! C-Come! I'll toughen you up...!!
+E-Eu só baixei minha guarda por um momento. V-Vamos! Irei fortalecê-la...!
 
-#v2030Well now, you two seem to be working quite hard, training together like this. 
+#v2030Well now, you two seem to be working quite hard, training together like this.
+Pois bem, vocês dois parecem estar trabalhando bastante, treinando juntas dessa forma.
 
 #v1958I-I'm not in training, he's in training...! 
+E-Eu não estou treinando, ele está treinando...!
 
-#v1908Hmph. More like I'm giving you a lesson on how this is done. 
+#v1908Hmph. More like I'm giving you a lesson on how this is done.
+Hmph. Está mais para eu lhe dando uma lição de como se faz as coisas. 
 
 #v1959Wh-What did you say...?! How proud can you be...?!!
+O-O que disse...?! Como pode ser tão orgulhoso de si...?!
 
 #v2157*giggle* Since we're all here, why don't we join forces? Ronove, let's hold a practice match. 
+*risos* Já que estamos todos aqui, por que não juntamos forças? Ronove, vamos sediar uma partida amistosa.
 
 #v2031I can see the results of your training. You've made good use of your unique strengths. 
+Consigo ver os frutos de seu treinamento. Você fez bom uso das suas características únicas.
 
-#v1960I've been overseeing his training. Of course it's going well! 
+#v1960I've been overseeing his training. Of course it's going well!
+Eu estive supervisionando seu treinamento. É claro que está indo bem!
 
-#v1909Hmph. At best, you've only just managed to catch up with me. You sure talk tough. 
+#v1909Hmph. At best, you've only just managed to catch up with me. You sure talk tough.
+Hmph. No máximo, você está conseguindo me alcançar. Você se gaba demais.
 
 #v1961You're the one being trained here! I'm your coach! The example for you to follow!!
+Você é quem está sendo treinada aqui! Eu sou sua técnica! O exemplo para ser seguido!!
 
-#v2158*giggle* Work hard, you two, and keep on challenging one another. 
+#v2158*giggle* Work hard, you two, and keep on challenging one another.
+*risos* Trabalhem duro,vocês duas, e continuem desafiando uma a outra.
 
-#v2095Nihi! Lucifer-chan, I see you're training hard nyeh! 
+#v2095Nihi! Lucifer-chan, I see you're training hard nyeh!
+Nihi! Lucifer-chan, vejo que está treinando duro, nyeh!
 
 #v1962Like I keep saying, Kanon's the one being trained, and I'm his coach! Isn't that right, Beatrice-sama?!
+Bem como sigo dizendo, o Kanon é aquele que está sendo treinado, e eu sou sua técnica! Não é mesmo, Beatrice-sama?
 
 #v1659Huh? W-Well, they say that if you want to teach anyone anything, you need to study three times as hard. So, this will count as training for you too, thus killing two birds with one stone...! 
+Hã? B-Bem, dizem que se você quer ensinar algo a alguém, você precisa estudar três vezes mais. Por isso, isto contará como um treinamento para você também, assim matamos dois pássaros com uma cajadada...!
 
 #v1910There, see? It is training for you after all, ...Miss Incompetent Furniture. 
+Viu só? No fim, é um treinamento focado em você. ...Srta. Mobília Incompetente.
 
 #v1963Y-You're the incompetent furniture! Beatrice-sama! Please, give me some sort of trial so that I can prove he's more incompetent than I am!
-
+V-Você é a mobília incompetente! BEATRICE-sama! Por favor, dê-me algum tipo de provação para que eu possa demonstrar que ele é mais incompetente que eu!
 #v1660Ooh, sounds interesting! Let's hold a practice round, Kanon, Lucifeeeeeer!! 
 
-#v2096Ukyuu... I never thought I'd get beaten by Kanon nyeh... 
+#v2096Ukyuu... I never thought I'd get beaten by Kanon nyeh...
+Ukyuu... Nunca pensei que eu seria derrotada pelo Kanon, nyeh...
 
 #v1911See? I was one step ahead of you after all. 
+Viu? Eu sempre estive um passo a sua frente.
 
 #v1964O-Obviously I was the stronger one! Isn't that right, Beatrice-sama?! 
+É óbvio que eu era a mais forte! Não é mesmo, BEATRICE-sama?!
 
 #v1661B-But of course. You were quite formidable too, Lucifer. Yes indeed... 
+M-Mas é claro. Você também foi muito formidável, Lucifer. Sim, de fato...
 
-#v1965Which of us is stronger, me or Kanon?! Chiester 410! You're a weapon, aren't you?! Which one of us was stronger?! 
+#v1965Which of us is stronger, me or Kanon?! Chiester 410! You're a weapon, aren't you?! Which one of us was stronger?!
+Qual de nós é mais forte, eu ou Kanon? Chiester 410! Você é uma arma, não é? Qual de nós é mais forte?!
 
 #v2097B-Both of you were really strong nyeh... I can't really say which... 
+Ambos são realmente fortes, nyeh... Realmente não sei definir...
 
-#v1912You can't leave it at that! Beatrice-sama, who was stronger, me or her?! 
+#v1912You can't leave it at that! Beatrice-sama, who was stronger, me or her?!
+Não pode deixar as coisas assim! BEATRICE-sama, quem é mais forte, eu ou ela?!
 
 #v1662Well, umm... Both of you are so fast, I couldn't tell Wahahaha... 
 
