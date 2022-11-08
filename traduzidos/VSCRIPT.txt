@@ -145,7 +145,7 @@ Se quiser um papel como meu oponente, vá em frente e tente, agora mesmo. Vamos 
 #v1981Game and set. I believe that marks the end of your role. 
 Gama and set. Acredito que isto marque o fim do seu papel.
 
-#v1692If you want another one, grab a swimsuit and come back here. Ihihi! 2 8M8
+#v1692If you want another one, grab a swimsuit and come back here. Ihihi! 
 Se quiser outro, consiga um traje de banho e traga-o aqui. Ihihi!
 
 #v1693Also, I wouldn't say no to a bunny suit, gym clothes, or a school swimsuit either, okay? Oh, and you can come too, Kanon-kun. I'm sure you'll have plenty of fans. 
@@ -160,7 +160,7 @@ Afinal, a era das garotas moe é sucedida pela era dos otoko no ko. Coloque um p
 #v2039Nnnggg... Kanon, ...let's give up on getting a role. This is too much for us... 
 Nnnggg... Kanon, ...vamos desistir do papel. Isso é demais para nós suportarmos...
 
-#v1695Ah, yes, I've thought up a plot! How does an all-girls school swimsuit harem sound?! 2 8M8
+#v1695Ah, yes, I've thought up a plot! How does an all-girls school swimsuit harem sound?! 
 Ah, sim, eu pensei num enredo. O que acha de um harém com todas as garotas usando maiô escolar?!
 
 #v1696A boob harem?! Complete with swimsuits and rubbing on suntan lotion? Ihihihihihihihihihihi!! 
@@ -307,7 +307,7 @@ Sim. Para uma mera viagem fora da curva, não chegou a ser uma experiência ruim
 #v1582I must say, I find facing off against you like this to be a moving experience, but it also seems...regrettable somehow. Why must we fight?
 Devo dizer que enfrentar você assim é uma experiência comovente, mas também me parece de alguma forma...lamentável. Por que devemos lutar?
 
-#v1713Don't ask stupid questions. I'm here for my family and my sister. You're here to make me acknowledge witches, with both sides trying to refute the other. 2 8M8
+#v1713Don't ask stupid questions. I'm here for my family and my sister. You're here to make me acknowledge witches, with both sides trying to refute the other. 
 Não faça perguntas idiotas. Eu estou aqui pela minha família e minha irmã. Você está aqui para fazer eu reconhecer as bruxas, com ambos os lados refutando um ao outro.
 
 #v1714Stop saying weird things to try and confuse me. 
@@ -382,7 +382,7 @@ Tarde demais. Uma nova bruxa já nasceu. Afinal, eu resolvi o epitáfio primeiro
 #v1931Beatrice-sama arranged for this game and the epitaph for your sake, understand?! Why couldn't you solve it faster than anyone?! 
 A BEATRICE-sama preparou este jogo e o epitáfio por você, entendeu? Por que não pôde resolvê-lo antes dos outros?!
 
-#v1722I know. That's why I've come to crush this coronation. 2 8M8
+#v1722I know. That's why I've come to crush this coronation. 
 Eu sei disso. E é por isso que vim estragar essa coroação.
 
 #v1723Sorry, Aunt Eva. This is a game between Beato and me. I'll let you have the gold, so will you back off?
@@ -531,7 +531,7 @@ Por que um duelo daria a você a chance de aceitar um anel de noivado? Não faz 
 #v1898And Nee-san won through. That's why, at this very moment, she's gained the right to love. 
 E a nee-san venceu. É por isso que, neste exato momento, ela obteve o direito de amar.
 
-#v2047To all of you humans, engagement may mean nothing more than a single small ring. 2 8M8
+#v2047To all of you humans, engagement may mean nothing more than a single small ring. 
 Para vocês, humanos, o noivado não significa nada mais do que um mísero anel.
 
 #v2048...However, to us furniture, it's something so heavy, so big, that we can't fully carry the burden.
@@ -591,7 +591,7 @@ O Battler0kun quer terminar sua luta com a Beato. Eu duvido que ele concorde em 
 #v1941Wh-What will we do, Ange-sama? Are we going to defeat Battler as well...? 
 O-O que faremos, Ange-sma? Vamos derrotar o Battler também...?
 
-#v1792Isn't it obvious?! I can't forgive him for leaving his little sister all alone and going off to play with witches! 2 8M8
+#v1792Isn't it obvious?! I can't forgive him for leaving his little sister all alone and going off to play with witches! 
 Não é óbvio?! Não posso perdoá-lo por ter deixado sua irmãzinha sozinha e ido brincar com bruxas!
 
 #v1793I'm gonna beat him up and open his eyes wide! 
@@ -636,7 +636,7 @@ Mulheres jamais vão entender o quão grandioso é um duelo fatal! Tirem as mulh
 #v1998Well now, Ange-sama. Pardon me for advancing this so quickly, but what sort of tale would you like to make? 
 Pois bem, Ange-sama. Perdoe-me por adiantar as coisas tão rapidamente, mas que tipo de conto você gostaria de tecer?
 
-#v1798I want to head home with Onii-chan right away, but I've changed my mind a bit. I'll start by making Onii-chan apologize! 2 8M8
+#v1798I want to head home with Onii-chan right away, but I've changed my mind a bit. I'll start by making Onii-chan apologize! 
 Eu quero voltar para casa com o onii-chan agora mesmo, mas eu mudei um pouco de ideia. Vou começar fazendo ele pedir desculpas.
 
 #v1799I'll make him say he's sorry he got so fixated on this duel thing that he totally forgot about me!! 
@@ -1034,204 +1034,302 @@ Eu sabia! Eu só queria beliscar elas cruas, nyeh! Isso é horrível, nyeh! Waaa
 Bom dia, ojou-sama. Que tipo de enredo escolheste para o dia de hoje?
 
 #v1617Hmm? *cackle*cackle* Isn't it obvious? It will be the usual serial closed room murder case, with people dying all over the place...! 
+Hmm? *gargalhada*gargalhada* Não é óbvio? Será o caso de assassinato de quarto fechado em série de sempre, com pessoas morrendo por toda parte...!
 
 #v2013Then let us begin tonight's murder drama. How shall we proceed...?
+Então vamos começar a tragédia de assassinatos desta noite. Como devemos proceder...?
 
 #v1618Hmph. You know I'll just win again. It would be nice to experience the taste of defeat every once in a while. 
+Hmph. Você sabe que eu vou ganhar de novo. Seria bom experimentar do sabor da derrota de vez em quando.
 
-#v2052Beatrice-sama! I don't understand! Why are you bringing about such a tragedy?! 
+#v2052Beatrice-sama! I don't understand! Why are you bringing about such a tragedy?!
+BEATRICE-sama! Eu não entendo. Por que está querendo desencadear uma tragédia dessas?!
 
 #v2014Milady cannot revive unless she performs a ceremony and kills 13 people. 
+A ojou-sama não pode reviver a não ser que performe sua cerimonia e mate 13 pessoas.
 
 #v1619I won't ask you to let yourself be sacrificed quietly. Resist however you please. Even that is part of the ceremony. ...*cackle*cackle*!
+Não pedirei para que deixe-se sacrificar em silêncio. Resista o quanto quiser. Isso também é parte da cerimonia. ...*gargalhada*gargalhda*!
 
-#v1904Nee-san, she really is an evil witch! We'll never be able to understand each other! 
+#v1904Nee-san, she really is an evil witch! We'll never be able to understand each other!
+Nee-san, ela é mesmo uma bruxa maligna! Nunca seremos capazes de nos entendermos.
 
-#v1620And I don't ask to be understood. If you don't want to die, try and kill me. You have been given plenty of time: however long it takes for me to kill 13 people! 
+#v1620And I don't ask to be understood. If you don't want to die, try and kill me. You have been given plenty of time: however long it takes for me to kill 13 people!
+E eu sequer quero que entenda. Se não quiser morrer, tente me matar. Você tem bastante tempo para isso: contudo leva tempo para eu matar 13 pessoas!
 
 #v2053Please tell me, Beatrice-sama... Why is it necessary to perform a ceremony where you kill 13 people...? 
+Por favor, me diga, BEATRICE-sama... Por que é necessário performar uma cerimonia onde você mata 13 pessoas...?
 
 #v1621How many times must I tell you that the ceremony is necessary for my resurrection? Fool.
+Quantas vezes tenho que repetir que essa cerimonia é necessária para a minha ressureição? Tola.
 
-#v2054...I don't understand why you need to revive any further than this, ...when you can already talk and even kill... 
+#v2054...I don't understand why you need to revive any further than this, ...when you can already talk and even kill...
+...Eu não entendo por que você precisa reviver mais do que isso, ...quando já pode até mesmo falar e matar...
 
 #v1622Hmph... This is an act of mercy. If the ceremony is halted, you people will be saved. Or perhaps...it's pride... 
+Hmph... Este é apenas um ato de piedade. Se a cerimonia for interrompida, vocês serão salvos. Ou talvez...seja orgulho?
 
 #v2015Let us proceed, Milady. Along with a letter announcing the closed room murders to follow... 
+Vamnos prosseguir, ojou-sama. Junto com a carta que anuncia os assassinatos de quarto fechado, segue-se...
 
 #v1758Beato, I finally found you! This is the end of your weird murder ceremony! 
+Beato, eu finalmente te encontrei! Este é o fim dessa sua estranha cerimonia de assassinato!
 
 #v1623Oh, you seem quite enthusiastic. ...I assume you already have it solved, then? All of my closed room murder riddles?
+Oh, você parece bem entusisasmado. ...Presumo que já resolveu tudo, então? Todos os meus enigmas de quarto fechado?
 
 #v1759Nng... I-I'm working on that right now! But anyway, I can't let you kill any more people!! 
+Nng... E-Eu estou trabalhando nisso agora mesmo! Ainda assim, não posso deixar que mate mais pessoas!!
 
 #v1624Have you ever paused to consider why I'm going to all the effort of killing that many...?
+Você já parou para considerar o motivo de eu me dar todo esse trabalho de matar tanta gente...?
 
 #v1760Why should I care about a bizarre black magic ceremony?! I can't sit by while you kill us for your own reasons...!! 
+Por que eu deveria me importar com uma cerimonia bizarra de magia negra? Não posso ficar sentado esperando enquanto você mata por razões pessoais...!!
 
-#v1625...Hmph. That's perfectly correct. I am killing for my own reasons. Too bad, Battler. It looks like you'll disappoint me after all...!! 
+#v1625...Hmph. That's perfectly correct. I am killing for my own reasons. Too bad, Battler. It looks like you'll disappoint me after all...!!
+...Hmph. Está perfeitamente correto. Eu estou matando por meus proprios motivos. Que pena, Battler, parece que você vai me desapontar...!1
 
 #v1761...No good, huh...? How...can I...defeat her...? 
+...Isso não é bom, é...? Como...eu posso...derrotá-la...?
 
 #v1626It's useless. Until you solve my riddles, you cannot kill any witches. ...Fall off the board along with my disappointment, Battler the piece.
+É inútil. Até que resolve meus enigmas, você não matará nenhuma bruxa. ...Caia do tabuleiro junto com meu desapontamento, Battler, a peça.
 
 #v1762Dammit, ......someday...I'll definitely...... 
+Merda, ......algum dia...eu definitivamente vou......
 
 #v2016And thus ends the ceremony of 13 murders.
+E assim encerrou-se a cerimonia dos 13 assassinatos.
 
 #v1627It would seem that, once more, no one has solved the riddle. 
+Parece que, mais uma vez, ninguém resolveu o enigma.
 
 #v2017Your closed rooms are quite difficult. It must be hard for mere humans to solve them...
+Seus quartos fechados são bem complicados. Deve ser difícil para meros humanos resolvê-los...
 
 #v1628Even though I went easy on them many times, giving them so many hints, ...it would seem that none have managed to reach me... 
+Mesmo eu pegando leve diversas vezes, dando tantas dicas para eles, ...parece que ninguém conseguiu me alcançar...
 
 #v2018Will you give even further hints in the next game? Or perhaps make the riddles a tad more complicated...?
+Pretende dar ainda mais dicas no próximo jogo? Ou talvez fazer os enigmas um pouco mais complicados...?
 
 #v1629Hmph... Now that certainly is pride. But very well. ...I'll win for all eternity, until I am given defeat. 
+Hmph... Agora certamente é orgulho. Mas muito bem. ...Irei vencer por toda a eternidade, até ser derrotada.
 
-#v1630I am the Golden Witch, Beatrice. Try and solve my riddles. If you can, you may do as you please with my life and 20 billion yen in gold! 
+#v1630I am the Golden Witch, Beatrice. Try and solve my riddles. If you can, you may do as you please with my life and 20 billion yen in gold!
+Eu sou a Bruxa Dourada, BEATRICE. Tentem resolver meus enigmas. Se conseguirem, poderão fazer o que quiserem com minha vida e 20 bilhões de ienes em ouro!
 
-#v1631Try and kill me! Ihihyahyahyaaah!! 
+#v1631Try and kill me! Ihihyahyahyaaah!!
+Tentem me matar! Ihihyahyahyaaah!!
 
 #v2019Congratulations. Now that you have solved the riddle of the epitaph, you are the new Golden Witch.
+Parabéns. Agora que você resolveu o epitáfio, você é a nova Bruxa Dourada.
 
-#v1846I really am a witch now, right?! I can do anything with magic, right?! 
+#v1846I really am a witch now, right?! I can do anything with magic, right?!
+Eu sou realmente uma bruxa agora, né? Posso fazer qulquer coisa com magia, né?
 
 #v2020Indeed. Please enjoy the power of magic to your heart's content, using it for whatever purpose you can imagine.
+Certamente. Por favor, goze do poder da magia, utilizando-o para qualquer propósito que você possa imaginar.
 
-#v1847A-Ahahahahaha...!! I'm a witch! I can make any dream come true with magic! With gold! Aha, ahahahaha...!! 
+#v1847A-Ahahahahaha...!! I'm a witch! I can make any dream come true with magic! With gold! Aha, ahahahaha...!!
+A-Ahahahahaha...!! Eu sou uma bruxa! Posso transformar qualquer sonho em realidade com magia! Com o ouro! Aha, ahahahaha...!!
 
 #v1632So, EVA, what's it like having the power of the Golden Witch? It's easy to get drunk on it, is it not? 
+Então, EVA, como é ter os poderes da Bruxa Dourada? É fácil ficar viciada neles, não é?
 
 #v1848That's right, Predecessor-sama! This power truly is wonderful! I can kill anyone. I can revive anyone!
+Isso mesmo, minha antecessora! Este poder é verdadeiramente maravilhoso! Eu posso matar qualquer um. Posso reviver qualquer um!
 
 #v1633Well, umm, still... The Golden Witch must have some restraint. Perhaps now is a good time to hold off on the pranking just a bit... 
+Bom, hmm, ainda assim... A Bruxa Dourada precisa de algumas restrições. Talvez seja um bom momento para se segurar um pouco nas travessuras...
 
 #v1849Huh? What are you talking about, Predecessor-sama? I'm just being ruthless, brutal, <pop>, and <cute>, just like the old you!
+Hã? Do que está falando, antecessora? Eu só estou sendo impiedosa, brutal, pop e cute, assim como você era!
 
 #v2155It looks like it will take more than words to make her understand... There's no helping it. 
+Parece que palavras não serão o suficiente para fazer você entender... Não há outra alternativa.
 
 #v1850What the hell?! Am I the new witch or not?! It's not right for retired witches to butt in like that! 
+Mas o quê?! Eu sou a nova bruxa ou não?! Não é certo que bruxas aposentadas fiquem se intrometendo assim!
 
 #v2021Whether you act with restraint or do precisely as you please...is entirely up to you, EVA-sama.
+Quer você aja com moderação ou faça exatamente o que quiser...isto cabe inteiramente a você, EVA-sama.
 
-#v1851I know that! I am justice, I am truth! 26 8M8
+#v1851I know that! I am justice, I am truth!
+Eu sei disso! Eu sou a justiça, eu sou a verdade!
 
-#v1852On this island, who lives and who dies, what gets created and what gets destroyed...is all decided by me!! 
+#v1852On this island, who lives and who dies, what gets created and what gets destroyed...is all decided by me!!
+Nesta ilha, quem vive e quem morre, o que é criado e o que é destruído...tudo cabe a mim decidir!!
 
 #v2022Yes, that is what the Golden Witch is. She is even the god of this island.
+Precisamente, assim é a Bruxa Dourada. Ela é o deus desta ilha.
 
 #v1853That's right, I'm God! *giggle* Ahahahah!! 
+Isso mesmo, eu sou Deus! *risos* Ahahahah!! 
 
-#v1854I'll keep on killing...to prove that I'm nothing like those lowly Humans! 
+#v1854I'll keep on killing...to prove that I'm nothing like those lowly Humans!
+Eu continuarei matando...para provar que não sou como esses reles humanos!
 
-#v1819You're saying that's the truth of October 5, 1986? Enough with the stupid jokes! 
+#v1819You're saying that's the truth of October 5, 1986? Enough with the stupid jokes!
+Está dizendo que essa é a verdade do dia 5 de outubro de 1986? Chega dessa baboseira!
 
-#v1855*giggle* ...You don't believe me, do you? But this is the truth! 
+#v1855*giggle* ...You don't believe me, do you? But this is the truth!
+*risos* ...Você não acredita em mim, né? Mas esta é a verdade!
 
 #v2023EVA-sama solved the riddle of the epitaph, gaining the Ushiromiya Family Headship, the gold, and the power of the witch. This is the truth.
+A EVA-sama resolveu o enigma do epitáfio, obteve a liderança da família Ushiromiya, o ouro e o poder da bruxa. Esta é a verdade.
 
-#v1820How could I believe that?! You're the culprit. You killed everyone, took all the gold for yourself, and shrouded everything in darkness!! 
+#v1820How could I believe that?! You're the culprit. You killed everyone, took all the gold for yourself, and shrouded everything in darkness!!
+Como eu posso crer nisso?! Você é o culpado. Matou todos, pegou o ouro só para si e envolveu tudo na escuridão!!
 
-#v2024If that is your truth, Ange-sama, then even we cannot refute it. 
+#v2024If that is your truth, Ange-sama, then even we cannot refute it.
+Se essa é a sua verdade, Ange-sama, então nem mesmo nós podemos refutá-la.
 
-#v1856If you want to think of me as the culprit, go ahead! 22 8M8
+#v1856If you want to think of me as the culprit, go ahead!
+Se quer pensar em mim como culpada, vá em frente!
 
 #v1857If only you'd just believe that I killed your family, so that you can cry bitterly, give up, and die! Ahahahahahahahahah!! 
+Se você apenas acreditar que eu matei sua família, para que assim possa chorar amargamente, então desista e morra bem devagar! Ahahahahahahahahah!!
 
 #v2025With this, the only one who knows the truth of that island is you, EVA-sama...
+Com isto, a única que sabe a verdade sobre a ilha é você, EVA-sama...
 
-#v1858If I never speak of the truth until my death, ...what happened on that island can be whatever I want it to be. 
+#v1858If I never speak of the truth until my death, ...what happened on that island can be whatever I want it to be.
+Se eu nunca falar a verdade até a minha morte, ...o que ocorreu naquela ilha poderá ser o que eu quiser que seja.
 
 #v2026What happened on that island on that day? The entirety of that answer has been sealed in a cat box, to which only EVA-sama holds a key...
+O que aconteceu naquela ilha, naquele dia? A totalidade dessa resposta foi selada em uma caixa da gato, na qual apenas a EVA-sama detém da chave...
 
 #v1859And I'll hold onto it until I die. I won't tell Ange about the truth of that island. You can be certain of that. ...*giggle*, *giggle*giggle*! 
+E eu irei mantê-la comigo até a minha morte. Não direi à Ange sobre a verdade daquela ilha. Pode ter certeza disso. ...*risos*, *risos*risos*!
 
 #v2027...Why did you name Ange-sama as the final Golden Witch?
+...Por que nomeou a Ange-sama como a última Bruxa Dourada?
 
-#v1860That kid will weave together her own truth. If she wants to know, she'll know. I'm not interested in what happens after my death. 
+#v1860That kid will weave together her own truth. If she wants to know, she'll know. I'm not interested in what happens after my death.
+Aquela criança tecerá junto a sua prórpia verdade. Se ela quiser saber, ela saberá. Não estou interessada no que acontecerá após a minha morte.
 
-#v2028Are you quite certain? You'll be despised until the very end of your life. 
+#v2028Are you quite certain? You'll be despised until the very end of your life.
+Tem certeza disso? Você será odiada até seu último suspiro.
 
-#v1861That's okay. When I lost George, my life was already over. Reality is just catching up. 
+#v1861That's okay. When I lost George, my life was already over. Reality is just catching up.
+Tudo bem. Minha vida acabou quando perdi o George. A realidade está apenas se recuperando.
 
-#v2029It didn't last long, but it was an honor serving you, EVA-sama. 
+#v2029It didn't last long, but it was an honor serving you, EVA-sama.
+Não foi por muito tempo, mas foi uma honra servi-la, EVA-sama.
 
 #v1862Thanks. And so long... I am EVA, the Golden Witch. The only witch who knows what really happened on October 4 and 5, 1986... 
+Obrigada. E até mais. Eu sou EVA, a Bruxa Dourada. A única bruxa que sabe o que realmente aconteceu nos dias 4 e 5 de outubro de 1986...
 
 #v1634Come, arise. The eldest of the Seven Sisters of Purgatory, Lucifer. 
+Venha e apareça! A mais velha das Sete Irmãs do Purgatório, Lucifer.
 
 #v1946Lucifer of Pride, right here! What are your orders?!
+Lucifer, do Orgulho, estpa aqui. Quais as suas ordens?!
 
-#v1635The same as always. Make me laugh. That is all. 
+#v1635The same as always. Make me laugh. That is all.
+O mesmo de sempre. Me faça rir. Isso é tudo.
 
-#v1947Understood. I'll give my master a chorus of all her enemies' death throes! 
+#v1947Understood. I'll give my master a chorus of all her enemies' death throes!
+Entendido. Concederei a minha mestra um coro com a agonia da morte de todos os seus inimigos!
 
 #v1763How did she do that closed room murder?! There's got to be some kind of trick that could do it!! 
+Como ela executou aquele assassinato de quarto fechado?! Tem que ter algum tipo de truque que o torne possível!!
 
-#v1636I am a witch of butterflies and smoke. No sort of barricade or closed room can stop my murders! 
+#v1636I am a witch of butterflies and smoke. No sort of barricade or closed room can stop my murders!
+Sou uma bruxa de borboletas e fumaça. Nenhum tipo de barricada ou quarto fechado pode impedir meus assassinatos!
 
 #v1948Even you will end up as a corpse sitting out in the open, adorning yet another closed room murder!
+Até mesmo você acabará como um cadáver, adornando mais um assassinato de quarto fechado!
 
-#v1764Closed room murders don't exist! I'll prove that magic and closed rooms are all fake! 
+#v1764Closed room murders don't exist! I'll prove that magic and closed rooms are all fake!
+Assassinatos de quarto fechado não existem! Eu irei provar que magia e quartos fechados são falácias!
 
-#v1637Just you try!! You can't do it, so die! Die in a closed room locked from the inside!! 
+#v1637Just you try!! You can't do it, so die! Die in a closed room locked from the inside!!
+Então tente!! Você não é capaz, então morra! Morra em um quarto fechado trancado por dentro!!
 
 #v1638Is that where your reasoning ends? I've crushed all your pitiful blue truths!
+É aqui que o seu raciocíno termina? Eu esmaguei todas as suas deploráveis verdades azuis!
 
 #v1905...I...did warn you... Beatrice-sama...is a witch...
+...Eu...avisei você... A BEATRICE-sama...é uma bruxa...
 
 #v1765I can't...accept something like this... D-Dammit... 
+Eu não...posso aceitar algo assim... M-Merda...
 
-#v1949The closed room murder is complete! The doors, windows, locks and chains cannot be opened or sealed from the outside! 
+#v1949The closed room murder is complete! The doors, windows, locks and chains cannot be opened or sealed from the outside!
+O assassinato de quarto fechado está completo! As portas, janelas, trancas e correntes não podem ser abertas ou seladas pelo lado de fora!
 
 #v1639It would seem that yet another closed room murder has occurred. Hey, has anyone seen the detective? The culprit? The trick? Hyahyahahahahah!! 
+Parece que outro assassinato de quarto fechado acaba de ocorrer. Ei, alguém viu um detetive por aí? O culpado? O truque? Hyahyahahahahah!! 
 
 #v1640Ah, Shannon. Why does your face look so terrifying, even though the door to the Golden Land is about to be opened?
+Ah, Shannon. Por que essa expressão tão horrível em seu rosto, mesmo com a porta para a Terra Dourada estando prestes a se abrir?
 
-#v2055...Please, stop these make-believe closed room murders. I'll defeat you and end this. 
+#v2055...Please, stop these make-believe closed room murders. I'll defeat you and end this.
+...Por favor, pare com esses assassinatos de quarto fechado de faz-de-conta. Eu irei derrotá-la e colocar um fim nisto.
 
-#v1641You, defeat me? How amusing. And which mystery from my epitaph serial murders do you think you can solve...?! 
+#v1641You, defeat me? How amusing. And which mystery from my epitaph serial murders do you think you can solve...?!
+Você vai me derrotar? Interessante. E qual dos mistérios do meu epitáfio de assassinatos em série você acha que consegue resolver...?!
 
 #v1950Magical crimes, which no Human could possibly have committed! This is what proves that my master is a witch!
+Crimes mágicos, os quais humanos não poderiam cometer! Isto prova que minha mestra é uma bruxa!
 
 #v2056No. That proves that you aren't a witch. A true witch wouldn't need to use closed room murders to prove that magic exists! 
+N-Não. Isso prova que você não é uma bruxa. Uma bruxa de verdade não precisaria recorrer a assassinatos de quarto fechado para provar que magia existe!
 
 #v1642Then I'll use you, the one person who denies that fact, to complete my closed room murders, thus proving that I am a witch. 
+Então usarei você, aquela que nega o fato, para completar meu assassinato de quarto fechado, provando assim que sou uma bruxa.
 
 #v1643Your death will become the key to the door to the Golden Land!! 
+Sua morte tornar-se-há a chave da porta para a Terra Dourada!!
 
-#v2057...Are you happy now? You've finally...succeeded in creating a true closed room murder... 
+#v2057...Are you happy now? You've finally...succeeded in creating a true closed room murder...
+...Está feliz agora? Você finalmente...obteve sucesso em criar um verdadeiro assassinato de quarto fechado...
 
-#v1644I see there's no fooling you. That is correct. All of the closed room murders before now...were not truly closed rooms. ...However, this one is different. 
+#v1644I see there's no fooling you. That is correct. All of the closed room murders before now...were not truly closed rooms. ...However, this one is different.
+Vejo que não há como enganá-la. Está correta. Todos os assassinatos de quarto fechados té então...não era verdadeiros quartos fechados. ...Contudo, este é diferente.
 
 #v1951Perfect locks, perfect isolation, and perfect separation! It's a closed room that's impossible to reason away, absolutely perfect, and completely sealed, Beatrice-sama!! 
-
+Trancas perfeitas, isolamento perfeito e separação perfeita! É um quarto fechado impossível de se raciocinar, absolutamente perfeito e completamente selado, BEATRICE-sama!!
 #v1645You have my gratitude, Shannon. By making you the 13th human sacrifice, I have finally completed a true magical closed room murder...!
 
-#v2058...It's pointless. ...The closed room murder is no more than a device of the mystery genre, designed to be broken. 
+#v2058...It's pointless. ...The closed room murder is no more than a device of the mystery genre, designed to be broken.
+...É tudo em vão. ...Assassinatos de quarto fechado não são nada mais do que dispositivos do gênero do mistério, designados para serem quebrados.
 
 #v1646Indeed. Closed room murders are merely puzzles. They're made to be solved, so in the end, they exist for the sake of entertainment. However, an unsolvable puzzle rises to the level of magic!
+De fato. Assassinatos de quartos fechados são meros enigmas. São feitos para serem resolvidos, por isso, no fim, eles existem pelo bem do entretenimento. Contudo, Um enigma irresolúvel eleva-se ao nível da magia!
 
 #v2059...This closed room, ...the epitaph, the riddles, and this entire tale... ...All of it will be solved by someone, someday.
+...Este quarto fehcado, ...o epitáfio, os enigmas e a integridade deste conto... ...Tudo será resolvido por alguém, algum dia.
 
-#v2060You'll only be able to be a witch for that short period of time... 
+#v2060You'll only be able to be a witch for that short period of time...
+Você só será capaz de ser uma bruxa durante esse curto período de tempo...
 
-#v1952...Beatrice-sama, are we merely phantoms, unable to exist for more than a brief moment...? 
+#v1952...Beatrice-sama, are we merely phantoms, unable to exist for more than a brief moment...?
+...BEATRICE-sama, nós somos meros fantasmas, incapazes de existir por mais do que um breve momento...?
 
 #v1647We're phantoms living in a cat box. ...Until it is opened, even one moment is eternal. 
+Somos fantasmas vivendo dentro da caixa de gato. ...Até que seja aberta, mesmo um único momento é eterno.
 
-#v1953...Beatrice-sama, may you live forever... 
+#v1953...Beatrice-sama, may you live forever...
+Espero que você viva para smpre, BEATRICE-sama...
 
 #v1863Have I...become a witch now?! The Golden Witch, Beatrice?! 
+Eu me tornei...uma bruxa agora? A Bruxa Dourada, BEATRICE?!
 
 #v1648Listen up, new Beatrice! The Golden Witch is strong! But what is strength?!
+Ouça, nova BEATRICE! A Bruxa Dourada é forte! Mas o que é a força?!
 
-#v1864I know, Predecessor-sama! Strength means you don't lose to anyone! The Golden Witch is the ruler of Rokkenjima! 
+#v1864I know, Predecessor-sama! Strength means you don't lose to anyone! The Golden Witch is the ruler of Rokkenjima!
+Eu sei, antecessora! Força significa não perder para ninguém! A Bruxa Dourada é a governante de Rokkenjima!
 
-#v1649That's riiiiiight!! Now, let's go, new Beato! Let's rout the Humans and complete the ceremony of your resurrection! 
+#v1649That's riiiiiight!! Now, let's go, new Beato! Let's rout the Humans and complete the ceremony of your resurrection!
+Exaaaaatamente! Agogra, vamos lá, Beato. Vamos derrotar os humanos e completar a cerimonia da sua ressurreição!
 
 #v1650Come, arise! The Chiester Sisters Corps and the Seven Sisters of Purgatory! 
+Venham, apareçam! Tropa das Irmãs Chiester e Sete Irmãs do Purgatório!
 
 #v1954The Seven Sisters of Purgatory, right here!
 
@@ -1275,7 +1373,7 @@ Bom dia, ojou-sama. Que tipo de enredo escolheste para o dia de hoje?
 
 #v1871Shut up! How many times do I have to kill yooou? If only you'd just beg 'please, don't bring me back to life again' and die! 
 
-#v1872Ahahahaha! Magic, cunning, and brutality! I'm a fitting Golden Witch in all three ways, am I not? 26 8M8
+#v1872Ahahahaha! Magic, cunning, and brutality! I'm a fitting Golden Witch in all three ways, am I not? 
 
 #v1873Though I'm not quite as brutal as you yet, Predecessor-sama! 
 
@@ -1471,6 +1569,7 @@ Bom dia, ojou-sama. Que tipo de enredo escolheste para o dia de hoje?
 
 #v1921Nee-san, what on earth is that final trial the witch mentioned, at the end? I thought it was supposed to end with 7 trials. 
 
+............
 ............
 
 #v1922...Nee-san?
@@ -1712,9 +1811,9 @@ Nee-san?
 
 #v2349Come on, have courage! Let him know what you're thinking!! 
 
-#v2375I...umm...... .........! 2 8M8
+#v2375I...umm...... .........! 
 
-#v2376(...Courage... ...Give me...courage......!) 2 8M8
+#v2376(...Courage... ...Give me...courage......!) 
 
 #v2377I-I... ...I want to play music with Milady...!!
 
@@ -2022,7 +2121,7 @@ Nee-san?
 
 #v2277There's nothing deep about it. Anyone could solve this at a glance!
 
-#v2468It's proving surprisingly hard to find a good second opinion... Ah, Beato, perfect timing! @  h
+#v2468It's proving surprisingly hard to find a good second opinion... Ah, Beato, perfect timing!
 
 #v2278Give us your take on this too. Of course, you agree with me, right?!
 
@@ -4496,6 +4595,7 @@ Nee-san?
 #v5445I imagine so... ...I take back that question. Forget about it. 
 
 #v5278............ ......... ...... ...
+............ ......... ...... ...
 
 #v5446...Or maybe not. ...I'll come back later. 
 
@@ -4876,6 +4976,7 @@ Nee-san?
 #v2615I am listening! Why don't you do what I say?! 
 
 #v2610What's wrong, Jessica-chan? Why are you taking a nap in a place like that?
+O que aconteceu, Jessica-chan? Por que está cochilando num lugar desses?
 
 #v2874What happened...to the Aunt Eva I know...?! 
 O que aconteceu...com a tia Eva que eu conheço...?!
@@ -13500,4 +13601,5 @@ Está procuranco por um teste de coragem...?Hah, continue a me fazer rir.
 #v6541I love how warm you are... It feels great... 
 Eu amo o quão quente você é... É tão gostoso...
 
+#v6542Hahahahahahah... I smell blood.
 #v6542Hahahahahahah... Sinto cheiro de sangue.	
