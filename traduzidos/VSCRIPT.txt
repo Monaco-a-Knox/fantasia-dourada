@@ -1007,22 +1007,31 @@ Nós as recuperamos, nyeh! Nossas superdeliciosas e saborosas cenouras!
 Parece que nossas cenouras normais foram trocadas pelas cenouras da Tropa das Irmãs Chiester.
 
 #v2051I-If so, what happened to the normal carrots we ordered...? 
+S-Se é o caso, o que aconteceu com as cenouras que encomendamos...?
 
 #v2089When I went to the kitchen around noon looking for a snack, I saw a bunch of lonely-looking carrots just begging me to eat them, so I gobbled them up nyeh
+Quando fui até a cozinha durante a tarde em busca de um lanche, eu vi um bando de cenouras solitárias implorando para serem comidas, e aí eu as devorei, nyeh.
 
 #v2152...410!! So, you're the cause of all this! I'm confiscating these! 
+...410!! Então, você é a culpada disso tudo! Irei confiscá-las!
 
 #v2090Nyeh?!?! But what about our dinner?! Nyeh, nyeh?! 
+Nyeh?!?! Mas e quanto ao jantar? Nyeh, nyeh?!
 
 #v2153Let us use these carrots to make a meal both you and the Humans can eat together, and then you can make up. How does that sound? 
+Vamos usar essas cenouras para preparar uma refeição que você e os humanos possam comer juntos, e assim fazer as pazes. Que tal?
 
 #v2091Nyeh?! Wait, stop! I see where this is going nyeh, don't do it nyeh!! 
+Nyeh?! Espera, para! Já vi aonde isso vai parar, nyeh! Não faça isso, nyeh!!
 
 #v2154Here you go, let's all eat it together. We even have enough for seconds. It's Virgilia onee-san's special carrot and mackerel miso curry rice soup
+Vamos lá, vamos todos comer juntos. Temos o suficiente até para repetir. É o missô curry esoecial da Virgilia onee-san com cenouras e cavalinha.
 
 #v2092I knew it! I just wanted to nibble on them raw nyeh, that's mean nyeh, waaaaah...! 
+Eu sabia! Eu só queria beliscar elas cruas, nyeh! Isso é horrível, nyeh! Waaaah...!
 
 #v2012Good morning, Milady. What sort of plot will you choose for today?
+Bom dia, ojou-sama. Que tipo de enredo escolheste para o dia de hoje?
 
 #v1617Hmm? *cackle*cackle* Isn't it obvious? It will be the usual serial closed room murder case, with people dying all over the place...! 
 
@@ -13103,135 +13112,198 @@ Linhas indefinidas - Conversa Pré-Jogo 2
 Undefined line - Pre-Match Conversation 3
 Linhas indefinidas - Conversa Pré-Jogo 3 	
 
-#v3567From now on, you're gonna be my pet. ...Come on, ...strip. 
+#v3567From now on, you're gonna be my pet. ...Come on, ...strip.
+De agora em diante, você será meu animal de estimação. ...Vamos, ...tire tudo.
 
-#v3568You really are incompetent... Just give up on being Human already and go back to being furniture. 
+#v3568You really are incompetent... Just give up on being Human already and go back to being furniture.
+Você é mesmo incompetente... Desista logo de ser humano e volte a ser uma mobília.
 
-#v3569Hey, do it to me too. ...That thing where you kneel and lick my shoes. 
+#v3569Hey, do it to me too. ...That thing where you kneel and lick my shoes.
+Ei, faça isso comigo também. ...Aquilo onde você se ajoelha e lambe meus sapatos.
 
 #v3570...Sleep now, Battler. I'll clean up all the people who might hurt you... 
+...Durma agora, Battler. Irei fazer uma limpa com todas as pessoas que o machucam...
 
-#v3571This time, it's your turn to sleep in the darkness... ...I'll take care of Beato and your sister... 
+#v3571This time, it's your turn to sleep in the darkness... ...I'll take care of Beato and your sister...
+Desta vez, é a sua vez de dormir na escuridão... ...Irei cuidar da Beato e sua irmã também.
 
-#v3572From now on, I'm your big brother. ...Aren't you happy? ...Come on, ...say it. 
+#v3572From now on, I'm your big brother. ...Aren't you happy? ...Come on, ...say it.
+De agora em diante, eu sou seu irmão mais velho. ...Não está feliz? ...Vamos, ...diga.
 
-#v3573What do you think? How does it feel to get your ass kicked by the spitting image of your brother...? 
+#v3573What do you think? How does it feel to get your ass kicked by the spitting image of your brother...?
+O que você acha? Como é ter seu traseiro chutado pela imagem do seu irmão...?
 
-#v3574I hear your flesh...is delicious. Let me have a bite, ...come on. 
+#v3574I hear your flesh...is delicious. Let me have a bite, ...come on.
+Consigo ouvir sua carne...e é deliciosa. Deixe-me dar uma mordida, ...vamos.
 
 #v3575Disappear into the future. ...I'll be coming for you soon. 
+Desapareça no futuro. Estarei indo por você em breve.
 
-#v3576Why do you resist? ...I'm Battler, right? Come on, ...don't run away... Heheheh, hahahahah. 
+#v3576Why do you resist? ...I'm Battler, right? Come on, ...don't run away... Heheheh, hahahahah.
+Por que resistir? ...Eu sou o Battler, certo? Qual é, não fuja... Heheheh, hahahahah.
 
-#v3582I know how much of a maiden you are on the inside. ...I'll take that from you. 
+#v3582I know how much of a maiden you are on the inside. ...I'll take that from you.
+Eu sei o quanto de uma donzela você é por dentro. ...Irei tomar isso de você.
 
-#v3583...Get back, you old hag. ...Or do you want me to take care of you...? 
+#v3583...Get back, you old hag. ...Or do you want me to take care of you...?
+...Saia daqui, sua velha. ...Ou quer que eu cuide de você...?
 
-#v3584I'll at least let you have a good dream before I kill you. ...Tell me you're happy. Come on... 
+#v3584I'll at least let you have a good dream before I kill you. ...Tell me you're happy. Come on...
+Irei ao menos deixar que tenha um bom sonho antes de te matar. ...Diga-me que está feliz. Vamos...
 
 #v3585...Tch. ...Did you break already? And I thought I'd be able to have a bit more fun. 
+...Tch. ...Já quebrou? E eu pensando que teria um pouco mais de diversão.
 
-#v3586I'll see you again. ...In some fairy tale, some picture book. 
+#v3586I'll see you again. ...In some fairy tale, some picture book.
+Nos veremos de novo. ...Em algum conto de fadas, em um livro ilustrado.
 
-#v3577From this day forth, you're a dog. I'll make you crawl on your hands and knees and tie you to a chain! Hahahahah! 
+#v3577From this day forth, you're a dog. I'll make you crawl on your hands and knees and tie you to a chain! Hahahahah!
+Doravante, você é um cachorro. O farei rastejar com suas mãos e joelhos no chão e colocar uma coleira em você! Hahahahah!
 
-#v3578Let me hear you make those painful sounds again. ...Come on, cry for me... 
+#v3578Let me hear you make those painful sounds again. ...Come on, cry for me...
+Deixe-me ouvir esses sons dolorosos mais uma vez. ...Vamos, chore por mim...
 
-#v3579How long are you gonna lie there... Get up. ...Let's play again... *cackle*cackle*! 
+#v3579How long are you gonna lie there... Get up. ...Let's play again... *cackle*cackle*!
+Quanto tempo vai ficar deitado aí...? Levanta. ...Vamos brincar de novo... *gargalhada*gargalhada*
 
 #v3580You're...surprisingly fragile. ...Your mind and body have been torn into pieces. ...Heheh, hahahahahah! 
+Você é...surpreendemente fráfil. ...Sua mente e seu corpo foram dilacerados. ...Heheh, hahahahahah!
 
 #v3581...So, even demons can break. ...Somebody, let me play. Let me play with all my strength. 
+...Então, até demônios podem quebrar. ...Alguém, deixe-me brincar. Deixe-me brincar com todas as minhas forças.
 
-#v3587Delicious, isn't it? ...The taste of licking the floor. ...Now, lick my shoes. 
+#v3587Delicious, isn't it? ...The taste of licking the floor. ...Now, lick my shoes.
+Delicioso, não? ...O gosto delamber o chão. ...Agora, lamba meus sapatos.
 
-#v3588Hahah...! Oh, so you can make a wonderful face like that. 
+#v3588Hahah...! Oh, so you can make a wonderful face like that.
+Hahah...! Oh, então você é capaz de fazer expressões incríveis como essa.
 
-#v3589Give yourself up to me, Beatrice. ...You are mine, aren't you...? Come on... 
+#v3589Give yourself up to me, Beatrice. ...You are mine, aren't you...? Come on...
+Desista perante mim, BEATRICE. Você é minha, não é...? Vamos logo... 
 
-#v3590Sleep. ...I'll weave all the additions to your story... 
+#v3590Sleep. ...I'll weave all the additions to your story...
+Durma. ...Eu irei tecer todas as adições da sua história...
 
-#v3591Can you see this...? It's a coffin covered in roses that I prepared just for you... 
+#v3591Can you see this...? It's a coffin covered in roses that I prepared just for you...
+Consegue ver isso...? É o caixão coberto de rosas que eu preparei especialmente para você...
 
 #v3592Say it again, louder. ...'Please humiliate this pathetic Lucifer.' 
+Diga mais uma vez, mais alto. ...'Por favor, humilhe esta patética Lucifer.'
 
-#v3593I'll gouge you back. All night long. ...I'll engrave myself in your body. 
+#v3593I'll gouge you back. All night long. ...I'll engrave myself in your body.
+Irei goivá-lo de volta. Durante toda a noite. ...Gravarei a mim mesmo em seu corpo.
 
-#v3594Don't look at me with such terrified eyes. If you want to play some more, speak up and ask for it, Lucifer... 
+#v3594Don't look at me with such terrified eyes. If you want to play some more, speak up and ask for it, Lucifer...
+Não me olhe com esse olhar assustador. Se quer brincar mais, é só pedir, Lucifer...
 
-#v3595It looks like you can't even hear me anymore... ...Go on and die right there, you adorable trash furniture... 
+#v3595It looks like you can't even hear me anymore... ...Go on and die right there, you adorable trash furniture...
+Parece que você nem consegue me ouvir mais... ...Vá em frente e morra bem aqui, sua adorável mobília lixosa...
 
 #v3596Tch, ...that's odd. ...Why did you fall to pieces when I just gave you a little loving? 
+Tch, ...isso é estranho. ...Por que você se quebra em pedaços quando eu apenas estou dando a você um pouco de amor?
 
 #v3597From now on, you're my woman. ...Don't you ever give your heart, your body, or your lips to another man. ...Understand? 
+De agora em diante, você é minha mulher. ...Jamais ceda seu coração, seu corpou ou seus lábios para outro homem. ...Entendeu?
 
-#v3598Don't you think a woman's tear-stained face makes for the best makeup? ...Those terrified eyes send thrills through me. 
+#v3598Don't you think a woman's tear-stained face makes for the best makeup? ...Those terrified eyes send thrills through me.
+Não acha que o rosto de uma mulher manchado com lágrimas dá a melhor das maquiagens? ...Esses olhos assustadores me dão calafrios.
 
-#v3599Come on, ...break. ...You want me to break you, ...don't you...? 
+#v3599Come on, ...break. ...You want me to break you, ...don't you...?
+Vamos, ...quebre. ...Quer que eu quebre você, ...não quer...?
 
 #v3600Die. ...If you do, the sounds of your own suffering will no longer reach your ears... 
+Morra. ...Se o fizer, o som do seu próprio sofrimento não chegará mais aos seus ouvidos...
 
-#v3601Who cares about love? ...If I have it, I suppose it'll show when I kill you. 
+#v3601Who cares about love? ...If I have it, I suppose it'll show when I kill you.
+Quem se importa com o amor? ...Se eu o tenho, suponho que ele deva aparecer quando eu a matar.
 
 #v3602You have a body like a damn girl... ...I'll scar that pale skin... 
+Seu corpo é o da merda de uma garota... ...Irei rechear essa pele pálida com cicatrizes...
 
-#v3603See? A powerless person like you can't protect anyone, right...? ...I'll protect you instead. 
+#v3603See? A powerless person like you can't protect anyone, right...? ...I'll protect you instead.
+Viu? Uma pessoa impotente como você não é capaz de proteger ninguém, é...? ...Pelo contrário, eu irei protegê-lo.
 
 #v3604Aren't you going to resist anymore? That's right, this is for the best. ...Be quiet and stay that way... 
+Não vai mais resistir? Sim, é o melhor a se fazer. ...Faça silêncio e fique como está...
 
-#v3605Thank me. ...I've broken your cage of flesh. ...Go fly off to wherever you please. 
+#v3605Thank me. ...I've broken your cage of flesh. ...Go fly off to wherever you please.
+Me agradeça. ...Eu quebrei sua gaiola de carne. ...Agora voe pra onde bem entender. 
 
 #v3606So, your body really was that flimsy. ...If I'd held back, I could've played longer... 
+Então, seu corpo era mesmo tão fraco. ...Eu poderia ter brincado mais se tivesse me segurado...
 
 #v3607Those clothes don't look good on you. ...These will suit you best. ...I'll put them on for you. 
+Essas roupas não ficam bem em você. ...Estas vão combinar melhor. ...Eu ajudo você a se vestir.
 
 #v3608You're cute when you're obedient, Aunt Eva. ...If you lost your front teeth, that smile would be wasted, right...? 
+Você é fofa quando está obediente, tia Eva. ...Seria um desperdício para o seu sorriso perder um dente da frente, não...?
 
 #v3609...Stupid woman. ...If only you'd been born later, I could've given you my love. 
+...Mulher imbecil. Se tivesse nascido mais tarde, eu poderia ter te dado o meu amor.
 
 #v3610'Forgive me, Battler-samaaa.' ...Go on, say it. ... If you do, I'll kill you gently. 
+'Me perdoe, Battler, samaaa.'. ...Vá em frente e diga isso. ...Se o fizer, eu irei matá-la gentilmente.
 
 #v3611I could never be brutal. ...So, why do people keep calling me that when I've finished loving them? 
+Eu jamais seria brutal. ...Então, porque as pessoas ficam me chamando disso quando eu termino de amá-las?
 
 #v3612I'll keep you in a cage, like a rabbit should be kept. ...In exchange, I'll adore you every night... 
+Irei manter você em uma gaiola, assim como um coelho deve viver. ...Em troca, irei adorá-la todas as noites...
 
 #v3613I know. ...Your sadness never heals, right? ...I'll bury it for you... ...Here. 
+Eu sei. ...Sua tristeza nunca cura, né? ...Eu irei acabar com isso para você. ...Aqui.
 
 #v3614I love how women scream. ...Don't you think it's the sweetest instrument, even better than a heavenly harp...? 
-
+Eu amo como as mulheres gritam. ...Não concorda que é o mais doce instrumento, melhor até mesmo que uma harpa angelical...?
 #v3615Almost there. ...You're almost ready to meet your old friend. ...Come on... 
 
-#v3616...Long ago, I took a little bird in a cage and ripped its wings off. ...It made the same sound you just did now. 
+#v3616...Long ago, I took a little bird in a cage and ripped its wings off. ...It made the same sound you just did now.
+...Muito tempo atrás, eu coloquei um passarinho numa gaiola e arranquei suas asas. ...Ele fez o mesmo som que você fez agora.
 
-#v3617Sorry, Aniki. I'll be taking Shannon now. ...I've decided to make her my pet. 
+#v3617Sorry, Aniki. I'll be taking Shannon now. ...I've decided to make her my pet.
+Desculpa, aniki. Irei ficar com a Shannon. ...Decidi fazer dela o meu animal de estimação.
 
-#v3618So close, Aniki. ...If you'd been more of an evil scumbag, you might have beaten me. 
+#v3618So close, Aniki. ...If you'd been more of an evil scumbag, you might have beaten me.
+Quase, aniki. ...Se você fosse um pouco mais cretino, talvez tivesse me derrotado. 
 
-#v3619Shannon, step on that man. ...Go on, do it. ......*cackle*cackle* That's a good girl. 
+#v3619Shannon, step on that man. ...Go on, do it. ......*cackle*cackle* That's a good girl.
+Shannon, pise nele. ...Vá em frente e faça-o. ......*gargalhada*gargalhada* Você é uma boa garota.
 
 #v3620It looks like your heart admitted defeat before your body did. ...Enjoy that feeling. *cackle*cackle* 
+Parece que seu coração admitiu a derrota antes mesmo do seu corpo. ...Aproveite esse sentimento. *gargalhada*gargalhada*
 
 #v3621...I couldn't forgive you. ...For some reason, I really couldn't forgive you for how you looked at Shannon. 
+...Não posso perdoá-lo. ...Por algum motivo, eu realmente não posso perdoá-lo pela forma como olha para a Shannon.
 
 #v3622Hell, you really got messed up... But you wanted to get beaten up even more, so that Kanon will be nice to you, right...? 
+Merda, você bagunçou tudo mesmo... Mas você quer mesmo apanhar ainda mais, para que o Kanon seja gentil com você, certo...?
 
 #v3623Come on, ...lick my shoes. ...If you do, I'll spare Kanon-kun. *cackle*cackle*! 
+Vamos, ...lamba meus sapatos. ...Se o fizer eu pouparei o Kanon-kun. *gargalhada*gargalhada*
 
 #v3624*cackle*cackle* How embarrassing. ...I wish I could show your parents what you look like now. 
+*gargalhada*gargalhada* Que vergonhoso. ...Eu queria poder mostrar aos seus pais como você se parece agora.
 
 #v3625Don't cry, Jessica. ...If you don't stop crying, it looks like your ribs will crack next... 
+Não chore, Jessica. ...Se não parar de chorar, acho que sua costela vai ser a próxima coisa a quebrar...
 
 #v3626I like girls like you the most. ...I just love it when aggressive girls beg for their lives... 
+Eu gosto muito de garotas como você. ...Eu simplesmente amo quando garotas agressivas imploram por suas vidas...
 
 #v3627I never expected such strength and beauty from my own aunt. I've taken a liking to you. ...You get to be my pet. 
+Eu nunca esperei tanta força e beleza da minha própria tia. Estou gostando de você. ...Será meu animal de estimação.
 
-#v3628I'll be able to fill that hole in your heart. ...So...say it... 
+#v3628I'll be able to fill that hole in your heart. ...So...say it...
+Eu serei capaz de preencher aquele buraco em seu coração. ...Então, é só dizer...
 
-#v3629From now on, you're just a woman. ...I'll make you forget all about your daughter... 
+#v3629From now on, you're just a woman. ...I'll make you forget all about your daughter...
+A partir de agora, você é apenas uma mulher. ...Farei com que esqueça tudo sobre a sua filha...
 
 #v3630Now, you're finally at peace. ...That was the only way I had of freeing you. 
+Agora, você finalmente pode descançar em paz. ...Essa era a única maneira que eu tinha de libertá-la.
 
-#v3631...Don't worry. ...I won't kill Maria. ...I'll raise her with tender care in your place. 
+#v3631...Don't worry. ...I won't kill Maria. ...I'll raise her with tender care in your place.
+...Não se preocupe. ...Não irei matar a Maria. ...Irei cuidar dela com muito afeto no seu lugar.
 
 #v3632That makeup suits you. ...Tears and snot really do your face justice. Hahahaha! 
 Essa maquiagem combina com você. ...Lágrimas e ranho combinam com seu rosto.Hahahaha!
