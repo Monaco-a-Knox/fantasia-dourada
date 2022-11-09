@@ -13802,7 +13802,7 @@ O culpado não pode morrer... Ihihihihi.
 O culpado deve estar entre os personagens que aparecem na história... Ihihihihi.
 
 #v6557A 'culprit' is defined as 'one who murders'... Ihihihihi. 
-A definição de 'culpado' é 'aquele que matou'.
+A definição de 'culpado' é 'aquele que matou'... Ihihihihi.
 
 #v6558Stop wasting my time! I'll eat you to death. 
 Pare de desperdiçar meu tempo! Eu irei devorar você.
