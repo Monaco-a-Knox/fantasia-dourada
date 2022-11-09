@@ -2113,76 +2113,112 @@ ROSA X BATTLER INÍCIO
 Não gá como o culpado escapar de Rokkenjima. Ele deve estar nesta ilha.
 
 #v2240...Aunt Rosa, don't tell me...that you think one of us is behind it...
+...Tia Rosa, não me diga...que você acha que um de nós está por trás de tudo isso...
 
-#v2402If there's no one on this island other than the 18 of us, then it follows, doesn't it? 
+#v2402If there's no one on this island other than the 18 of us, then it follows, doesn't it?
+Se não há ninguém mais nesta ilha além dos 18 de nós, então faz sentido, não faz?
 
 #v2241I can't believe...that one of the family members or the servants is the culprit...
+Não consigo acreditar... que alguém da minha família ou funcionário é o culpado...
 
-#v2403I don't want to think that either. So, let's start searching. Searching for a 19th person. 
+#v2403I don't want to think that either. So, let's start searching. Searching for a 19th person.
+Eu também não quero pensar nisso. Então, vamos começar a procurar. Procurar pela 19ª pessoa.
 
 #v2404Pardon me, ...but please give me your alibis.
+Sinto muito, ...mas forneça-me seu álibi.
 
-#v2449I-I was in the servant room at the time...! Right, Kanon-kun?! 
+#v2449I-I was in the servant room at the time...! Right, Kanon-kun?!
+E-Eu estava na sala dos serviçais esse tempo todo... Não é mesmo, Kanon-kun?!
 
-#v2405The servants might all be in on this together. ...So, you have no other alibi? 
+#v2405The servants might all be in on this together. ...So, you have no other alibi?
+Os serviçais podem estar todos conspirando. ...Então, tem outro álibi?
 
 #v2242Stop that, Aunt Rosa! If you suspect people like that, no one's gonna be able to prove an alibi!
+Chega, tia Rosa! Se suspeitar das pessoas assim, ninguém será capaz de provar um álibi!
 
-#v2380...It's only natural. You can only be sure someone isn't a culprit if it's yourself...or a corpse. 
+#v2380...It's only natural. You can only be sure someone isn't a culprit if it's yourself...or a corpse.
+...É natural. Você só pode ter certeza que alguém não é culpado se for você mesmo...ou um cadáver.
 
-#v2406......Are you a sheep? Or a wolf? Tell me. 
+#v2406......Are you a sheep? Or a wolf? Tell me.
+......Você é um cordeiro ou um lobo? Diga!
 
 #v2243Th-This is horrible...! Is this how you do things, suspecting every last person?! 
+I-Isso é horrível...! É assim que você faz as coisas, suspeitando até a última pessoa?!
 
 #v2407This is how mothers with children do things. ...Until the police come, I won't be trusting anyone. 
+É assim que mães fazem as coisas. ...Até a policia chegar, não confiarei em ninguém.
 
 #v2244Are you okay, Shannon-chan, Kanon-kun...? Just try and hold out until the typhoon passes... 
+Tudo bem, Shannon-chan, Kanon-kun...? Só tentem aguardar até o tufão passar...
 
 #v2408True. When the police come, let's make up. ...Until then, don't resist, okay?
+É verdade, quando a polícia chegar, vamos fazer as pazes. ...Até lá, não tentem resistir, certo?
 
 #v2450...Yes, Rosa-sama... 
+...Sim, Rosa-sama...
 
 #v2245None of them were suspicious... There really isn't a culprit...!
+Nenhum deles é suspeito... Não há nenhum culpado...!
 
 #v2409That's true enough. None of them were suspicious. ...So now we know.
+É o bastante! Nenhum deles é suspeito. ...Agora sabemos disso.
 
 #v2246We know? ...What do we know?
+Sabemos? ...O que sabemos?
 
 #v2410Battler-kun, I've concluded that you're the wolf. ...These crimes wouldn't have been possible for anyone but you.
+Battler-kun, eu concluí que você é o lobo. ...Esses crimes não seriam possíveis para mais ninguém além de você.
 
 #v2247Th-That's insane!! Wh-Why would you say thaaaaaaat?!!
+I-Isso é loucura!! Por que diria algo assimmmmm?!
 
 #v2220...How sad. The red truth doesn't exist in the human world. Therefore, no sort of truth will reach Rosa.
+...Que tristeza. A verdade vermelha não existe no mundo humano, portando verdade alguma chegará até a Rosa.
 
 #v2411Battler-kun, you were the culprit, weren't you...? How could you...do that to everyone...?!!
+Battler-kun, você é o culpado, não é...? Como pôde...fazer isso com todo...?!
 
 #v2248Heheheh... Took you long enough to notice, ...Aunt Rosa...
+Heheheh... Demorou para perceber, ...tia Rosa...
 
-#v2249Stop it!! That wasn't me! Don't point your gun at me!! 
+#v2249Stop it!! That wasn't me! Don't point your gun at me!!
+Pare!! Não fui eu! Não aponte essa arma para mim!!
 
 #v2250How can I get you to believe me, Aunt Rosa...?!!
+Como posso fazer para acreditar em mim, ria Rosa...?!
 
-#v2412How could anyone but you have put that letter there? And there's much more than just that. If you can explain it all, I'll believe you. 
+#v2412How could anyone but you have put that letter there? And there's much more than just that. If you can explain it all, I'll believe you.
+Como qualquer outro além de você poderia ter colocado a carta ali? E vai muito além disso. Se for capaz de explicar tudo, eu irei acreditar.
 
 #v2251I told you, I'm not the culprit! If we're gonna go there, what about you?! Can you prove your own innocence?!!
+Estou dizendo que não sou o culpado! Se é assim, e quanto a você?! Pode provar a sua inocência?!
 
-#v2413No one can trust anyone but themselves. So, it's only natural that they suspect everyone else. Isn't that how the world works? 2e 8M8
+#v2413No one can trust anyone but themselves. So, it's only natural that they suspect everyone else. Isn't that how the world works?
+Ninguém pode confiar em ninguém além de si mesmo. Por isso, é natural que suspeitem dos outros. Não é assim que o mundo funciona?
 
-#v2414If you believe, you'll be betrayed. If you don't believe, no one will betray you. You'll avoid being sad for all eternity. 
+#v2414If you believe, you'll be betrayed. If you don't believe, no one will betray you. You'll avoid being sad for all eternity.
+Se acreditar, será traído. Se não acreditar, ninguém o trairá. Assim você evita ficar triste por toda a eternidade.
 
 #v2252...You're so...pitiable, Aunt Rosa. ...Have you been living that way...all this time...?
+...Você é tão...digna de pena, tia Rosa. ...Você tem vivido assim...todo esse tempo...?
 
-#v2415I'm sure your innocence will be proven eventually. ...When it is, let's make up. ...In the next life. 
+#v2415I'm sure your innocence will be proven eventually. ...When it is, let's make up. ...In the next life.
+Tenho certeza que sua inocência será provada eventualmente. ...Quando for, faremos as pazes. ...Na próxima vida.
 
-#v2416Beatrice, you're there, aren't you?! The promised time has come! ...Show yourself now...and take Maria and me from this place!! 
+#v2416Beatrice, you're there, aren't you?! The promised time has come! ...Show yourself now...and take Maria and me from this place!!
+BEATRICE, você está aí, não está?! O momento prometido chegou! ...Apareça agora...e tire a Maria e eu deste lugar!! 
 
-#v2417............ ...I've...been betrayed again, haven't I...? 
+#v2417............ ...I've...been betrayed again, haven't I...?
+............ ...Eu fui...traída novamente, não fui...?
 
-#v2418...Heh, ...heheheheh. ...Ahahahahahaha... 
+#v2418...Heh, ...heheheheh. ...Ahahahahahaha...
+...Heh, ...heheheheh. ...Ahahahahahaha...
 
-#v2419Everyone in this world is a wolf!! You can't trust anyone! The only people you can trust are yourself and corpses! I was right! I didn't make any mistakes!! 
+#v2419Everyone in this world is a wolf!! You can't trust anyone! The only people you can trust are yourself and corpses! I was right! I didn't make any mistakes!!
+Todos neste mundo são lobos!! Você não pode confiar em ninguém! Os únicos em que pode confiar são você mesmo e os cadáveres! Eu estava certa! Não cometi erro algum!!
 
-#v2420Maria, escape from here, quickly!! Go to the ocean and swim and swim and swim!! Get as far as you can from this island!! 
+#v2420Maria, escape from here, quickly!! Go to the ocean and swim and swim and swim!! Get as far as you can from this island!!
+Maria, fuja daqui, rápido! Vá para o oceano e nade, nade e nade!! Vá para o mais longe que conseguir desta ilha!!
 
 #v2421Ahahahahahaha, Beatriiiiiiiiiice!!! 
 Ahahahahahaha, Beatriiiiiiiiiice!!! 
