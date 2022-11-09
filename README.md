@@ -13,7 +13,7 @@ Nem tente entender este script pois a vasta maioria das linhas estão fora de or
 sendo que a maior parte são diálogos de derrota e interação dos personagens no modo Arcade, apresentadas de forma aleatória de acordo com a dupla selecionada, 
 não fazendo parte das histórias principais e você dificilmente verá todas elas no jogo durante toda a sua vida, afinal cada combinação pode gerar seis diálogos diferentes aleatoriamente.
 
-Equipe:
+# Equipe:
 - Tradução: Deca
 - Edição: ????
 - Revisão: ????
@@ -21,7 +21,7 @@ Equipe:
 - Limpeza do script: Deca
 - Inserção do script: Frost51
 
-Notas: 
+# Notas:
 Fantasia, do italiano, (幻想曲 gensoukyoku) é uma composição musical com raízes no improviso, assim como o script deste jogo, que é uma imensa colcha de retalhos improvisada e funciona por meio de magia.
 O nome em si do jogo é uma palavra inventada (夢想曲 musoukyoku), ao alterar o primeiro kanji para fazer um trocadilho com a expressão "musou", um gênero dentre os jogos de luta. 
 Assim sendo, "Devaneio (Träumerei) d'Ouro" poderia ser também uma tradução adequada.
