@@ -1,6 +1,6 @@
 BATTLER X ANGE INÍCIO
 #v1681I won't get lost again. It's clear where we need to return to. 
-Não vou mais me perder. Está claro para onde devo retornar.
+Não vou mais hesitar. Está claro para onde devo retornar.
 
 #v1772Yeah. Let's go home for real this time. Back to our world.
 Sim. Desta vez, vamos mesmo voltar para casa. Para o nosso mundo.
@@ -1828,129 +1828,184 @@ JESSICA X GEORGE INÍCIO
 Estou cansada disso! Odeio que meu papel seja sempre da criança que é morta!
 
 #v2297I agree completely. It's about time we had a chance to shine. 
+Concordo completamente. Está mais do que na hora de termos nossa chance de brilhar.
 
 #v2329And anyway, if we leave everything to Battler, this crime will never end!
+E de qualquer forma, se deixarmos tudo para o Battler, este crime nunca vai acabar!
 
-#v2298Exactly. Let's take on the crime ourselves this time around. 
+#v2298Exactly. Let's take on the crime ourselves this time around.
+Isso mesmo! Vamos cuidar do crime nos mesmos dessa vez
 
 #v2234What?! I'm incompetent, so you want to swap main characters?! I-I've been giving it my all... in my own way! 
+O quê?! Eu sou incompetente, por isso querem trocar o personagem principal?! E-Eu tenho dado tudo de mim... da minha maneira!
 
 #v2330How many times are you gonna get us killed before you're satisfied?! I've had enough!
+Quantas vezes você vai deixar a gente morrer até ficar satisfeito? Eu já cansei!
 
 #v2273...They have a point. You are a moron, Onii-chan. 
+...Eles têm um ponto. Você é idiota, onii-chan.
 
 #v2299We've decided to search for the culprit ourselves. Battler-kun, it's time to step down.
+Nós decidimos procurar pelo culpado por contra própria. Está na hora de abidicar, Battler-kun.
 
-#v2235B-But I'm the main character...! I can't do that...!! 
+#v2235B-But I'm the main character...! I can't do that...!!
+M-Mas eu sou o personagem principal...! Não posso fazer isso...!
 
 #v2274Yup, Onii-chan lost. Time to take you back to the future.
+É, o onii-chan perdeu. Hora de te levar de volta para o futuro.
 
 #v2236Noooooooo, I'm the main character, gaaaaaaaahhhh... 
+Nãoooooooo, eu sou o personagem principal, gaaaaaaaahhhh...
 
 #v2300Leave the search for the culprit to us. Let's go. We're the main characters now. 
+Deixe a busca pelo culpado para nós. Vamos indo. Somos os personagens principais agora.
 
 #v2331With George nii-san's brains and my fists, we'll solve this crime in a flash! 
+Com o cérebro do George nii-san e os meus punhos, vamos resolver esse crime num piscar de olhos!
 
 #v2301And we've already got a lead on the culprit. Come on, let's go...! 
+Já temos uma suspeita do culpado. Anda, vamos logo...!
 
 #v2332And with that out of the way... The culprit is you! How's that? I'm spot on, aren't I?!
+E com isso fora do nosso caminho... O culpado é você! Que tal? Na mosca, não?!
 
 #v2209Whaaaat?! Aren't you going to try and reason out who I actually am or anything like that?! Wow, it looks like I was the culprit all along! What a shocker! 
+Quêêê?! Vai mesmo tentar raciocinar quem sou eu ou algo do tipo?! Uau, parece que eu era o culpado esse tempo todo! Mas que chocante!
 
 #v2302Who you are isn't the problem. We're here to stop you from committing these crimes.
+Sua identidade não é o problema. Estams aqui para impedir que comete os crimes.
 
 #v2210I-I would have hoped that you'd worry a bit more about my identity and motives and stuff... Oh, now I get it, all those crimes were my fault the whole time! Wooow, whoooa, huuuuh! 
-
+E-Eu esperava que você se importasse um pouco mais sobre quem sou eu e minhas motivações... Ah, agora entendi, todos os crimes foram minha culpa esse tempo todo. Nossaaaaa, uaaaau, huuuuuh!
 #v2303I have an idea as to your identity. ...Do you want me to say it out loud?
 
 #v2211...Hmph. ...Very well then. I'm perfectly fine being a witch of unknown origins! Come now, if you think you can defeat me, let's see you try!! 
+...Hmph. ...Que seja, então. Não tenho problema em ser uma bruxa de origens desconhecidas! Vamos, se acham que podem me derrotar, quero ver tentar!!
 
 #v2212Nggg...ggghhh... It's my...utter defeat... 
+Nggg...ggghhh... Eu perdi...completamente...
 
 #v2333Let's go, Beatrice! I'm gonna expose who you really are! 
+Vamos, Beatrice! Agora revele quem você realmente é!
 
 #v2304...Jessica-chan, there's no need to go that far. I'm not interested in the witch's identity. 
+...Jessica-chan, não precisamos ir tão longe. Eu não estou interessado na identidade da bruxa.
 
 #v2334Why not?! Why wouldn't you want to know the identity of the culprit who committed such a terrifying crime?! 
+Por que não?! Por que não iria querer saber a identidade do culpado que cometeu um crime tão terrível?!
 
 #v2305If we expose her, the witch won't be able to stop the crimes anymore. What we want is an end to this tragedy. ...So, who she is doesn't matter. 
+Se vamos expô-la, a bruxa não será mais capaz de parar os crimes. O que queremos é colocar um fim nesta tragédia... Por isso, quem ela é não importa.
 
-#v2335...Th-That's true, but... 
+#v2335...Th-That's true, but...
+...É verdade, mas...
 
 #v2306Can you trust me and let me handle this part? 
+Pode confiar em mim e me deixar cuidar dessa parte?
 
-#v2336...I...don't understand what's going on... 
+#v2336...I...don't understand what's going on...
+...Eu...não entendo o que está acontecendo...
 
 #v2307...I won't ask who you are. So, I want you to tell me your motive. 
+...Não vou perguntar quem é você. Por isso, quero que me diga seu motivo.
 
-#v2213Do you...expect me to tell you...? 
+#v2213Do you...expect me to tell you...?
+Acha mesmo...que vou te contar...?
 
 #v2308...No. I think...I know. 
+...Não. Eu acho...que sei.
 
 JESSICA X GEORGE FINAL
 #v2214I suppose this is also one of the endings I hoped for. ...Victory is yours, Ushiromiya...George... 
-Suponho que este também seja um dois finasi pelo qual ansiei. ...A vitória é sua, Ushiromiya...George...
+Suponho que este também seja um dois finais pelo qual ansiei. ...A vitória é sua, Ushiromiya...George...
 
 GEORGE X SHANNON INÍCIO
 #v2440Yes. ...I'll accept this engagement ring.
 Sim. ...Aceitarei este anel de noivado.
 
-#v2309I will make you mine. This battle is unavoidable if I am to accomplish that. 
+#v2309I will make you mine. This battle is unavoidable if I am to accomplish that.
+Farei de você minha. Esta é uma batalha inevitável se eu quiser realizar aquilo. 
 
 #v2441...Yes. I've also decided to show my resolve with my strength.
+...Sim. Eu também decidi mostrar minha determinação usando minha força.
 
-#v2310I'll show you my strength. So show me yours, too. 
+#v2310I'll show you my strength. So show me yours, too.
+Irei mostrar minha força, então mostre-me a sua também.
 
 #v2337So you came, Shannon, George nii-san! Come on, let's settle this! 
+Então vocês vieram, Shannon, George-nii-san! Anda, vamos decidir isto!
 
 #v2442Yes, Milady. We'll overcome this trial and be joined together.
+Sim, ojou-sma. Vamos superar esta provação e ficarmos juntos.
 
 #v2367And we will overcome this trial...and step into a new world. 
+E nós iremos superar esta provação...e dar um passo em direção a um novo mundo.
 
 #v2311If fate had permitted it, ...I would have wanted the four of us to step into it together.
+Se o destino tivesse permitido, ...eu gostaria que nós quarto déssemos essa passo juntos.
 
-#v2338There's no helping it. Only one pair will be joined. Let's get this started!! 
+#v2338There's no helping it. Only one pair will be joined. Let's get this started!!
+Não há o que possamos fazer quantoa isso. Apenas um par pode ficar junto. Vamos começar!!
 
 #v2443I'm so sorry, Milady, Kanon-kun...! Please forgive me...!
+Desculpe-me, ojou-sama, Kanon-kun... Por favor, me perdoem...!
 
 #v2339Sure, no hard feelings... Go and find happiness, dammit! 
+Claro, sem ressentimentos... Vão e encontre a felicidade, droga!
 
 #v2312Shannon, you aren't furniture anymore. You've gained the right to be joined with another. 
+Shannon, você não é mais uma mobília. você obteve o direito de estar junto de outra pessoa.
 
-#v2444...Yes. ...Now, I can be joined to George-san... 
+#v2444...Yes. ...Now, I can be joined to George-san...
+...Sim. ...Agora podemos ficar juntos, George-san...
 
 #v2313We just have to blaze a path forward. I won't let anyone get in our way! 
+Teremos que pavimentar um caminho pela frente. Não deixarei que ninguém interfira nele!
 
 #v2314I need you to acknowledge our marriage, Mother. No one can tear us apart.
+Preciso que reconheça nosso casamento, mãe. Ninguém pode nos separar.
 
 #v2287George! How many times do I have to tell you?! That woman isn't worthy of the family name!!
+George! Quantas vezes terei que repetir?! Este mulher não é digna do nome da família!
 
 #v2215...Shannon, you did well to make it this far. ...Are you fully prepared? 
+...Shannon, você foi ótima chegando até aqui. ...Está realmente preparada?
 
 #v2445Yes, Beatrice-sama. ...I'm prepared to abandon everything...in order to be joined with him.
+Sim, BEATRCE-sama. ...Estou preparada para abandonar tudo...a fim de ficar junta dele.
 
 #v2216Very well. ...Then prove it. Let us clear your path.
+Muito bem. ...Então prove. Vamos abri seu caminho.
 
 #v2288Shannon, you little thief! George deserves better than you! I'll mush you up so bad, you'll never appear again!! 
+Shannon, sua ladrãzinha! Meu George merece alguém melhor que você! Vou acabar com você a ponto de nunca mais dar as caras!!
 
 #v2315So long, Mother. We will find happiness. That's for certain.
+Adeus, mãe. Nós iremos encontrar a felicidade. Tenho certeza disso.
 
-#v2289Geooooooorge, gyaaaaaah, nooooooooo...!! 
+#v2289Geooooooorge, gyaaaaaah, nooooooooo...!!
+Geooooooorge, gyaaaaaah, nãooooooooo...!!
 
 #v2446Forgive me, Eva-sama... ...I'll definitely...bring George-san happiness.
+Perdoe-me, Eva-sama... ...Eu definitivamente...farei o George-san feliz.
 
 #v2217Well done, you two. I've witnessed your resolve. 
+Muito bem,vocês dois. Eu testemunhei suas determinações.
 
 #v2316We swear to bring each other happiness, no matter what. ...Enough for Jessica-chan and Kanon-kun as well. 
+Nós juramos trazer a felicidade um para o outro, a qualquer coisa. ...O suficiente para a Jessica-chan e o Kanon-kun também.
 
 #v2447...And also for you two.
+...E também para vocês dois.
 
 #v2218Indeed. And don't you forget it. ...You two succeeded in gathering the love that had split into three. Do not forget the two pairs of lovers you stole it from. 
+De fato, e não se esqueça disso. ...Vocês tiveram sucesso em reunir o amor que foi dividido em três. Não esqueçam do par de amantes que na qual vocês roubaram.
 
 #v2317I won't. No matter what. ...Please, watch over us for all eternity.
+Não irei, não importa o que aconteça. ...Por favor, olhe por nos por toda a eternidade.
 
 #v2219...Hmph. Ronove, are you there?! Now then, let us begin their wedding ceremony! From the demon world to the heavens! Summon honored guests from everywhere and hold the greatest of all weddings! 
-
+...Hmpg. Ronove, está aí?! Vamos começar a cerimônia de casamento! Do mundo dos demônios ao paraíso! Invoque convidados de honra de todos os lugares e cuide do maior de todos os casamentos!
 #v2448...George-san. ...We'll be together forever now, right? 
 
 #v2318Yes, Sayo. ...I won't ever let go of you...
@@ -1962,69 +2017,95 @@ KANON X JESSICA INÍCIO
 Você é um cara, não é? Então seja homem e diga de uma vez!
 
 #v2368But...I am furniture.
+Mas... Eu sou uma mobília.
 
 #v2341There it is again! Every time you open your mouth, it's furniture, furniture, furniture! I'll whip you into shape until you grow a pair! 
+De novo isso?! Sempre que abre a boca, só fala de mobília, mobília, mobília! Vou corrigir esse seu problema na base da força!
 
 #v2369M-Milady, that hurts, please let go...! 
+O-Ojou-sama, isso dói, pare por favor...!
 
 #v2370...But...I am furniture... 
+...Mas...eu sou uma mobília...
 
 #v2342Then become human! Change from being furniture to being human! Find the power to do that!
+Então torne-se humano! Deixe de ser uma mobília e vire humano! Encontre o poder para fazer isso!
 
 #v2459Furniture is furniture nyeh. Kanon will be furniture no matter what he does nyeeeh, nihihihi! 
-
+Mobília é mobília, nyeh. O Kanon será uma mobília independentemente do que ele faça, nyeeeh, nihihihi!
 #v2343Then we'll surpass furniture and make you human! Kanon-kun is about to become more than furniture!
 
 #v2388You think incompetent furniture like Kanon can surpass us?! I'll make you regret your pride! 
+Acha que mobílias incompetentes como o Kanon podem ser algo além disso?! Irei fazer com que se arrependa desse seu orgulho!
 
 #v2344Hey, did you see that?! Kanon-kun isn't furniture like you anymore! 
+Então, viu só aquilo? O Kanon-kun não é mais uma mobília como você!
 
 #v2371...Can I really...surpass being furniture...?
+...Eu posso mesmo...deixar de ser uma mobília...?
 
-#v2345You can! You've got me with you! You can find the courage! 
+#v2345You can! You've got me with you! You can find the courage!
+Você pode! Eu estou contigo! Você pode encontrar a coragem que precisa!
 
 #v2372...Courage... ...Does it exist in my heart as well, ...I wonder...?
+...Coragem... ...Eu me pergunto...se isso também existe no meu coração...?
 
 #v2346Looks like you still don't have the guts to do it! I'll toughen you up even more! Come on, keep 'em coming! 
+Parece que você ainda não tem coragem o suficiente! Vou forçar ainda mais com você! Anda, vamos continuar!
 
 #v2390So then, Battler-sama, what will the next scenario be?
+Pois bem, Battler-sama, qual será o próximo enredo?
 
 #v2237Hmm, yeah, what'll we do with it this time...? Oh, hi Jessica. 
+Hmm, sim, o que faremos desta vez...? Ah, oi, Jessica.
 
 #v2347Come on, Kanon-kun! You've got the confidence now! Say it! 
+Vamos, Kanon0kun! Você precisa ter confiança agora! Diga!
 
 #v2373...I...I...umm...
 ...Eu...eu...hmm... 
 
 #v2238Hmm? Sorry, didn't catch that. Could you speak up a bit? 
+Hmm? Desculpa, não deu para entender. Poderia falar um pouco mais alto.
 
 #v2348Kanon-kun, have more courage! Battler, I'm gonna stretch out your ear!! 
+Kanon-kun, você precisa de mais coragem! Battler, eu vou puxar suas orelhas!!
 
 #v2391It appears you wish to make some sort of petition. Well now, what could it be...? 
+Parece que você deseja fazer uma espécie de petição. Então, o que poderia ser...?
 
 #v2374...I...I...umm... 
 ...Eu...eu...hmm... 
 
 #v2349Come on, have courage! Let him know what you're thinking!! 
+Vamos, tenha coragem! Mostre para ele o que você está pensando!!
 
 #v2375I...umm...... .........! 
+Eu...hmm...... .........!
 
 #v2376(...Courage... ...Give me...courage......!) 
+(...Coragem... ...Eu preciso...de coragem......!)
 
 #v2377I-I... ...I want to play music with Milady...!!
+E-Eu quero... ...Eu quero tocar música com a ojou-sama...!!
 
 #v2239Oh, is that it? Sure. You could perform together at the school cultural festival. Ronove, write up a scenario like that. 
+Oh, é isso? Claro. Você pode tocr com ela no festival cultural escolar. Ronove, escreve um enredo assim.
 
 #v2350Kanon-kun, you said it...! You aren't furniture anymore, ...you're human...!! 
+Você conseguiu dizer, Kanon-kun...! Você não é mais uma mobília, ...é uma humano...!
 
-#v2351See? Fate can be crushed with just a little courage. And it's as easy as that! 
+#v2351See? Fate can be crushed with just a little courage. And it's as easy as that!
+Viu? Com um pouco de coragem, você pode esmagar seu destino. E é fácil assim!
 
-#v2378...Yes. I get the feeling...that I've finally managed to become Human. 
+#v2378...Yes. I get the feeling...that I've finally managed to become Human.
+...Sim. Sinto que...eu finalmente me tornei humano.
 
-#v2352Okay, I'll compose a piece! Kanon-kun, keep up that attitude and start on the lyrics! I'm sure we'll make an awesome song...!! 
+#v2352Okay, I'll compose a piece! Kanon-kun, keep up that attitude and start on the lyrics! I'm sure we'll make an awesome song...!!
+Certo, vou compor uma música! Mantenha essa atitude e comece com a letra, Kanon-kun! Tenho certeza que fará uma música incrível...!! 
 
 #v2379Also, ...umm... This outfit is...a little embarrassing... 
-E também, ...hmm... esta roupa é...um pouco vergonhosa...
+Bem, ...hmm... esta roupa é...um pouco vergonhosa...
 KANON X JESSICA FINAL
 
 ROSA X BATTLER INÍCIO
@@ -2188,69 +2269,100 @@ BATTLER X KANON INÍCIO
 ...Então é aqui que você estava, Battler-sama.
 
 #v2255How is it going? 
+Como está indo?
 
 #v2382...It's proceeding just as the advance notice said. No problems have occurred.
+...Está progredindo assim como dito no relatório. Nenhum problema até aqui.
 
-#v2256This is boring. 
+#v2256This is boring.
+Isso é chato;
 
 #v2383...Boring...?
+...Chato...?
 
 #v2257How about I give them a chance to fight back against my crimes? ...Heheheheheheheh! 
+Que tal dar a eles uma chance de lutar contra os meus crimes? ...Heheheheheheheh!
 
 #v2353Battler?! Wh-What kind of joke is this?! 
+Battler?! Q-Que tipo de piada é essa?!
 
 #v2258You still think this is a joke? ...Or do you want to hear how Aunt Natsuhi begged in her very last moments...?
+Ainda acha que é uma piada? ...Ou quer ouvir como a tia Natsuhi implorou em seus últimos momentos...?
 
-#v2354...Y-You bastard...!! You really did that...to everyone...?!! 
+#v2354...Y-You bastard...!! You really did that...to everyone...?!!
+...S-Seu desgraçado...!! Você realmente fez aquilo...com todos?!
 
-#v2384Milady, prepare yourself. ...After all, that is the theme of this game. 
+#v2384Milady, prepare yourself. ...After all, that is the theme of this game.
+Prepare-se, ojou-sama. ...Afinal, este é o tema deste jogo.
 
 #v2259Let's hear you beg, too. ...Entertain me, Jessica. 
+Vamos ouvir você implorar também. ...Entretenha-me, Jessica.
 
 #v2260What's up with you? Are you crying?
+Qual o seu problema? Está chorando?
 
 #v2355I...don't believe it... ...How could Battler...be the culprit...? 
+Eu...não acredito nisso... ...Como o Battler...pode ser o culpado...?
 
 #v2261A surprisingly dull way to die. ...I expected you to make more entertaining sounds than that. ...You've disappointed me, Jessica. 
+Uma forma supreendentemente chata de se morrer. ...Eu esperava que você fizesse sons mais agradáveis que isso. ...Você me decepcionou, Jessica.
 
-#v2385Will you continue the crimes? ...If any more of the survivors disappear, you'll inevitably be suspected. 
+#v2385Will you continue the crimes? ...If any more of the survivors disappear, you'll inevitably be suspected.
+Vai continuar com os crimes? ...Se mais um dos sobreviventes desaparecer, você será o único suspeito.
 
 #v2262Don't suspect me. Try and stop me. ...Me, and my crimes. Somebody, please, make me laugh. 
+Não suspeite de mim; tente me parar. ...Eu e meus crimes. Alguém, por favor, me faça rir.
 
 #v2321...I don't want to believe it, but I've concluded that you're the culprit, ...Battler-kun. 
+...Eu não quero acreditar nisso, mas cheguei a conclusão que você é o culpado, Battler-kun..
 
 #v2263Finally. I thought you at least would've managed to spot it long ago.
+Finalmente. Pensei que você ao menos teria percebido isso antes.
 
 #2322Oh, I did. ...However, because I was too naive to believe it, more and more people have died. 
+Ah, eu notei. ...Porém, eu fui ingênua demais para acreditar, e mais e mais pessoas morreram.
 
 #v2264So, you acted all flustered and locked your true thoughts away, and all the while kept an eye on me. ...Hahah, hahahahahahaha! You're quite the actor, George-aniki!
+Então, você ficou toda perturbado e guardou para si seus pensamentos enquanto ficava de olho em mim. ...Hahah, hahahahahahaha! Você é um bom ator, George-aniki!
 
 #v2323How about we both stop pretending? I won't wait for the police to decide what to do with you. 
+Que tal ambos pararem de fingir? Não vou esperar até que a polícia decida o que fazer com você.
 
 #v2265I like that look on your face. ...Heh, ...hahahahahahahaha! I'm finally starting to laugh! Let's put an end to this boring party! 
+Eu gosto desse seu olhar. ...Heh, ...hahahahahahahaha! Finalmente estou começando a rir! Vamos colocar um fim nesta festa sem graça!
 
-#v2324...I don't get it... Why would you...have to do something like that...? 
+#v2324...I don't get it... Why would you...have to do something like that...?
+...Eu não entendo... Por que você...fari algo assim...?
 
 #v2266Heh. The crime was possible for me. That's all this tale is about.
+Heh. O crime era possível para mim. Isso é tudo sobre este conto.
 
-#v2325I don't understand...what you're saying... ...Even if the crime was possible for you, what sort of reason... what sort of need could you have had that drove you to it? 
+#v2325I don't understand...what you're saying... ...Even if the crime was possible for you, what sort of reason... what sort of need could you have had that drove you to it?
+Eu não entendo...o que você está dizendo... ...Mesmo que o crime seja possível para você, por qual motivo... O que o levou a mergulhar de cabeça nisso?
 
 #v2267Motives aren't necessary in orthodox mystery novels. ...If I could've committed the crime, then I could've been the culprit. That's all there is to it. I'm merely one of those possible answers.
+Motivos são desnecessários em romances de mistério ortodoxos. ...Se eu pudesse cometer o crime, então eu poderia ser o culpado. É só isso. Sou meramente uma das respostas possíveis.
 
-#v2326...What are...you talking about...? ...Nnng...... 
+#v2326...What are...you talking about...? ...Nnng......
+...Mas que merda...você está falando...? ...Nnng......
 
 #v2227Heheheh. George, it is not for you to understand. This is how my cat box is to be enjoyed. 
+Heheheh. George, não é para você entender. É assim que minha caixa de gato é apreciada.
 
 #v2228Even an evil tale like this can be scripted at will. My pieces... Battler, Kanon, you have done well. 
+Mesmo um conto maligno como este pode ser roteirizado à vontade. Minhas peças... Battler, Kanon, vocês foram ótimos.
 
 #v2268Heh. Is it over already? I haven't had enough fun yet. 
+Heh? Já acabou de novo? Nem deu para me divertir o suficiente.
 
 #v2386I await your summons in the next game... 
+Aguardarei sua invocação no próximo jogo...
 
 #v2229...Even playing alone like this...is an empty thing. ...Even though I'm preparing the best pick of riddles from the endless tales my cat box gave birth to, as I wait for your return. 
+...Apesar que brincar sozinha assim...é algo vão... ...Apesar de estar preparando a melhor escolha de enigmas dentro os intermináveis contos que a minha caixa de gatos deu à luz, enquanto espero pelo seu regresso.
 
-#v2230...Battler. When will you come back to me...? 
-...Battler. Quando você voltará para mim...?
+#v2230...Battler. When will you come back to me...?
+...Battler, quando você voltará para mim...?
 BATTLER X KANON FINAL
 
 JESSICA X SHANNON INÍCIO
@@ -2935,6 +3047,7 @@ WILLARD X KANON INÍCIO
 Há apenas uma coisa que eu quero! Força, e nada mais...!
 
 #v6434If that's the absolute truth, then I imagine you'll find it.
+Se essa é a verdade absoluta, então imgagino que irá encontrá-la.
  
 #v6284But I never do...! Is this because I've been naive in my training?! 
 
