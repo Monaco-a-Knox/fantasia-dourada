@@ -940,7 +940,7 @@ Você não pode esperar e acreditar que este dia chegará...?
 Você é uma irmãzinha maravilhosa, com um forte coração repleto de fé em seu irmão. Ele voltará para casa. Algum dia, a qualquer custo.
 
 #v1817Virgilia... 
-Virgilia...
+VIRGILIA...
 
 #v1614I'm not letting him gooooooooo!! Battler's my eternal toy! Uhihihihihihiiiih!! 
 Não o deixarei ir embooooooraaa!! O Battler é o meu brinquedo eterno! Uhihihihihihiiiih!!
@@ -960,7 +960,7 @@ VIRGILIA X BEATRICE FINAL
 
 VIRGILIA X CHIESTER 410 INÍCIO
 #v2080Waaah, Virgilia-sama! Someone stole our fresh, sweet, yummy carrots nyeeeh!!
-Waaah, Virgilia-sama! Alguémroubou nossas doces, frescas e deliciosas cenouras, nyeeeh!!
+Waaah, VIRGILIA-sama! Alguém roubou nossas doces, frescas e deliciosas cenouras, nyeeeh!!
 
 #v2146A-A thief? Who knew we had such a naughty person in the area... What a predicament... 
 U-Um ladrão? Quem diria que temos uma pessoa perversa dessas por perto... Mas que problemão...
@@ -1044,7 +1044,7 @@ Vamos usar essas cenouras para preparar uma refeição que você e os humanos po
 Nyeh?! Espera, para! Já vi aonde isso vai parar, nyeh! Não faça isso, nyeh!!
 
 #v2154Here you go, let's all eat it together. We even have enough for seconds. It's Virgilia onee-san's special carrot and mackerel miso curry rice soup☆
-Vamos lá, vamos todos comer juntos. Temos o suficiente até para repetir. É o missô curry especial da Virgilia onee-san com cenouras e cavalinha☆
+Vamos lá, vamos todos comer juntos. Temos o suficiente até para repetir. É o missô curry especial da VIRGILIA onee-san com cenouras e cavalinha☆
 
 #v2092I knew it! I just wanted to nibble on them raw nyeh, that's mean nyeh, waaaaah...! 
 Eu sabia! Eu só queria beliscar elas cruas, nyeh! Isso é horrível, nyeh! Waaaah...!
@@ -2439,67 +2439,98 @@ JESSICA X SHANNON INÍCIO
 #v2451Romance is what being a girl is all about. It would be wonderful if there were a ritual that could bring you love. 
 Romance é tudo sobre uma garota. Seria maravilhoso se tivesse um ritual para poder trazer seu amado.
 
-#v2356Yeah, could there be something really convenient, like shooting an arrow through the heart of the person you're after?! 
+#v2356Yeah, could there be something really convenient, like shooting an arrow through the heart of the person you're after?!
+Sim, pode ser que tenha algo bem conveniente, tipo atirar através do coração da pessoa que você gosta com um arco?!
 
 #v2452Beatrice-sama, don't you have any magical items that could shoot an arrow through the heart of the opposite sex...?
+BEATRICE-sama, você não tem nenhum item que possa atirar com um arco através do coração do sexo oposto...?
 
-#v2231Roses of the demon world do have the power to steal hearts. However, they only bloom rarely. 
+#v2231Roses of the demon world do have the power to steal hearts. However, they only bloom rarely.
+Rosas do mundo dos demônios têm o poder de roubar corações. Contudo, sua floração é muito ocasional. 
 
-#v2357A demon rose that can strike at the heart of the opposite sex... ...Let's look for it! And make our love come true! 
+#v2357A demon rose that can strike at the heart of the opposite sex... ...Let's look for it! And make our love come true!
+Uma rosa demoníaca que pode acertar o coração do sexo oposto... ...Vamos procurá-la! E tornar nosso amor realidade! 
 
-#v2461A rose of the demon world? I saw some just the other day nyeh. 
+#v2461A rose of the demon world? I saw some just the other day nyeh.
+Uma rosa do mundo dos demônios? Eu vi uma dessas outro dia, nyeh. 
 
-#v2453I-Is that true?! 410-san, please tell me where they were...! 
+#v2453I-Is that true?! 410-san, please tell me where they were...!
+V-Verdade?! 410-san, por favor me diga onde elas estão...!
 
 #v2358If we could make a bouquet of those and give them out for Valentine's Day, that'd be just perfect! Eheheh!
+Seria perfeito se pudéssemos fazer um buquê com elas para dar no Dia dos Namorados! Eheheh!
 
-#v2462Nihihihi, not telling you where they are is what makes it a trial of love nyeeeh. If you wanna find them, look for yourself nyeh! 
+#v2462Nihihihi, not telling you where they are is what makes it a trial of love nyeeeh. If you wanna find them, look for yourself nyeh!
+Nihihihi, não dizer onde elas estão é o que torna uma provação do amor, nyeeeh. Se as quer, procure por conta própria, nyeh!
 
-#v2359Hah, are you saying we've gotta make you tell us by force?! Perfect. I'll show you my flaming fists of love...! 
+#v2359Hah, are you saying we've gotta make you tell us by force?! Perfect. I'll show you my flaming fists of love...!
+Hã, está dizendo que temos que te fazer contar à força?! Perfeito. Mostrarei meus punhos flamejantes do amor...!
 
 #v2360Come on, tell us! Where are the demon roses blooming?!
+Anda, diga! Onde florescem as rosas demoníacas?
 
-#v2463I don't know where they're blooming nyeh... But I did see some fallen petals nyeh... 
+#v2463I don't know where they're blooming nyeh... But I did see some fallen petals nyeh...
+Não sei onde eles florescem, nyeh... Mas eu vi algumas pétalas caídas, nyeh...
 
-#v2454Which proves that they're definitely blooming somewhere on this island...! 
+#v2454Which proves that they're definitely blooming somewhere on this island...!
+O que prova que elas definitivamente florescem em algum lugar dessa ilha...!
 
 #v2361Yeah! I'm getting all fired up! Let's keep searching. This has to be a trial of love! Let's go, let's go!
+Sim! Estou ficando empolgada! Vamos continuar procurando. É uma provação do amor! Vamos, vamos!
 
-#v2389What the hell is going on here?! I was just standing next to her, and then I got beat up! Waaaah!! 
+#v2389What the hell is going on here?! I was just standing next to her, and then I got beat up! Waaaah!!
+Que merda está acontecendo aqui?! Eu só fiquei próxima dela e fui derrotada! Waaaah!!
 
-#v2392Roses of the demon world...? Well now, I'm afraid I haven't the slightest idea. 
+#v2392Roses of the demon world...? Well now, I'm afraid I haven't the slightest idea.
+Rosas do mundo dos demônios...? Bem, temo não fazer a mínima ideia.
 
-#v2455Milady... Why did you think Ronove-sama would know...? 
+#v2455Milady... Why did you think Ronove-sama would know...?
+Ojou-sama... Por que pensou que o Ronove-sama saberia...?
 
 #v2362I remembered something! ...That's right, this guy is the key to the demon roses!
+Eu lembrei de uma coisa! ...Isso mesmo, esse cara é a chave para a rosa demoníaca!
 
 #v2393Ah. Come to think of it, roses do bloom from my blood, don't they? I had completely forgotten. 
+Ah, pensando nisso, rosas florescem do meu sangue, não florescem? Eu tinha esquecido completamente disso.
 
 #v2456Y-Yes, come to think of it...! So, if we're looking for demon roses on this island...! 
+S-Sim, parando para pensar nisso...! Então, se estamos procurando por rosas demoníacas nesta ilha...!
 
-#v2363We've just gotta beat up this mustache-face, give him a nosebleed, and the demon roses will bloom right from there!! Fight us, Ronoveeeee!!! 
+#v2363We've just gotta beat up this mustache-face, give him a nosebleed, and the demon roses will bloom right from there!! Fight us, Ronoveeeee!!!
+Precisamos derrotar esse cara do bigodinho, fazer o nariz dele sangrar e as rosas demoníacas vão florescer bem aqui!! Lute com a gente, Ronoveeeee!!!
 
-#v2394...I-In that case, I, Ronove, will give it my all for the sake of making your love come true... 
+#v2394...I-In that case, I, Ronove, will give it my all for the sake of making your love come true...
+...N-Nesse caso, eu, Ronove, darei tudo de mim para realizar o amor de vocês...
 
-#v2457I-Incredible... Roses really are blooming from his nosebleed... 
+#v2457I-Incredible... Roses really are blooming from his nosebleed...
+I-Inacreditável... As rosas estão mesmo florescendo do nariz dele...
 
 #v2364I'm gonna give Kanon-kun a huge bouquet, so I'd better squeeze a bit more out! Come on, come on, come on!
+Quero dar um grande buquê para o Kanon-kun, então é melhor espremer um pouco mais! Vamos, vamos, vamos!
 
-#v2395M-Maidens can be quite ruthless creatures when it comes to romance... 
+#v2395M-Maidens can be quite ruthless creatures when it comes to romance...
+D-Donzelas podem ser criaturas bem impiedosas quando se trata de romance...
 
 #v2458George-san, please accept this flower.
+George-sam, por favor aceite esta flor.
 
 #v2365Kanon-kun, please accept this bouquet...!!
+Kanon-kun, por favor aceite este buquê...!
 
 #v2327This rose is beautiful. Thank you, Shannon.
+Essa rosa é linda. Obrigada, Shannon.
 
 #v2387...Thank you very much, Milady... But where did you find this many roses...?
+...Muito obrigada, ojou-sama... Mas onde foi que encontrou tantas rosas...?
 
-#v2366Th-That's...a-a maiden's secret, eheheheh...! 
+#v2366Th-That's...a-a maiden's secret, eheheheh...!
+I-Isso...é o segredo de uma donzela, eheheheh...!
 
-#v2396Giving life to the dreams of maidens can be quite a difficult task... 
+#v2396Giving life to the dreams of maidens can be quite a difficult task...
+Dar vida aos sonhos de uma donzela pode ser uma tarefa muito difícil...
 
-#v2465Hohohoh.... ...By the way, if you don't mind, I would like just one myself... , 
+#v2465Hohohoh.... ...By the way, if you don't mind, I would like just one myself...
+Hohohoh.... ...A propósito, se não se importar, eu gostaria de uma para mim...
 
 #v2397...I-It would seem all women are without mercy... I, Ronove, h-have been utterly defeated... 
 ...Parece que as mulheres não tem misericórdia... Eu, Ronove, fui completamente derrotado...
@@ -2510,62 +2541,90 @@ ANGE X VIRGILIA INÍCIO
 Você é cega? Qualquer um pode dizer só de olhar!
 
 #v2466No, no. The truth could be the exact opposite, which is what makes this subject so deep.
+Não, nada disso. A verdade pode ser o exato oposto, que é o que faz este assunto tão profundo.
 
-#v2276No! At least when it comes to this, I'm definitely right! There's no way I'm backing off! 
+#v2276No! At least when it comes to this, I'm definitely right! There's no way I'm backing off!
+Não! Ao menos quando se trata disso, eu definitivamente estou certa! Sem chance de eu recuar! 
 
-#v2467Oh my. In that case, perhaps we should ask someone else's opinion? 
+#v2467Oh my. In that case, perhaps we should ask someone else's opinion?
+Ora? Neste caso, talvez seja melhor pedir a opinião de outra pessoa?
 
 #v2464That's a deep problem nyeh... I can't sort it out easily nyeh!
+Esse é um problemão, nyeh... Não consigo resolver isso tão facilmente, nyeh!
 
 #v2277There's nothing deep about it. Anyone could solve this at a glance!
+Não há nada de profundo. Qualquer um pode resolver só de olhar!
 
 #v2468It's proving surprisingly hard to find a good second opinion... Ah, Beato, perfect timing!
+Está se mostrando surpreendentemente difícil encontrar uma boa segunda opinião... Ah, Beato, bem na hora!
 
 #v2278Give us your take on this too. Of course, you agree with me, right?!
+Nos dê sua opinião sobre isso também. É claro, desde que concorde comigo, certo?!
 
-#v2232Huh? What is this drivel?! And anyway, 'that' belongs to me! Both of your opinions are rejected! 
+#v2232Huh? What is this drivel?! And anyway, 'that' belongs to me! Both of your opinions are rejected!
+Hã? Que bobagem é essa?! Seja como for, 'isso' pertence a mim! As opiniões das duas estão rejeitadas!
 
-#v2279'It' doesn't belong to anyone, understand? Don't pretend to own what's public property! 
+#v2279'It' doesn't belong to anyone, understand? Don't pretend to own what's public property!
+'Isso' não pertence a ninguém, entendeu? Não finja que é dona do que é propriedade pública!
 
 #v2469At any rate, you must tell us your view on the subject, Beato. You agree with me, yes?
+Seja como for, você deve nos dizer seu ponto de vista em relaçao a esse assunto. Beato, você concorda comigo, né?
 
-#v2233I-If I had to say one way or the other, ...Ange's version is more to my tastes. 
+#v2233I-If I had to say one way or the other, ...Ange's version is more to my tastes.
+S-Se eu devo dizer entre um ou outro, ...a versão da Ange é mais o meu gosto.
 
-#v2280There, you see that?! You're overthinking it so much, you can't see crap! 
+#v2280There, you see that?! You're overthinking it so much, you can't see crap!
+Viu só?! Você está pensando demais e não consegue ver nada!
 
-#v2470You're the ones who don't understand! I must be right! 
+#v2470You're the ones who don't understand! I must be right!
+É você quem não entende nada! Eu estou certa!
 
 #v2281Aaah!! Onii-chan and Ronove are together!
+Aaah!! O onii-chan e o Ronove estão juntos!
 
-#v2269You got a problem with that...? We're having our afternoon tea. Ronove's running the whole show. 
+#v2269You got a problem with that...? We're having our afternoon tea. Ronove's running the whole show.
+Algum problema com isso...? Estamos tendo o nosso chá da tarde. O Ronove está comandando o show.
 
-#v2282You're letting Ronove do it all?! There, did you see that?! 
+#v2282You're letting Ronove do it all?! There, did you see that?!
+Está deixando o Ronove fazer tudo?! Está aí, viu isso?!
 
 #v2471No, no, we cannot be sure yet! Looking merely at the surface will tell you nothing!
+Não, não, não podemos ter certeza ainda. Olhar meramente a superfície não nos dirá nada!
 
 #v2398If you wish to join us, I could prepare some more tea. 
+Se deseja se juntar a nós, eu posso preparar um pouco de chá.
 
 #v2283Yeah, like we'd get in the way! Anyway, which one of you is which?! I'm gonna find out! 
+Sim, como se fossemos nos meter! Seja como for, quem é o quê?! Eu vou descobrir!
 
 #v2270I-I have no idea what you people are talking about...! 
+N-Não faço ideia do que vocês estão falando...!
 
-#v2284Watching them fight just now, I've got a pretty good handle on Onii-chan's role. And it looks like I was right! 
+#v2284Watching them fight just now, I've got a pretty good handle on Onii-chan's role. And it looks like I was right!
 
 #v2472Oooh, how humiliating... To think that I, who was once considered a foremost expert, could be so blind...
+Oooh, quanta humilhação... E pensar que eu, que era considerada amaior das expers, poderia ser tão cega...
 
 #v2271...Ronove, do you have any idea what all this is about?
+...Ronove, faz alguma ideia sobre o que é tudo isso?
 
 #v2399I...doubt you will find it amusing, Battler-sama. 
+Eu...duvido que você vai achar divertido, Battler-sama.
 
 #v2285Onii-chan's the uke! Bat/Ron isn't bad, but seriously, Onii-chan's totally the uke! 
+O onii-chan é o passivo! BatoRono não é ruim, mas sério, o onii-chan é totalmente passivo!
 
-#v2473So it would seem... Aaah, and I already registered for the event with Bat/Ron instead of Ron/Bat... 
+#v2473So it would seem... Aaah, and I already registered for the event with Bat/Ron instead of Ron/Bat...
+Então parece que... Aaah, eu já me registrei para o evento com BatoRono ao invés de RonoBato 
 
-#v2400Oh my. What an exquisite selection of tastefully styled books. I do hope you'll let me read them too. 
+#v2400Oh my. What an exquisite selection of tastefully styled books. I do hope you'll let me read them too.
+Ora, mas que seleção requintada de livros de estilo tão apetitosos. Espero que você me deixe lê-los também.
 
-#v2272A-Ange, what's with all these thin books?! Is that me on the cover of every one?! What kind of manga are these?! 
+#v2272A-Ange, what's with all these thin books?! Is that me on the cover of every one?! What kind of manga are these?!
+A-Ange, o que são esses livros finos?! Sou eu na capa de cada um deles?! Que tipo de mangá é esse?!
 
 #v2286It's a world you don't need to know about, Onii-chan. ...Or maybe you want to know? ...That could be fun. Virgilia, if you would. 
+É um mundo que você não precisa conhecer, onii-chan. ...Ou talvez queira conhecer? ...Seria divertido. VIRGILIA, se não se importar.
 
 ANGE X VIRGILIA FINAL
 #v2474Now, Battler-kun, we will begin your education on the deeeep world of slash fiction. Heheheheheheheheheheh...!! 
@@ -5664,7 +5723,7 @@ Missão completa! Silêncio do alvo Ange: confirmado!
 Nunca pensei que você fosse ser tão formidável... Está além do que posso dar conta...
 
 #v1297Virgilia-sama, thanks for playing with me nyeh! 
-Virgilia-sama, obrigada por brincar comigo, nyeh.
+VIRGILIA-sama, obrigada por brincar comigo, nyeh.
 
 #v1298Are you okay nyeh...? You don't want your waist to be sore tomorrow nyeh. 
 Você está bem, nyeh...? Não vai querer ter dor no quadril amanhã, nyeh.
@@ -5676,7 +5735,7 @@ Não tem nada de errado com o meu quadril! Ai, aiaiaiaiai...! Meus ombros...
 Que horror... Se ela é capaz de invocar essas até mesmo crianças, o que diabos ela é...
 
 #v1299Mission Complete! Silencing of Target Virgilia Confirmed! 
-Missão completa! Silêncio do alvo Virgilia: confirmado!
+Missão completa! Silêncio do alvo VIRGILIA: confirmado!
 
 #v1300Even worse than a loser ugly man is a loser sparkly man nyeh. 
 Pior do que perder para um homem feio, é perder para um homem reluzente, nyeh.
