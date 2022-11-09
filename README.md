@@ -39,15 +39,15 @@ IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tr
 7 - Ange / EVA-Beatrice
 8 - Virgilia / Ronove
 9 - Virgilia / Beatrice
-10 - Virgilia / Chiester-410
+10 - Virgilia / Chiester 410
 11 - Ronove / Beatrice
 12 - Ronove / EVA-Beatrice
 13 - Beatrice / Lucifer
 14 - Beatrice / EVA-Beatrice
 15 - Lucifer / Kanon
-16 - Lucifer / Chiester-410
+16 - Lucifer / Chiester 410
 17 - Shannon / Kanon
-18 - EVA-Beatrice / Chiester-410
+18 - EVA-Beatrice / Chiester 410
 19 - Jessica / George
 20 - Shannon / George
 21 - Kanon / Jessica
