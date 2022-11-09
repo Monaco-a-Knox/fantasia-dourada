@@ -1248,7 +1248,7 @@ RONOVE X EVA BEATRICE FINAL
 
 BEATRICE X LUCIFER INÍCIO
 #v1634Come, arise. The eldest of the Seven Sisters of Purgatory, Lucifer. 
-Venha e apareça! A mais velha das Sete Irmãs do Purgatório, Lucifer.
+Apareça! A mais velha das Sete Irmãs do Purgatório, Lucifer.
 
 #v1946Lucifer of Pride, right here! What are your orders?!
 Lucifer, do Orgulho, está aqui. Quais as suas ordens?!
@@ -1754,51 +1754,73 @@ Hã? O top 3 da pesquisa de personagens? Ei, agora que mencionou...
 Eu preciso que todos os personagens mais populares que eu desapareçam, então preparem-se!
 
 #v1821At your age, you'd be better off not trying to take on kids in a popularity poll. And speaking of age, it's about time you started acting yours. 
+Na sua idade, é melhor não tentar ir contra as crianças na pesquisa de popularidade. E falando em idade, já está na hora de começar a agir conforme a sua.
 
 #v1884Aaaaah!! I can't forgive you for being more popular than me despite being a hamburger! If only you'd just give up and die! 
+Aaaaah!! Não irei perdoá-la por ser mais popular que eu, mesmo sendo um hambúrguer! Por que não desiste e morre bem devagar!
 
 #v1885Strength is justice...and popularity! Voting for frail heroines who'd fly away if you blew on them is so last century! 
+Força é justiça...e popularidade! Votar em heroínas frágeis que sairiam voando se fossem sopradas é coisa do século passado!
 
 #v2110And in this century, power is still justice nyeh. Nyeh nyeh!
+E neste século, poder ainda é justiça, nyeh. Nyeh nyeh!
 
-#v1886Did that grab us the top spot yet? 
+#v1886Did that grab us the top spot yet?
+Isso já nos levou para o topo?
 
 #v2111Checking the web, and it looks like we've still got plenty of rivals left nyeh.
+Estou checando na internet e parece que ainda temos muitas rivais pela frente, nyeh.
 
-#v1887Come on! Let's turn all our higher-ranked rivals into <pop>, <cute> lumps of goo...!! 
+#v1887Come on! Let's turn all our higher-ranked rivals into <pop>, <cute> lumps of goo...!!
+Anda! Vamos transformar nossas rivais mais bem colocadas em nódulos gosmentos pops e adoráveis...!!
 
-#v1677Were you looking for the eternal number one?! That would be me, wouldn't it?! You've kept me waiting, EVAAAAAAA!! 
+#v1677Were you looking for the eternal number one?! That would be me, wouldn't it?! You've kept me waiting, EVAAAAAAA!!
+Está buscando pelo primeiro lugar eterno?! Essa seria eu, não seria? Você me deixou esperando, EVAAAAAAA!!
 
 #v1888Why is this kid number one...?! What are these 21st century kids into...?!
+Por que essa criança é a número um...?! No que essas crianças do século XXI estão interessadas...?!
 
-#v1678I'd say they're quite perceptive! If they can understand my charm, perhaps Humans aren't quite so bad! 
+#v1678I'd say they're quite perceptive! If they can understand my charm, perhaps Humans aren't quite so bad!
+Eu diria que são bem perceptiva! Se conseguem entender meu charme, talvez humanos não sejam tão ruins!
 
-#v2112She'll definitely be number one in the next popularity poll nyeh. What'll we do nyeh? 
+#v2112She'll definitely be number one in the next popularity poll nyeh. What'll we do nyeh?
+Ela certamente vai ser a número 1 na próxima pesquisa de popularidade, nyeh. O que faremos, nyeh?
 
 #v1889Isn't it obvious?! I'll beat everyone who's more popular than me to death!! Give up and hand over your number one slot!!
+Não é óbvio?! Vou acabar com qualquer um que seja mais popular do que eu!! Desista e passe para mim a sua colocação!!
 
-#v1679Hyahyahya! How pleasurable are the howls of low-ranked, stagnant characters!? I'll put up with your pathetic challenge, defeat you, and leave me looking even better!! 
+#v1679Hyahyahya! How pleasurable are the howls of low-ranked, stagnant characters!? I'll put up with your pathetic challenge, defeat you, and leave me looking even better!!
+Hyahyahya! Como são agardáveis os berros daquelas personagens estagnadas e mal ranqueadas! Aceitarei seu desafio patético, a derrotarei e isso fará eu parecer ainda melhor!!
 
 #v1680Th-There's hardly any point to having a character poll if I'm not in it, right?! That'd be like having coffee without cream...! 
+B-Basicamente não tem sentido ter uma pesquisa de popularidade se eu não estou nela, né?! É como ter café sem creme...!
 
-#v1890Sorry, but I like it black. Give it up and disappear...!! 
+#v1890Sorry, but I like it black. Give it up and disappear...!!
+Foi mal, mas eu gosto de preto. Desista e desapareça...!
 
-#v2113Congratulations nyeh!! Now we've gotten rid of everyone who was more popular than you nyeh! 
+#v2113Congratulations nyeh!! Now we've gotten rid of everyone who was more popular than you nyeh!
+Parabéns, nyeh!! Nos livramos de todas que eram mais populares que você, nyeh!
 
 #v1891Just to be sure, I'm not about to find out that you're actually ranked higher than me, or that you're planning to defeat me and take the top slot, or anything like that, right? 
+Apenas para ter certeza, não estou prestes a descobrir que você tem uma colocação melhor que a minha, ou que você planeja me derrotar e roubar meu lugar, nem nada disso, né?
 
 #v2114I'm just a supporting actress nyeh. Congratulations on becoming number one, EVA-sama nyeeeh!! 
+Sou apenas uma atriz coadjuvante, nyeh. Parabéns por se tornar a número um, EVA-sama, nyeeeh!!
 
-#v1892Th-There's really no plot twist...? I can actually celebrate? Aha, ahahahahah...! I'm number one in the character popularity poll! 
+#v1892Th-There's really no plot twist...? I can actually celebrate? Aha, ahahahahah...! I'm number one in the character popularity poll!
+Não vai ter nenhhuma reviravolta...? Eu posso mesmo celebrar? Aha, ahahahahah...! Eu sou a número um da pesquisa de popularidade!
 
-#v2115And I'm number two nyeh! Wohooo! Nyeh nyeh nyeh! 
+#v2115And I'm number two nyeh! Wohooo! Nyeh nyeh nyeh!
+E eu sou a número dois, nyeh! Ebaaaa! Nyeh nyeh nyeh!
 
-#v1893So, who's number three? I'm just curious. 
+#v1893So, who's number three? I'm just curious.
+Só por curiosidade, quem é a número três?
 
-#v2116There is none nyeh. We took them all out nyeh. 
+#v2116There is none nyeh. We took them all out nyeh.
+Não tem ninguém, nyeh. Derrotamos todas elas, nyeh.
 
 #v1894Huh? What the heck? ...Does that mean... 
-Hã? O quê? ...Quer dizer que...
+Hã? O quê? ...Isso quer dizer que...
 EVA BEATRICE X CHIESTER 410 FINAL
 
 JESSICA X GEORGE INÍCIO
