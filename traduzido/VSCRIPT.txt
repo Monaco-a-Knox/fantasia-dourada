@@ -3047,59 +3047,83 @@ WILLARD X KANON INÍCIO
 Há apenas uma coisa que eu quero! Força, e nada mais...!
 
 #v6434If that's the absolute truth, then I imagine you'll find it.
-Se essa é a verdade absoluta, então imgagino que irá encontrá-la.
+Se essa é a verdade absoluta, então imagino que irá encontrá-la.
  
-#v6284But I never do...! Is this because I've been naive in my training?! 
+#v6284But I never do...! Is this because I've been naive in my training?!
+Mas eu nunca a encontro...! É porque estou sendo ingênuo em meu treinamento?! 
 
-#v6435At times like that, all you can do is train some more. ...Don't think with your head. You'll just get a headache. 
+#v6435At times like that, all you can do is train some more. ...Don't think with your head. You'll just get a headache.
+Em momentos como esse, tudo o que lhe resta é treinar um pouco mais. ...Não pense demais. Só vai ficar com dor de cabeça.
 
 #v6098Hey, if it isn't Kanon-kun! So you're training? Good for you!
+Ei, se não é o Kanon-kun! Então está treinando? Que ótimo!
  
-#v6358If you so desire, shall we be your opponents...? 
+#v6358If you so desire, shall we be your opponents...?
+Se quiser, podemos ser seus oponentes...?
 
-#v6285Nng. Why? ...Why do I feel like I have an inferiority complex against those two...? 
+#v6285Nng. Why? ...Why do I feel like I have an inferiority complex against those two...?
+Nng. Por quê? Por que sinto que tenho um complexto de inferioridade contra esses dois...?
 
-#v6436...Is being weak the reason for your complex? Then surpass it. Overcome them. 
+#v6436...Is being weak the reason for your complex? Then surpass it. Overcome them.
+...Ser fraco seria a razão do seu complexo? Então supereo-o. Deixe isto para trás.
 
-#v6286Battler-sama, Ronove-sama...! Please fight me!! 
+#v6286Battler-sama, Ronove-sama...! Please fight me!!
+Battler-sama, Ronove-sama...! Por favor, lutem comigo!!
 
-#v6437There's more to swordsmanship than mere arm strength. Does it still feel like you have a complex after defeating the two of them? 
+#v6437There's more to swordsmanship than mere arm strength. Does it still feel like you have a complex after defeating the two of them?
+Um espadachim é feito de muito mais do que simples força nos braços. Ainda sente que tem um complexo mesmo após derrotar os dois?
 
 #v6287...I don't know. ...But the gloomy feeling in my chest just won't go away.
+...Não sei. ...Esse sentimento depressivo no meu peito não desaparece.
  
-#v6438It looks like you still haven't noticed the true voice inside yourself. ...Listen to it. To grow stronger, you must know who you truly are. 
+#v6438It looks like you still haven't noticed the true voice inside yourself. ...Listen to it. To grow stronger, you must know who you truly are.
+Parece que você ainda não notou a verdadeira voz que há dentro de si. ...Ouça. Para fortalecer-se, você precisa saber quem realmente é.
 
 #v6288My true voice...? I don't understand... Just what is this gloomy feeling that can't be shaken off, even by defeating those two...? 
+Minha verdadeira voz...? Eu não entendo... O que é esse sentimento depressivo que não some, mesmo derrotando aqueles dois...?
 
 #v6119...Something Battler and Ronove have that you don't? ...Something you lack?
- 
+...Algo que o Battler e o Ronove possuem e você não? ...Algo que está faltando?
+
 #v6178...Something that you can't beat Battler and Ronove at... It's your height, isn't it? 
+Algo na qual você não pode vencê-los... Seria a sua altura?
 
 #v6289...W-Waaaaaaah!! Th-That's it...! I wanted to be tall! That's why I had an inferiority complex against Battler-sama and Ronove-sama!!
- 
-#v6179You're short, pale, weak, and you wear shooooooooorts! How could you not be embarrassed as a man, Kyaannon-saaaaaaaaaan?!?! 
+...W-Waaaaaaah!! É-É isso...! Eu quero ser alto1 É por isso que tenho um complexo de inferioridade por causa do Battler-sama e Ronove-sama!!
 
+#v6179You're short, pale, weak, and you wear shooooooooorts! How could you not be embarrassed as a man, Kyaannon-saaaaaaaaaan?!?! 
+Você é baixo, pálido e usa um shoooooooort! Como homem, como não fica envergonhado disso, Kyaannon-saaaaaaaaaan?!?! 
 #v6439Overcome it, Kanon...!! Let out all of that inner rage...!! 
 
-#v6440Kanon, why are you hanging your head? You've shown your strength as a man...! 
+#v6440Kanon, why are you hanging your head? You've shown your strength as a man...!
+Por que está baixando a cabeça, Kanon? Você demonstrou sua força como homem...!
 
 #v6290I feel empty... Height is the one thing I can't gain through training...
+Eu me sinto vazio... Altura é a única coisa que eu não posso obter através de treinamento...
  
-#v6441No, you can do it. Here's a present to commemorate your success. 
+#v6441No, you can do it. Here's a present to commemorate your success.
+Não, você consegue. Aqui está um presente para comemorar seu sucesso.
 
 #v6291...Th-These are...elevator shoes?! I-I'd be too embarrassed to wear these!!
- 
-#v6442You're a man with guts. What's so embarrassing about having a height to go with it? ...And, to be honest, ...I'm wearing them too. 
+...Isto é...uma sola plataforma para os meus sapatos?! E-Eu ficaria muito envergonhado de usar um desses!!
+
+#v6442You're a man with guts. What's so embarrassing about having a height to go with it? ...And, to be honest, ...I'm wearing them too.
+Você é um homem corajoso. O que tem de tão vergonhoso de ter um salto para acompanhar? ...E, para ser honesto, ...eu também estou usando.
 
 #v6292...Wh-What?! Y-You wear elevator shoes too?!
+...O-O que?! V-Você também usa sola plataforma?!
  
-#v6443You can't tell, can you? That's how good they are these days. ...Come on, wear them with pride. You have the right to. 
+#v6443You can't tell, can you? That's how good they are these days. ...Come on, wear them with pride. You have the right to.
+Você nem consegue perceber, né? Isso mostra como são bem feitas hoje em dia. ...Anda, use-as com orgulho. Você tem esse direito.
 
-#v6293I'm.....so high up... My range of vision... has been sent 5cm into the sky...!! Hahah, hahahahahahahah...!! 
+#v6293I'm.....so high up... My range of vision... has been sent 5cm into the sky...!! Hahah, hahahahahahahah...!!
+Eu......estou tão alto... Meu campo de visão... subiu 5 cm em direção ao céu...!! Hahah, hahahahahahahah...!!
 
-#v6120...You don't wear elevator SHOES. 
+#v6120...You don't wear elevator SHOES.
+...Você não usa sola PLATAFORMA.
 
-#v6444Shh! ...Don't ignore the heart. 
+#v6444Shh! ...Don't ignore the heart.
+Shh! ...Não ignore o coração.
 
 #v6294I'm...not short anymore... Hahahah, ahahahahahah...!! 
 Eu...não sou mais pequeno... Hahahah, ahahahahahah...!!
@@ -3110,62 +3134,91 @@ WILLARD X DIANOR INÍCIO
 Quem imaginaria que nós iríamos juntar nossas forças. ...Quanta generosidade vinda da Grande Corte.
 
 #v6130The elimination of evil WITCHES. That is the mission we have been tasked WITH.
+A eliminação das bruxas MALIGNAS. Essa é a missão na qual nos foi INCUMBIDA.
  
-#v6446...I'm keeping Diana waiting. Let's finish this up quickly. 
+#v6446...I'm keeping Diana waiting. Let's finish this up quickly.
+...Estou deixando a Diana esperando. Vamos acabar com isso logo.
 
-#v6131It will be a rare joint effort between the heads of Eiserne and the SSVD. Let us enjoy OURSELVES. 
+#v6131It will be a rare joint effort between the heads of Eiserne and the SSVD. Let us enjoy OURSELVES.
+Será uma rara união de forças entre a chefe da Eiserne e o SSVD. Vamos APROVEITAR.
 
 #v6227The witch's eyes hover in the darkness, waiting for you amidst the shadows of the hallway!
+Os olhos da bruxa pairam na escuridão, esperando por você em meio às sombras do corredor!
  
 #v6480Bad children who are picky eaters...get eaten themselves by the witch hiding under the bed... Hohohohoho...! 
+Más crianças que são seletivas na hora de comer...são comidas pela bruxa que se esconde debaixo de suas camas... Hohohohoho...!
 
 #v6132ENOUGH. We won't let you evil witches run rampant any MORE.
- 
+BASTA. Não deixaremos que bruxas malignas continuem DESENFREADAS.
+
 #v6228Evil? That's so mean. We were just playing pranks on the kids! 
+Malignas? Quanta grosseria. Só estamos pregando peças nas crianças!
 
 #v6447And going out of your way to do it on the night of a storm? If you're looking for a dance partner, we've got you covered. 
+E saíndo numa noite de tempestade só para fazer isso? Se está procurando um parceiro de dança, estamos aqui por você.
 
 #v6133And you were once feared for being so COLDBLOODED... ...You have changed quite a LOT. 
+E pensar que certa vez você foi temida pelo seu sangue FRIO... ...Você mudou BASTANTE.
 
 #v6448My past and present are no different. ...I can't forgive evil or witches. That's all there is to it.
+Meu passado e meu presente não são diferentes. ...Não posso tolar o mal ou bruxas. Nada mais do que isso.
  
 #v6134The old you wouldn't have accepted such a boring job, CORRECT? 
+Em outros tempos você não teria aceito um trabalho tão chato, CORRETO?
 
 #v6449I could say the same. You wouldn't have taken it yourself if you weren't bored to death of stamping documents.
- 
-#v6135PFFT. ...It would seem we are both enjoying our MISSION. 
+Eu diria o mesmo. Você não estaria aqui se não tivesse morrendo de tédio de tanto carimbar documentos.
+
+#v6135PFFT. ...It would seem we are both enjoying our MISSION.
+PFFT. ...Parece que ambos estamos aproveitando nossa MISSÃO.
 
 #v6088Rokkenjima's night belongs to me! Come, turn off the lights at once. I'll whisk you away to the world of witches...!
+A noite de Rokkenjima pertence a mim! Vamos, apaguem as luzes de uma vez. Irei levá-los para o mundo das bruxas...!
  
 #v6343Our tools of torture, like the stakes used to gouge human sacrifices, can't wait to start playing. Heheheheheheheh...! 
+Nossas ferramentas de tortura, como as estacas que usamos para goivar sacrifícios humanos, estão ansiosas para começar a brincadeira. Heheheheheheheh...!
 
 #v6136Witch time is OVER! From now on, we will be your OPPONENTS!
+A hora das bruxas ACABOU! A partir de agora, nós seremos seus OPONENTES!
  
 #v6089What?! To think that Inquisitors, and a pair of Agency Heads no less, would come after us for pranking children! The Great Court really does have too much time on their hands! 
+O quê?! Quem imaginaria que Inquisidores, uma dupla de chefes da Agência, iria vir atrás de nós por pregar peças em crianças! A Grande Corte realmente tem muito tempo livre!
 
 #v6137Yes, we DO. Because of this deployment, 2000 documents yet to be approved have piled UP...! 
+Sim, nós TEMOS. Devido a este desdobramento, 2000 documentos ainda estão empilhados, esperando para serem APROVADOS...!
 
 #v6450You've got to be cleverer about it. I left my stamp with the Chief Investigator, so I've got it easy. Thanks to that, I can buy and sell on the foreign exchange market all I want while on the job. 
+Você precisa ser inteligente quanto a isso. Eu deixei meu carimbo com o Investigador Chefe, o que me facilitou muito. Graças a isso, eu posso comprar e vender ações no mercado externo enquanto trabalho.
 
 #v6408Thanks, you two. Now, all the terrifying witches are gone. 
+Eu agradeço a vocês. Agora, todas as bruxas horríveis se foram.
 
 #v6451So, you're the one who put in the request. ...You will tell us, won't you? Why we were called in for something this minor. 
+Então foi vocÊ quem fez o pedido? ...Vai nos contar, não vai? O motivo de nos chamar para algo tão insignificante.
 
 #v6138Will, asking that is in violation of work REGULATIONS. 
+Will, perguntar isso viola o regramento do nosso TRABALHO.
 
 #v6452I imagine so. Nothing says 'civil servant' like doing your job in silence, then heading for the changing room as soon as the bell rings. 
+Suponho que sim. Mas não diz nada sobre 'funcionários públicos' fazendo seu trabalho em silêncio, indo para o vestiário e partindo assim que toca o sinal.
 
 #v6409...And so, thanks to their efforts, the scary witches were exterminated. 
+...E assim, graças aos esforços deles, as bruxas assustadoras foram exterminadas.
 
 #v6159Really...? There really aren't any more witches under the bed, or in the closet, or in the darkness outside the window...? 
+Mesmo...? Não tem mais nenhuma bruxa debaixo da cama, no armário ou olhando pela escuridão da janela...?
 
-#v6410No, they're all gone. Will and Dlanor got rid of the scary witch Beatrice. 
+#v6410No, they're all gone. Will and Dlanor got rid of the scary witch Beatrice.
+Não, elas se foram. O Will e a Dlanor se livraram da bruxa assustadora chamada BEATRICE.
 
 #v6139Leave bad witches to US. Eradicating them is our MISSION. 
+Deixe as bruxas más CONOSCO. Erradicá-las é a nossa MISSÃO.
 
 #v6453So, sleep peacefully. By tomorrow morning, the weather will have cleared up. 
+Por isso, podem dormir sossegadas. Amanhã de manhã o tempo já terá limpado.
 
 #v6160Scary witches really won't come into my dreams anymore...? 
+As bruxas assustadoras não vão mais aparecer nos meus sonhos...?
 
 #v6411That's right, they won't. ...So sleep peacefully, Ange-sama... 
 Isso mesmo, elas não vão. ...Por isso, durma tranquila, Ange-sama...
@@ -3299,7 +3352,7 @@ O que quer? ...Se vai me dilacerar, seja rápida.
 
 BERNKASTEL X WILLARD FINAL
 #v6495...Cats really are fickle, aren't they? *giggle* ...Hahahahah.
-...Gatos são mesmo caprichosos, não são: *risos* ......Hahahahah.
+...Gatos são mesmo caprichosos, não são? *risos* ......Hahahahah.
 
 BERNKASTEL X ERIKA INÍCIO
 #v6194My master, we've finished preparations for our attack on the Golden Land. We can destroy it whenever you please. 
