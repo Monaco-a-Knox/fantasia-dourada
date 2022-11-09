@@ -30,9 +30,9 @@ IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tr
 
 # Duplas que desbloqueiam CGs.
 
-1 - Battler / Ange
-2 - Battler / Ronove
-3 - Battler / Beatrice
+- Battler / Ange
+- Battler / Ronove
+- Battler / Beatrice
 4 - Battler / Lucifer
 5 - Battler / Shannon
 6 - Ange / Lucifer
