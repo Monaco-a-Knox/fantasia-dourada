@@ -21,4 +21,4 @@ Equipe:
 Notas: 
 Fantasia (幻想曲) é um ritmo musical. O jogo altera um kanji (夢想曲) da palavra para fazer um trocadilho com a expressão "musou", um gênero dentre os jogos de luta.
 
-IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tradução deve sempre conter menos caracteres que a versão em inglês, caso o contrário o jogo quebra.
+IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tradução deve sempre conter menos caracteres que a versão em inglês, caso o contrário o jogo quebra. Não há patch disponível ainda.
