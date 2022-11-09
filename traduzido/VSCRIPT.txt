@@ -2229,72 +2229,106 @@ ROSA X BEATRICE INÍCIO
 Se resolver o enigma do epitáfio, ...fica com o ouro para si, certo?
 
 #v2221Indeed, I promise it! If you manage to spectacularly solve the epitaph's riddle, I shall give you 20 billion yen in gold!
+Sim, eu prometo! Se conseguir resolver espetacularmente o enigma do epitáfio, eu devo conceder a você 20 bilhões de iene em ouro!
 
-#v2423A witch never goes back on her word, right? I'll solve it. You can count on that!! 
+#v2423A witch never goes back on her word, right? I'll solve it. You can count on that!!
+Uma bruxa nunca volta atrás com sua palavra, certo? Eu irei resolvê-lo. Pode apostar nisso!!
 
 #v2222Well said. Then allow me to watch as you do!
+Falou bonito. Agora permita-me assistir enquanto tenta!
 
-#v2424I'll definitely get that gold. With 20 billion yen, no dream would be impossible! 
+#v2424I'll definitely get that gold. With 20 billion yen, no dream would be impossible!
+Eu definitivamente vou por as mãos no ouro. Com 20 bilhões de iene, não há sonho que seja impossível.
 
-#v2319...In other words, the first twilight's connection to a quadrillion is- 
+#v2319...In other words, the first twilight's connection to a quadrillion is-
+...Em outras palavras, a conexão do primeiro crepúsculo a um quatrilhão é...
 
 #v2425Would you mind telling me a bit more about that?!
+Se importaria de me contar um pouco mais sobre isso?
 
 #v2253Sorry, but no. After all, we're after the gold too! 
+Foi mal, mas não posso. Afinal, estamos atrás do ouro também!
 
-#v2223*cackle* Of course they won't tell you that easily. 
+#v2223*cackle* Of course they won't tell you that easily.
+*gargalhada* É óbvio que não vou dizer assim tão fácil.
 
 #v2426True. It's 20 billion we're talking about. I don't expect them to spill the beans so quickly! 
+Tem razão. Estamos falando de 20 bilhões aqui. Não espero que eles desembuchem tão rápido assim!
 
 #v2254I-If you manage to find the gold, ...would you mind paying my medical bills...? 
+S-Se conseguir encontrar o ouro, ...se importaria de pagar as minhas contas médicas...?
 
 #v2427I'll do that and then some! Come on, George-kun, tell me what you were talking about just now!
+Farei isso e muito mais! Vamos George-kun, diga-me sobre o que estava falando agora!
 
-#v2320O-Okay, I'll tell you... So please, spare me... 
+#v2320O-Okay, I'll tell you... So please, spare me...
+C-Certo, eu vou dizer... Por favor, me poupe...
 
-#v2428Hmmmmm. I've solved quite a bit of the riddle. Just a little more to go...! 
+#v2428Hmmmmm. I've solved quite a bit of the riddle. Just a little more to go...!
+Hmmmm. Eu resolvi uma boa parte do enigma. Só mais um pouquinho...!
 
-#v2224*cackle*! When there's 20 billion yen up for grabs, even peaceful, ordinary people undergo shocking transformations. 
+#v2224*cackle*! When there's 20 billion yen up for grabs, even peaceful, ordinary people undergo shocking transformations.
+*gargalhada*! Quando tem 20 bilhões em jogo, mesmo pessoas normais e tranquilas passam por uma transformação chocante.
 
-#v2429Shut up! When is it ever wrong to work hard in search of happiness?! 
+#v2429Shut up! When is it ever wrong to work hard in search of happiness?!
+Cale a boca! Desde quando é errado trabalhar duro em busca da felicidade?!
 
 #v2225What a coincidence. To think that Eva would solve the epitaph too...!
+Que coincidência. E pensar que a Eva também resolveria o epitáfio...!
 
-#v2290I'm the one who's surprised! So, you solved it too, Rosa? It looks like you were just a little too late! 
+#v2290I'm the one who's surprised! So, you solved it too, Rosa? It looks like you were just a little too late!
+Sou eu quem estou surpresa! Então você também o resolveu, Rosa? Mas parece que chegou um pouco atrasada!
 
 #v2430...Nngg. I can't believe Nee-san beat me to it...!
+...Nngg. Não consigo acreditar que apanhei para a nee-san...!
 
 #v2460What'll we do nyeh? Are you gonna split it evenly like you agreed to nyeh?
+O que faremos, nyeh? Vai dividir isso conforme combinado, nyeh?
 
-#v2291Of course I'm not giving it to them! Rosa, if only you'd just give up and die! 
+#v2291Of course I'm not giving it to them! Rosa, if only you'd just give up and die!
+É óbvio que não vou dar nada a eles! Rosa, por que não desiste e morre bem devagar?! 
 
 #v2431Sorry, but I'm taking my share. I'm taking every last yen's worth! I definitely won't give it up!
+Desculpa, mas vou levar a minha parte. Estou levando cada iene! Definitivamente não desistirei!
 
-#v2292Even if you pay off that debt of yours, there's no way that man's coming home! If you've even managed to realize that yourself, why are you so fixated on getting the gold? 
+#v2292Even if you pay off that debt of yours, there's no way that man's coming home! If you've even managed to realize that yourself, why are you so fixated on getting the gold?
+Mesmo que pague o que deve, nenhum homem voltará para sua casa! Se você mesma é capaz de entender isso, por que está tão obcecada em obter o ouro?
 
 #v2432...Sh-Shut up!! You don't know how I feel!!
+...C-Calada!! Você não sabe como eu me sinto!!
 
-#v2293Yeah, that's true, I don't know!! I've been wanting to have a sibling squabble with you for ages!! 
+#v2293Yeah, that's true, I don't know!! I've been wanting to have a sibling squabble with you for ages!!
+Sim, é verdade, eu não sei!! Faz anos que espero para ter uma disputa de irmãs com você!!
 
 #v2433As we decided, I'm taking my share. Get it as cash and transfer it over to me within three months.
+Como foi acordado, estou levando a minha parcela. Converta em espécie e transfira para mim em três meses.
 
-#v2294...*sob* Okay, I'll transfer it over to you... 
+#v2294...*sob* Okay, I'll transfer it over to you...
+...*chora* Certo, vou transferir para você...
 
 #v2434With this, I'll be able to pay off that man's debt. ...Now, I'm...
+Com isso, serei capaz de pagar as dívidas daquele homem. ...Agora, eu...
 
-#v2295...Are you still not over that man who got you to be a cosigner and then ran away with the money? 
+#v2295...Are you still not over that man who got you to be a cosigner and then ran away with the money?
+...Ainda não desistiu daquele homem que a usou como fiadora e fugiu com o dinheiro?
 
 #v2435...Who knows. Certainly not me. But there's one thing I can say. ...With this, I've managed to put an end to one of my regrets.
+...Vai saber. Certamente não sou eu. Mas tem uma coisa que posso afirmar. Com isto, eu serei capaz de colocar um ponto final em um de meus arrependimentos.
 
-#v2296I see. Now, you're finally back to being your own woman... 
+#v2296I see. Now, you're finally back to being your own woman...
+Entendi. Agora, você finalmente pode voltar a ser mulher... 
 
-#v2436Wrong. I'm back to being a single mother, with a daughter to look after. 
+#v2436Wrong. I'm back to being a single mother, with a daughter to look after.
+Errado. Eu volto a ser uma mãe solteira, com uma filha para cuidar.
 
-#v2226Rosa, you've solved the epitaph and gained the gold. ...What dream will you grant with that vast sum of money? You're free to choose anything you desire. 
+#v2226Rosa, you've solved the epitaph and gained the gold. ...What dream will you grant with that vast sum of money? You're free to choose anything you desire.
+Rosa, você resolveu o epitáfio e obteve o ouro. ...Que tipo de sonho vai realizar com essa montanha de dinheiro? Você é livre para escolher qualquer coisa. 
 
-#v2439Uu-uu-! 
+#v2439Uu-uu-!
+Uu-uu-! 
 
 #v2437Hey, Maria, stop jumping around! You're bothering the other patrons! 
+Ei, Maria, pare de ficar pulando! Está incomodando as outras clientes!
 
 #v2438Aaaah! I love open air baths. I love crab and sea urchin☆ It feels like my skin's getting younger. Heheh, and who knows, maybe there's a new love waiting for me...☆ 
 Aaaah! Eu amo banhos ao ar livre. Amo caranguejo e ouriço-do-mar☆ É como se a minha pele ficasse cada vez mais jovem. Heheh, e quem sabe, talvez tenha um novo amor esperando por mim...☆
@@ -2311,7 +2345,7 @@ Como está indo?
 ...Está progredindo assim como dito no relatório. Nenhum problema até aqui.
 
 #v2256This is boring.
-Isso é chato;
+Isso é chato.
 
 #v2383...Boring...?
 ...Chato...?
