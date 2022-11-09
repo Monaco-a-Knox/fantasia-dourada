@@ -13104,7 +13104,7 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 Eu não vim aqui para ficar no seu caminho. ...Mas parece que você não consegue me ouvir.
 
 #v5682Don't ignore the heart. I won't let you claim to understand mysteries. 
-Não ignora o coração. Não deixarei que afirme que entende de mistério.
+Não ignore o coração. Não deixarei que você afirme que entende de mistério.
 
 #v5683Why are you making light of the heart? You must have a heart of your own, right? 
 

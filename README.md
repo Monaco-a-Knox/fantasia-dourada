@@ -8,7 +8,7 @@ Basta substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Coloque tam
 
 Este patch traduz inicialmente apenas os diálogos de cada cenário. Imagens e demais conteúdos visuais permanecem intocados, mas você é livre para contribuir com a tradução ou edição das imagens.
 Infelizmente só é possível trabalhar com o script em inglês, já que o japonês é totalmente criptografado. Nem tente entender este script pois a grande maioria das linhas está fora de ordem,
-sendo que a maior parte das linhas são diálogos de derrota ou falas de partida, que aparentemente nem aparecem no jogo pois estão ficam fora das 41 histórias principais.
+sendo que a maior parte das linhas são diálogos de partida, vitória, derrota e interação dos personagens, não fazendo parte das histórias principais.
 
 Equipe:
 - Tradução: Deca
