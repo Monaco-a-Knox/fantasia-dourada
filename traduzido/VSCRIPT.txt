@@ -65,25 +65,25 @@ Perceba que o simples ato de convidá-la para cá foi uma mera brincadeira de um
 #v1822After all, I'm the Beatrice of 1998!!
 Afinal, eu sou a BEATRICE de 19989!!
 
-#v1567Oh, so you are to inherit my title 12 years in the future? 2A 8O8
+#v1567Oh, so you are to inherit my title 12 years in the future? 
 Oh, então você herdará meu título doze anos no futuro?
 
 #v1568Interesting. How truly amusing, ANGE Beatrice!! If you think you can steal away both Battler and my name, just give it a try! 
 Interessante, verdadeiramente interessante, ANGE BEATRICE!! Se acha que pode tomar tanto o Battler quanto meu nome, experimente!
 
-#v1569<Congratulations>, Angeee! You truly are the new Golden Witch! 2A 8O8
+#v1569<Congratulations>, Angeee! You truly are the new Golden Witch! 
 Congratulations, Angeee! Você é realmente a nova Bruxa Dourada!
 
 #v1570So, go ahead and despair at the sight of a future where you cannot change a single thing! *cackle*cackle* Wahahahahaaah!! 
 Agora, vá em frente de desespere-se diante de um futuro em que você não pode mudar absolutamente nada! *gargalhada*gargalhada* Wahahahahaaah!!
 
-#v1779...I already knew that. This whole fight is a daydream of mine, my search for self-satisfaction... 2	 8M8
+#v1779...I already knew that. This whole fight is a daydream of mine, my search for self-satisfaction... 
 ...Eu já sabia disso. Toda essa luta é um devaneio meu; minha busca pela auto-satisfação...
 
 #v1780No matter how much I struggle, ...I can't change anything about the past or the future or Onii-chan...
 Não importa o quanto eu lute, ...não posso mudar nada sobre o passado, futuro ou o onii-chan...
 
-#v1571Battler probably will return home, though only in the year 1986. There's no one coming home to you in the 1998 where your brother never returned! 2A 8O8
+#v1571Battler probably will return home, though only in the year 1986. There's no one coming home to you in the 1998 where your brother never returned! 
 O Battler provavelmente voltará para casa, embora no ano de 1986. Ninguém voltará para você em 19998, quando seu irmão nunca retornou!
 
 #v1572How truly foolish and amusing you are, struggling on despite knowing this! Wahahahahahahahahahah!! ,
@@ -2708,7 +2708,7 @@ Eu também resolvi o epitáfio, certo? Não acha que é justo que eu me torne um
 ...Talvez não seja tão ruim...se eu me juntar... *cora*...
 ROSA X EVA FINAL
 
-ROSA X CHIESTER 410
+ROSA X CHIESTER 410 INÍCIO
 #v6418...Did you call for me nyeh, Black Witch Rosa-sama?
 ...Chamaste por mim, nyeh? Bruxa da Escuridão, Rosa-sama?
 
@@ -3105,16 +3105,16 @@ Eu me sinto vazio... Altura é a única coisa que eu não posso obter através d
 Não, você consegue. Aqui está um presente para comemorar seu sucesso.
 
 #v6291...Th-These are...elevator shoes?! I-I'd be too embarrassed to wear these!!
-...Isto é...uma sola plataforma para os meus sapatos?! E-Eu ficaria muito envergonhado de usar um desses!!
+...Isto é...um salto para os meus sapatos?! E-Eu ficaria muito envergonhado de usar um desses!!
 
 #v6442You're a man with guts. What's so embarrassing about having a height to go with it? ...And, to be honest, ...I'm wearing them too.
 Você é um homem corajoso. O que tem de tão vergonhoso de ter um salto para acompanhar? ...E, para ser honesto, ...eu também estou usando.
 
 #v6292...Wh-What?! Y-You wear elevator shoes too?!
-...O-O que?! V-Você também usa sola plataforma?!
+...O-O que?! V-Você também usa um salto?!
  
 #v6443You can't tell, can you? That's how good they are these days. ...Come on, wear them with pride. You have the right to.
-Você nem consegue perceber, né? Isso mostra como são bem feitas hoje em dia. ...Anda, use-as com orgulho. Você tem esse direito.
+Você nem consegue perceber, né? Isso mostra como são bem feitos hoje em dia. ...Anda, use-as com orgulho. Você tem esse direito.
 
 #v6293I'm.....so high up... My range of vision... has been sent 5cm into the sky...!! Hahah, hahahahahahahah...!!
 Eu......estou tão alto... Meu campo de visão... subiu 5 cm em direção ao céu...!! Hahah, hahahahahahahah...!!
@@ -3155,7 +3155,7 @@ BASTA. Não deixaremos que bruxas malignas continuem DESENFREADAS.
 Malignas? Quanta grosseria. Só estamos pregando peças nas crianças!
 
 #v6447And going out of your way to do it on the night of a storm? If you're looking for a dance partner, we've got you covered. 
-E saíndo numa noite de tempestade só para fazer isso? Se está procurando um parceiro de dança, estamos aqui por você.
+E saindo numa noite de tempestade só para fazer isso? Se está procurando um parceiro de dança, estamos aqui por você.
 
 #v6133And you were once feared for being so COLDBLOODED... ...You have changed quite a LOT. 
 E pensar que certa vez você foi temida pelo seu sangue FRIO... ...Você mudou BASTANTE.
@@ -3558,6 +3558,8 @@ Ei, Bern. Como quer brincar hoje? Afinal, já jogamos praticamente tudo e estou 
 #v6527...*giggle* ...*giggle*giggle*. It's really not so bad to talk philosophy every now and then. 
 ...*risos* ...risos*risos*. Não é tão ruim falar filosoficamente de vez em quando.
 BERNKASTEL X LAMBDADELTA FINAL
+
+Linhas perdidas de cada história.
 
 #v0214Dammit, and I was so close to becoming the real Battler...! 
 
@@ -7586,6 +7588,8 @@ Missão completa! Silêncio do alvo Dlanor: confirmado!
 
 #v4870Ahahah! I'm sorry, that's just so hilarious! Hey, hey, can you be any funnier than that? 
 
+Fim das linhas perdidas de cada história
+
 Undefined line - Loser Conversations - First Person
 Linha indefinida - Diálogo do perdedor - Primeira Pessoa
 
@@ -11487,7 +11491,8 @@ Linha indefinida - Diálogo das Duplas - Primeira Pessoa
 Undefined line - Partner Conversations - Second Person
 Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
-#v0334Hey, that's not a bad disguise...! I'll rip it right off! 
+#v0334Hey, that's not a bad disguise...! I'll rip it right off!
+Ei, esse não é um disfarce ruim...! Vou arrancá-lo agora mesmo!
 
 #v0335Don't get cocky, fake! You can't win against the real thing! 
 
@@ -11591,7 +11596,8 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v3817I'll let you be a theatergoer for our game. But I'm not letting you interfere! 
 
-#v3818<Trick or treat!> If you don't give me sweets, I'll play a prank, right? 
+#v3818<Trick or treat!> If you don't give me sweets, I'll play a prank, right?
+Trick or treat! Se não me der doces, farei travessuras, tá?
 
 #v3819What...?! I'm up against Lambda?! Don't go too hard on me, okay? 
 
@@ -11807,11 +11813,14 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v5766I've had intellectual fights like this with Dlanor many a time. There's no need to hold back. 
 
-#v5767Van Dine's Twenty Rules... I've always wanted to challenge them. 
+#v5767Van Dine's Twenty Rules... I've always wanted to challenge them.
+As Vinte Regras de Van Dine... Eu sempre quis desafiá-las.
 
-#v5768Wizard-Hunting Wright, show me your power...! 
+#v5768Wizard-Hunting Wright, show me your power...!
+Wizard-Hunting Wright, mostre-me do que é capaz.
 
-#v5769Good day to you, Lady Bernkastel. I wonder if my tea will suit your tastes...? 
+#v5769Good day to you, Lady Bernkastel. I wonder if my tea will suit your tastes...?
+Bom dia para você, Lady BERNKASTEL. Pergunto-me se meu chá será do seu agrado...?
 
 #v5770Welcome to that child's game board. Also, this is not the audience seating area. 
 
@@ -12841,7 +12850,8 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v4675Who cares about witches? This is our island. We'll blow away any creeps we find around here! 
 
-#v4676Welcome to Rokkenjima! Sorry this is so sudden, but would you mind leaving? 
+#v4676Welcome to Rokkenjima! Sorry this is so sudden, but would you mind leaving?
+Bem-vindo a Rokkenjima! Sei que é meio repentino, mas se importaria de ir embora?
 
 #v4677Is this stupid-looking person a witch too? Heheh, I'll bet even I could become a witch! 
 
@@ -12885,7 +12895,8 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v3350Stay away...! I don't want to see you looking like that again! 
 
-#v3351What an avant-garde costume. ...Maybe I'll use it as a base for my next work. 
+#v3351What an avant-garde costume. ...Maybe I'll use it as a base for my next work.
+Mas que rouba mais avant-garde. ...Talvez eu a utilize como base para o meu próximo trabalho.
 
 #v3352Now there's a sexy outfit. I'm so jealous of young girls, able to fight with their legs exposed like that. 
 
@@ -12951,9 +12962,11 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v5261I have nothing else to say to you... Would you mind leaving me alone? 
 
-#v5262Whose dream am I in?! I've had enough of witches! Release us! 
+#v5262Whose dream am I in?! I've had enough of witches! Release us!
+Estou no sonho de quem? Já cansei de bruxas! Nos liberte! 
 
-#v5263This is Rokkenjima, the Ushiromiya Family's island! All outsiders must leave right now...!! 
+#v5263This is Rokkenjima, the Ushiromiya Family's island! All outsiders must leave right now...!!
+Esta é Rokkenjima, a ilha da família Ushiromiya! Todos os forasteiros devem sair imediatamente...!
 
 #v5264Another...witch? This must be a dream...! That's right, it's a dream! 
 
@@ -12991,7 +13004,8 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v4402The butler holds an important key. That's so classic western mansion mystery, it's a bit boring. 
 
-#v4403...*giggle*giggle* Are you gonna show me another magic trick? Try to keep me entertained, okay? 
+#v4403...*giggle*giggle* Are you gonna show me another magic trick? Try to keep me entertained, okay?
+...*risos*risos* Vai memostrar outro truque de mágica? Mantenha-me entretida, certo?
 
 #v4404You may fool Battler-san, but you won't fool me. Not with that cheap closed room trick! 
 
@@ -13061,9 +13075,11 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v4437I've heard all the rumors. Something about a fool seeking fairness in the mystery genre. *giggle* 
 
-#v4438The mystery genre is a battle of intelligence. If you're looking for rules in it, that means you're just soft. 
+#v4438The mystery genre is a battle of intelligence. If you're looking for rules in it, that means you're just soft.
+O gênero do mistério é uma batalha de inteligência. Se está procurando por regras nele, significa que está pegando leve demais.
 
-#v4439Van Dine is out of date. At this rate, you won't be able to keep up with the younger generation. 
+#v4439Van Dine is out of date. At this rate, you won't be able to keep up with the younger generation.
+Van Dine é datado. Desse jeito, você não será capaz de acompanhar as novas gerações.
 
 #v4440T-To think that you would play with me!! Thank you so much, my masteeeeeeeer! 
 
@@ -13105,7 +13121,8 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v4049We specialize in fighting against demons above all ELSE. Your chances of victory are NONEXISTENT. 
 
-#v4050What a nice SMELL. ...Are you hiding SOMETHING? 
+#v4050What a nice SMELL. ...Are you hiding SOMETHING?
+Sinto um cheiro BOM. ...Está escondendo alguma COISA?
 
 #v4051I will deny everything about your existence and your magic with these ten wedges of MINE. 
 
@@ -13237,11 +13254,14 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v5662...Let me talk to the witch. I don't intend to hurt anyone. 
 
-#v5663I've got no theatergoing authority this time. ...I'm not gonna hold back, okay? 
+#v5663I've got no theatergoing authority this time. ...I'm not gonna hold back, okay?
+Não tenho a autoridade do espectador desta vez. ...Não irei me contar, certo?
 
-#v5664You two really are complicated. Gives me a headache. 
+#v5664You two really are complicated. Gives me a headache.
+Vocês dois são mesmo complicados. Me dão dor de cabeça.
 
-#v5665Calm down. I'm just a funeral coordinator. 
+#v5665Calm down. I'm just a funeral coordinator.
+Alcame-se. Eu sou só o coordenador do funeral.
 
 #v5666You wear your emotions on your sleeve. At this rate, your opponents will be able to predict every strike you make. 
 
@@ -13251,9 +13271,11 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 
 #v5669Don't be so touchy... I didn't come here to peek into the cat box. 
 
-#v5670So, you girls are Maria's friends? ...Your very existence is sad. 
+#v5670So, you girls are Maria's friends? ...Your very existence is sad.
+Então, vocês são amigas da Maria? ...A existência de vocês é tão entristecente. 
 
-#v5671I'm not here to play. ...Back off, rabbit. 
+#v5671I'm not here to play. ...Back off, rabbit.
+Não vim aqui para brincar. ...Afastem-se, coelhas.
 
 #v5672If you wander around dressed like that, you'll catch cold. You must be freezing. 
 
@@ -13297,7 +13319,8 @@ Não ignore o coração. Não deixarei que você afirme que entende de mistério
 
 #v5691I won't let you use Lion as a toy. ...I'll cut you down right here. 
 
-#v5692Heartless people like you make the mystery genre rot. 
+#v5692Heartless people like you make the mystery genre rot.
+Pessoas sem coração como você fazem o gênero do mistério apodrecer. 
 
 #v5693I haven't forgotten what you did to my arm. I may not look like it, but I tend to hold grudges. 
 
@@ -13529,7 +13552,8 @@ Não ignore o coração. Não deixarei que você afirme que entende de mistério
 
 #v5030I can't believe I get to play with my beloved Bern again! I won't let anyone get their hands on her...! 
 
-#v5031Oooh! I don't know which Fragment's 'me' you are, but this is pretty interesting! 
+#v5031Oooh! I don't know which Fragment's 'me' you are, but this is pretty interesting!
+Oooh! Não sei de qual Fragmento 'eu' sou, mas isso é realmente interessante!
 
 #v5032Hey! If you're trying to get near my Bern, think again! 
 
@@ -13571,7 +13595,8 @@ Não ignore o coração. Não deixarei que você afirme que entende de mistério
 
 #v3524If only you'd closed this up properly, ...you wouldn't have had to worry about scum like me appearing. 
 
-#v3525Hey, Nee-chans of the Seven Stakes. ...Sorry, but I'm not the Battler you know. 
+#v3525Hey, Nee-chans of the Seven Stakes. ...Sorry, but I'm not the Battler you know.
+Ei, nee-chans das Sete Estacas. ...Sinto muito, mas eu não sou o Battler que vocês conhecem.
 
 #v3526That rouge doesn't look good on you. ...You'd be prettier with those lips stained with blood... 
 
@@ -13595,7 +13620,8 @@ Não ignore o coração. Não deixarei que você afirme que entende de mistério
 
 #v3536We were all dancing on the palm of the Golden Witch. Both me...and you. 
 
-#v3537Hey, 410. ...It's useless. No matter how much you search, you will never, ever find your friend. 
+#v3537Hey, 410. ...It's useless. No matter how much you search, you will never, ever find your friend.
+Ei, 410. ...É inútil. Não importa o quanto procure, você nunca, jamais, vai encontrar seu amigo.
 
 #v3538I understand. You start feeling so sad the instant you stop running around. ...It's the same for me. 
 
@@ -13611,7 +13637,8 @@ Não ignore o coração. Não deixarei que você afirme que entende de mistério
 
 #v3544I'm sure you wouldn't understand. ...Just shut up and let me kill you. 
 
-#v3545I'll make you remember. ...How were you killed, and by whom? 
+#v3545I'll make you remember. ...How were you killed, and by whom?
+Farei com que lembre. ...Como foste morte, e quem o matou?
 
 #v3546Hey, Aunt Rosa. Don't worry about all this blood on me. After all, there's gonna be much more of it soon. 
 
@@ -13619,41 +13646,59 @@ Não ignore o coração. Não deixarei que você afirme que entende de mistério
 
 #v3548I'll take good care of Maria. ...Her death will be simply divine. 
 
-#v3549Hey, Erika. Curiosity carries a heavy price. What a stupid woman. 
+#v3549Hey, Erika. Curiosity carries a heavy price. What a stupid woman.
+Ei, Erika. A curiosidade tem um alto preço. Mulher estúpida.
 
-#v3550I'm grateful for your reasoning. That's why I'm here. ...What an utter fool. 
+#v3550I'm grateful for your reasoning. That's why I'm here. ...What an utter fool.
+Sou grato por seu raciocínio. É por isso que estou aqui. ...Mas que imbecil. 
 
-#v3551Go ahead, try and reason this out. ...You might figure out how I'm gonna kill you five minutes before it happens. 
+#v3551Go ahead, try and reason this out. ...You might figure out how I'm gonna kill you five minutes before it happens.
+Vá em frente e tente deduzir tudo isso. ...Você deve conseguir descobrir como vou te matar, cinco minutos antes que aconteça. 
 
-#v3552Hey, Dlanor. This is a cat box. Even you won't be able to deny me... 
+#v3552Hey, Dlanor. This is a cat box. Even you won't be able to deny me...
+Ei, Dlanor. Esta é uma caixa de gato. Nem mesmo você será capaz de me negar... 
 
-#v3553I don't need the Knox Decalogue. I'm here, I'm a murderer, and that's all there is to it. 
+#v3553I don't need the Knox Decalogue. I'm here, I'm a murderer, and that's all there is to it.
+Não preciso do Decálogo de Knox. Eu estou aqui, sou o assassino e isso é tudo o que importa.
 
-#v3554Who I am doesn't matter. ...I'm just a murderer who's gonna wipe everything off the face of this island. 
+#v3554Who I am doesn't matter. ...I'm just a murderer who's gonna wipe everything off the face of this island.
+Quem eu sou não importa. ...Sou apenas um assassino que vai eliminar tudo que estiver sobre esta ilha.
 
-#v3555Hey, Will. I didn't think I'd be invited to hear your reasoning too. I'm glad... 
+#v3555Hey, Will. I didn't think I'd be invited to hear your reasoning too. I'm glad...
+Ei, Will. Eu não pensei que seria convidado para ouvir o seu raciocínio também. Estou contente...
 
-#v3556The 'who dunnit' is enough, right? No 'why dunnit' exists for me. 
+#v3556The 'who dunnit' is enough, right? No 'why dunnit' exists for me.
+O 'who dunnit' já basta, certo. 'Why dunnit' não existe para mim.
 
-#v3557So, you say you're gonna deny me? Do it, if you can. I want to be free. 
+#v3557So, you say you're gonna deny me? Do it, if you can. I want to be free.
+Então está dizendo que vai me negar? Faça-o, se puder. Eu quero ser livre.
 
-#v3558Hey, Bernkastel. ...If you've summoned me here, I guess that means you wanna die. 
+#v3558Hey, Bernkastel. ...If you've summoned me here, I guess that means you wanna die.
+Ei, BERNKASTEL. ...Se você foi invocada aqui, acho que significa que irá morrer.
 
-#v3559I'm not a miracle anymore. ...I'm a new me, wished for by countless witches. I'll prove that to you. 
+#v3559I'm not a miracle anymore. ...I'm a new me, wished for by countless witches. I'll prove that to you.
+Não sou mais um milagre. ...Sou um novo eu, desejado por incontáveis bruxas. Irei provar isso a você.
 
-#v3560If that's what you want, that's what I'll become. ...A miracle that can kill even you. 
+#v3560If that's what you want, that's what I'll become. ...A miracle that can kill even you.
+Se é o que quer, será o que me tornarei. ...Um milagre capaz de matá-la.
 
-#v3561Hey, Lambda. You bored? If so, I wouldn't mind ending that boredom for all eternity. 
+#v3561Hey, Lambda. You bored? If so, I wouldn't mind ending that boredom for all eternity.
+Ei, Lambda. Entendiada? Se estiver, eu não me importaria de acabar com seu tédio para todo o sempre.
 
-#v3562Give me a new game board. ...I haven't killed enough yet. *cackle*cackle* 
+#v3562Give me a new game board. ...I haven't killed enough yet. *cackle*cackle*
+Dê-me um novo tabuleiro. ...Ainda não matei o suficiente. *gargalhada*gargalhada*
 
-#v3563You smell sweet. ...Yes, it's the sweet, sweet smell of nectar-like...blood... 
+#v3563You smell sweet. ...Yes, it's the sweet, sweet smell of nectar-like...blood...
+Você tem um cheito doce. ...Sim, é doce, um doce aroma de néctar...como sangue...
 
-#v3564So, you're me too? ...My, my, those damned witches. Taking these whims a bit far, are we? *cackle*cackle* 
+#v3564So, you're me too? ...My, my, those damned witches. Taking these whims a bit far, are we? *cackle*cackle*
+Então, você também sou eu? ...Francamente, essas malditas bruxas. Levando seus caprichos a sério demais, não? *gargalhada*gargalhada*
 
-#v3565So, does this mean that only I can break me? ...Sure, let's break each other... 
+#v3565So, does this mean that only I can break me? ...Sure, let's break each other...
+Então, quer dizer que apenas eu posso me quebrar? ...Certo, então vamos quebrar um ao outro...
 
 #v3566How sad. ...Even when faced with myself, I can't feel fear.
+Que tristeza... Mesmo quando enfrento a mim mesmo, não consigo sentir medo.
 
 Undefined line - Pre-Match Conversation 1
 Linhas indefinidas - Diálogo Pré-Jogo 1
