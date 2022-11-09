@@ -33,41 +33,41 @@ IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tr
 - Battler / Ange
 - Battler / Ronove
 - Battler / Beatrice
-4 - Battler / Lucifer
-5 - Battler / Shannon
-6 - Ange / Lucifer
-7 - Ange / EVA-Beatrice
-8 - Virgilia / Ronove
-9 - Virgilia / Beatrice
-10 - Virgilia / Chiester 410
-11 - Ronove / Beatrice
-12 - Ronove / EVA-Beatrice
-13 - Beatrice / Lucifer
-14 - Beatrice / EVA-Beatrice
-15 - Lucifer / Kanon
-16 - Lucifer / Chiester 410
-17 - Shannon / Kanon
-18 - EVA-Beatrice / Chiester 410
-19 - Jessica / George
-20 - Shannon / George
-21 - Kanon / Jessica
-22 - Rosa / Battler
-23 - Rosa / Beatrice
-24 - Battler / Kanon
-25 - Jessica / Shannon
-26 - Ange / Virgilia
-27 - Ronove / George
-28 - George / Beatrice
-29 - Rosa / EVA-Beatrice
-30 - Rosa / Chiester-410
-31 - Erika / Ange
-32 - Dlanor / Virgilia
-33 - Black Battler / Shannon
-34 - Erika / Dlanor
-35 - Willard / Kanon
-36 - Willard / Dlanor
-37 - Lambdadelta / Jessica
-38 - Bernkastel / Willard
-39 - Bernkastel / Erika
-40 - Lambdadelta / Chiester 410
-41 - Bernkastel / Lambdadelta 
+- Battler / Lucifer
+- Battler / Shannon
+- Ange / Lucifer
+- Ange / EVA-Beatrice
+- Virgilia / Ronove
+- Virgilia / Beatrice
+- Virgilia / Chiester 410
+- Ronove / Beatrice
+- Ronove / EVA-Beatrice
+- Beatrice / Lucifer
+- Beatrice / EVA-Beatrice
+- Lucifer / Kanon
+- Lucifer / Chiester 410
+- Shannon / Kanon
+- EVA-Beatrice / Chiester 410
+- Jessica / George
+- Shannon / George
+- Kanon / Jessica
+- Rosa / Battler
+- Rosa / Beatrice
+- Battler / Kanon
+- Jessica / Shannon
+- Ange / Virgilia
+- Ronove / George
+- George / Beatrice
+- Rosa / EVA-Beatrice
+- Rosa / Chiester-410
+- Erika / Ange
+- Dlanor / Virgilia
+- Black Battler / Shannon
+- Erika / Dlanor
+- Willard / Kanon
+- Willard / Dlanor
+- Lambdadelta / Jessica
+- Bernkastel / Willard
+- Bernkastel / Erika
+- Lambdadelta / Chiester 410
+- Bernkastel / Lambdadelta 
