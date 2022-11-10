@@ -1,6 +1,6 @@
 # Fantasia Dourada
 
-PROJETO EM ANDAMENTO 32/41 histórias traduzidas (6431 linhas)
+PROJETO EM ANDAMENTO 34/41 histórias traduzidas (6431 linhas)
 
 Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢想曲†CROSS), abreviado oficialmente para "Fantasia Dourada".
 
@@ -33,42 +33,42 @@ IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tr
 
 - Battler / Ange
 - Battler / Ronove
-- Battler / Beatrice
+- Battler / BEATRICE
 - Battler / Lucifer
 - Battler / Shannon
 - Ange / Lucifer
-- Ange / EVA-Beatrice
-- Virgilia / Ronove
-- Virgilia / Beatrice
-- Virgilia / Chiester 410
-- Ronove / Beatrice
-- Ronove / EVA-Beatrice
-- Beatrice / Lucifer
-- Beatrice / EVA-Beatrice
+- Ange / EVA-BEATRICE
+- VIRGILIA / Ronove
+- VIRGILIA / BEATRICE
+- VIRGILIA / Chiester 410
+- Ronove / BEATRICE
+- Ronove / EVA-BEATRICE
+- BEATRICE / Lucifer
+- BEATRICE / EVA-BEATRICE
 - Lucifer / Kanon
 - Lucifer / Chiester 410
 - Shannon / Kanon
-- EVA-Beatrice / Chiester 410
+- EVA-BEATRICE / Chiester 410
 - Jessica / George
 - Shannon / George
 - Kanon / Jessica
 - Rosa / Battler
-- Rosa / Beatrice
+- Rosa / BEATRICE
 - Battler / Kanon
 - Jessica / Shannon
-- Ange / Virgilia
+- Ange / VIRGILIA
 - Ronove / George
-- George / Beatrice
-- Rosa / EVA-Beatrice
+- George / BEATRICE
+- Rosa / EVA-BEATRICE
 - Rosa / Chiester-410
 - Erika / Ange
-- Dlanor / Virgilia
-- Black Battler / Shannon
+- Dlanor / VIRGILIA
+- Battler da Escuridão / Shannon
 - Erika / Dlanor
 - Willard / Kanon
 - Willard / Dlanor
-- Lambdadelta / Jessica
-- Bernkastel / Willard
-- Bernkastel / Erika
-- Lambdadelta / Chiester 410
-- Bernkastel / Lambdadelta 
+- LAMBDADELTA / Jessica
+- BERNKASTEL / Willard
+- BERNKASTEL / Erika
+- LAMBDADELTA / Chiester 410
+- BERNKASTEL / LAMBDADELTA 

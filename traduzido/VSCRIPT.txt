@@ -2832,84 +2832,120 @@ ROSA X EVA INÍCIO
 Eu também resolvi o epitáfio, certo? Não acha que é justo que eu me torne uma bruxa também?
 
 #v6214You want to become ROSA Beatrice? I didn't think you were such a maiden at heart.
+Quer se tornar a ROSA BEATRICE? Não pensei que você tivesse o coração de uma garotinha.
 
-#v6362E-Even I want to use magic while wearing a cute outfit. Got a problem with that?! 
+#v6362E-Even I want to use magic while wearing a cute outfit. Got a problem with that?!
+M-Mesmo eu quero usar magia enquanto uso roupas fofas! Algum problema com isso?!
 
-#v6215No, not at all! I'll lend a hand in making that dream come true! 
+#v6215No, not at all! I'll lend a hand in making that dream come true!
+Não, nenhum! Vou te ajudar a realizar esse sonho!
 
 #v6073What, Rosa wants to become a witch too?! Oho, I see!
+O quê? A Rosa também quer ser uma bruxa?! Oho, entendi!
 
-#v6469Your training will be quite grueling. Are you prepared? 
+#v6469Your training will be quite grueling. Are you prepared?
+Seu treinamento será bem severo. Está preparada?
 
-#v6363I-It's not like I want to become a witch. I just want to use some sparkling magic while wearing cute clothes... 
+#v6363I-It's not like I want to become a witch. I just want to use some sparkling magic while wearing cute clothes...
+N-Não é que eu queira me tornar uma bruxa. Eu só quero usar alguma magia brilhante enquanto visto roupas fofas...
 
 #v6216So, you'd rather be a magical girl than a witch. *giggle* That's our Rosa!
+Então, você quer mesmo é ser uma garota mágica, não uma bruxa. *riso* O esperado de você!
 
-#v6074Hmmm! In that case, let's give you a little test to see if you have what it takes! 
+#v6074Hmmm! In that case, let's give you a little test to see if you have what it takes!
+Hmmm! Nesse caso, vou fazer um pequeno teste para ver se você tem o que é preciso!
 
 #v6364H-How's that?! Do I have what it takes?! 
+C-Como assim?! Ter o que é preciso?!
 
-#v6217So, even after becoming a mother, you still can't get over your dream of being a magical girl! 
+#v6217So, even after becoming a mother, you still can't get over your dream of being a magical girl!
+Então, mesmo depois de se tornar mãe, você ainda não superou seu sonho de ser uma garota mágica!
 
 #v6365'At your age!' Or, 'even though you have a kid!' If I hear anything else like that, I'll knock you to the ground!
+'Nessa idade!' Ou 'mesmo tendo uma criança!' Se eu ouvir qualquer coisa parecida com isso, vou acabar com você!
 
 #v6075I-I would never! Now then, if you win just three more times, I'll make you a magical girl!
+E-Eu nunca diria isso! Pois bem, se vencer mais três, irei transformá-la em uma garota mágica!
 
-#v6470M-Magical girls instead of witches... Will there be no one to follow in my footsteps? Tohoho...ho... 
+#v6470M-Magical girls instead of witches... Will there be no one to follow in my footsteps? Tohoho...ho...
+U-Uma garota mágica em vez de uma bruxa... Não tem ninguém para seguir os meus passos? Tohoho...ho...
 
 #v6161Pfft, *giggle*! A magical girl? Don't you mean a magical MILF?
+Pfft, *risos* Garota mágica? Não está mais para uma coroa mágica?
 
 #v6105...There might be quite a lot of demand for that in some QUARTERS.
+...Deve haver uma boa demanda para isso em alguns LUGARES.
 
 #v6162Why don't you call yourself Pretty MILF Soldier Sailor Rosa? Heheheheh! 
+Por que não chama a si mesma de Coroa Gostosa Soldada Sailor Rosa? Heheheheh!
 
-#v6366...Wh-Who are you calling a Pretty MILF Soldier...? ......*snap* 
+#v6366...Wh-Who are you calling a Pretty MILF Soldier...? ......*snap*
+...Q-Quem você está chamando de Coroa Gostosa Soldada...? *irritada*
 
-#v6218Th-There's trouble when Rosa starts looking like that. ...You're dead!! 
+#v6218Th-There's trouble when Rosa starts looking like that. ...You're dead!!
+Quando a Rosa começa a olhar assim, é porque vem problema. ...Você já está morta!! 
 
-#v6367...I'm trying the best I can... ...Who are you calling...a MIIIIIIIIIILF!!! 
+#v6367...I'm trying the best I can... ...Who are you calling...a MIIIIIIIIIILF!!!
+...Estou fazendo o máximo que eu posso... ...Quem você está chamando...de COROAAAAAAAA!!!
 
 #v6106...Maidenly power...is to be FEARED.
+...O poder de uma donzela...é mesmo TEMOROSO.
 
-#v6163Nnngg... I'm sowwy, Magical Girl Rosa-sama... 
+#v6163Nnngg... I'm sowwy, Magical Girl Rosa-sama...
+Nnngg... Disculpa, Garota Mágica Rosa-sam...
 
-#v6219You're lucky Rosa's so nice. You're both still recognizable. 
+#v6219You're lucky Rosa's so nice. You're both still recognizable.
+Vocês tem sorte da Rosa ser boazinha. Ambas ainda estão reconhecíveis.
 
-#v6368Beatrice! I won three times! Grant me my wish!! 
+#v6368Beatrice! I won three times! Grant me my wish!!
+BEATRICE! Eu venci três venzes! Conceda meu desejo!!
 
-#v6076Indeed, indeed! Well then, I shall grant your magical girl wish! 
+#v6076Indeed, indeed! Well then, I shall grant your magical girl wish!
+Sim, de fato! Pois bem, eu devo conceder seu desejo de garota mágica! 
 
-#v6220So, what sort of cute outfit would you like? Do you have a design for it? 
+#v6220So, what sort of cute outfit would you like? Do you have a design for it?
+Então, que tipo de roupa fofa vai querer? Tem algum design específico?
 
-#v6369The One-Winged Eagle won't forgive the insult of calling a maiden a MILF!! 
+#v6369The One-Winged Eagle won't forgive the insult of calling a maiden a MILF!!
+A Água de uma Asa não perdoará o insulto de chamar uma donzela de coroa!!
 
-#v6221If only you'd just give up and die! Magical EVA!! 
+#v6221If only you'd just give up and die! Magical EVA!!
+Por que não desiste e morre bem devagar! Magical EVA!!
 
-#v6370A wink with a billion sparkles! Magical Rosa!! 
+#v6370A wink with a billion sparkles! Magical Rosa!!
+Um piscar com bilhões de brilhinhos! Magical RORSA!
 
-#v6052Come to us, our gold! Magical Beatrice!! 
+#v6052Come to us, our gold! Magical Beatrice!!
+Entregue nosso ouro! Magical BEATRICE!
 
-#v6077Yay! Nice, very nice, so cute! I love this stuff too!! 
+#v6077Yay! Nice, very nice, so cute! I love this stuff too!!
+Eh? Que inveja! São tão fofas! Eu também quero agora!!
 
 #v6471...P-Perhaps it wouldn't be so bad...if I joined in... *blush*... 
 ...Talvez não seja tão ruim...se eu me juntar... *cora*...
+.
 ROSA X EVA FINAL
 
 ROSA X CHIESTER 410 INÍCIO
 #v6418...Did you call for me nyeh, Black Witch Rosa-sama?
 ...Chamaste por mim, nyeh? Bruxa da Escuridão, Rosa-sama?
 
-#v6372You've gone a bit too far. ...You understand, right? 
+#v6372You've gone a bit too far. ...You understand, right?
+Não acha que foram um pouco longe demais. Sabe do que estou falando, né?
 
 #v6419Y-Yes ma'am!! M-My apologies nyeeeh!!
+S-Sim senhora! M-Minhas desculpas, nyeeeh!!
 
-#v6373Come, it's time to tidy up... Down to the last speck... 
+#v6373Come, it's time to tidy up... Down to the last speck...
+Anda, é hora de arrumar as coisas. Tudo, tudo, tudinho...
 
-#v6144A-Aunt Rosa?! What are you trying to pull?! 
+#v6144A-Aunt Rosa?! What are you trying to pull?!
+T-Tia Rosa?! O que está tentando fazer?!
 
 #v6374It looks like you've been playing a bit too roughly. ......It's time to tidy up, Ange-chan. 
 
 #v6420You can't disobey the Black Witch nyeh! Stop struggling and let yourself get tidied up nyeh!
+Voc
 
 #v6278Who cares about the black witch...?! If you think you can tidy us up, then do it!! 
 
@@ -3151,66 +3187,97 @@ BLACK BATTLER X SHANNON INÍCIO
 ...Oh, é você. ...Ainda por aqui?
 
 #v6396...I'll stay with you always.
+...Semprei estarei com você.
 
-#v6054With me, ...and not Battler? ...You know who I am, don't you? 
+#v6054With me, ...and not Battler? ...You know who I am, don't you?
+Comigo, ...e não com o Battler? ...Sabe quem eu sou, não sabe?
 
 #v6397...Yes. And with that in mind, ...I ask that you take me with you.
+...Sim. E tendo isso em mente, ...eu peço que suma comigo.
 
-#v6055You're a woman with strange tastes. ...Okay, I'll grant that wish of yours. 
+#v6055You're a woman with strange tastes. ...Okay, I'll grant that wish of yours.
+Você é uma mulher gostos peculiares. ...Certo, garantirei seu desejo.
 
 #v6254Sh-Shannon?! What is this all about...?! Tell me...!!
+S-Shannon?! O que é tudo isso...?! Diga-me...!!
 
-#v6385Get back, George-kun!! Where were you two when the crime took place? Do you have an alibi?! 
+#v6385Get back, George-kun!! Where were you two when the crime took place? Do you have an alibi?!
+Volte, George-kun!! Onde vocês dois estavam quando o crime ocorreu? Vocês têm um álibi?
 
 #v6056...An alibi? ...I've got even less of those...than I have warm blood flowing through my veins.
+...Um álibi? ...Tenho ainda menos...do que tenho de sangue quente fluindo em minhas veias.
 
-#v6255Y-You two are the culprits?! Shannon, answer me!! I don't want to believe it...!! 
+#v6255Y-You two are the culprits?! Shannon, answer me!! I don't want to believe it...!!
+V-Vocês são os culpados?! Shannon, responda!! Não quero acreditar nisso...!!
 
-#v6057Shannon. There's no need to answer. ...Just follow along behind me. 
+#v6057Shannon. There's no need to answer. ...Just follow along behind me.
+Shannon. Não precisa responder. ...Só me acompanhe.
 
 #v6398...Yes, Battler-sama. ...I'll stay quiet and obey... 
+...Sim, Battler-sama. ...Ficarei em silêncio e irei obedecer... 
 
 #v6256...Sh-Shannon... ...Why...? 
+...Sha-Shannon... ...Por quê...?
 
-#v6399Forgive me, George-sama. ...Right now, ...I'm not the Shannon you loved... 
+#v6399Forgive me, George-sama. ...Right now, ...I'm not the Shannon you loved...
+Perdoe-me, George-sama. ...Neste momento, ...eu não sou a Shannon que você amou...
 
 #v6058That's right, you aren't Shannon. ......You're Sayo. That's your true name.
+Isso mesmo, você não é Shannon. ......Você é Sayo. Este é seu verdadeiro nome.
 
-#v6400...Yes. ...I dedicate my true name...to you... 
+#v6400...Yes. ...I dedicate my true name...to you...
+...Sim. ...Eu dedido meu nome verdadeiro...a você...
 
-#v6059You're pretty cold-blooded...for a woman who looks like she couldn't kill a fly. ...But I can't say I dislike that, either... 
+#v6059You're pretty cold-blooded...for a woman who looks like she couldn't kill a fly. ...But I can't say I dislike that, either...
+Para uma mulher que aparenta não matar nem uma mosca...você tem bastante sangue frio. ...Contudo, não posso dizer que isso me desagrada... 
 
 #v6258Shannon?! Battler?! ...Wh-Why are you two the culprits?! Why?!!
+Shannon?! Battler?! ...Por que você são os culpados?! Como?!
 
-#v6280Milady, get back. ...Right now, ...she isn't the Shannon you know. 
+#v6280Milady, get back. ...Right now, ...she isn't the Shannon you know.
+Recue, ojou-sama. ...Neste momento, ela não é mais a Shannon que você conhece.
 
 #v6060That's right. ...After abandoning her false name, ...Sayo has regained her true one.
+Isso mesmo. ...Após abandonar seu falso nome, ...a Sayo recuperou seu verdadeiro 'eu'.
 
 #v6281...Is that...your answer, Nee-san...? 
+...Essa é...a sua resposta, nee-san...?
 
 #v6401Would it be so bad...to have an answer like this as one grain amidst a billion Fragments...? 
+Seria tão ruim...ter uma resposta dessas assim quanto um grão em meio a um bilhão de Fragmentos...?
 
-#v6061Don't talk, Sayo. Don't say anything, just follow behind me. 
+#v6061Don't talk, Sayo. Don't say anything, just follow behind me.
+Não fale, Sayo. Não diga nada, apenas siga atrás de mim. 
 
-#v6402Yes, Battler-sama. ...I'll follow you silently, and nothing more... 
+#v6402Yes, Battler-sama. ...I'll follow you silently, and nothing more...
+Certo, Battler-sama. ...Irei segui-lo em silêncio, e nada mais...
 
 #v6282...Are you...happy now, ...Nee-san...? ...Nnggg... 
+...Está...feliz agora, ...nee-san...? ...Nnggg...
 
 #v6062Now, we've killed everyone. We two are the only ones left on this island. 
+Agora que matamos todos, somos os únicos remanescentes nesta ilha.
 
 #v6403...Yes. There's no one here but us.
+...Sim. Não há mais ninguém além de nós.
  
 #v6063You're a bloodless, tearless woman, aren't you? How does it feel? That bloodstained carpet beneath your feet...? 
+Uma mulher sem sangue nem lágrimas, é? Como se sente com este carpete de sangue sob seus pés...?
 
 #v6404......Yell at me.
+......Repreenda-me.
  
-#v6064No way. In the first place, ...you're the one who wants to yell at me, aren't you...? 
+#v6064No way. In the first place, ...you're the one who wants to yell at me, aren't you...?
+Sem chance. Pra come;ar, ...você é quem quer gritar comigo, não é...?
 
 #v6405...Yes. ...After all, you killed everyone...and me, too.
+...Sim. ...Afinal, você matou todos...e a mim também.
  
-#v6065That's right. ...I...killed you. I tore you apart. I filled a glass with your blood and drank it dry. 
+#v6065That's right. ...I...killed you. I tore you apart. I filled a glass with your blood and drank it dry.
+Isso mesmo. ...Eu...matei você. A dilacerei; enchi uma taça com seu sangue e bebi até a última gota. 
 
-#v6406Then I might as well offer up my heart too. ...Please, pull it out of my chest...and crush it. 
+#v6406Then I might as well offer up my heart too. ...Please, pull it out of my chest...and crush it.
+Neste caso, devo oferecer também o meu coração. ...Por favor, arranque-o do meu peito...e o esmague.
 
 #v6066Everyone's...dead. ...That's right. I killed them. ...Do you get it now? I...am the culprit of these crimes. ...Heheheh, hahahahahahahahahah... 
 Todos estão...mortos. ...Isso mesmo. Eu os matei. ...Entendeu agora? Eu...sou o culpado de todos esses crimes....Heheheh, hahahahahahahahahah...
@@ -3221,64 +3288,94 @@ ERIKA X DIANOR INÍCIO
 Com isso, nós provamos os álibis de todos exceto o SUSPEITO.
 
 #v6180What do you think, everyone? This level of reasoning is possible for Furudo Erika.
+Senhoras e senhores, seus pensamentos? Uma dedução como está é algo trivial para Furudo Erika.
  
-#v6122Therefore, we conclude that Ushiromiya Natsuhi is the culprit of this CRIME. 
+#v6122Therefore, we conclude that Ushiromiya Natsuhi is the culprit of this CRIME.
+Portanto, concluímos que Ushiromiya Natsuhi é culpada por este CRIME.
 
-#v6181Does anyone have an objection? Oh, it looks like someone does. In that case, let's hear what you've got to say...! 
+#v6181Does anyone have an objection? Oh, it looks like someone does. In that case, let's hear what you've got to say...!
+Alguém possui alguma objeção? Oh, parece que alguém tem. Neste caso, vamos ouvir o que tens a dizer...!
 
-#v6099Don't screw with me! Your reasoning is flawed! Aunt Natsuhi isn't the culprit! 
+#v6099Don't screw with me! Your reasoning is flawed! Aunt Natsuhi isn't the culprit!
+Não fode! Seu raciocínio é repleto de furos! A tia Natsuhi não é o culpado! 
 
 #v6182My, my. Then please, construct a trick that someone other than Natsuhi-san could have used.
+Francamente... Então, por favor, construa um truque que mais alguém além de Natsuhi poderia ter utilizado.
  
-#v6086There's no need! After all, all of these crimes are me enjoying myself! We have no need of a lowly detective...!! 
+#v6086There's no need! After all, all of these crimes are me enjoying myself! We have no need of a lowly detective...!!
+Não é necessário! Afinal, todos esses crimes foram 
 
-#v6123And we have no need of a WITCH. I will be your OPPONENT. 
+#v6123And we have no need of a WITCH. I will be your OPPONENT.
+E nós não precisamos de uma BRUXA. Serei sua OPONENTE. 
 
-#v6183*giggle*! Mysteries simply have to be boisterous! Then let's let our reasoning clash!! 
+#v6183*giggle*! Mysteries simply have to be boisterous! Then let's let our reasoning clash!!
+*risos*! Mistérios simplesmente devem ser turbulentos! Deixe que nossos raciocínios colidam!!
 
 #v6184Is that all the blue truth you've got? Then this is checkmate!
+Essas são todas as verdades azuis que você tem? Então é xeque-mate!
  
 #v6100D-Dammit... Is Aunt Natsuhi really the culprit...?! I can't accept that...!
+M-Merda... A tia Natsuhi é mesmo o culpado...?! Não consigo aceitar isso...!
  
-#v6087Forgive me, Battler, Natsuhi... Is resistance truly useless, even with my power...? 
+#v6087Forgive me, Battler, Natsuhi... Is resistance truly useless, even with my power...?
+Perdoem-me, Battler, Natsuhi... Mesmo com meu poder, resistir é realmente inútil...?
 
-#v6185No counterarguments stand before my genius reasoning. If you have one, bring it on! I'll crush you thoroughly, just like I did these two! 
+#v6185No counterarguments stand before my genius reasoning. If you have one, bring it on! I'll crush you thoroughly, just like I did these two!
+Não há contra-argumentos que prevaleçam diante da minha genial dedução. Se tiver algu, traga-o! Irei esmagá-lo completamente, assim como fiz com esses dois!
 
-#v6124Are there still people unsatisfied with the Natsuhi Culprit THEORY? If there are, the two of us will be your OPPONENTS. 
+#v6124Are there still people unsatisfied with the Natsuhi Culprit THEORY? If there are, the two of us will be your OPPONENTS.
+Ainda há pessoas insatisfeitas com a Teoria da Natsuhi CULPADA? Caso, sim, nós duas seremos suas OPONENTES.
 
 #v6186Oh, it's you, Natsuhi-san. ...Huh? Jessica-san?! Huh? Huh?!
+Oh, é você, Natsuhi-san. ...Hã? Jessica-san?! Hã? Hã?!
  
 #v6259Heheheh! I look totally different now, don't I?! That's right, Mom and I look the same!
- 
+Heheheh! Eu pareço completamente diferente agora, não pareço?! Isso mesmo, eu e minha mãe somos iguais!
+
 #v6407If we consider the mistake you made just now, it's possible to form a theory in which the culprit was Milady in disguise!
- 
+Se considerarmos o equivoco que você acabou de cometer, é possível formar uma teoria na qual o culpado é a ojou-sama usando um disfarce!
+
 #v6260In other words, your one theory falls apart! You haven't proven that Mom alone had no alibi!! 
+Em outras palavras, sua teoria cai por terra! Você não provou que minha mãe não possui um álibi!!
 
 #v6125...I see, they certainly are mother and CHILD. This might not even conflict with Knox's 10TH. 
+...Entendi, elas certamente são mãe e FILHA. Isto possivelmente não colide com o Knox 10º.
 
-#v6187Huh?! Are you crazy?!! I'll cut up that weird theory, Jesssica-shwaaaaaaaaaan!! 
+#v6187Huh?! Are you crazy?!! I'll cut up that weird theory, Jesssica-shwaaaaaaaaaan!!
+Hã? Tá maluca?! Vou destroçar essa sua teoria maluca, Jesssica-shwaaaaaaaaaan!!
 
 #v6188*pant*! I went through a lot of trouble for a stupid little theory like that...! But now, nothing will shake my Natsuhi Culprit Theory! 
+*suspira* Eu passei por um monte de perrengues por causa de uma teoria estúpida dessas...! Mas agora, nada irá abalar minha Teoria da Natsuhi Culpada!
 
 #v6126...WAIT. We just received an emergency communication from the SENATE. The Great Lady Bernkastel and the Great Lady Lambdadelta have jointly signed IT.
- 
+...ESPERE. Acabamos de receber um comunicado de emergência do SENADO. A Grande Lady BERNKASTEL e a Grande Lady LAMBDADELTA o assinaram em CCONJUNTO,
+
 #v6189It's from my master and Lady Lambda?! What could it be? Are they congratulating me on my perfect reasoning?! 
+Da minha mentora e a Lady Lambda?! O que poderia ser? Uma parabenização pela minha dedução primorosa?!
 
 #v6127Allow me to read IT. ...'The Jessica Culprit Theory was funny, so we're going with that one.'
- 
-#v6190Wh-What did you saaaaaaaay?! How could you, my masteeeeeeer?! 
+Permita-me LER. ...'A Teoria da Jessica Culpada foi engraçada, então vamos ficar com ela.'.
+
+#v6190Wh-What did you saaaaaaaay?! How could you, my masteeeeeeer?!
+O-O que disseeeeee?! Como pôde, minha mentoraaaaaaa?!
 
 #v6128THEREFORE. The Senate has obtained further evidence of a new fact: that Natsuhi and Jessica occasionally dress up and pretend to be each OTHER. 
+PORTANTO. O Senado obteve evidência de um novo fato: que Natsuhi e Jessica se vestem ocasionalmente uma como a OUTRA.
 
-#v6262Everybody!! Thank you so much for gathering here todaaaaaay!! 
+#v6262Everybody!! Thank you so much for gathering here todaaaaaay!!
+A todos que vieram aqui hoje, obrigaaaaaaada!!
 
-#v6129...This is INCREDIBLE. It looks just like Jessica HERSELF. 
+#v6129...This is INCREDIBLE. It looks just like Jessica HERSELF.
+...É INACREDITÁVEL. Ela parece a própria JESSICA.
 
-#v6263Mom's really going all out... I guess she's really starting to like being my body double. 
+#v6263Mom's really going all out... I guess she's really starting to like being my body double.
+Minha mãe está indo com tudo mesmo... Acho que ela pode começar sendo minha dublê. 
 
-#v6101I'll bet those people would never believe...that these vocals are coming from a married woman with kids... 
+#v6101I'll bet those people would never believe...that these vocals are coming from a married woman with kids...
+Aposto que essa gente nunca vai acreditar...que esse vocal está vindo de uma mulher casada e com filha... 
 
-#v6191Th-This is wrong, this is all wrong! This reasoning is too much, my masteeeeeeer!! 
+#v6191Th-This is wrong, this is all wrong! This reasoning is too much, my masteeeeeeer!!
+I-Isso está errado, está tudo errado! Esse raciocínio é exagerado demais, minha mentoraaaaa!!
 
 #v6265<Come on baby, come on baby, yeeeeeeeah!!> 
 Come on baby, come on baby, yeeeeeeeah!!
