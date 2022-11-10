@@ -1,13 +1,14 @@
 # Fantasia Dourada
 
-PROJETO EM ANDAMENTO 23/41 histórias traduzidas (6431 linhas)
+PROJETO EM ANDAMENTO 32/41 histórias traduzidas (6431 linhas)
 
 Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢想曲†CROSS), abreviado oficialmente para "Fantasia Dourada".
 
 Basta substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Coloque também nossa fonte dentro da pasta MANGAGAMER para ter o jogo com acentuação.
 
 Este patch traduz inicialmente apenas os diálogos de cada cenário. Imagens e demais conteúdos visuais permanecem intocados, mas você é livre para contribuir com a tradução ou edição das imagens.
-Infelizmente só é possível trabalhar com o script em inglês, já que o japonês é totalmente criptografado.
+Infelizmente só é possível trabalhar com o script em inglês, que não é dos melhores, já que o japonês é totalmente criptografado.
+Ao fim do projeto, será necessário jogar e verificar a fidelidade de cada linha manualmente conforme confere o áudio original.
 
 Nem tente entender este script pois a vasta maioria das linhas estão fora de ordem e alguns diálogos ficam separados das histórias principais,
 sendo que a maior parte são diálogos de derrota e interação dos personagens no modo Arcade, apresentadas de forma aleatória de acordo com a dupla selecionada, 

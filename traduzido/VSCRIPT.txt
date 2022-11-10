@@ -218,7 +218,7 @@ Não!! Sem chance!! Tá de brincadeira, né...?
 Eu gostaria de estar, mas parece que já está na hora de encerrarmos o conto.
 
 #v1990If you had but thought of a different plot, I too would not now be forced into an ending where we men slather lotion all over each other... 
-Se não tiver pensando em outro enredo, eu também não serei forçado a m final onde homens esfregam loção um no outro...
+Se não tiver pensando em outro enredo, eu também não serei forçado a um final onde homens esfregam loção um no outro...
 
 #v1703C-Cut it out, Ronove... You are joking, right? Right...? G-G-Gyaaaaaaaaaaaaaaaaaahh!! 
 P-Para com isso, RonovE... Tá brincando, né? Né...? G-G-Gyaaaaaaaaaaaaaaaaaahh!!
@@ -556,7 +556,7 @@ Você já esteve apaixonado? Se não, nunca entenderá.
 E o que...seria?
 
 #v1742Shannon-chan, ...congratulations on getting engaged. 
-Shannon-chaN, ...parabéns pelo seu noivado.
+Shannon-chan, ...parabéns pelo seu noivado.
 BATTLER X SHANNON FINAL
 
 ANGE X LUCIFER INÍCIO
@@ -2635,64 +2635,92 @@ RONOVE X GEORGE INÍCIO
 Você certamente exibe uma excelente conduta, tem um registo acadêmico esplêndido e possui ótimas habilidades nas artes marciais, George-sama.
 
 #v6229But something's missing! Why am I still rough around the edges?!
+Mas está faltando algo! Por que ainda sou tão
 
-#v6345The path to becoming a true man is a difficult one. ...I wonder, would you really be able to keep up? 
+#v6345The path to becoming a true man is a difficult one. ...I wonder, would you really be able to keep up?
+O caminho para se tornar um homem de verdade é difícil. ...Eu me questiono se você realmente será capaz de dar conta?
 
-#v6230Tell me how to become a man! This time, I'll be reborn for real!! ,2Q 8N8
+#v6230Tell me how to become a man! This time, I'll be reborn for real!!
+Diga-me como me tornar um homem! Desta vez, eu renascerei de verdade!!
 
 #v6141What's George onii-chan lacking? Obviously, he's not enough of a sadist!
+O que falta no George onii-chan? Óbvio! Ele não é sadista o suficiente!
 
 #v6467George-san, kindness alone will get you no further than friendship. A woman's heart desires roughness from time to time.
+A gentileza por se só não o levará a nada além da amizade, George-san. O coração de uma mulher também deseja por mais severidade de tempos em tempos.
 
-#v6142This is totally the era of the sadist! Cool, intellectual sadists are what these times need! 
+#v6142This is totally the era of the sadist! Cool, intellectual sadists are what these times need!
+Esta é certamente a era do sadismo! Os tempos pedem por sadistas maneiros e intelectuais!
 
-#v6346Do you understand? A man's charm does not come from kindness alone. 
+#v6346Do you understand? A man's charm does not come from kindness alone.
+Você compreende! O charme de um homem não vem apenas de sua bondade.
 
 #v6231I-Is that so...? U-Understood, I'll give it my all...! 
+E-Então é isso...? E-Entendi... farei o possível...!
 
 #v6468Come on, put your heart into it! Yes, fill yourself with a quiet anger. Try again! 
+Vamos, coloque seu coração nisso! Sim, preencha a si com uma raiva silenciosa. Tente novamente!
 
 #v6232...Now do you get it? Stay quiet and just do as I say...
+...Entendeu agora? Fique quieto e faça o que eu disser...
 
 #v614370 points! You still need more training, but Dark George might not be half bad! 
+Zero pontos! Você ainda precisa de mais treinamento, mas o George da Escuridão não pode ser parcialmente ruim!
 
 #v6347Splendid, George-sama! If you keep this up, your life as a hot stud is just around the corner! 
+Esplêndido, George-sama. Se continuar assim, sua vida de garanhão estará logo ali!
 
-#v6233Y-You think so...? A-All right, I'm gonna be reborn as Dark George...! 
+#v6233Y-You think so...? A-All right, I'm gonna be reborn as Dark George...!
+A-Acha mesmo...? C-Certo, eu vou renascer como o George da Escuridão...!
 
 #v6234Hey, Shannon. ...I've come to make you mine.
+Ei, Shannon. ...Eu vim para fazê-la minha.
 
 #v6387Huh? G-George-sama...? Y-You seem different somehow...
+Hã? G-George-sama...? V-Você parece meio diferente hoje...
 
-#v6336What are you trying to pull, four-eyes? I'll tear your relationship apart! 
+#v6336What are you trying to pull, four-eyes? I'll tear your relationship apart!
+O que está planejando, quatro olhos? Vou dilacerar essa sua relação!
 
 #v6235Not happening. Your new job will be crawling on all fours and licking my shoes.
+Sem chance. Seu novo trabalho será rastejar de quatro e lamber meus sapatos.
 
 #v6337Wh-What...? Wh-What's he talking about...?! 
+O-O quê...? D-Do que ele está falando...?
 
 #v6348Pu ku ku! Now, let us see if you are a match for George-sama, now that he has awakened as a glasses sadist. 
+Pu ku ku! Agora, vejamos se você é páreo para o George-sama, agora que ele despertou como um sadista de óculos.
 
-#v6338I-I don't believe it. How can George be this strong...?! 
+#v6338I-I don't believe it. How can George be this strong...?!
+É inacreditável. Como o George pode ser tão forte...?!
 
 #v6236Get on the floor. And kiss my shoes. Disobedience will not be tolerated.
+Pro chão, e beije meus sapatos. Desobediência não será tolerada.
 
-#v6339I-I have to do this...for George...?! ...B-But...I can't disobey him... 
+#v6339I-I have to do this...for George...?! ...B-But...I can't disobey him...
+E-Eu tenho que fazer isso...pelo George...?! ...M-Mas...não posso desobedecê-lo...
 
 #v6237Shannon, kneel. And swear your eternal love to me. ...I'm not letting you say no, either.
+Shannon, ajoelhe-se e jure seu eterno amor a mim. ...Tampouco deixarei que recuse.
 
-#v6388Wh-What happened...? You seem...different somehow today... 
+#v6388Wh-What happened...? You seem...different somehow today...
+O-O que aconteceu...? Você parece...meio diferente hoje...
 
 #v6238Good girl, Shannon. And you too, Lucifer. ...Heheheh, hahahahahahah! 
+Boa garota, Shannon. E você também, Lucifer. ...Heheheh, hahahahahahah!
 
 #v6349What majesty. He truly is a demon king! Becoming a true man is only a breath away. 
+Mas que majestade! Ele é mesmo o rei demônio! Falta muito pouco para se tornar um homem de verdade.
 
 #v6239What...? Do you mean I'm still not a hot stud yet...? 
+O quê...? Está dizendo que ainda não sou um garanhão...?
 
 #v6350There is one final step to becoming a truly, deeply sexy man. I wonder if you will be able to handle it, George-sama. 
-
+Há um último passo para se tornar um homem verdadeiramente sexy. Eu me pergunto se você será capaz de lidar com ele, George-sama.
 #v6240Oh, I will! Teach me! What's the final step to becoming a real man?! 
 
 #v6351Brawn, muscle, and a smile! That's the ticket! Life as a hunk is now within your grasp!! 
+Músculos, força e sorriso! É isto! Você alcançou o status de um garanhão!
 
 RONOVE X GEORGE FINAL
 #v6241Yes, now I'm a real man! Say goodbye to that sniveling wuss who had no confidence in himself!! I'm the sexiest! Wahahahahahahah!!
@@ -2908,60 +2936,88 @@ ERIKA X ANGE INÍCIO
 O Amakusa estava planejando matá-la. É um raciocínio simples que qualquer um poderia concluir.
 
 #v6146...Every last one of them just wants me dead. ...Wonderful.
+...Cada um deles queria me ver morta. ...Ótimo.
 
-#v6165So, what are you going to do, comrade Ange? Wanna live a bit longer just to piss them off? 
+#v6165So, what are you going to do, comrade Ange? Wanna live a bit longer just to piss them off?
+Então, o que fará, confrade Ange? Quer viver um pouco mais só para irritá-los?
 
-#v6147I've got no reason to die for them. I'll keep living and living...until I reach my truth! 
+#v6147I've got no reason to die for them. I'll keep living and living...until I reach my truth!
+Não tenho motivos para morrer por eles. Continuarei a viver e viver...até alcançar a minha verdade! 
 
-#v6223I already told you! I'm the culprit! I killed everyone! 
+#v6223I already told you! I'm the culprit! I killed everyone!
+Eu já te disse! Eu sou o culpado! Eu matei a todos!
 
-#v6166Well, we've followed a reasonable train of logic...and determined that what you're saying is true. 
+#v6166Well, we've followed a reasonable train of logic...and determined that what you're saying is true.
+Bem, nós seguimos uma linha de raciocínio lógico razoável...e concluímos que você está dizendo a verdade.
 
-#v6148...I don't know. Is Aunt Eva really the culprit? Sometimes, I'm not so sure... 
+#v6148...I don't know. Is Aunt Eva really the culprit? Sometimes, I'm not so sure...
+...Eu não sei. A tia Eva é mesmo o culpado? Tem vezes que não tenho tanta certeza...
 
 #v6167But that's your truth, isn't it? And there's no evidence that calls it into question.
+Mas essa é a sua verdade, não é? E não há evidências que coloquem isso em xeque.
 
-#v6224Hate me! I am the culprit, I am your family's foe!! 
+#v6224Hate me! I am the culprit, I am your family's foe!!
+Me odeie! Eu sou o culpado, sou inimiga da sua família!!
 
-#v6149...Who the culprit is...might be completely meaningless. 
+#v6149...Who the culprit is...might be completely meaningless.
+...Pode ser que...a identidade do culpado seja algo completamente vão. 
 
 #v6168What's wrong, comrade Ange? Has the Witch of Truth stopped seeking it?
+O que foi, confrade Ange? Teria a Bruxa da Verdade parado de procurar por ela?
 
-#v6150After all, ...to me, who the culprit is doesn't really matter. 
+#v6150After all, ...to me, who the culprit is doesn't really matter.
+No fim, ...para mim, não importa realmente quem é o culpado.
 
 #v6169To you. What truth are you actually looking for?
+Para você, o que é a verdade na qual está buscando?
 
 #v6151The truth I'm looking for... ...That's... 
+A verdade pela qual estou buscando... ...Ela é...
 
 #v6096Sorry, Ange... I'll definitely come back, ...so please wait just a bit longer...
+Desculpa, Ange... Eu definitivamente voltarei, ...por isso peço que aguarde um pouco mais...
 
-#v6081It's useless! Battler will never come home! None can escape from my game board! 
+#v6081It's useless! Battler will never come home! None can escape from my game board!
+É inútil! O Battler nunca voltará para casa! Ninguém pode escapar do meu tabuleiro!
 
-#v6152In the first place, I really don't give a damn about your game. The truth I'm looking for is... 
+#v6152In the first place, I really don't give a damn about your game. The truth I'm looking for is...
+Para começo de conversa, eu não dou a mínima para a merda do seu jogo. A verdade pela qual estou buscando...
 
 #v6170...I see. I've completed my reasoning. So, is that the truth you're after? 
+...Entendi. Completei meu raciocínio. Então, essa é a verdade que você procura?
 
 #v6153That's right. So for now, sorry, but I'm gonna tear Onii-chan and that witch's incomprehensible game of illusions apart!! 
+Isso mesmo. Por isso, me desculpe, mas eu vou destruir o onii-chan e aquele jogo incompreensível de ilusões da bruxa!!
 
 #v6171With this, both the illusion of the witch and the Eva culprit theory have been silenced. 
+Com isso, tanto a ilusão da bruxa quanto a teoria da Eva culpada foram silenciadas.
 
 #v6154It doesn't matter either way. All this about the illusion of the witch and the culprit...never mattered to me. 
+Não importa o que seja. Toda essa história sobre a ilusão da bruxa e o culpado...nunca importaram para mim.
 
 #v6172We investigated everywhere, and now we've even investigated Rokkenjima many times over. 
+Nós investigamos por toda parte, investigando até mesmo Rokkenjima diversas vezes.
 
 #v6155As a result, we couldn't find Onii-chan's remains, nor any trace of him. 
+E como resultado, não fomos capazes de encontrar os restos do onii-chan, nenhum rastro dele.
 
 #v6173In other words, ...you couldn't find any proof that Ushiromiya Battler died in the explosion accident. 
+Em outras palavras, ...você não pôde encontrar provas de que Ushiromiya Battler morreu na explosão acidental.
 
-#v6156Since there's no proof, no one can disturb my truth. 
+#v6156Since there's no proof, no one can disturb my truth.
+Já que não há provas, ninguém pode perturbar minha verdade.
 
-#v6174...That Battler is alive...and will come home to you someday...? 
+#v6174...That Battler is alive...and will come home to you someday...?
+...De que o Battler está vivo...e voltará para casa algum dia...?
 
 #v6157That's my truth. Got a problem with it? 
+Essa é a minha verdade. Algum problema?
 
 #v6175Of course not. ...Out of a billion Fragments, you should choose the one you hope for and make it real. That's probably the state that a true witch is supposed to finally reach. 
+É claro que não. ...Dentre bilhões de Fragmentos, você deve escolher aquele pelo qual anseia e torná-lo real. Este é, provavelmente, o estado que se espera que uma bruxa de verdade alcance.
 
-#v6158Well now, where should we go? If we go back to the harbor, they'll probably be ready to ambush us. 
+#v6158Well now, where should we go? If we go back to the harbor, they'll probably be ready to ambush us.
+Então, para onde devemos ir? Se voltarmos para o porto, eles provavelmente estarão com uma emboscada preparada. 
 
 #v6176Isn't it obvious? We'll take a boat to the horizon. Beyond that lies the place we truly seek. 
 Não é óbvio? Vamos pegar o barco em direção ao horizonte. Além de onde reside o lugar pelo qual realmente almejamos.
@@ -2972,66 +3028,93 @@ DIANOR X VIRGILIA INÍCIO
 Há quanto TEMPO. Vim para bebermos um CHÁ.
 
 #v6472Since we've finally met again, would you care to join me on an intellectual journey?
+Ja que finalmente nos encontramos novamente, se importaria de se juntar a mim em uma jornada intelectual?
 
 #v6108We have not played together for quite some TIME. I would be happy TO. 
+Faz um bom tempo que não jogamos JUNTAS. Eu ficaria CONTENTE.
 
 #v6473Then I'll have to find us a special book. I believe I had an interesting one written by that child somewhere around here... 
+Neste caso, terei que encontrar um livro especial. Creio ter um interessante por aqui, que foi escrito por uma criança...
 
 #v6225What do you think?! It's a perfect closed room! Now that's what I call a magical crime!!
+O que você acha?! É um quarto fechado perfeito! Isso é o que eu chamo de crime mágico!!
 
 #v6082Come! I shall cut down any sort of trick you have! 
+Venha! Irei acabar com qualquer truque que você tiver!
 
 #v6109That is quite an amusing closed room MURDER. It feels like it should be worth SOLVING. 
+Este é um assassinato de quarto fechado bem CURIOSO. Sinto que vai valer a pena RESOLVÊ-LO.
 
-#v6474Let us begin by confirming the closed room definition. Shall we start with the doors and keys? 
+#v6474Let us begin by confirming the closed room definition. Shall we start with the doors and keys?
+Vamos começar confirmando a definição de quarto fechado. Devemos começar com as porta e chaves?
 
 #v6110Lady Beato, Lady EVA, allow us to sample your closed ROOM! 
+Lady Beato, Lady EVA, permitam que avaliemos seu quarto FECHADO!
 
 #v6083Hahah, you totally got me! I never thought you'd see through my alibi trick!
-
+Hahah, você me pegou completamente! Nunca pensei que veria através do meu truque de álibis.
 #v6226Come on! You give out too many hints! What a waste of a perfectly good trick! 
 
-#v6111That was quite CHALLENGING. I want to keep figuring out such TRICKS! 
+#v6111That was quite CHALLENGING. I want to keep figuring out such TRICKS!
+Isso foi bem DESAFIADOR. Quero continuar descobrindo tais TRUQUES!
 
-#v6475Then let us find an even more challenging book. ...I do believe that child was especially proud of this one... 
+#v6475Then let us find an even more challenging book. ...I do believe that child was especially proud of this one...
+Então vamos buscar por mais livros desafiadores. ...Creio que aquele criança estava especialmente orgulhosa deste...
 
 #v6112Come, we'll welcome any sort of closed ROOM! Let us expose trick after closed room TRICK! 
+Venha, recebemos todos os tipos de quartos FECHADOS! Vamos expor truque após TRUQUE!
 
 #v6476This looks like a difficult closed room. Beato was apparently quite confident in it.
+Este parece um quarto fechado complicado. A Beato parecia bem confiante nele.
 
 #v6354Pu ku ku. You two won't be able to break this closed room. 
+Pu ku ku. Vocês duas não serão capazes de quebrar este quarto fechado.
 
 #v6113We will break through any sort of closed room TRICK. Defend YOURSELF...!
+Iremos quebrar qualquer tipo de truque de quarto FECHADO. DEFENDA-SE...!
 
 #v6355You won't break it. This closed room has no trick. 
+Vocês não o quebrarão. Este quarto fechado não possui truque.
 
 #v6114There are no closed rooms without TRICKS! Allow me to challenge YOURS! 
+Não há quartos fechados sem TRUQUES! Permita-me desafiar os SEUS!
 
 #6115This closed room is STRANGE. ...There really are no tricks, just Battler and Ronove shut up inside IT.
+Este quarto fechado é ESTRANHO. ...Realmente não há truques, apenas o Battler e o Ronove trancados dentro DELE.
 
 #v6356Pu ku ku. Welcome to the forbidden closed room, you two. The forbidden room where Battler-sama and I are locked up for all eternity...
+Pu ku ku. Bem-vindas ao quarto fechado proibido. O quarto proibido onde o Battler sama e eu ficamos trancados por toda a eternidade...
 
 #v6097Ronove, ...is someone there...? There's no way anyone but us could be here, right...?
+Ronove, ...tem alguém aí...? Não deveria ter mais ninguém aqui além de nós, certo...?
 
-#v6357Oh, my apologies, Battler-sama. ...I'm sorry, that was a kitty just now. My adorable pet kitty... 
+#v6357Oh, my apologies, Battler-sama. ...I'm sorry, that was a kitty just now. My adorable pet kitty...
+Oh, minhas desculpas, Battler-sa,a. ...Sinto muito, foi só um gatinho. Meu adorável gatinho de estimação...
 
-#v6116Why are Battler and Ronove lying on a canopy bed TOGETHER? This closed room is very HARD. 
+#v6116Why are Battler and Ronove lying on a canopy bed TOGETHER? This closed room is very HARD.
+Por que o Battler e o Ronove estão deitados juntos em uma cama de DOSSEL? Este quarto fechado é muito DIFÍCIL.
 
-#v6477...D-Don't tell me this book is... B-Beatooo!! 
+#v6477...D-Don't tell me this book is... B-Beatooo!!
+...Não me diga que este livro é... Beatooo!!
 
-#v6084Uhyahyahya! How did you like my masterpiece! I'll bet you're surprisingly fond of those, Teacher! 
+#v6084Uhyahyahya! How did you like my masterpiece! I'll bet you're surprisingly fond of those, Teacher!
+Uhyahyahya! O que achou da minha obra de arte?! Aposto que você é uma grande apreciadora desse tipo, professora!
 
-#v6478Y-You mustn't mix a book like this in with mystery novels!! I-I must confiscate it, yes...!! 
+#v6478Y-You mustn't mix a book like this in with mystery novels!! I-I must confiscate it, yes...!!
+V-Você não deveria misturar um livro destes junto com os romances de mistério!! S-Sim, eu devo confiscá-lo...!
 
-#v6117...This mystery is quite avant-GARDE. I wish to know MORE. Continue, quickly, CONTINUE...!! 
+#v6117...This mystery is quite avant-GARDE. I wish to know MORE. Continue, quickly, CONTINUE...!!
+...Este mistério é bem avant-GARDE. Eu gostaria de saber MAIS. Continue, rápido, CONTINUE...!!
 
-#v6085Oooh, so you understand this beautiful world too! Let's perfect the rose room mystery genre together!! 
+#v6085Oooh, so you understand this beautiful world too! Let's perfect the rose room mystery genre together!!
+Oooh, então você compreende a beleza deste mundo também! Vamos esmiuçar o gênero do mistério do quarto de rosas juntas!
 
-#v6118A new kind of mystery with two men locked in a closed ROOM! I think I'm awakening to SOMETHING...!! 
+#v6118A new kind of mystery with two men locked in a closed ROOM! I think I'm awakening to SOMETHING...!!
+Um novo tipo de mistério com dois homens em um quarto FECHADO! Sinto que estou despertando alguma COISA...!! 
 
 DIANOR X VIRGILIA FINAL
 #v6479St-Stop it, you two!! And Beato, don't turn the pages so fast! I can't read the words!! 
-P-Pare, vocês duas!! Não vire as páginas tão rápido, Beato! Não consigo ler assim!!
+P-Parem, vocês duas!! Não vire as páginas tão rápido, Beato! Não consigo ler assim!!
 
 BLACK BATTLER X SHANNON INÍCIO
 #v6053...Oh, it's you. ...Are you still here? 
@@ -3423,62 +3506,91 @@ BERNKASTEL X WILLARD INÍCIO
 O que quer? ...Se vai me dilacerar, seja rápida.
 
 #v6481When it comes to sharpening claws, Japanese sliding doors work better than you would. Don't worry, that's not what I'm after.
+Quando é para afiar as garras, as portas de correr japonesas funcionam melhor do que você. Não se preocupe, não vim atrás disso.
  
-#v6455Whose mystery do you want me to slice up this time? 
+#v6455Whose mystery do you want me to slice up this time?
+De quem é o mistério que você quer que eu fatie dessa vez?
 
-#v6482*giggle* ...Who knows? Come with me for a bit. ...It's time for the cat to go for a walk. 
+#v6482*giggle* ...Who knows? Come with me for a bit. ...It's time for the cat to go for a walk.
+*risos* ...Vai saber? Venha comigo um minuto. ...Está na hora do gato sair para passear.
 
-#v6266So you're Bernkastel!! Damn you, toying with everyone's lives!! 
+#v6266So you're Bernkastel!! Damn you, toying with everyone's lives!!
+Então você é a BERNKASTEL!! Maldita, brincando com a vida de todos!!
 
-#v6483...Will, erase that energetic piece. 
+#v6483...Will, erase that energetic piece.
+...Will, apague esse peça energética. 
 
-#v6456What am I, a fighting dog? ...There's no reason for me to do whatever you say. 
+#v6456What am I, a fighting dog? ...There's no reason for me to do whatever you say.
+O que eu sou, um cão de luta? ...Não há motivos para eu fazer tudo o que você diz.
 
-#v6484Do you want to go on a walk with me for all eternity? Diana'll be all dried up when we get back. ...*giggle* 
+#v6484Do you want to go on a walk with me for all eternity? Diana'll be all dried up when we get back. ...*giggle*
+Quer ficar andando comigo por toda a eternidade? A Diana vai estar toda ressecada quando voltarmos. ...*risos*
 
 #v6457Tch. ...Don't hold this against me. It's time to cut you up...! 
+Tch. ...Não se segure contra mim. Está na hora de cortá-lo...!
 
-#v6485*giggle*giggle* Pathetic, Human. Yes, how truly amusing. 
+#v6485*giggle*giggle* Pathetic, Human. Yes, how truly amusing.
+*risos*risos* Patético, humano. Sim, extremamente divertido.
 
 #v6458Well, I'm not amused. Set me free already.
+Bem, eu não estou entretido. Me liberte logo.
  
 #v6486Come on, let's go, Will. ...Didn't I tell you? The cat's going for a walk. 
+Anda, vamos logo, Will. ...Eu já não disse? O gato quer passear.
 
 #v6459So, it's the cat that's taking me on a walk? ...Since when have you been my owner?
+Então, é o gato que está me levando para um passeio? ...Desde quando virou minha dona?
  
-#v6487Wanna switch then? Go on, take me for a walk somewhere. Yes, for about a hundred years. ...*giggle* 
+#v6487Wanna switch then? Go on, take me for a walk somewhere. Yes, for about a hundred years. ...*giggle*
+Quer inverter? Vá em frente e me leve para algum lugar. Sim, por cerca de cem anos. ...*risos*
 
-#v6102I found you, Bernkastel!! We won't be your toys anymore! 
+#v6102I found you, Bernkastel!! We won't be your toys anymore!
+Te encontrei, BERNKASTEL!! Não seremos mais seus brinquedos!
 
-#v6460Does everyone who comes to visit hate you this much? 
+#v6460Does everyone who comes to visit hate you this much?
+Todo mundo que vem visitar te odeia tanto assim?
 
-#v6488...Going on walks with me is tough, huh? You only ever meet people like this. 
+#v6488...Going on walks with me is tough, huh? You only ever meet people like this.
+...Sair comigo para passear pode ser difícil. Você só encontra gente desse tipo. 
 
-#v6461Change how you live. Or else shut yourself up at home. 
+#v6461Change how you live. Or else shut yourself up at home.
+Mude sua maneira de viver. Ou quem sabe se tranque dentro de casa.
 
-#v6489...Even I will die if I don't go on walks and play every now and then. ...Understand...? 
+#v6489...Even I will die if I don't go on walks and play every now and then. ...Understand...?
+...Mesmo eu posso morrer se não sair para passear e brincar de tempos em tempos. ...Entendeu...?
 
-#v6462Yeah, I get it. ...My Diana is the same. 
+#v6462Yeah, I get it. ...My Diana is the same.
+Sim, eu entendi. ...O mesmo vale para a minha Diana. 
 
 #v6490...Continue straight on through the darkness. You'll be able to reach your home. 
+...Continue reto em direção a escuridão. Será capaz de chegar em sua casa.
 
 #v6463My job's finally finished, is it? When you want to play, you just show up whenever you like, and then disappear whenever you get bored. Just like my Diana.
+Meu trabalho finalmente terminou, é? Quando quer brincar, você aparece do nada e desaparece quando fica entediada. É igual a minha Diana.
  
-#v6491...Everyone likes dogs. They suck up to you and play whenever you want. ...No one likes an uncute cat. 
+#v6491...Everyone likes dogs. They suck up to you and play whenever you want. ...No one likes an uncute cat.
+...Todo mundo gosta de cães. Eles grudam em você e brincam quando você quer. ...Ninguém gosta de sem graça.
 
 #v6464That's not true. ...You find people, now and then, who say that cats may live however they please, but that means they aren't bothering you all the time.
+Isso não é verdade. ...Você pode até encontrar pessoas que digam que gatos podem viver como bem entendem, mas isso significa que eles não fica incomodando você o tempo inteiro.
  
-#v6492When I feel like it, ...I'll have you take a walk with a cat again sometime. 
+#v6492When I feel like it, ...I'll have you take a walk with a cat again sometime.
+Quando me sinto assim, ...irei fazê-lo passear com um gato de novo algum dia.
 
 #v6465Even if I refused, you'd just come for me anyway. Adoring such freewheeling creatures is what we cat lovers do.
+Você virá até mim, mesmo que eu recuse. Adorar tais criaturas libertas é o que amantes de gatos fazem.
  
-#v6493...*giggle* You really are too good of a man. That's why cats like you. Go on, hurry home. Before my mood changes like a cat. 
+#v6493...*giggle* You really are too good of a man. That's why cats like you. Go on, hurry home. Before my mood changes like a cat.
+...*risos* Você é mesmo um bom partido. É por isso que gatos gostam de você. Vá pra casa logo, antes que meu humor mude igual a um gato. 
 
-#v6192Welcome home, my master! Where have you been? 
+#v6192Welcome home, my master! Where have you been?
+Bem-vinda de volta, minha mentora! Onde esteve.
 
-#v6494On a walk. ...No, on a date. I was just wandering around with a hot guy. 
+#v6494On a walk. ...No, on a date. I was just wandering around with a hot guy.
+Dando um passeio. ...Melhor, num encontro. Eu estava vagando por aí com um bonitão.
 
-#v6193A-A-A date?! Even though you have me, my masteeeeeeer?!! 
+#v6193A-A-A date?! Even though you have me, my masteeeeeeer?!!
+E-E-Encontro?! Mesmo tendo a mim, minha mentoraaaaaa?!
 
 BERNKASTEL X WILLARD FINAL
 #v6495...Cats really are fickle, aren't they? *giggle* ...Hahahahah.
@@ -13134,7 +13246,7 @@ Esta é Rokkenjima, a ilha da família Ushiromiya! Todos os forasteiros devem sa
 #v4402The butler holds an important key. That's so classic western mansion mystery, it's a bit boring. 
 
 #v4403...*giggle*giggle* Are you gonna show me another magic trick? Try to keep me entertained, okay?
-...*risos*risos* Vai memostrar outro truque de mágica? Mantenha-me entretida, certo?
+...*risos*risos* Vai me mostrar outro truque de mágica? Mantenha-me entretida, certo?
 
 #v4404You may fool Battler-san, but you won't fool me. Not with that cheap closed room trick! 
 
@@ -13893,7 +14005,7 @@ Deixe-me ouvir esses sons dolorosos mais uma vez. ...Vamos, chore por mim...
 Quanto tempo vai ficar deitado aí...? Levanta. ...Vamos brincar de novo... *gargalhada*gargalhada*
 
 #v3580You're...surprisingly fragile. ...Your mind and body have been torn into pieces. ...Heheh, hahahahahah! 
-Você é...surpreendemente fráfil. ...Sua mente e seu corpo foram dilacerados. ...Heheh, hahahahahah!
+Você é...surpreendentemente frágil. ...Sua mente e seu corpo foram dilacerados. ...Heheh, hahahahahah!
 
 #v3581...So, even demons can break. ...Somebody, let me play. Let me play with all my strength. 
 ...Então, até demônios podem quebrar. ...Alguém, deixe-me brincar. Deixe-me brincar com todas as minhas forças.
@@ -14026,7 +14138,7 @@ Eu serei capaz de preencher aquele buraco em seu coração. ...Então, é só di
 A partir de agora, você é apenas uma mulher. ...Farei com que esqueça tudo sobre a sua filha...
 
 #v3630Now, you're finally at peace. ...That was the only way I had of freeing you. 
-Agora, você finalmente pode descançar em paz. ...Essa era a única maneira que eu tinha de libertá-la.
+Agora, você finalmente pode descansar em paz. ...Essa era a única maneira que eu tinha de libertá-la.
 
 #v3631...Don't worry. ...I won't kill Maria. ...I'll raise her with tender care in your place.
 ...Não se preocupe. ...Não irei matar a Maria. ...Irei cuidar dela com muito afeto no seu lugar.
