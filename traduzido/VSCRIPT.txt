@@ -2945,15 +2945,19 @@ T-Tia Rosa?! O que está tentando fazer?!
 #v6374It looks like you've been playing a bit too roughly. ......It's time to tidy up, Ange-chan. 
 
 #v6420You can't disobey the Black Witch nyeh! Stop struggling and let yourself get tidied up nyeh!
-Voc
+Você não pode desobedecer a Bruxa da Escuridão, nyeh! Pare de resistir e deixe ser arrumada, nyeh!
 
-#v6278Who cares about the black witch...?! If you think you can tidy us up, then do it!! 
+#v6278Who cares about the black witch...?! If you think you can tidy us up, then do it!!
+Quem se importa com a Bruxa da Escuridão?! 
 
-#v6375Let's get started!! I won't leave a single fragment of anybody behind!!! 
+#v6375Let's get started!! I won't leave a single fragment of anybody behind!!!
+Vamos começar!! 
 
 #v6279I-It's no use... Maria-sama, ...I'm so sorry...
+É-É inútil... Maria-sama, me desculpe.
 
-#v6145Stop, don't destroy our dreams...!! Nooooooooo!! 
+#v6145Stop, don't destroy our dreams...!! Nooooooooo!!
+Pare, não destrua nossos sonhos...! Nãooooooooo......!!
 
 #v6376Forgive me, Ange-chan, but all dreams must end. 
 
@@ -2991,7 +2995,8 @@ Voc
 
 #v6383And you've even left the forest band scattered about in a place like this! Now, where were they supposed to go...? 
 
-#v6424What?!! Not into the dark toy box nyeeeh!! 
+#v6424What?!! Not into the dark toy box nyeeeh!!
+O quê?! Tudo menos a caixa de brinquedos escura, nyeeeh!!
 
 #v6384Come now, tidy up, tidy up! Maria! It's time for a lecture, so get over here! But wash your hands and rinse your mouth first! 
 Anda, vamos arrumar as coisas! Maria! Está na hora do seu sermão, então venha aqui! Mas lave suas mãos e escove seus dentes primeiro!
@@ -3570,59 +3575,85 @@ Resumindo, o George e a Shannon foram tirar férias em Okinawa e você ficou com
 #v6268Shh, shh!! That's pretty much right, but anyway, shh!!
 Shh, shh! Você está certa, mas fica quieta, shh!!
 
-#v6314Well, you've got a point there. It's pretty obvious that Natsuhi would never approve of that. So, you want little old Lambdadelta-chan-sama to grant your wish? 
+#v6314Well, you've got a point there. It's pretty obvious that Natsuhi would never approve of that. So, you want little old Lambdadelta-chan-sama to grant your wish?
+Bem, você tem um ponto. É bem óbvio que a Natsuhi nunca aprovaria isso. Então, quer que LAMBDADELTA-chan-sama aqui conceda o seu desejo?
 
-#v6269Please! Make a maiden's humble dream come true! 
+#v6269Please! Make a maiden's humble dream come true!
+Por favor! Realize o sonho desta humilde donzela!
 
 #v6413What?! You're...going on an overnight trip with Kanon-kun?!
+Oquê? Você...vai sair para viajar com o Kanon-kun!?!
  
-#v6359Pu ku ku. I'm so sorry, but Kanon's schedule is quite packed all summer long. 
+#v6359Pu ku ku. I'm so sorry, but Kanon's schedule is quite packed all summer long.
+Pu ku ku. Desculpe, mas a agenda do Kanon está bem cheia durante todo o verão. 
 
 #v6315Jessica? If you want this dream of a vacation with Kanon-kun to come true, you'd better try and grasp hold of his summer break by force, okay? 
+Jessica? Se quer realizar esse sonho de tirar férias com o Kanon-kun, é melhor conseguir férias de verão para ele à força, tá?
 
 #v6270I-I know that... ...Sorry, Shannon! Please, swap shifts with Kanon-kun!
+Eu sei disso... ...Desculpa, Shannon! Por favor, troque seus turnos com o Kanon-kun!
  
 #v6414B-But I can't...! I-I also have a date with George-san... 
+M-Mas eu não posso...! E-Eu também tenho um encontro com o George-san...
 
 #v6360As you wish... I will speak with Genji about giving Kanon-kun a summer break. 
+Como desejar... Irei falar com o Genji sobre conceder férias ao Kanon-kun.
 
 #v6271Th-Thank you, Ronove!! Sorry, Shannon! But there's nothing wrong with us going on an Okinawa vacation too, right? Right?! 
+O-Obrigada, Ronove! Desculpa, Shannon! Mas não tem nada de errado em irmos tirar férias em Okinawa, né? Né?!
 
 #v6316That puts Kanon's vacation in the bank. Next up is actually asking him out! Do you have the resolve... the certain willpower to do that? 
 
 #v6272Y-Yes, I do...!! I-I'll definitely ask Kanon-kun to go on a vacation with me!! 
+S-Sim, eu farei...!! E-Eu definitivamente vou convidar o Kanon-kun para tirar férias comigo!!
 
 #v6317You really do say exactly what you're thinking, don't you? I actually like paper-brained kids like that! I'll stick around until the end! 
+Você diz mesmo tudo que passa pela sua cabeça, não é? Honestamente, eu gosto de crianças assim! Ficarei com você até o fim!
 
 #v6295...A vacation alone with Milady... I can't do it... I am...furniture. 
+...Férias com a ojou-sama...? Não posso fazer isso... Eu sou...uma mobília.
 
 #v6273Like I told you, you aren't furniture! Do you not want to go on vacation with me?!
+Eu já disse que você não é uma mobília! Não quer tirar férias comigo?!
  
-#v6296I-It's not that. But, umm, what would Madam say...? 
+#v6296I-It's not that. But, umm, what would Madam say...?
+N-Não é nada disso, mas, hmmm, o que a madame disse...?
 
-#v6318Don't worry, I'll take care of all that with my magic! All that matters now is whether Jessica can convince you to go or not! 
+#v6318Don't worry, I'll take care of all that with my magic! All that matters now is whether Jessica can convince you to go or not!
+Não se preocupe, eu vou cuidar disso com a minha magia. Tudo o que importa agora é se a Jessica consegue convencer você ou não!
 
-#v6274Kanon-kun, shut up and come with meeeee!! 
+#v6274Kanon-kun, shut up and come with meeeee!!
+Cala a boca e vem comigo, Kanon-kun!
 
-#v6319The loser has to do what the winner says! Come on, Jessica-sama's party, off to Okinawa, let's gooo!! 
+#v6319The loser has to do what the winner says! Come on, Jessica-sama's party, off to Okinawa, let's gooo!!
+O perdedor tem que fazer o que o vencedor diz! Vamos time da Jessica-sama, direto para Okinawa, vamos lá!
 
 #v6275We've already arranged for you to have some vacation time in the summer! All that's left is for you to get ready!
+Já preparamos para você tirar umas férias durante o verão! Tudo o que falta é se preparar!
  
-#v6297I-I'm glad, but...umm... 
+#v6297I-I'm glad, but...umm...
+E-Eu fico feliz, mas...hmmm...
 
-#v6276Leave the preparation to me! I'll get everything from your underwear to your toiletries set up! You just need to stay quiet and follow me when the day comes! 
+#v6276Leave the preparation to me! I'll get everything from your underwear to your toiletries set up! You just need to stay quiet and follow me when the day comes!
+Deixe os preparativos comigo! Vou reunir tudo desde a roupa de baixo até a escova de dentes! Você só precisa ficar quieto e me seguir quando chegar o dia!
 
 #v6320See, Kanon?! There's nowhere left to run! If you still refuse, I'll turn you into konpeito right now and toss you all the way to Okinawa!
+Viu, Kanon?! Não tem mais para onde correr! Se ainda assim recusar, vou transformá-lo em konpeitou e jogá-lo direto em Okinawa!
  
-#v6298B-But Milady... We are, umm, a teenage boy and girl. ...U-Us going on vacation alone together would be...sc-scandalous...! 
+#v6298B-But Milady... We are, umm, a teenage boy and girl. ...U-Us going on vacation alone together would be...sc-scandalous...!
+M-Mas ojou-sama... Nós somos, hmmm, jovens adolescentes. ...T-Tiramos férias sozinhos seria um...e-escândalo...!
 
 #v6321Don't worry. It's not like you'll be alone.
+Não se preocupe. Não é como se você fosse estar sozinho.
  
 #v6299W-Well, if we aren't alone...umm...that's different... 
+B-Bem, se não vamos sozinhos...hmmm...aí é diferente...
 
-#v6277Wait, we're not going alone? Who else is coming?! 
+#v6277Wait, we're not going alone? Who else is coming?!
+Espera, não vamos ir sozinhos? Quem mais vai?!
 
 #v6322What? Were you actually planning to go without Lambda-chan-sama? 
+O quê? Você planejava ir sem a Lambda-chan-sama?
 
 #v6323Don't worry, I'm not such a boor that I'd get in the way of two lovers. Aaah, blue seas, beautiful coral reefs. Nothing to worry about except not putting on enough sunscreen. I guess some kokuto candies should do as a souvenir for Bern.
 Não se preocupe, não sou do tipo de mete a colher no amor dos outros. Aah, o céu azul, os lindos recifes de coral. Nada para se preocupar além de não usar protetor solar o bastante. Acho que uns doces kokuto devem ser um bom souvenir para a Bern.
@@ -3728,62 +3759,92 @@ BERNKASTEL X ERIKA INÍCIO
 Minha mentora, nós terminamos os preparativos para nosso ataque à Terra Dourada. POdemos destruir tudo assim que desejar.
 
 #v6496I see. Finally. ...Then begin, bit by bit, but slowly. ...Without letting a single person escape...
+Entendi. Finalmente. ...Então comece, pouco a pouco, mas devagar. ...Sem deixar que ninguém escape...
  
-#v6195Of course, we won't let anyone escape. Tonight, the Golden Land will return to dust and disappear into the sea of nothingness! 
+#v6195Of course, we won't let anyone escape. Tonight, the Golden Land will return to dust and disappear into the sea of nothingness!
+É claro, não deixaremos ninguém escapar. Esta noite, a Terra Dourada retornará ao pó de desaparecerá no mar do vazio!
 
-#v6497...Begin the assault. I'll corner Beato nice and slowly, ...like konpeito melting bit by bit into black tea. Heheheheheheheh...!! 
+#v6497...Begin the assault. I'll corner Beato nice and slowly, ...like konpeito melting bit by bit into black tea. Heheheheheheheh...!!
+...Comece o ataque. Irei encurralar a Beato lentamente, ...como um konpeitou derretendo lentamente no chá preto. Heheheheheheheh...!!
 
-#v6257This Golden Land belongs to us, and to Ange-chan! We won't let anyone break it! 
+#v6257This Golden Land belongs to us, and to Ange-chan! We won't let anyone break it!
+Esta Terra Dourada pertence a nós e a Ange-chan! Não deixaremos que a destrua!
 
 #v6196But my master's orders are to kill it slowly and mercilessly, like throwing a candy into a swarm of ants!
+Mas as ordens da minha mentora são para matar lenta e impiedosamente, como se jogasse um doce em um enxame de formigas
 
-#v6386If you think we'll let ourselves disappear peacefully, you've got a surprise in store! Watch our final struggle!! 
+#v6386If you think we'll let ourselves disappear peacefully, you've got a surprise in store! Watch our final struggle!!
+Se acha que vamos permitir que suma tranquilamente com a gente, você terá uma surpresa! Observe nossa resistência final!!
 
-#v6498...*giggle* Fierce emotions are the greatest of snacks, better than anything else that goes with tea. Begin, Erika. 
+#v6498...*giggle* Fierce emotions are the greatest of snacks, better than anything else that goes with tea. Begin, Erika.
+...*risos* Emoções ardentes são o melhor dos apetitivos, melhor que qualquer coisa que acompanhe o chá. Comece, Erika.
 
-#v6197As you wish, my master!! Disappear, scum! This is where the Golden Land comes to an end! 
+#v6197As you wish, my master!! Disappear, scum! This is where the Golden Land comes to an end!
+Como desejar, minha mentor!! Desapareçam, lixo! É aqui que a Terra Dourada chega ao fim!
 
-#v6198Die!! Ushiromiya George, Ushiromiya Rosaaaaaaa!! 
+#v6198Die!! Ushiromiya George, Ushiromiya Rosaaaaaaa!!
+Morra!! Ushiromiya George, Ushiromiya Rosaaaaaaa!!
 
 #v6499Hahahah, ahahahahahahaha!! Watching a human snuff it always reminds me of fireworks. So beautiful, yet so fleeting. I could watch it all day.
+Hahahah, ahahahahahahaha!! Assistir humanos morrendo sempre me lembra fogos de artifício. Tão belo, e ainda assim tão efêmero. Eu poderia passar o dia assistindo.
  
-#v6199If that's your wish, let's keep finishing them off one after another. Where are Battler and Beato? I'll bet they'd make for the perfect fireworks! 
+#v6199If that's your wish, let's keep finishing them off one after another. Where are Battler and Beato? I'll bet they'd make for the perfect fireworks!
+Se este é o seu desejo, vamos continuar acabando com eles um após o outro. Onde estão o Battler e a Beato? Aposto que eles dariam os fogos de artifício perfeitos!
 
 #v6500Where are you hiding, Beato? My adorable Erika is about to reap your head. Heheheheheheh, ahahahahahahahah!!
+Onde está se escondendo, Beato? Minha adorável Eria está pronta para ceifar sua cabeça. Heheheheheheh, ahahahahahahahah!!
 
-#v6200Aaah, my master's joy is my joy!! Golden Land, I'll reap you to pieces!! 
+
+#v6200Aaah, my master's joy is my joy!! Golden Land, I'll reap you to pieces!!
+Aaah, a alegria da minha mentora é minha alegria! Irei ceifá-la aos pedaços, Terra Dourada!!
 
 #v6201Ah, I was wondering where you'd been hiding! It looks like you've finally made your appearance...!
- 
+Ah, eu estava me perguntando onde você estava escondida! Parece que finalmente decidiu dar as caras...!
+
 #v6090Sorry to keep you waiting, Erika! And you, Lady Bernkastel! What a perfect way to adorn the end of this finale!!
+Desculpe deixá-la esperando, Erika! E você também, Lady BERNKASTEL! Que forma perfeita de adornar este final!!
 
-#v6103Erika, Bernkastel! I'll show you that the torch of hope will never burn out!! 
+#v6103Erika, Bernkastel! I'll show you that the torch of hope will never burn out!!
+Erika, BERNKASTEL! Mostrarei a vocês que a chama da esperança nunca se apagará!!
 
-#v6202Watching you two is just hilarious. You're acting out the climax of a tragedy, but this is all just a comedy to us! 
+#v6202Watching you two is just hilarious. You're acting out the climax of a tragedy, but this is all just a comedy to us!
+Assistir vocês dois é simplesmente hilário. Agem como se fosse o clímax da tragédia, mas não passa de uma comédia para nós!
 
-#v6501Okay, let's play their game. Give them a magnificent finish to suit their tragedy. ...The last drop of black tea is always the most delicious. Heheheh, we'll squeeze every bit out of your Golden Land...!! 
+#v6501Okay, let's play their game. Give them a magnificent finish to suit their tragedy. ...The last drop of black tea is always the most delicious. Heheheh, we'll squeeze every bit out of your Golden Land...!!
+Certo, vamos jogar o jogo deles. Dar a eles um magnífico final apropriado de sua tragédia. ...A última gota do chá preto é sempre amais saborosa. Heheheh, irei espremer até a última gota da sua Terra Dourada...!!
 
-#v6203Pardon me, my master. The entirety of the Golden Land has disappeared and was swallowed up by the sea of nothingness. 
+#v6203Pardon me, my master. The entirety of the Golden Land has disappeared and was swallowed up by the sea of nothingness.
+Perdoe-me, minha mentora. A Terra Dourada desapareceu por completo e foi engolida pelo mar do vazio.
 
-#v6502I see. ......*giggle* I wonder if we messed up the script. 
+#v6502I see. ......*giggle* I wonder if we messed up the script.
+Mesmo? ......*risos*. Me pergunto se estragamos o roteiro.
 
-#v6204...Messed up the script...? 
+#v6204...Messed up the script...?
+...Estragar o roteiro...?
 
-#v6503I mean it should've been Beato who won, not us. That way, we could've played with this game board much more. 
+#v6503I mean it should've been Beato who won, not us. That way, we could've played with this game board much more.
+Refiro-me ao fato de que a Beato deveria ter vencido, não nós. Assim, poderíams brincar ainda mais com esse tabuleiro.
 
-#v6205It's a shame, but a flower is a flower because its petals eventually scatter. Fireworks are fireworks because they're fleeting. In other words, we just have to find the next unfortunate game board. 
+#v6205It's a shame, but a flower is a flower because its petals eventually scatter. Fireworks are fireworks because they're fleeting. In other words, we just have to find the next unfortunate game board.
+É uma pena, mas uma flor é uma flor porque suas petálas cairão eventualmente. Fogos de artifício são fogos de artifício porque são momentâneos. Em outras palavras, teremos que achar o próximo desafortunado tabuleiro.
 
-#v6504I wonder how many centuries it will take...before we find another game board that can ease our boredom. ...It's enough to make you dizzy. 
+#v6504I wonder how many centuries it will take...before we find another game board that can ease our boredom. ...It's enough to make you dizzy.
+Pergunto-me quantos séculos vai levar...até acharmos outro tabuleiro que possa acabar com nosso tédio. ...O suficiente para me deixar tonta.
 
-#v6206I will follow you, my master. ...Even a thousand years in the future, I will always be with you. 
+#v6206I will follow you, my master. ...Even a thousand years in the future, I will always be with you.
+Irei segui-la, minha mentora. ...Mesmo milhares de anos no futuro, eu sempre estarei com você.
 
-#v6505That Golden Land...was a Golden Land for us too. ...It was fine to play with it however we please, but maybe we shouldn't have broken it. 
+#v6505That Golden Land...was a Golden Land for us too. ...It was fine to play with it however we please, but maybe we shouldn't have broken it.
+Aquela Terra Dourada...foi uma Terra Dourada para nós também. ...Foi bom brincar com ela a bel prazer, mas talvez nós não devêssemos tê-la destruído. 
 
 #v6207And yet, ...your tea is the most delicious anywhere...precisely because you squeeze out the very last drop. 
+Ainda assim, ...seu chá é o mais saboroso de todos...justamente porque você espreme até a última gota.
 
-#v6506...I supposed we're going to float through the sea of nothingness for a thousand years, with nothing but the lingering scent of that tea. ...*giggle* Perhaps that's why...Beato's game board was so delicious. 
+#v6506...I supposed we're going to float through the sea of nothingness for a thousand years, with nothing but the lingering scent of that tea. ...*giggle* Perhaps that's why...Beato's game board was so delicious.
+...Suponho que vamos flutuar pelo mar do vazio por centenas dde anos, sem nada mais além do duradouro aroma daquele chá. ...*risos*Talvez seja por isso...que o tabuleiro da Beato era tão saboroso.
 
-#v6208Let's go, my master. I'm sure we'll find another game board that can capture your heart. 
+#v6208Let's go, my master. I'm sure we'll find another game board that can capture your heart.
+Vamos, minha mentora. Tenho certeza que encontraremos outro tabuleiro que irá conquistar seu coração.
 
 #v6507You're right. ...Then let's sleep, like a bottle amidst the waves. ...We'll sleep for a thousand years...until we run across a beach sometime, somewhere... 
 Você está certa. ...Então vamos dormir, como uma garrafa em meio às ondas. ...Vamos dormir por milhares de anos...até encalharmos em alguma praia, em algum lugar...
@@ -3927,7 +3988,7 @@ Ei, Bern. Como quer brincar hoje? Afinal, já jogamos praticamente tudo e estou 
 ...*risos* ...risos*risos*. Não é tão ruim falar filosoficamente de vez em quando.
 BERNKASTEL X LAMBDADELTA FINAL
 
-Linhas perdidas de cada história.
+------------Linhas perdidas de cada história------------
 
 #v0214Dammit, and I was so close to becoming the real Battler...! 
 
@@ -5163,17 +5224,21 @@ P-Perdoe-me! Foram ordens da minha mestra...!
 
 #v2866Not yet... I can still keep going! Bring it on! 
 
-#v3091You know, hunting prey that can't move is reeeally boring! 
+#v3091You know, hunting prey that can't move is reeeally boring!
+Sabe, caçar presas que não podem se mover é muiiiito chato!
 
-#v3092Did you really think you could catch up to me with fists that slow? Moron! 
+#v3092Did you really think you could catch up to me with fists that slow? Moron!
+Achou mesmo que iria me acompanhar com esses punhos lerdos? Trouxa!
 
-#v2867Shut up! I was so close... So close to reaching you...! 
+#v2867Shut up! I was so close... So close to reaching you...!
+Cala a boca! Eu cheguei tão perto... Tão perto alcançar você...!
 
 #v3096Can we call it quits? Going up against a middle-aged woman is really tiring! 
 
 #v3195Wh-Who are you calling middle-aged?! I'm still XX years old!! 
 
-#v3097Experience Lady MARIA's pain with your whole body! This is only one ten-thousandth of it! 
+#v3097Experience Lady MARIA's pain with your whole body! This is only one ten-thousandth of it!
+Experimente da dor da Lady MARIA por todo seu corpo! Isto é apenas dez milésimos dela!
 
 #v3196...I'm so sorry, Maria. Forgive...your useless mother... 
 
@@ -13670,9 +13735,11 @@ Não vim aqui para brincar. ...Afastem-se, coelhas.
 
 #v5678Kicks learned directly from Eva, huh...? Interesting. Let's put them to the test. 
 
-#v5679Calm down, you'll just get a headache. ...I guess you've already got one. 
+#v5679Calm down, you'll just get a headache. ...I guess you've already got one.
+Acalme-se. só vai ficar com dor de cabeça. ...Acho até que já está;
 
-#v5680Put that gun down. Stop making this more complicated than it needs to be. 
+#v5680Put that gun down. Stop making this more complicated than it needs to be.
+Largue isto. Pare de tornar as coisas mais complicadas do que já são.
 
 #v5681I didn't come here to get in your way. ...But, I guess you can't hear me. 
 Eu não vim aqui para ficar no seu caminho. ...Mas parece que você não consegue me ouvir.
@@ -13680,23 +13747,30 @@ Eu não vim aqui para ficar no seu caminho. ...Mas parece que você não consegu
 #v5682Don't ignore the heart. I won't let you claim to understand mysteries. 
 Não ignore o coração. Não deixarei que você afirme que entende de mistério.
 
-#v5683Why are you making light of the heart? You must have a heart of your own, right? 
+#v5683Why are you making light of the heart? You must have a heart of your own, right?
+Por que está menosprezando o coração? Você deve ter um também, não tem? 
 
-#v5684Your reasoning has no heart. I won't acknowledge something like that as reasoning! 
+#v5684Your reasoning has no heart. I won't acknowledge something like that as reasoning!
+Sua lógica não tem coração. Não reconhecerei isso como raciocínio!
 
-#v5685Arguing about which of us is superior is completely meaningless. There are a lot of fools out there. 
+#v5685Arguing about which of us is superior is completely meaningless. There are a lot of fools out there.
+É completamente inútil discutir qual de nós é superior. Está cheio de bobos por aí.
 
-#v5686Well, this is all a farce anyway. Might as well have a match with you every now and then. 
+#v5686Well, this is all a farce anyway. Might as well have a match with you every now and then.
+Bem, esta farsa termina aqui. Pode ser bom enfrentar você de tempos em tempos.
 
-#v5687This is a good opportunity. How about a little practice? Don't you go easy on me. 
+#v5687This is a good opportunity. How about a little practice? Don't you go easy on me.
+Esta é uma boa oportunidade. Que tal praticarmos um pouco? Não pegue leve comigo.
 
 #v5688Sure. If you want the name of Wright, try surpassing me. 
+Claro, se quer o no Wright, tente me superar.
 
 #v5689You plan to judge me with the Twenty Rules? ...Interesting. Go ahead. 
-
+Planeja me julgar com as Vinte Regras? ...Interessante. Vá em frente.
 #v5690Did a witch do this? Whoever loses gets pinched by Lion, okay? 
 
-#v5691I won't let you use Lion as a toy. ...I'll cut you down right here. 
+#v5691I won't let you use Lion as a toy. ...I'll cut you down right here.
+Não deixarei que use Lion como um brinquedo. ...Irei acabar com você aqui e agora.
 
 #v5692Heartless people like you make the mystery genre rot.
 Pessoas sem coração como você fazem o gênero do mistério apodrecer. 

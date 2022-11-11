@@ -1,6 +1,6 @@
 # Fantasia Dourada
 
-PROJETO EM ANDAMENTO 34/41 histórias traduzidas (6431 linhas)
+PROJETO EM ANDAMENTO 37/41 histórias traduzidas (6431 linhas)
 
 Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢想曲†CROSS), abreviado oficialmente para "Fantasia Dourada".
 
