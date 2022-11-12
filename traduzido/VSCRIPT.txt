@@ -3974,7 +3974,9 @@ Seus atos malignos acabam AQUI. Não permitirei que continue a pisotear o coraç
 
 #v6329What, an arrest warrant?! We're witches of the Senate! We decide how much a tale's worth! We write that down in the annals of history! Witches are gods, didn't you know that?! We're more important than anyone!! 
 O quê? Um mandado de prisão?! Somos bruxas do Senado! Nós decididos o valor de um conto! Nós os escrevemos nos anais da história! Bruxas são deuses, não sabia?! Somos mais importante que qualquer um!!
+
 #v6518The world exists for the sole purpose of easing the boredom of us witches. ...Disagreeing with that is high treason, understand?
+O mundo existe pelo único propósito de aliviar o tédio de nós, bruxas. ...Ir contra isso é uma alta traição, entendeu?
  
 #v6466...True, witches may be gods. In that case, we're the ones who get to decide which gods we worship. And we won't be worshipping you.
 ...Realmente, bruxas podem ser deuses. Neste caso, somos nós que decidimos quais deuses veneramos. E não iremos venerar vocês.
@@ -3983,7 +3985,7 @@ O quê? Um mandado de prisão?! Somos bruxas do Senado! Nós decididos o valor d
 *risos* ...*risos*risos*! É mesmo divertido! Então essa é a resposta? Essa é a sua resposta, pela qual eu viajei séculos através do mar do tédio para lhe conceder?! Haha, ahahahaha...!!
 
 #v6520The mere act of disrespecting us is high treason against the world itself. *giggle*giggle*...What a pain. It seems a lot of people have been forgetting that lately. 
-O mero ato de nos desrespeitar é uma altíssima ameaça contra o próprio mundo. *risos*risos*. ...Mas que saco. Parece que muitas pessoas tem esquecido ultimamente.
+O mero ato de nos desrespeitar é uma altíssima traição contra o próprio mundo. *risos*risos*. ...Mas que saco. Parece que muitas pessoas tem esquecido ultimamente.
 
 #v6330We're the most important people in the world! Kyahahahaha!
 Nós somos as pessoas mais importantes do mundo! Kyahahahaha!
@@ -4884,7 +4886,7 @@ Nice fight! Um garoto certamente deve ficar desesperançoso após algo assim.
 #v5118Yes, please enjoy Ronove's afternoon tea to the fullest...! 
 
 #v5119Shall we call it a draw? How about some freshly-baked muffins and tea?
-Devemos condiderar isto um empate? Que tal alguns bolinhos recém assados e chá?
+Devemos considerar isto um empate? Que tal alguns bolinhos recém assados e chá?
 
 #v3833MUFFINS! ...I-If you INSIST. Let's say we're EVEN...!
 BOLINHOS! ...S-Se você INSISTE. Vamos dizer que ACEITO...!
@@ -4919,22 +4921,29 @@ Eu odeio CARIMBOS! ODEIO ODEIO ODEI! Espero que todos os carimbos desapareçam d
 
 #v5789It wasn't boring. You brought dried plums of course, yes? 
 
-#v4770How could super paper Lambdadelta-sama looooooose?! 
+#v4770How could super paper Lambdadelta-sama looooooose?!
+Como pode a superpepel limitada LAMBDADELTA-sama, perdeeeeeer?! 
 
-#v5127Pu ku ku. Didn't you realize that I'm actually super scissors? Pu ku ku! 
+#v5127Pu ku ku. Didn't you realize that I'm actually super scissors? Pu ku ku!
+Pu ku ku. Você não perceber que, na verdade, eu sou uma supertesoura? Pu ku ku! 
 
-#v5128I've made some excellent tea, suitable for the Great Lady Lambdadelta. 
+#v5128I've made some excellent tea, suitable for the Great Lady Lambdadelta.
+Preparamos um excelente chá, digno da Grande Lady LAMBDADELTA. 
 
-#v4771Great, and get me some popcorn to go with it! Caramel flavored! 
+#v4771Great, and get me some popcorn to go with it! Caramel flavored!
+òtimo, agora traga uma pipoca para acompanhar! Sabor caramelo;
 
-#v5129How lively Beatrice-sama's friends are...! 
+#v5129How lively Beatrice-sama's friends are...!
+Como são animadas as amigas da BEATRICE-sama...! 
 
-#v4772Hey! Are you calling me, Lambdadelta-sama, Beato's friend? ...Well, okay then...! 
+#v4772Hey! Are you calling me, Lambdadelta-sama, Beato's friend? ...Well, okay then...!
+Ei! Está dizendo que eu, LAMBDADELTA-sama, sou amiga da Beato? ...Bom, tudo bem...!
 
 Hahahah! Let me speak with the red truth! #cFFFF2020You are incompetent#cFFFFFFFF!
 Hahahah! Deixe-me falar usando o vermelho: #cFFFF2020Você é incompetente#cFFFFFFFF!
 
 #v0256...I-I can't counter that... If I can't win, ...am I incompetent after all...?! 
+...Não consigo contra-atacar isso... Se não posso vencer, ...então sou mesmo incompetente...?!
 
 #v0257Nnggg... It's useless... No matter how many times I stand back up, ...I can't win... 
 
