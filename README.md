@@ -15,12 +15,12 @@ sendo que a maior parte são diálogos de derrota e interação dos personagens 
 não fazendo parte das histórias principais e você dificilmente verá todas elas no jogo durante toda a sua vida, afinal cada combinação pode gerar seis diálogos diferentes aleatoriamente.
 
 # Equipe:
-- Tradução: Deca
+- Tradução: ????
 - Edição: ????
 - Revisão: ????
 - Testes: ????
 - Limpeza do script: Deca
-- Inserção do script: Frost51
+- Inserção do script: ????
 
 # Notas:
 Fantasia, do italiano, (幻想曲 gensoukyoku) é uma composição musical com raízes no improviso, assim como o script deste jogo, que é uma imensa colcha de retalhos improvisada e funciona por meio de magia.
