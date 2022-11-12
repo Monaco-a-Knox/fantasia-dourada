@@ -1877,7 +1877,9 @@ Sua identidade não é o problema. Estams aqui para impedir que comete os crimes
 
 #v2210I-I would have hoped that you'd worry a bit more about my identity and motives and stuff... Oh, now I get it, all those crimes were my fault the whole time! Wooow, whoooa, huuuuh! 
 E-Eu esperava que você se importasse um pouco mais sobre quem sou eu e minhas motivações... Ah, agora entendi, todos os crimes foram minha culpa esse tempo todo. Nossaaaaa, uaaaau, huuuuuh!
+
 #v2303I have an idea as to your identity. ...Do you want me to say it out loud?
+Eu já tenho uma ideia de qual a sua identidade. ...Quer que eu diga em voz alta?
 
 #v2211...Hmph. ...Very well then. I'm perfectly fine being a witch of unknown origins! Come now, if you think you can defeat me, let's see you try!! 
 ...Hmph. ...Que seja, então. Não tenho problema em ser uma bruxa de origens desconhecidas! Vamos, se acham que podem me derrotar, quero ver tentar!!
@@ -2033,7 +2035,9 @@ Então torne-se humano! Deixe de ser uma mobília e vire humano! Encontre o pode
 
 #v2459Furniture is furniture nyeh. Kanon will be furniture no matter what he does nyeeeh, nihihihi! 
 Mobília é mobília, nyeh. O Kanon será uma mobília independentemente do que ele faça, nyeeeh, nihihihi!
+
 #v2343Then we'll surpass furniture and make you human! Kanon-kun is about to become more than furniture!
+Então irmos superar essa mobília e transformá-la em humano! O Kanon-kun está prestes a se tornar mais do que uma mobília!
 
 #v2388You think incompetent furniture like Kanon can surpass us?! I'll make you regret your pride! 
 Acha que mobílias incompetentes como o Kanon podem ser algo além disso?! Irei fazer com que se arrependa desse seu orgulho!
@@ -2963,11 +2967,14 @@ Pare, não destrua nossos sonhos...! Nãooooooooo......!!
 
 #v6421The Black Witch has no mercy nyeh... Ange, you should give up too, nyeh... 
 
-#v6377Get it absolutely clean, without a smidgen of dirt. *giggle*giggle*giggle*! 
+#v6377Get it absolutely clean, without a smidgen of dirt. *giggle*giggle*giggle*!
+Fiquem completamente limpa, sem um traço de sujeira. *risos*risos*risos*!
 
-#v6392Please, stop...! Why are you crushing the children's dreams?! 
+#v6392Please, stop...! Why are you crushing the children's dreams?!
+Por favor, pare...! Por que está destruindo os sonhos de uma criança?!
 
 #v6378If you have a dream, put it on drawing paper. It looks like your dream's gotten a bit too big...
+Se já teve um sonho, ponha ele num desenho em papel. Parece que seu sonho ficou um pouco grande demais...
 
 #v6078...The Black Witch who destroys the world of dreams, is it...? I've heard the rumors... 
 
@@ -2985,7 +2992,8 @@ Pare, não destrua nossos sonhos...! Nãooooooooo......!!
 
 #v6423None can oppose the Black Witch nyeh... Everyone, tidy up nyeh... 
 
-#v6381Come, it's time to tidy up!! *giggle* Ahahahahahahah!!! 
+#v6381Come, it's time to tidy up!! *giggle* Ahahahahahahah!!!
+Venha, é hora da limpeza!! *risos* Ahahahahahahah!!!
 
 #v6382Maria! Didn't I tell you to always tidy up before going out to play?!! 
 
@@ -3923,125 +3931,178 @@ BERNKASTEL X LAMBDADELTA INÍCIO
 Ei, Bern. Como quer brincar hoje? Afinal, já jogamos praticamente tudo e estou ficando entediada.
 
 #v6513Beato did keep us entertained for quite a while, ...but time's almost up.
+A Beato nos deixou entretida por um bom tempo, mas está chegando ao fim.
  
-#v6325Yeah. It's about time to suck it dry. 
+#v6325Yeah. It's about time to suck it dry.
+Sim, está na hora de ressecá-lo.
 
-#v6514...*giggle* Let's have fun in a big way, ...so that centuries later, just remembering it will make us laugh. Heheheheheh... 
+#v6514...*giggle* Let's have fun in a big way, ...so that centuries later, just remembering it will make us laugh. Heheheheheh...
+...*risos* Vamos nos divertir de forma grandiosa, para que séculos depois, a gente possa rir só de lembrar. Heheheheheh...
 
 #v6091To trample over someone else's game however you please, before finally mocking it and crushing it... Yes, your villainous ways shock even me...!
+Pisotear o tabuleiro de outra pessoa a seu bel prazer, antes de finalmente zombar dele e o esmagar... Sim, essa sua vilania me deixa até chocada...!
 
-#v6104This is our game!! Like hell we'll let you have your way with it!! 
+#v6104This is our game!! Like hell we'll let you have your way with it!!
+Este é o nosso jogo!! Até parece que vamos deixar você fazer o que bem entender!!
 
-#v6515That's right. To you two, it's a precious game. But to us, it's completely different. 
+#v6515That's right. To you two, it's a precious game. But to us, it's completely different.
+Isso mesmo. Para vocês, é um jogo precioso, mas para nós, é completamente diferente.
 
-#v6326It's just one small game in the endless sea of Fragments! Sucking it dry, trampling it, and mocking it is our delight! 
+#v6326It's just one small game in the endless sea of Fragments! Sucking it dry, trampling it, and mocking it is our delight!
+É só um joguinho no infinito mar de Fragmentos! Resseque-o, pisotei-o e zombe a bel prazer
 
-#v6516That's the only way we can escape our boredom. ...*giggle* It'll never disappear. We're only trying to forget it for a moment. 
+#v6516That's the only way we can escape our boredom. ...*giggle* It'll never disappear. We're only trying to forget it for a moment.
+Essa é a única forma de escaparmos do nosso tédio. ...*risos* Nunca desaparecera. Estamos apenas tentando esquecê-lo por um momento.
 
 #v6327Hey, Beato! We're at the end, so why not at least tell us who the culprit is?
+Ei, Beato1 Já estamos no fim, então por que ao menos não nos diz quem é o culpado?
  
 #v6092...Like I'd...tell you... No one can reach that knowledge unless they think for themselves and know the heart... 
+...Até parece...que eu diria... Ninguém é capaz de alcançar tal sabedoria a não ser que pensem por conta própria e conheçam o coração...
 
 #v6328I don't like thinking! I just wanna know the answer! And then I wanna go around acting like I figured it out myself!
+Não gosto de pensar! Só quero saber a resposta! E aí sair andando por aí agindo como se eu tivesse descoberto!
  
-#v6093And that's why...I'm not telling you... I won't give you people...my truth... 
+#v6093And that's why...I'm not telling you... I won't give you people...my truth...
+E é por isso que...não vou contar a você... Não concederei as pessoas...a minha verdade... 
 
-#v6517Thought so. That's why I'm breaking everything. If you won't tell me the answer, I'm not interested. I'll crush this stupid game board to pieces and insult it!I'll mock it...! 
+#v6517Thought so. That's why I'm breaking everything. If you won't tell me the answer, I'm not interested. I'll crush this stupid game board to pieces and insult it!I'll mock it...!
+Embora, seja justamente por isso que vou quebrar tudo. Se não disser a resposta, não estou interessada. Irei esmagar esse seu estúpido tabuleiro e insultá-lo! Irei zombar dele...!
 
-#v6140Your evil deeds end HERE. I will not let you trample over Beatrice's heart any FURTHER. 
+#v6140Your evil deeds end HERE. I will not let you trample over Beatrice's heart any FURTHER.
+Seus atos malignos acabam AQUI. Não permitirei que continue a pisotear o coração de BEATRICE.
 
 #v6329What, an arrest warrant?! We're witches of the Senate! We decide how much a tale's worth! We write that down in the annals of history! Witches are gods, didn't you know that?! We're more important than anyone!! 
-
+O quê? Um mandado de prisão?! Somos bruxas do Senado! Nós decididos o valor de um conto! Nós os escrevemos nos anais da história! Bruxas são deuses, não sabia?! Somos mais importante que qualquer um!!
 #v6518The world exists for the sole purpose of easing the boredom of us witches. ...Disagreeing with that is high treason, understand?
  
-#v6466...True, witches may be gods. In that case, we're the ones who get to decide which gods we worship. And we won't be worshipping you. 
+#v6466...True, witches may be gods. In that case, we're the ones who get to decide which gods we worship. And we won't be worshipping you.
+...Realmente, bruxas podem ser deuses. Neste caso, somos nós que decidimos quais deuses veneramos. E não iremos venerar vocês.
 
 #v6519*giggle* ...*giggle*giggle*!! How truly amusing. So that's the answer? That's your answer, which I travelled centuries through the sea of boredom to give to you?! Haha, ahahahaha...!! 
+*risos* ...*risos*risos*! É mesmo divertido! Então essa é a resposta? Essa é a sua resposta, pela qual eu viajei séculos através do mar do tédio para lhe conceder?! Haha, ahahahaha...!!
 
 #v6520The mere act of disrespecting us is high treason against the world itself. *giggle*giggle*...What a pain. It seems a lot of people have been forgetting that lately. 
+O mero ato de nos desrespeitar é uma altíssima ameaça contra o próprio mundo. *risos*risos*. ...Mas que saco. Parece que muitas pessoas tem esquecido ultimamente.
 
 #v6330We're the most important people in the world! Kyahahahaha!
+Nós somos as pessoas mais importantes do mundo! Kyahahahaha!
  
 #v6521And yet, the toxin of boredom kills us. ...Now that even Beato's game board has vanished, ...we're gonna be faced with another stretch of time where our sickness torments us. 
+E ainda assim, a toxina do tédio nos mata. ...Agora que até o tabuleiro da Beato desapareceu, ...vamos encarar outro longo período de tempo no qual nossa doença nos atormente.
 
 #v6331There aren't many game boards that can heal our boredom. ...I mean, there haven't been any decent games lately. They're all crappy games, all stuff that's jumped the shark! Ah, old games were so good!
- 
-#v6522...While sating ourselves on those, we'll gradually disappear and become scraps of seaweed in the sea of boredom. 
+Não há muitos tabuleiros que podem curar o nosso tédio. ...Afinal, não tem tido jogos decentes recentemente. São todos jogos ruins, que já perderam sua relevância! Ah, os jogos de antigamente era muito melhores!
 
-#v6332What's up, Bern? You're oddly sentimental today. 
+#v6522...While sating ourselves on those, we'll gradually disappear and become scraps of seaweed in the sea of boredom.
+...Enquanto sentamos sobre eles, gradualmente vamos desaparecendo e nos transformando em restos de alga marinha no mar do tédio.
 
-#v6523The residents of the Golden Land are probably having a great time playing there for all eternity. ...And we who mocked and destroyed them...will now be living out eternal days of boredom starting today. 
+#v6332What's up, Bern? You're oddly sentimental today.
+O que foi, Bern? Parece muito sentimental hoje;
 
-#v6333...We chose the wrong way to play. Is that what you're saying? 
+#v6523The residents of the Golden Land are probably having a great time playing there for all eternity. ...And we who mocked and destroyed them...will now be living out eternal days of boredom starting today.
+Os residentes da Terra Dourada provavelmente estão se divertindo enquanto jogam lá por toda a eternidade. ...E nós, que zombamos e os destruímos...agora começaremos a viver nossos dias eternos de tédio.
 
-#v6524Hey, Lambda. ...What do you say about us making a game board from time to time? 
+#v6333...We chose the wrong way to play. Is that what you're saying?
+...Está querendo dizer que escolhemos a maneira errada de se jogar?
+
+#v6524Hey, Lambda. ...What do you say about us making a game board from time to time?
+Ei, Lambda, ...o que me diz de montarmos um tabuleiro de tempos em tempos.
 
 #v6334No way. Witches like us just appear out of nowhere and yell about stuff like 'it's a crappy game' and 'they jumped the shark'. After all, consumers are gods! Let slaves and fools do the job of being producers. 
+Sem chance. Bruxas como nós só aparecem de repente e ficam gritando coisas como 'esse jogo é uma merda' e 'é irrelevante'. Afinal, consumidores são deuses! Deixe o trabalho da produção para tolos e escravos.
 
-#v6525You're right. ...And as a result, everyone's become a consumer, and there's nothing left in this sea but boredom. 
+#v6525You're right. ...And as a result, everyone's become a consumer, and there's nothing left in this sea but boredom.
+Tem razão. ...E como resultado, todos se tornam consumidores, não restando mais nada nesta mar além do tédio.
 
-#v6335I wonder if someone's gonna make another interesting game someday. I'll have so much fun splitting it apart and mocking it! 
+#v6335I wonder if someone's gonna make another interesting game someday. I'll have so much fun splitting it apart and mocking it!
+Pergunto-me se algum dia alguém fará outro jogo interessante. Será muito divertido zombá-lo e parti-lo ao meio!
 
 #v6526...Unless someone comes along and worships us, even that seems unlikely to happen. ...I see. So, that's the one parting shot Beato was allowed to have in this sea of boredom. 
+...A não ser que alguém apareça e nos venere, mesmo isso parece improvável de acontecer. ...Entendi. Então, esse foi o tiro de de despedida que a Beato deve permissão de dar neste mar do tédio.
 
 #v6527...*giggle* ...*giggle*giggle*. It's really not so bad to talk philosophy every now and then. 
 ...*risos* ...risos*risos*. Não é tão ruim falar filosoficamente de vez em quando.
 BERNKASTEL X LAMBDADELTA FINAL
 
-------------Linhas perdidas de cada história------------
+------------LINHAS PERDIDAS DE CADA HISTÓRIA------------
 
-#v0214Dammit, and I was so close to becoming the real Battler...! 
+#v0214Dammit, and I was so close to becoming the real Battler...!
+Merda, eu estava tão próximo de me tornar o verdadeiro Battler...!
 
 #v0215Disappear, and don't you ever confuse me again...! 
+Desaparece, e nunca mais venha nos confundir...!
 
 #v0216...You say that, but even you aren't that confident in your theories... 
+...Você até pode dizer isso, mas não está tão confiante em suas teorias...
 
 #v0217I know. Theory-building is a fight against yourself. 
+Eu sei. Construir teorias é uma batalha contra si mesmo.
 
 #v0218Did you really expect to win? A fake against the real thing? 
+Você realmente esperava vencer? Um impostor contra o verdadeiro?
 
 #v0219I had you copied perfectly... How was I inferior...?! 
+Eu o copiei perfeitamente... Como sou o inferior...?!
 
 #v0220Hey, are you okay? I did try to go easy on you. 
+Ei, tudo bem? Eu tentei pegar leve com você.
 
 #v0364You call that easy? I don't want to fight you anymore... 
+Chama isso de pegar leve? Não quero mais lutar com você...
 
 #v0365What is it that keeps spurring you on?! Come home, quickly! 
+O que é isso que permanece estimulando você?! Vamos embora logo!
 
 #v0221Please understand. I'll definitely come back to you. 
+Por favo, compreenda. Eu definitivamente voltarei por você.
 
 #v0222It's not so bad, is it? Having a sibling squabble every now and then...! 
+Não é tão ruim, é? Ter uma brica de irmãos de tempos em tempos...!
 
 #v0366Yeah, it's not so bad. How about another round? 
+Sim, não é tão ruim. Que tal outro round?
 
 #v0223Thanks...for teaching me how to fight. 
+Obrigada...por me ensinar a lutar.
 
 #v1414I did nothing... Gathering up knowledge is a privilege of the young, is it not...? 
+Eu não fiz nada demais... Reunir conhecimento é um privilégio dos mais jovens, não é...?
 
 #v1415In the end, magic is make-believe. You must stick to your own truth. 
+No fim, magia é faz de conta. Você deve persistir na sua própria verdade.
 
 #v0224You have my gratitude! So, this is how you fight against magic! 
+Você tem minha gratidão! Então é assim que se luta contra magia!
 
 #v0225I understand. You went easy on me, right...? 
+Entendi. Não vai pegar leve comigo, né...?
 
 #v1416It seems I can't slip anything past you, can I...? Go. It's time for you to move on. 
 
-#v0226Don't take it personally. I never go easy when I'm up against a guy. 
+#v0226Don't take it personally. I never go easy when I'm up against a guy.
+Não leve para o lado pessoal. Eu nunca pego leve contra enfrento um cara.
 
 #v0964How rude. Even I have a maidenly side to me. Pu ku ku. 
+Quanta indelicadeza. Até mesmo eu tenho um lado feminino. Pu ku ku.
 
 #v0965Perhaps I'm getting on in years. I don't remember surrendering victory to you... 
+Talvez eu esteva ficando para trás. Não lembro de me render a você...
 
-#v0227Ihihi. Give up and go bake some cookies or something. 
+#v0227Ihihi. Give up and go bake some cookies or something.
+Ihihi. Desista e vá assar alguns cookies ou algo do tipo.
 
 #v0228You...fought to lose, didn't you...? 
+Você...lutou para perder, não foi...?
 
 #v0966Surely you jest. Such subtlety is beyond little old Ronove. 
+Só pode estar de brincadeira. Tal sutileza está além do velho Ronove.
 
 #v0064Why?! Why have you resisted me for so long?! 
+Por quê? Por que resiste por tanto tempo?!
 
 #v0229I'll never accept that you're a witch! 
-
+Nunc aceitarei que você é uma bruxa!
 #v0230What's wrong? Can you really still call yourself my foe, the Golden Witch...?! 
 
 #v0065T-To think that I'm unable to fight on an even footing after having to hear all that... How humiliating...! 
@@ -4822,13 +4883,17 @@ Nice fight! Um garoto certamente deve ficar desesperançoso após algo assim.
 
 #v5118Yes, please enjoy Ronove's afternoon tea to the fullest...! 
 
-#v5119Shall we call it a draw? How about some freshly-baked muffins and tea? 
+#v5119Shall we call it a draw? How about some freshly-baked muffins and tea?
+Devemos condiderar isto um empate? Que tal alguns bolinhos recém assados e chá?
 
-#v3833MUFFINS! ...I-If you INSIST. Let's say we're EVEN...! 
+#v3833MUFFINS! ...I-If you INSIST. Let's say we're EVEN...!
+BOLINHOS! ...S-Se você INSISTE. Vamos dizer que ACEITO...!
 
-#v5120Pu ku ku. If you waste time in a place like this, you'll just have more things left to stamp. 
+#v5120Pu ku ku. If you waste time in a place like this, you'll just have more things left to stamp.
+Pu ku ku. Se desperdiçar seu tempo em um lugar desses, só vai acabar tempo mais coisas para carimbar. 
 
-#v3834I hate STAMPS! HATE HATE HATE! I hope all stamps disappear from this WORLD!! 
+#v3834I hate STAMPS! HATE HATE HATE! I hope all stamps disappear from this WORLD!!
+Eu odeio CARIMBOS! ODEIO ODEIO ODEI! Espero que todos os carimbos desapareçam deste MUNDO!
 
 #v5121It's been so long since we've had a gentleman as a guest, and I fear I may have grown a bit too passionate in welcoming you here. 
 
