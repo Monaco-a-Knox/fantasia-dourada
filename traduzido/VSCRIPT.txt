@@ -4105,95 +4105,141 @@ Por quê? Por que resiste por tanto tempo?!
 
 #v0229I'll never accept that you're a witch! 
 Nunc aceitarei que você é uma bruxa!
+
 #v0230What's wrong? Can you really still call yourself my foe, the Golden Witch...?! 
+Qual o problema? Ainda consegue afirmar que é minha oponente, a Bruxa Dourada...?!
 
 #v0065T-To think that I'm unable to fight on an even footing after having to hear all that... How humiliating...! 
+E-E pensar que sou incapaz de lutar em paridade depois de ouvir tudo aquilo... Quanta humilhação...!
 
 #v0231It looks like this is the truth. Checkmate! 
+Parece que essa é a verdade. Xeque-mate!
 
 #v0066Not yet! I can still strike back! Uuum, uuuuummmm!! 
+Ainda não! Ainda posso contra-atacar! Hmmm, hmmmmmmm!!
 
 #v0232Ihihi! Those were boobs worth fondling. 
+Ihihi! Esses são peitos que valem apertar.
 
 #v0814Lecher! Pervert! Beast! Give back the purity of my breasts!! 
+Lascivo, pervertido! Besta! Devolva a pureza dos meus peitos!!
 
 #v0233Now I've paid you back for all that stuff you do to me day in and day out! 
+Agora sim eu eu fiz você pegar de volta por todas as coisas que fez comigo dia após dia!
 
 #v0815I can't stand it! How could I lose to that incompetent Battler?! I can't stand it, I can't stand it, I can't stand it! 
+Não consigo suportar isso! Como eu pude perder para o incompetente do Battler?! Não consigo, não consigo, simplesmente não consigo!
 
 #v0816I-I won't disobey you again... I'll do anything, so please forgive me... 
+N-Não irei desobedecer você de novo... Farei qualquer coisa, então me perdoe.
 
 #v0234Get back. You aren't my enemy! 
+Vá embora. Você não é meu inimigo!
 
 #v0235Ihihi, those tits of yours really are awesome! 
+Ihihi, esses seus peitos são mesmo incríveis!
 
-#v1114Um, oh, th-thanks... Your praise...honors me... 
+#v1114Um, oh, th-thanks... Your praise...honors me...
+Hm, oh, o-obrigada... Seu elogio...é uma honra...
 
 #v1115I-I can't even stand up anymore... That's Battler-sama for you... 
+N-Não consigo nem mais ficar de pé... Como esperado do Battler-sama...
 
 #v0236Please! Don't tell George-aniki about this! 
+Por favor! Não conte ao George-aniki sobre isso!
 
 #v0237Whew, that was close. I almost got mesmerized by those thighs... 
+Puxa, foi por pouco. Quase que eu fico hipnotizado por essas coxas...
 
 #v1116So, I might have won if I'd mesmerized you... I'm not sure how I should feel about that... 
+Então, eu poderia ter vencido se tivesse hipnotizado você... Não sei como me sentir quanto a isso...
 
 #v0238Your speed's not bad! Now all you need is a little meat on you! 
+Sua velocidade não é ruim! Agora tudo que precisa é de um pouco de carne!
 
 #v0664Is that it? Meat?! Is that what I'm lacking...?! 
+É isso? Carne?! É isso que me falta...?
 
 #v0665Why am I so powerless?! I hate myself...! 
+Por que sou tão impotente?! Eu me odeio...!
 
-#v0239You're still growing, right? The muscles will come by themselves...! 
+#v0239You're still growing, right? The muscles will come by themselves...!
+Você ainda está em fase de crescimento, né? Os músculos vão vir naturalmente...!
 
 #v0240Just who are you...? You're no ordinary guy. 
+Aifnal, que é você...? Só um cara comum.
 
 #v0666I am...furniture... 
+Eu sou...uma mobília...
 
 #v0241Don't get the wrong idea! 'Witch' isn't a synonym for 'brutal'! 
+Não confunda as coisas! 'Bruxa' não é sinônimo de 'brutal'!
 
 #v0514Are you trying to say I'm wrong?! That can't be true! It can't be...! 
+Está tentando dizer que estou errada?! Não pode ser verdade! Não pode ser..!
 
 #v0515But I'm a witch! I'm the new Beatrice!! 
+Mas eu sou uma bruxa! Eu sou a nova BEATRICE!!
 
 #v0242Give it up! You can't even imitate Beato! 
+Desista! Você sequer pode intimidar a Beato!
 
 #v0243It's all useless. You don't understand witches. 
+Isso não está certo. VOcê não compreende as bruxas.
 
 #v0516You just have to be able to use magic, right?! How is that wrong?! 
+Você só precisa ser capaz de usar magia, não é?! Como pode estar errado?!
 
 #v0244Game and set! It's time for the rabbits to get back into their cage! 
+Game and set! Está na hora dos coelhos voltarem para suas gaiolas!
 
-#v1264I hate cages nyeh! Why can't we be free-range rabbits nyeh?! 
+#v1264I hate cages nyeh! Why can't we be free-range rabbits nyeh?!
+Odeio gaiolas, nyeh! Por que não podemos ser coelhos livres, nyeh?!
 
 #v1265Not bad nyeh... This time, I acknowledge my defeat nyeh. 
+Nada mal, nyeh... Desta vez, eu reconheço minha derrota, nyeh.
 
 #v0245Let's play again sometime. I don't mind spirited older girls like you. 
+Vamos brincar de novo qualquer dia desses. Eu ate gosto de garotas mais velhas e animadas como você.
 
 #v0246Ihihihi! It sure is tough, having those thighs leaping all around me. 
+Ihihihi! É mesmo difícil, com essas coxas saltando ao meu redor o tempo todo.
 
-#v1266I'm not exposing them because I want to nyeh! It's our uniform, so there's no helping it nyeeeh! 
+#v1266I'm not exposing them because I want to nyeh! It's our uniform, so there's no helping it nyeeeh!
+Não estou mostrando elas porque quero, nyeh! É nosso uniforme, não posso fazer nada, nyeeeh!
 
-#v2523You really are strong! Maybe I'll learn real martial arts too. 
+#v2523You really are strong! Maybe I'll learn real martial arts too.
+Você é mesmo forte! Talvez eu também deva aprender artes marciais.
 
 #v2655Though...I did lose despite knowing them. What could be more pathetic...? 
+Embora...eu tenha perdido mesmo sabendo. O que poderia ser mais patético...?
 
 #v2524That was a fluke, a fluke! It's got to be coincidence that I managed to beat you! 
+Foi uma casualidade, uma casualidade! Deve ter sido uma coincidência que me fez derrotar você!
 
 #v2656Not at all. I can tell that your instincts are incredible. I'm sure you can become much stronger, Battler-kun. 
+Nada disso. Dá para ver que seus instintos são incríveis. Tenho certeza que pode se tornar muito mais forte, Battler-kun.
 
 #v2657Fighting is more about intuition than knowledge. ...Now I see that clearly. 
+Lutar é muito mais sobre intuição do que conhecimento. ...Agora consigo entender isso claramente.
 
 #v2525Well, I'm still young, right?! Don't let it get you down! 
+Bom, ainda sou jovem, né? Não deixe te abater!
 
 #v2520Ihihi. Even after six years, you haven't changed at all, Jessica! 
+Ihihi. Você não mudou nada, mesmo após seis anos, Jessica!
 
 #v2850Owowow... Battler, you've gotta be a bit more considerate to a lady! 
+Aiaiaia... Você precisa ser um pouco mais considerativo com as damas, Battler!
 
 #v2851Dammit! How could I lose to Battler?!! That didn't happen! One more time, one more time!! 
+Merda! Como eu fui perder para o Battler?! Isso não aconteceu! Mais uma vez, mais uma vez!!
 
 #v2521No matter how many times we do it, the result will be the same! Come on! I'll beat you back! 
+Não importa quantas vezes lutemos, o resultado será sempre o vemos! Vamos! Vou acabar com você!
 
 #v2522Ihihi! I guess those boobs aren't actually padded. What a surprise! 
+Ihihi! Acho que esses peitos não são amolfadados. Mas que surpresa!
 
 #v2852You touched them, didn't you?! You touched them, you bastard! Groper, sicko, pervert!
 Você os tocou, não foi? Você tocou neles, seu desgraçado! Apalpador, maníaco, pervertido!
@@ -4211,37 +4257,50 @@ Após ver você lutando, fico preocupada só de pensar em como será a Maria...!
 Sim. Quando a Maria tem algo que quer proteger, tenho certeza que ela deve ser muito mais forte que eu.
 
 #v3182Nngg. I underestimated you, Battler-kun. ...That's Rudolf nii-san's kid for you... 
+Nngg. Eu o subestimei, Battler-kun. ...Você é mesmo filho do Rudolf nii-san...
 
 #v2528No, no, don't you go comparing me to Dad! I'm way more capable than that guy! 
+Não, não, não me compare ao meu pai! Eu sou muito mais capacitado que aquele cara!
 
 #v3745Is that the best your reasoning can manage?! Ha! As a rival, this is just embarrassing to hear! 
-
+Essa é a melhor teoria que consegue arranjar?!Ha! Como rival, é simplesmente embaraçosos ouvi isso!
 #v4174Against a mere trick like this, ...I still have...many...nnngg...! 
 
-#v4175<Good!> I'd expect no less from the rival of the detective, Furudo Erika! I acknowledge your skill! 
+#v4175<Good!> I'd expect no less from the rival of the detective, Furudo Erika! I acknowledge your skill!
+Good! Não esperaria mesmo do rival da detetive, Furudo Erika! Eu reconheço suas habilidades!
 
-#v3746Come on, stand up. Our fight has just begun!! 
+#v3746Come on, stand up. Our fight has just begun!!
+Vamos, levante-se. Nossa luta apenas começou!! 
 
 #v3747That ends my reasoning... Come on, let's see what your reasoning has to tell us!! 
+Isto concluí meu raciocínio... Vamos, hora de ouvir o que o seu raciocínio tem a nos dizer!!
 
 #v4176That was a good move! Battler-san, you're a perfectly fitting opponent for the detective, Furudo Erika!! 
+Foi um bom movimento! Battler-san, você é perfeitamente digno de ser o oponente da detetive, Furudo Erika!!
 
 #v3823Battler, fighting against you is refreshing whether I win or LOSE. 
+Battler, lutar contra você é refrescante, tanto vencendo quanto PERDENDO.
 
 #v3748Ihihi! Yeah, a battle just has to be like this! How about another round?! 
+Ihihi! Sim, batalhas tem de ser assim! Que tal outro round?!
 
 #v3749It looks like Ronove made us a new kind of tea. How about we have some together? 
+Parece que o Ronove preparou um novo chá para nós. Que tal aproveitarmos dele juntos?
 
 #v3824I SHALL. However, I would like some bandages FIRST... 
+Com PRAZER. Contudo, eu gostaria de alguns curativos PRIMEIRO...
 
 #v3750I forgot to mention it, but some of that chocolate you ate earlier is stuck on your face. 
+Esqueci de mencionar, mas um pouco do chocolate que comeu antes fico grudado na sua cara.
 
 #v3825Say that before we FIGHT! What a waste of a cool BATTLE... 
+Diga isso depois de LUTARMOS! Desperdiçando uma boa LUTA...
 
 #v3751I get the feeling we could become good partners. Wanna join forces with me next time? 
+Tenho o pressentimento que podemos ser bons parceiros. Quer se aliar a mim na próxima?
 
 #v5427Sorry, but I've already got a partner with an incredibly firm grip. Forgive me. 
-
+Desculpe, mas eu já tenho um parceiro que é
 #v3752Is it time for you to go to work or something? You keep getting distracted and glancing at the clock. 
 
 #v5428...Sorry, my princess is waiting at home. When she gets lonely and runs wild, nothing can stop her. 

@@ -11,10 +11,8 @@ não fazendo parte das histórias principais e você dificilmente verá todas el
 # Instalação
 Quando pronto ou em fase de testes, bastará substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Coloque também nossa fonte customizada dentro da pasta MANGAGAMER para ter o jogo com acentuação.
 
-Este patch traduz inicialmente apenas os diálogos de cada cenário. Imagens e demais conteúdos visuais permanecem intocados, mas você é livre para contribuir com a tradução ou edição das imagens.
-Infelizmente só é possível trabalhar com o script em inglês, que não é dos melhores, já que o japonês é totalmente criptografado.
-Ao fim do projeto, será necessário jogar e verificar a fidelidade de cada linha manualmente conforme confere o áudio original.
-
+Este patch pretende traduzir inicialmente apenas os diálogos de cada cenário. Imagens e demais conteúdos visuais devem permanecer intocados, mas você é livre para contribuir com a tradução ou edição das imagens.
+Não há patch disponível ainda.
 
 # Equipe:
 - Tradução: ????
@@ -29,7 +27,12 @@ Fantasia, do italiano, (幻想曲 gensoukyoku) é uma composição musical com r
 O nome em si do jogo é uma palavra inventada (夢想曲 musoukyoku), ao alterar o primeiro kanji para fazer um trocadilho com a expressão "musou", um gênero dentre os jogos de luta. 
 Assim sendo, "Devaneio (Träumerei) d'Ouro" poderia ser também uma tradução adequada.
  
-IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tradução deve sempre conter menos caracteres que a versão em inglês, caso o contrário o jogo quebra. Não há patch disponível ainda.
+IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tradução deve sempre conter menos caracteres que a versão em inglês, caso o contrário o jogo quebra.
+Caso deseje ajudar, devido a falta de contexto das linhas e a bagunça do script, mantenha as linhas o mais neutro possível, buscando evitar gênero para evitar erros que podem levar séculos para serem notados,
+afinal é difícil saber quem está falando com quem.
+
+Infelizmente só é possível trabalhar com o script em inglês, que não é dos melhores, já que o japonês é totalmente criptografado.
+Ao fim do projeto, será necessário jogar e verificar a fidelidade de cada linha manualmente conforme confere o áudio original.
 
 # Duplas que desbloqueiam CGs.
 
