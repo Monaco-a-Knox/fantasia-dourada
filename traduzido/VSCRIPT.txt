@@ -4300,23 +4300,29 @@ Diga isso depois de LUTARMOS! Desperdiçando uma boa LUTA...
 Tenho o pressentimento que podemos ser bons parceiros. Quer se aliar a mim na próxima?
 
 #v5427Sorry, but I've already got a partner with an incredibly firm grip. Forgive me. 
-Desculpe, mas eu já tenho um parceiro que é
-#v3752Is it time for you to go to work or something? You keep getting distracted and glancing at the clock. 
+Desculpe, mas eu já tenho um parceiro que é duro na queda. Desculpe.
+
+#v3752Is it time for you to go to work or something? You keep getting distracted and glancing at the clock.
+Está na hora de ir trabalhar ou algo do tipo? Você passa o tempo todo olhando o relógio.
 
 #v5428...Sorry, my princess is waiting at home. When she gets lonely and runs wild, nothing can stop her. 
+...Desculpa, minha princessa está esperando em casa. Nada podê pará-la quando ela fica sozinha e descontrolada.
 
 #v3753Nihihi. Has your partner been waiting for you? You'd better head home with a firm guard around your butt! 
+Nihihi. Sua parceira está esperando por você? É melhor ir direto para caça e proteger bem essa bunda!
 
 #v5429It sounds like you've been a victim yourself... Let's both pray that our left and right cheeks stay the same size. 
-
+Soa como se você fosse a vítima aqui... Vamos ambos rezar para que ambos os nossos lados permaneçam do mesmo tamanho.
 #v3754I win! How about you turn tail and run?!! 
 
-#v5778You're loved by miracles, aren't you? ...As praise for that accomplishment, I'll let you get away this time. 
+#v5778You're loved by miracles, aren't you? ...As praise for that accomplishment, I'll let you get away this time.
+Você é amado pelos milagres, não é? ...Como recompensa pelo fito, deixarei que se safe desta vez.
 
 #v3755How could you waste Ronove's tea...by putting dried plums in it? 
+Colocar umeboshi assim...é um desperdício do chá do Ronove.
 
 #v5779What? Don't be a picky eater. Tea with dried plums...is the best. 
-
+O quê? Não seja tão exigente. Chá com umeboshi é simplesmente...o melhor.
 #v3756Nice job playing the bad guy this round! Next time, I'll play the loser role. 
 
 #v5780Oh my, a lowly human is trying to be nice to me. Perhaps I'll take you up on that offer... 
@@ -5835,7 +5841,8 @@ Não é sua culpa. ...É apena...o destino das...mobílias.
 
 #v4688Then that will be all from me. I still need to care for the roses. 
 
-#v3846I envy your elegant JOB. ...If only you'd trade places with me and my STAMPING. 
+#v3846I envy your elegant JOB. ...If only you'd trade places with me and my STAMPING.
+Eu invejo o seu elegante TRABALHO. ...Se pudesse trocar de lugar comigo e meus CARIMBOS.
 
 #v4689Are you done yet? If you're leaving, allow me to guide you. 
 
@@ -5857,46 +5864,62 @@ Não é sua culpa. ...É apena...o destino das...mobílias.
 
 #v4693I-It's no miracle! This is the natural result of all my efforts! 
 
-#v4694She disappeared... ...Was she an illusion...?! ......Dammit, is this yet another farce...? 
+#v4694She disappeared... ...Was she an illusion...?! ......Dammit, is this yet another farce...?
+Ela desapareceu... É um ilusão...?! ......Merda, é mais uma farsa...?
 
 #v5801*giggle* ...That was a well-fought battle. Why don't I let you get your reward? 
+*risos* ...Foi uma batalha bem disputada. Acho que o deixarei com uma recompensa?
 
 #v4782Hey! How can you be so merciless against a lady?! 
+Ei! Como pode ser tão impiedoso com uma dama?!
 
 #v4695What nonsense... ...I was faced with an opponent I couldn't possibly defeat without going all out... 
+Quanta bobagem... ...Eu estava diante de um oponente no qual não poderia derrotar sem ir com tudo...
 
 #v4696I fought with all I had, ...but she looked like she was just playing around... 
+Eu lutei contra você com tudo que tinha, ...mas pareceu que ela estava apenas brincando...
 
 #v4783That was awesome, Kanon-kuuun! You actually beat Lambdadelta-chan-sama! 
+Isso foi incrível, Kanon-kuuun! Você realmente derrotou a LAMBDADELTA-chan-sama!
 
 #v4697How's that, witch?! Don't lead me astray again!! 
+Que tal, bruxa? Não tente fazer com que eu me perca novamente!!
 
 #v4784Owww! You idiot, can't you go easy just a little bit?! Bern, avenge me! 
+Aiii! Seu idiota, não pode pegar um pouco mais leve?! Bern, me vingue!
 
 #v0268Aaah, ...it's useless, ...it's all useless... How could I...lose at a time like this?! 
+Aaah, ...isso não está certo, ...não está nada certo... ...Como eu pude...perder num momento desses?!
 
 #v0538Kyahahaha! What's that supposed to mean?! If only you'd just give up and die?! 
-
+Kyahahaha! O que isso deveria significar? Era melhor ter desistido e morrido bem devagar!
 #v0539Hey, Battler-kuuun. Is someone as young as you really calling it quits after just that? 
 
 #v0269Damn you, could you stop saying that already... Dammit...! 
+Merda, dá para parar de dizer isso...? Droga...!
 
 #v0270I haven't lost yet! Not yet! Damn it, get up, body...!! 
+Eu ainda não perdi! Ainda não! Merda, levante, corpo...!!
 
 #v0540You really are just like Rudolf used to be! And that includes how it feels to punch you. *giggle*! 
+Você é igualzinho a como o Rudolf costumava ser! E isso inclui a sensação do soco dele. *risos*!
 
 #v0541I'm doing this out of concern for you, okay? Not out of hatred! 
 
 #v0418I'm tired of hearing that! Is that how far you're willing to go to hide the truth from me?! 
+Estou cansado de ouvir isso! Chega a esse ponto a sua vontade de esconder a verdade de mim?!
 
 #v0542Ah, what a pathetic kid! George was a hundred times more wonderful! 
+Ah, mas que criança patética! O George era cem vezes mais maravilhoso!
 
 #v0419Yeah, just keep on clinging to that ghost of 12 years ago. That's what I'll do too... 
+Isso, continue apegada a esse fantasma de 12 anos atrás. É o que eu farei também...
 
 #v0543You really are an uncute girl! If only you'd just give up and die. 
+Você não é nada fofa! Por que não desiste e morre bem devagar?
 
 #v0420Sure, thanks. I'll be doing that before too long, so don't worry...! 
-
+Claro, obrigada. Estarei fazendo isso logo mais, não se preocupe...!
 #v1468Have I failed once again to communicate the proper use of magic...? 
 
 #v0544Kyahahahaha! Why don't you huddle under a kotatsu and eat oranges, you old hag?! 
@@ -6971,82 +6994,115 @@ Missão completa! Silêncio do alvo Dlanor: confirmado!
 
 #v2626I underestimated you. And I probably have been ever since you were born...! 
 
-#v3241I'm your little sister, Nee-san. How could you underestimate me? 
+#v3241I'm your little sister, Nee-san. How could you underestimate me?
+Eu sou sua irmãzinha, nee-san. Como pôde me subestimar.
 
-#v3242Nee-san, maybe you'd better rethink that outfit at your age... 
+#v3242Nee-san, maybe you'd better rethink that outfit at your age...
+Nee-san, é melhor repensar essas roupas na sua idade...
 
-#v2627Sh-Shut up! It's fine if I'm a witch! As long as I'm a witch! 
+#v2627Sh-Shut up! It's fine if I'm a witch! As long as I'm a witch!
+C-Calado! Tudo bem se eu sou uma bruxa! Enquanto eu for uma bruxa!
 
-#v3243So, you still had some rabbit friends left. Good for you. 
+#v3243So, you still had some rabbit friends left. Good for you.
+Então, ainda tem algumas amigas coelhas sobrando. Que bom pra você.
 
 #v3435...556, ...I couldn't avenge you after all nyeh... 
+...556, ...não fui capaz de vingá-la, nyeh...
 
-#v3244Hey, Maria! Haven't you played with your dolls enough?! Clean them up! 
+#v3244Hey, Maria! Haven't you played with your dolls enough?! Clean them up!
+Ei, Maria! Já não brincou o bastante de boneca! Arrume tudo!
 
-#v3436When up against Rosa, even the Chiester Sisters Corps get treated like toys nyeh... 
+#v3436When up against Rosa, even the Chiester Sisters Corps get treated like toys nyeh...
+Quando o adversário é a Rosa, até mesmo a Tropa das Irmças Chiesters é tratada como brinquedo, nyeh... 
 
-#v3245We agreed that any toys you forgot to clean up would be disposed of, remember? 
+#v3245We agreed that any toys you forgot to clean up would be disposed of, remember?
+Nós concordamos que qualquer brinquedo que você esquecesse de arrumar seria descartado, lembra?
 
-#v3437H-How terrifying nyeh. I wanted to play more...nyeh... 
+#v3437H-How terrifying nyeh. I wanted to play more...nyeh...
+M-Mas que horror, nyeh. Eu quero brincar mais...nyeh...
 
-#v3249Leave searching for the culprit to the adults. Go back to the guesthouse with the kids, George-kun. 
+#v3249Leave searching for the culprit to the adults. Go back to the guesthouse with the kids, George-kun.
+Deixem a busca pelo culpado para os adultos. Volte para a casa de hóspedes com as crianças, George-kun.
 
 #v2730...It looks like it's not my turn yet. ...I'll do that. 
+...Parece que ainda não é a minha vez. ...Eu farei isso.
 
-#v2731Understood... I'll leave the search for the culprit to you, Aunt Rosa... 
+#v2731Understood... I'll leave the search for the culprit to you, Aunt Rosa...
+Entendido... Deixarei a busca pelo culpado para você, tia Rosa...
 
 #v3250Thanks for listening. Take care of the kids. 
+Obrigada por ouvir. Eu tomo conta das crianças.
 
 #v3251Didn't Nee-san ever teach you? When a kid interrupts an adult, they get burned. 
 
-#v2732Hahahah... I only learned that just now... 
+#v2732Hahahah... I only learned that just now...
+Hahahah... Só fui aprender isso agora...
 
 #v3246You too, Jessica-chan. If you don't want me to suspect you of being the culprit, you'd better not put a toe out of line. 
+Você também, Jessica-chan. Se não quer que eu suspeite que seja a culpada, é melhor não cruzar essa linha.
 
 #v2925...Y-You say that, but you're plenty suspicious yourself... 
+...V-Você pode até dizer isso, mas também não deixe de ser muito suspeita...
 
 #v2926I-I didn't realize you could be so terrifying, Aunt Rosa... That was a shock... 
+E-Eu não tinha percebido que você podia ser tão assustadora, tia Rosa... Isso foi um choque...
 
 #v3247When you scold, you have to be firm. You'll learn that too if you ever raise kids. 
+Quando vai repreender, precisa ser firme. Vai aprender isso também se um dia tiver filhos.
 
 #v3248Jessica-chan, isn't it about time you gained the calm composure of a lady? 
+Jessica-chan, já não está na hora de você aprender a ser calma e comportada como uma dama?
 
 #v2927...Sheesh... I give up. ...I'll just head on back to the guesthouse... 
+...Tch... Eu desisto. ...Vou voltar para a casa de hóspedes...
 
 #v3252Disappear!! I see enough of myself in the mirror...!! 
+Desapareça!! Já cansei de me ver no espelho...!!
 
 #v3253...How sad. The thing you hate the most...is yourself. 
+...É tão triste. Aquilo que você mais odeia...é você mesmo.
 
 #v3254I let you win today, but who knows about tomorrow? Or the day after? *cackle*cackle*... 
-
+Deixarei que vença hoje, mas quem sabe o dia de manhã? Ou o dia seguinte? *gargalhada*gargalhada...
 #v3255Disappear...! I'll never let you near Maria...! 
 
-#v3256Okay! I won, so make sure you finish up our work quickly! 
+#v3256Okay! I won, so make sure you finish up our work quickly!
+Certo! Eu venci, agora trate de terminar seu trabalho de uma vez!
 
 #v3257Nngg... But I was the one who promised Maria I'd go to that amusement park with her! 
+Nngg... Mas fui eu quem prometeu à Maria que a levaria ao parque de diversões!
 
 #v5193The Ushiromiya Family has rules! Outsiders must stand down! 
+A família Ushiromiya tem suas regras! Forasteiros devem se afastar!
 
 #v4211H-How dare you do that...to the sweet, sweet time I get to show off my reasoning... 
+C-Como ousa fazer isso...com o doce tempo que eu tive para demonstrar meu raciocínio...
 
 #v4212That's ironic... I was defeated exactly according to my own reasoning...! 
+É irônico... Eu fui derrotada exatamente com raciocinei...!
 
 #v5194Stupid detective. Have more faith in yourself next time. 
+Detetive idiota. Tenha mais confiança em si da próxima vez.
 
 #v5195Oh? So, you haven't had enough yet? Where would you like a bullet this time? 
+Oh, então ainda não teve o bastante? Onde vai querer o próximo tiro?
 
 #v4213...I-I've already had my fill! ...What a horrifying woman...! 
 
 #v5196Do you know who the culprit is? If you do, tell me...! 
+Sabe quem é o culpado? Se sabe, me diga...!
 
 #v3859I can give you nothing more than a crutch for REASONING... 
+Não posso dar nada mais a você ele de um suporte para o RACIOCÍNIO...
 
 #v3860...It looks like it will be impossible to do any MORE. I give UP. 
+...Parece que será impossível CONTINUAR. Eu DESISTO.
 
 #v5197It would have been perfect if you'd said that as soon as I pointed a gun at you. 
+Teria sido perfeito se tivesse dito isso assim que apontei a arma para você.
 
 #v5198I don't believe it. How could a kid like you be working for a witch? 
-
+Eu não acredito nisso. Como uma criança como você pode estar trabalhando para uma bruxa?
 #v3861...I have a counter to that STATEMENT, but I believe I will leave FIRST... 
 
 #v5199Let's make up, okay? I'd rather meet with you at a fancy coffee shop. 
@@ -7747,9 +7803,11 @@ Missão completa! Silêncio do alvo Dlanor: confirmado!
 
 #v5830I'm bored. Turn into minced meat again. That squishy, dirty kind. 
 
-#v4120I...am not your toy... ...Nnngg, ...aaaaaaaaah!! 
+#v4120I...am not your toy... ...Nnngg, ...aaaaaaaaah!!
+Eu...não sou seu brinquedo... ...Nnnngg, ...aaaaaaaaah!!
 
-#v5831Do you intend to disobey me? Don't you still need the miracle of your family coming home? 
+#v5831Do you intend to disobey me? Don't you still need the miracle of your family coming home?
+Pretende me desobedecer? Você não precisa de um milagre para sua família voltar para casa?
 
 #v4121...That's... ...Please, ...come home, ...Onii-chan... 
 
