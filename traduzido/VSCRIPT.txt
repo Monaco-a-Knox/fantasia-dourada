@@ -4324,26 +4324,37 @@ Colocar umeboshi assim...é um desperdício do chá do Ronove.
 #v5779What? Don't be a picky eater. Tea with dried plums...is the best. 
 O quê? Não seja tão exigente. Chá com umeboshi é simplesmente...o melhor.
 #v3756Nice job playing the bad guy this round! Next time, I'll play the loser role. 
+Bom trabalho pagando de vilão neste round! Da próxima vez, farei o papel de perdedor.
 
 #v5780Oh my, a lowly human is trying to be nice to me. Perhaps I'll take you up on that offer... 
+Minha nossa, um mero humano está tentando ser gentil comigo. Talvez aceitarei sua oferta...
 
 #v4761Hey! You haven't forgotten how much you owe me for that one time, right?! 
+Ei! Não se esqueceu do quanto me deve por aquela vez, né?!
 
 #v3757That was then! This is now! In the world of games, no one owes anyone anything! 
+Aquilo está no passado! Este é o agora! No mundo dos jogos, ninguém deve nada a ninguém!
 
 #v3758Ihihi. Fighting Lambda makes me seriously hungry! 
+Ihihi. Lutar com a Lambda me deixa faminto!
 
 #v4762Ronove! Get us some fresh-baked cookies and tea, if you would! And some warm milk! 
+Ronove! Nos traga biscoitos frescos e chá, por favor! E leite quente!
 
 #v4763Ow! How could you do that to a fragile lady?! 
+Aie! Como pôde fazer isso com uma donzela frágil?!
 
 #v3759There's a fragile lady here? Where is she?! I'd love to meet her! 
+Têm uma donzela frágil aqui?! Onde? Adoraria conhecê-la!
 
 #v0247N-Not bad... To think I'd lose...to that little Ange... 
+N-Nada mal... e pensar que eu perderia... para aquela pequenina Ange...
 
-#v0367Are you done playing around? It's time to go home! 
+#v0367Are you done playing around? It's time to go home!
+Já acabou com a brincadeira? É hora de ir pra casa!
 
 #v0248Wait, listen to me... There's still something I need to do... 
+Espere, me escuta... ainda tem algo que preciso fazer...
 
 #v0368Stupid Onii-chan! Don't you care about anyone else?! 
 
