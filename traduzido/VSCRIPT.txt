@@ -4486,28 +4486,39 @@ Eu...ainda nem perdi... mas ainda assim, ...nng!
 #v0669No! I haven't lost until I admit it...! Dammit, ...dammit...! 
 
 #v0394Ah, I feel great! I'll forgive you for one tenth of the grudges I've built up over the years. 
+Ah, me sinto ótimo! Vou te perdoar por um décimo dos rancores que acumulei durante os anos.
 
 #v0517Just how much do you hate me?! Hey, how much?! 
+O quanto você me odeia?! Ei, quanto?!
 
 #v0395You should know! What happened on that day?! 
+Você deveria saber! O que aconteceu naquele dia?!
 
 #v0518...I'm not telling. If only you'd just give up and die. 
+...Não direi. Você devia desistir e morrer.
 
 #v0519I know nothing. If that's what you think, why not go on thinking it...? 
 
 #v0396You don't intend to tell me? You're always like that, up until the very end. 
+Você não vai me dizer? Você sempre é assim, até o fim.
 
 #v1267Nihi... The Chiester Sisters Corps mustn't lose so easily... 
+Nihi... O Corpo das Irmãs Chiester não perderão tão facilmente...
 
 #v0397Just stop it already! I don't want to fight against Onee-chan's friends. 
+Pare já! Não quero lutar com amigos da Onee-chan.
 
 #v0398I remember playing with you and Onee-chan long ago. 
+Lembro de brincar com você e a Onee-chan tempos atrás.
 
 #v1268So you remembered nyeh. ...You were quite violent back then too nyeh. 
+Então você lembra nyeh. ...Você era bem violento na época nyeh.
 
 #v0399Could we stop fighting? I'd rather have fun singing with you. 
+Podemos parar de brigar? Prefiro me divertir cantando com você.
 
-#v1269That takes me back nyeh. Though I only remember the 'uu-uu-' song nyeh. 
+#v1269That takes me back nyeh. Though I only remember the 'uu-uu-' song nyeh.
+Isso me tráz lembranças nyeh. Embora eu lembre apenas da canção do 'uu-uu-' nyeh.
 
 #v2568You were forced to learn martial arts too, right? ...The same goes for me. I escaped pretty quickly though. 
 
