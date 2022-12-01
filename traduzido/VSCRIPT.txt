@@ -221,7 +221,7 @@ Eu gostaria de estar, mas parece que já está na hora de encerrarmos o conto.
 Se não tiver pensando em outro enredo, eu também não serei forçado a um final onde homens esfregam loção um no outro...
 
 #v1703C-Cut it out, Ronove... You are joking, right? Right...? G-G-Gyaaaaaaaaaaaaaaaaaahh!! 
-P-Para com isso, RonovE... Tá brincando, né? Né...? G-G-Gyaaaaaaaaaaaaaaaaaahh!!
+P-Para com isso, Ronove... Tá brincando, né? Né...? G-G-Gyaaaaaaaaaaaaaaaaaahh!!
 BATTLER X RONOVE FINAL
 
 BATTLER X BEATRICE INÍCIO
@@ -4357,47 +4357,67 @@ Já acabou com a brincadeira? É hora de ir pra casa!
 Espere, me escuta... ainda tem algo que preciso fazer...
 
 #v0368Stupid Onii-chan! Don't you care about anyone else?! 
+Onii-chan estúpido! Não se importa com mais alguém?!
 
 #v0369I can't believe it. To think that you've been playing around for 12 years. 
+Não posso acreditar. E pensar que você esteve brincando por aí por 12 anos.
 
-#v0249F-Forgive me... I really...didn't forget about you... 
+#v0249F-Forgive me... I really...didn't forget about you...
+Me perdoe... eu realmente...não esqueci de você...
 
 #v0370...H-How could you just casually punch someone with the same face as you...? 
+...Como pôde socar alguém com o mesmo rosto que o seu tão facilmente...?
 
 #v0371Sorry. I punch the 'me' in the mirror every day. 
+Desculpe. Eu soco o 'eu' no espelho todos os dias.
 
-#v0372Th-That's insane... I thought I had you copied perfectly...! 
+#v0372Th-That's insane... I thought I had you copied perfectly...!
+I-Isso é insano... pensei que tinha te copiado perfeitamente...!
 
 #v0373No matter how you look at it, I'm obviously the real one. Maybe you should get your eyes checked. 
+Não importa o ponto de vista, sou obviamente o real. Talvez você deva examinar seus olhos.
 
 #v0374You would've been better off losing here... ...You will...regret this... 
+Você deveria ter perdido aqui... ...você vai...se arrepender disso...
 
 #v0375<See you in hell.> Go on and wait in the pit I'm headed for. 
+<See you in hell.> Vá à frente e aguarde no poço para qual estou indo.
 
 #v1417This era belongs to the young... Perhaps it's about time I retired... 
+Essa era pertence aos jovens... talvez seja hora de me aposentar...
 
 #v0376You belong in a faded old picture book. 
+Você pertence num álbum de fotos desbotado.
 
 #v0377Sorry, I've gotten older. I'm not at an age where I can believe in witches. 
+Desculpe, eu cresci. Não estou na idade de acreditar em bruxas.
 
 #v1418That's fine. You must see with two eyes, one that believes and one that doubts... 
+Tudo bem. Você deve enxergar com dois olhos, um que acredita e um que duvida...
 
 #v0378What are witches? What is magic? ...I'm getting a headache. 
+O que são bruxas? O que é mágica? ...Estou ficando com dor de cabeça.
 
 #v1419I've been hit all over. Both my head and my body ache... 
+Fui golpeada por todo corpo. Minha cabeça e meu corpo doem...
 
 #v0379Shave off that mustache. And enough with that hair, and the monocle too! 
+Barbeie esse bigode. E já deu desse cabelo, e desse monóculo!
 
 #v0967Are you telling me to kill myself?! Oh, how cruel! 
+Está me dizendo para cometer suicídio? Ora, que cruel!
 
 #v0380Please, just stop going easy on women. It seriously pisses me off. 
+Por favor, pare de pegar leve com mulheres. Isso me deixa puta.
 
 #v0968No, no, pay it no mind... It is merely a personal virtue of mine... 
+Não não, não é nada... é meramente uma virtude pessoal minha.
 
 #v0381<No, thank you.> I've got more than enough guys hitting on me.
 No, thank you. Já tive o suficiente de caras dando em mim.
 
-#v0969Pardon me... It would seem I'm not needed here... 
+#v0969Pardon me... It would seem I'm not needed here...
+Perdão... parece que minha presença não é necessária.
 
 #v0382<Goodnight!> I'll be taking Onii-chan now.
 Goodnight! Estou levando o onii-chan agora.
@@ -4406,40 +4426,56 @@ Goodnight! Estou levando o onii-chan agora.
 Devolva-o agoraaaaaa, ela é meeeeeu, waaaaaah!!
 
 #v0383Tell me! What happened on that island on that day?! 
+Me diga! O que aconteceu naquela ilha, naquele dia?!
 
 #v0068Again, I am telling you! You're free to disbelieve it if you choose...! 
 
-#v0069St-Stop, you've already won, haven't you?! Ow, ow! 
+#v0069St-Stop, you've already won, haven't you?! Ow, ow!
+P-Para, você já ganhou, não ganhou? Ai, ai!
 
 #v0384Aaah, it's useless, it's all useless! I haven't punched you nearly enough! 
 
 #v0385I guess even furniture can get violent. At least when its owner is violent themselves, anyway. 
+Parece que até mobílias conseguem ser violentas. Bem, pelo menos quando seu dono também é violento.
 
 #v0817I-I won't allow such blasphemy against my master! If you want to insult someone, insult me! 
+N-Não permitirei tal blasfêmia contra meu mestre! Se quer insultar alguém, insulte-me!
 
-#v0818It's still far too early...for me to lose! N-Nngg... 
+#v0818It's still far too early...for me to lose! N-Nngg...
+Ainda é muito cedo...para mim perder! N-Ngg...
 
 #v0386Lucifer, you've done enough! Go back to being a stake. 
+Lucifer, já fez o suficiente. Transforme-se de volta em uma estaca.
 
 #v0387You really are a hard worker. I'll give you that. 
+Você é realmente esforçada. Tenho que admitir.
 
 #v0819H-How embarrassing, ...to be complimented on how I lose...! B-But then again... 
+Que vergonhoso, ...ser elogiada pelo modo com que perdi...! M-Mas...
 
 #v0388You were on that island on that day. Tell me the truth! 
+Você estava naquela ilha naquele dia. Me conte a verdade!
 
 #v1117I could tell you... However, I very much doubt that you would believe me, Ange-sama... 
+Posso te contar... porém, duvido que acreditaria em mim, Ange-sama...
 
 #v0389I wonder if Onii-chan also...likes girls like you. 
+Me pergunto se o Onii-chan também... gosta de garotas como você.
 
 #v1118Wh-Who knows... ...A-After all, ...he does call himself a breast sommelier... 
+V-Vai saber... ...Afinal, ...ele se autodenomina um sommelier de peitos...
 
 #v0390It looks like you'd also understand this thing called magic. 
+Parece que você também entende essa coisa chamada mágica.
 
 #v1119What I do isn't magic... ...This is the power given to furniture... 
+O que faço não é magia... ...esse é o poder concedido a mobília...
 
 #v0667I...still haven't lost... ..And yet, ...nng! 
+Eu...ainda nem perdi... mas ainda assim, ...nng!
 
 #v0391<See you again.> I really hate girly boys. 
+<See you again.> eu realmente odeio garotos afeminados.
 
 #v0668...I can't lose. ...I'll win, and win, and win... ...Nngg! 
 
