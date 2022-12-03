@@ -4521,40 +4521,58 @@ Podemos parar de brigar? Prefiro me divertir cantando com você.
 Isso me tráz lembranças nyeh. Embora eu lembre apenas da canção do 'uu-uu-' nyeh.
 
 #v2568You were forced to learn martial arts too, right? ...The same goes for me. I escaped pretty quickly though. 
+Você foi forçado a aprender artes marciais, não é? ...O mesmo aconteceu comigo. Porém, escapei rapidamente.
 
 #v2658And yet you're this strong? ...I'm no match... 
+E apesar disso, você é tão forte assim? ...Não tenho chances...
 
 #v2569If only I'd been able to call her 'Mother' back then, ...maybe something would've changed. 
+Se apenas eu tivesse conseguido chamá-la de 'Mãe' naquela época, ...talvez algo teria mudado.
 
 #v2659I have nothing to say. ...This is the future you chose for yourself, Ange-chan. 
+Não tenho nada a dizer. ...Esse é o futuro que escolheu para si mesma, Ange-chan.
 
 #v2660You've grown to be strong, haven't you? I'm sure your family's proud of what you are now. 
+Você se tornou uma pessoa forte, não é mesmo? Tenho certeza que sua família está orgulhosa de quem você é agora.
 
 #v2570...Stop that. ...I'm not strong at all. I've just closed off my heart. 
+...Para. ...Não sou nada forte. Apenas fechei meu coração.
 
 #v2565Now that I'm the same age, I can tell...that you really are a kid, Jessica onee-chan. 
+Agora que tenho a mesma idade, percebo...que você é mesmo uma criança, Jessica onee-chan.
 
 #v2853Can't you just say that my heart is burning with the vigor of youth...? 
+Será que não pode apenas dizer que meu coração está queimando com o vigor da juventude?
 
 #v2566We're both 18, but the troubles we've been through are completely different. 
+Ambos temos 18, mas os problemas pelos quais passamos são totalmente diferentes.
 
 #v2854...Don't be so stiff... You used to be so cute, back then... 
+...Não seja tão rígida... você costumava ser tão fofa naquela época...
 
 #v2855Sorry... I don't know what it is you're looking for, but I guess I won't be able to help. 
+Desculpe, não sei pelo que está procurando, mas parece que não conseguirei te ajudar.
 
 #v2567That's all right, Jessica onee-chan. ...Truth is something you have to grab for yourself. 
+Tudo bem, Jessica onee-chan. ...A verdade é algo que você precisa obter por si mesma.
 
 #v2571Remember this. ...The pain in Maria onee-chan's heart...was nothing compared to this. 
+Lembre-se. ...A dor no coração da Maria onee-chan...em nada se comparava a isso.
 
 #v3183...I really hurt her that much? ...I'm so sorry, ...Maria... 
+Realmente a machuquei tanto? ...Desculpe, ...Maria...
 
 #v2572Sorry. I decided not to go easy on you, Aunt Rosa. 
+Desculpe. Decidi não pegar leve com você, Tia Rosa.
 
 #v3184...What did I ever do to you...? Why do you hate me...? 
+Que mal fiz a você...? Por que me odeia...?
 
-#v3185...You couldn't possibly understand my pain. 
+#v3185...You couldn't possibly understand my pain.
+Você não conseguiria entender minha dor.
 
-#v2573Of course not. You people won't tell me anything!! 
+#v2573Of course not. You people won't tell me anything!!
+Claro que não. Vocês não me contam nada!! 
 
 #v4177Y-You...mere hamburger... Owowow... 
 
