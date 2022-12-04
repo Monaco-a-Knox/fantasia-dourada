@@ -4435,6 +4435,7 @@ P-Para, você já ganhou, não ganhou? Ai, ai!
 
 #v0384Aaah, it's useless, it's all useless! I haven't punched you nearly enough! 
 
+—ASSUMINDO: ANGE VS LUCIFER—
 #v0385I guess even furniture can get violent. At least when its owner is violent themselves, anyway. 
 Parece que até mobílias conseguem ser violentas. Bem, pelo menos quando seu dono também é violento.
 
@@ -4452,6 +4453,7 @@ Você é realmente esforçada. Tenho que admitir.
 
 #v0819H-How embarrassing, ...to be complimented on how I lose...! B-But then again... 
 Que vergonhoso, ...ser elogiada pelo modo com que perdi...! M-Mas...
+—ANGE VS LUCIFER FIM—
 
 #v0388You were on that island on that day. Tell me the truth! 
 Você estava naquela ilha naquele dia. Me conte a verdade!
@@ -4502,6 +4504,7 @@ Você deveria saber! O que aconteceu naquele dia?!
 #v0396You don't intend to tell me? You're always like that, up until the very end. 
 Você não vai me dizer? Você sempre é assim, até o fim.
 
+—ASSUMINDO: ANGE VS CHIESTER410—
 #v1267Nihi... The Chiester Sisters Corps mustn't lose so easily... 
 Nihi... O Corpo das Irmãs Chiester não perderão tão facilmente...
 
@@ -4512,14 +4515,16 @@ Pare já! Não quero lutar com amigos da Onee-chan.
 Lembro de brincar com você e a Onee-chan tempos atrás.
 
 #v1268So you remembered nyeh. ...You were quite violent back then too nyeh. 
-Então você lembra nyeh. ...Você era bem violento na época nyeh.
+Então você lembra nyeh. ...Você era bem violenta na época nyeh.
 
 #v0399Could we stop fighting? I'd rather have fun singing with you. 
 Podemos parar de brigar? Prefiro me divertir cantando com você.
 
 #v1269That takes me back nyeh. Though I only remember the 'uu-uu-' song nyeh.
 Isso me tráz lembranças nyeh. Embora eu lembre apenas da canção do 'uu-uu-' nyeh.
+—ANGE VS CHIESTER410 FIM—
 
+—ASSUMINDO: ANGE VS GEORGE—
 #v2568You were forced to learn martial arts too, right? ...The same goes for me. I escaped pretty quickly though. 
 Você foi forçado a aprender artes marciais, não é? ...O mesmo aconteceu comigo. Porém, escapei rapidamente.
 
@@ -4537,7 +4542,9 @@ Você se tornou uma pessoa forte, não é mesmo? Tenho certeza que sua família 
 
 #v2570...Stop that. ...I'm not strong at all. I've just closed off my heart. 
 ...Para. ...Não sou nada forte. Apenas fechei meu coração.
+—ANGE VS GEORGE FIM—
 
+—ASSUMINDO: ANGE VS JESSICA—
 #v2565Now that I'm the same age, I can tell...that you really are a kid, Jessica onee-chan. 
 Agora que tenho a mesma idade, percebo...que você é mesmo uma criança, Jessica onee-chan.
 
@@ -4555,7 +4562,9 @@ Desculpe, não sei pelo que está procurando, mas parece que não conseguirei te
 
 #v2567That's all right, Jessica onee-chan. ...Truth is something you have to grab for yourself. 
 Tudo bem, Jessica onee-chan. ...A verdade é algo que você precisa obter por si mesma.
+—ANGE VS JESSICA FIM—
 
+—ASSUMINDO: ANGE VS ROSA—
 #v2571Remember this. ...The pain in Maria onee-chan's heart...was nothing compared to this. 
 Lembre-se. ...A dor no coração da Maria onee-chan...em nada se comparava a isso.
 
@@ -4573,42 +4582,68 @@ Você não conseguiria entender minha dor.
 
 #v2573Of course not. You people won't tell me anything!!
 Claro que não. Vocês não me contam nada!! 
+—ANGE VS ROSA FIM—
 
+—ASSUMINDO: ANGE VS LAMBDADELTA—
 #v4177Y-You...mere hamburger... Owowow... 
+S-Sua... mera hambúrguer... Aiaiai...
 
 #v4096Ah, that feels great! Now I've paid you back for all those times you bullied Onii-chan! 
+Ah, isso foi ótimo! Agora te fiz pagar por todas as vezes que maltratou o Onii-chan!
 
 #v4097Our attitudes towards the truth aren't the same. Sorry, but I don't think we could be friends. 
+Nossas atitudes em relação à verdade não são as mesmas. Desculpe, mas não acho que podemos ser amigas.
 
 #v4178...You don't have the strength to withstand the truth, so you'll never be able to grasp it... 
+Você não possui a força para aguentar a verdade, então nunca será capaz de a alcançar...
 
 #v4098This truth that you people are trying to force on me... I won't believe it, won't accept it! 
+Essa verdade que vocês estão tentando forçar para cima de mim... não acreditarei nela, não aceitarei ela!
 
 #v4179...Then keep wandering about in search of it for all eternity. It's just like the blue bird, isn't it...? 
+...Então continue vagando em busca dela por toda eternidade. É como O Pássaro Azul, não é...?
 
+—ANGE VS LAMBDADELTA FIM—
+
+—ASSUMINDO: ANGE VS DLANOR—
 #v4099I'm not looking for reasoning. All I want...is the truth. 
+Não busco raciocínio. Tudo que quero... é a verdade.
 
 #v3826I had hoped that I could assist you in reaching THAT. ...Too BAD. 
+Esperava poder te auxiliar em alcançar ELA. ...Que PENA.
 
 #v4100I'll sweep aside anyone who stands in my way. You're just another obstacle. 
+Eliminarei qualquer um que fique eu meu caminho. Você é apenas outro obstáculo.
 
 #v3827...What a SHAME. ...And I did it out of consideration for YOU. 
+...Mas que PENA. ...E o fiz por consideração a VOCÊ.
 
 #v3828Living for the sake of revenge alone is MEANINGLESS. What you are doing is WRONG. 
+Viver apenas pelo bem da vingança é INÚTIL. O que está fazendo é ERRADO.
 
 #v4101You think so? From my point of view, it's the whole world that's wrong. 
+Você acha? Do meu ponto de vista, é o mundo inteiro que está errado.
+—ANGE VS DLANOR FIM—
 
+—ASSUMINDO: ANGE VS WILL—
 #v4102What a letdown. I was an idiot for thinking you might be like Onii-chan. 
+Mas que decepção. Fui idiota em pensar que você poderia ser como o Onii-chan.
 
 #v5430No kidding. No one could replace your brother. Isn't that right? 
+Não diga. Ninguém poderia substituir seu irmão. Não é mesmo?
 
 #v4103Who are you? If you know something about this island, tell me. 
+Quem é você? Se sabe algo sobre essa ilha, me diga.
 
 #v5431That's still under investigation. ...I'm the one who wants someone to tell me. 
+Isso ainda está sob investigação. ...Sou eu que quero que alguém me conte.
 
 #v5432What's spurring you on? Is there something you have to gain at the end of this battle? 
+O que te motiva? Tem algo a ganhar no fim desta batalha?
 
 #v4104I know there's nothing. That's right, I have nothing, nothing at all! 
+Sei que não tem nada. Isso mesmo, não tenho nada, nadinha!
+—ANGE VS WILL FIM—
 
 #v4105I won... Bernkastel! Keep your promise!! 
 
