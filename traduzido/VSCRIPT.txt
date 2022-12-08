@@ -4645,25 +4645,37 @@ O que te motiva? Tem algo a ganhar no fim desta batalha?
 Sei que não tem nada. Isso mesmo, não tenho nada, nadinha!
 —ANGE VS WILL FIM—
 
+—ASSUMINDO: ANGE VS BERNKASTEL—
 #v4105I won... Bernkastel! Keep your promise!! 
+Ganhei... Bernkastel! Mantenha sua promessa!!
 
 #v5781...*giggle*giggle* ...Sure, I'll give you a miracle. 
+*risadinhas* ...Muito bem, te concederei um milagre.
 
-#v4106Is that enough? Have I passed this trial of yours and proved that I have the necessary resolve? 
+#v4106Is that enough? Have I passed this trial of yours and proved that I have the necessary resolve?
+Foi suficiente? Passei por esse seu desafio e provei ter a determinação necessária?  
 
 #v5782...You certainly have. ...*giggle* Yes, this is why you're worthy of receiving my power. 
+...Certamente passou. ...*risadinha* Sim, é por isso que é digna de receber meu poder.
 
 #v5783Not bad. You have my praise. ...As a reward, I guess I'll give you any miracle you want. 
+Nada mal. Você tem meus parabéns. ...Como recompensa, acho que te concederei qualquer milagre que desejar.
 
 #v4107Bring back Onii-chan, bring back my family! Give me a miracle...!! 
+Traga o Onii-chan de volta, traga minha família de volta! Me conceda um milagre...!!
 
+—ASSUMINDO: ANGE VS LAMBDADELTA—
 #v4108I'll take back my family no matter what. That's my certain willpower. 
+Terei minha família de volta a todo custo. Esta é minha determinação certeira.
 
 #v4764...As long as you don't forget that, it'll definitely come true someday. I promise you that. 
+...Contanto que não esqueça disso, definitivamente será realizado um dia. Te prometo isso.
 
 #v4109Witch of Certainty, Lambdadelta. Lend me your strength! Give me your certainty! 
+Bruxa da Certeza, Lambdadelta. Me conceda sua força! Me conceda sua certeza!
 
 #v4765Hmm, what should I do...? ...Well, okay. Sure, take it free of charge. 
+Hmm, o que farei...? ...Bem, okay. Certo, pegue de graça. 
 
 #v4766Even after being lowered to the state of a witch's piece, you still struggle on. ...You really are cute. 
 
