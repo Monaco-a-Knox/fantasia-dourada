@@ -4678,45 +4678,77 @@ Bruxa da Certeza, Lambdadelta. Me conceda sua força! Me conceda sua certeza!
 Hmm, o que farei...? ...Bem, okay. Certo, pegue de graça. 
 
 #v4766Even after being lowered to the state of a witch's piece, you still struggle on. ...You really are cute. 
+Mesmo após ser reduzida a uma peça de bruxa, você ainda luta. ...Você é realmente fofa.
 
 #v4110I've already thrown away this life once. I'll keep falling and drag everyone up from the pits of hell! 
+Já joguei esta vida fora uma vez. Continuarei caindo e puxarei todos para fora dos poços do inferno!
+—ANGE VS LAMBDADELTA FIM—
 
+—FIM DAS LUTAS DA ANGE—
+
+—ASSUMINDO: INICIO DAS LUTAS DA VIRGILIA—
+
+—ASSUMINDO: VIRGILIA VS BATTLER—
 #v0250Magic, trick, magic, trick... Nope, I'm lost! 
+Mágica, truque, mágica, truque... Não, estou perdido!
 
 #v1420My, my. If you surrender after something like this, you certainly won't be able to beat Beato. 
+Minha nossa. Se você se render após algo assim, certamente não conseguirá derrotar a Beato.
 
 #0251It should be possible to explain everything with tricks! And yet...dammit! Dammit! 
+Deve ser possível explicar tudo com truques! E ainda assim... porcaria! Que droga!
 
 #v1421Your range of vision is a tad too limited. Think more flexibly... 
+Seu campo de visão é muito limitado. Pense mais flexivamente...
 
 #v0252Damn! One more time, please! Next time, I'll definitely...! 
+Merda! Mais uma vez, por favor! Na próxima, definitivamente...!
 
 #v1422This part of you is your best point...and also your weakness... 
+Essa parte sua é seu melhor qualidade...e também sua fraqueza...
+—VIRGILIA VS BATTLER FIM—
 
+—ASSUMINDO: VIRGILIA VS ANGE—
 #v0400...Why?! I've waited a whole 12 years! 
+...Por quê?! Eu esperei 12 longos anos!
 
 #v1423Forgive me. I cannot return your brother yet. 
+Desculpe. Não posso devolver seu irmão ainda.
 
 #v1424I won't let you get in the way of Beato and Battler-kun's game... 
+Não deixarei você entrar no caminho do jogo da Beato e do Battler-kun...
 
 #v0401What's so important about their game?! I don't understand...! 
+O que tem de tão importante no jogo deles?! Não entendo...!
 
 #v1425I understand how you feel. It's hard for me too... 
+Sei como se sente. Também é dificil para mim...
 
 #v0402If I've got a witch sympathizing with me, ...I'm screwed... 
+Se tem uma bruxa simpatizando comigo, ...estou ferrada...
+—VIRGILIA VS ANGE FIM—
 
+—ASSUMINDO: VIRGILIA VS VIRGILIA INICIO—
 #v1426...Damn you...and your willingness to beat your opponent down without hesitation, even in a fight against yourself... 
+...Maldita...você e sua disposição para derrotar seu oponente sem hesitar, até mesmo em uma luta contra si mesma...
 
 #v1427Reflecting on oneself is an important form of training for a witch. 
+Refletir sobre si mesma é uma forma importante de treinamento para uma bruxa.
 
 #v1428Damn... And I was so close to becoming the real one... 
+Droga... E estava tão perto de me tornar uma verdadeira bruxa...
 
 #v1429It's quite hard, isn't it? Refusing to avert your gaze from your own ugliness. 
+É bastante difícil, não é? Recusar-se a desviar seu olhar de sua própria feiura. 
 
-#v1430My, my... Is this some sideshow of Beato's? How distasteful. 
+#v1430My, my... Is this some sideshow of Beato's? How distasteful.
+Minha nossa... isso é algum tipo de espetáculo da Beato? Que desagradável.
 
 #v1431B-Beatrice-sama, ...forgive me.... Bleh! 
+B-Beatrice-sama, ...me perdoe... Bleh!
+—VIRGILIA VS VIRGILIA FIM—
 
+—ASSUMINDO: VIRGILIA VS RONOVE—
 #v1432It always surprises me. To think that one with your talents would be kind enough to lose. 
 
 #v0970It means only that you're an opponent to whom I needed to relinquish victory... 
@@ -4728,6 +4760,7 @@ Hmm, o que farei...? ...Bem, okay. Certo, pegue de graça.
 #v0972A splendid victory. Are you at all hurt, Madam? 
 
 #v1434Thank you. I see you're even a gentleman at a time like this... 
+—VIRGILIA VS RONOVE FIM—
 
 #v1435Come, try and remember. What form did you have? 
 
