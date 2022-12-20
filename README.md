@@ -6,7 +6,7 @@ Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢�
 
 Nem tente entender este script pois a vasta maioria das linhas estão fora de ordem e alguns diálogos ficam separados das histórias principais,
 sendo que a maior parte são diálogos de derrota e interação dos personagens no modo Arcade, apresentadas de forma aleatória de acordo com a dupla selecionada, 
-não fazendo parte das histórias principais e você dificilmente verá todas elas no jogo durante toda a sua vida, afinal cada combinação pode gerar seis diálogos diferentes aleatoriamente.
+não fazendo parte das histórias principais e você dificilmente verá todos eles no jogo durante toda a sua vida, afinal cada combinação pode gerar seis diálogos diferentes aleatoriamente.
 
 # Instalação
 Quando pronto ou em fase de testes, bastará substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Coloque também nossa fonte customizada dentro da pasta MANGAGAMER para ter o jogo com acentuação.
