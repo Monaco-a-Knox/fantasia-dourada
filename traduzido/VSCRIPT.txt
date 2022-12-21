@@ -221,7 +221,7 @@ Eu gostaria de estar, mas parece que já está na hora de encerrarmos o conto.
 Se não tiver pensando em outro enredo, eu também não serei forçado a um final onde homens esfregam loção um no outro...
 
 #v1703C-Cut it out, Ronove... You are joking, right? Right...? G-G-Gyaaaaaaaaaaaaaaaaaahh!! 
-P-Para com isso, RonovE... Tá brincando, né? Né...? G-G-Gyaaaaaaaaaaaaaaaaaahh!!
+P-Para com isso, Ronove... Tá brincando, né? Né...? G-G-Gyaaaaaaaaaaaaaaaaaahh!!
 BATTLER X RONOVE FINAL
 
 BATTLER X BEATRICE INÍCIO
@@ -11399,45 +11399,63 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 #v4008It's longer than my LEGS. I need to roll it, or it drags behind me and causes a lot of TROUBLE. 
 
-#v4009Fear NOT. I have no interest in your GOLD. 
+#v4009Fear NOT. I have no interest in your GOLD.
+Não TEMA. Não estou interessada no seu OURO.
 
-#v5241...So, you know about the gold. Who on earth are you...? 
+#v5241...So, you know about the gold. Who on earth are you...?
+...Então, você sabe sobre o ouro. Quem diabos é você...?
 
-#v5242Really, who are you? I can't believe that you're a kid. 
+#v5242Really, who are you? I can't believe that you're a kid.
+Sério, quem é vocÊ? Não consigo acreditar que é uma criança.
 
-#v4010I am a KID. But I am also an INQUISITOR. 
+#v4010I am a KID. But I am also an INQUISITOR.
+Sou uma CRIANÇA, mas também sou uma INQUISIDORA.
 
-#v4011CHECKMATE. This is the END. ...Rosa, your interrogation, if you PLEASE. 
+#v4011CHECKMATE. This is the END. ...Rosa, your interrogation, if you PLEASE.
+XEQUE-MATE. Este é o FIM. ...Rosa, seu interrogatório, por FAVOR.
 
-#v5243Now, confess! Who is the culprit?! What are your alibis?! 
+#v5243Now, confess! Who is the culprit?! What are your alibis?!
+Confesse agora! Quem é o culpado! Quais são seus álibis?!
 
-#v4012What a sad PERSON. ...To be taken out by us, of all PEOPLE. 
+#v4012What a sad PERSON. ...To be taken out by us, of all PEOPLE.
 
 #v4379*cackle*cackle* I'll reason out everything and deny every part of you! I won't leave a speck of dust behind...! 
 
-#v4013I am Dlanor A. KNOX! The Death Sentence of the Ten WEDGES!! 
+#v4013I am Dlanor A. KNOX! The Death Sentence of the Ten WEDGES!!
+Dlaron A. Knox é meu NOME! A Sentença Mortal das Dez CUNHAS!!
 
-#v4380Good work. You really are reliable. I can see why my master recommended you. 
+#v4380Good work. You really are reliable. I can see why my master recommended you.
+Bom trabalho. Você é mesmo confiável. Consigo entender porque minha mestra a recomendou.
 
 #v4381<Good.> Very well fought. You really do get fired up when it's time to fight. 
+Good.
 
-#v4014Compared to stamping documents all day long, fighting is FUN! 
+#v4014Compared to stamping documents all day long, fighting is FUN!
+Comparado a carimbar documentos o dia todo, lutar é DIVERTIDO!
 
 #v4015Still, you are very well MADE. You look exactly like ME... 
+Mas você é muito bem FEITA. Parece exatamente igual a MIM...
 
-#v4016I certainly am well MADE. I sometimes find myself thinking that I'm the real THING. 
+#v4016I certainly am well MADE. I sometimes find myself thinking that I'm the real THING.
+Eu certamente sou bem FEITA. Às vezes me pego pensando que sou a VERDADEIRA.
 
 #v4017This is really easy, when I can leave the fighting to YOU. Now, if you would just help me with stamping as WELL... 
+É mesmo fácil quando posso deixar a luta para VOCÊ. Agora, se você ao menos pudesse me ajudar a carimbar TAMBÉM...
 
 #v4018Sorry, but that feature is only available in the paid EDITION. Please UNDERSTAND. 
+Desculpe, mas essa funcionalidade só está disponível na versão PAGA. Por favor, compreenda.
 
 #v4019The battle is OVER. Were you SATISFIED? Do you wish to upgrade to the paid VERSION? 
+A batalhe TERMINOU. Está SATISFEITA? Deseja atualizar para a versão PAGA?
 
 #v4020This robot is AMAZING! It does all this for FREE! I love this ERA! 
+Esse robô é INCRÍVEL! Faz tudo isso de GRAÇA! Eu amo esta ERA!
 
 #v5577Not bad. ...Knowing that people like you are out here, I can retire without regrets. 
+Nada mal. ...Sabendo que pessoas como você estão por aqui, eu posso me aposentar com a consiência tranquila.
 
 #v4021Please teach me how to RETIRE.I want to stop stamping documents and live a retired LIFE. 
+Por favor, me ensine a APOSENTAR. Quero parar de carimbar documentos e viver uma vida de APOSENTADA.
 
 #v4022Did we go too FAR? You must feel sorry for them, going up against two Head INQUISITORS. 
 
@@ -11445,24 +11463,31 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 #v5579I'd say you've denied them enough already. You go a bit too far sometimes. 
 
-#v4023I hadn't NOTICED. It is very difficult to control my strength with this Red KEY. 
+#v4023I hadn't NOTICED. It is very difficult to control my strength with this Red KEY.
+Eu não tinha PERCEBIDO. É muito difícil controlar minha força com esta chave VERMELHA.
 
-#v5929Heheheheheh. Splendid work. But, it went a bit too quickly, which was boring. 
+#v5929Heheheheheh. Splendid work. But, it went a bit too quickly, which was boring.
+Heheheheheh.
 
-#v4024Do you wish for me to experience DIFFICULTIES? ...Then I will do so next TIME. 
+#v4024Do you wish for me to experience DIFFICULTIES? ...Then I will do so next TIME.
+Deseja que eu experimente DIFICULDADES? ...Então assim o farei na PRÓXIMA.
 
 #v5930Mysteries sure are fun. You make people reason stuff out, and then you betray them. *cackle*cackle* The fools. 
+Mistérios são mesmo divertidos. Você coloca as pessoas para pensar, e então as apunhala pelas costas. *gargalhada*gargalhada* Idiotas.
 
 #v4025...The mystery genre is a gentleman's GAME. It is not a game of betrayal such as you DESCRIBE. 
+O gênero do mistério é um jogo entre CAVALHEIROS. Não é um jogo de traição, assim como DESCREVERA.
 
 #v4026That concludes my denial of THEM. ...Were you SATISFIED, Lady Bernkastel? 
 
 #v5931Yes, I'm satisfied. So keep up the pace. Watching you fight is the greatest snack that can go with tea. 
+Sim, estou satisfeita. Continue assim. Assistir você lutando é a melhor guloseima que posso ter para acompanhar meu chá.
 
 #v4913Hey, you did great work! Watching you from the stands is fun. Keep up that pace, okay?! 
+Ei, você fez um ótimo trabalho!
 
 #v4027UNDERSTOOD. ...Truly, going along with a witch's game is TIRING. 
-
+ENTENDIDO. 
 #v4028My BAD. ...I forgot to leave you a chance to SHINE. 
 
 #v4914We just talked about this five seconds ago! I was gonna spectacularly deliver the final blow! Sheesh! 
@@ -11997,39 +12022,56 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 #v4945I could feel your certain willpower. ...Okay. I'll help you out just a little bit! 
 
-#v4742I'm...not furniture. ...Even I...can do this...! 
+#v4742I'm...not furniture. ...Even I...can do this...!
+Eu...não sou uma mobília. ...Até eu...posso fazer isso...!
 
-#v4506Incredible. ...You're just like...the kind of witch I dreamed about when I was young... 
+#v4506Incredible. ...You're just like...the kind of witch I dreamed about when I was young...
+Incrível. ...Você é como...o tipo de bruxa com o qual eu sonhava quando era jovem...
 
-#v4946Those dreams give you power. ...That's right. You and I became witches for the same reason. 
+#v4946Those dreams give you power. ...That's right. You and I became witches for the same reason.
+Esses sonhos te deram poder. ...Isso mesmo. Nós nos tornamos bruxas pelo mesmo motivo.
 
-#v4947Don't you think that, instead of blood makeup, it'd be more fun to do the losers up in whipped cream and almonds? 
+#v4947Don't you think that, instead of blood makeup, it'd be more fun to do the losers up in whipped cream and almonds?
+Não acha que, no lugar da maquiagem de sangue, não seria mais divertido transformar os perdedores em chantili e amêndoas?
 
-#v4507*giggle* I never thought of that. I'll do it, too! And how about some jelly on their foreheads?! 
+#v4507*giggle* I never thought of that. I'll do it, too! And how about some jelly on their foreheads?!
+*risos* Nunca tinha pensado nisso. Também farei isso! E que tal gelatina nas testas?!
 
-#v4948Everyone's got so much time to waste. If only they'd spend it thinking about sweets, instead of the truth of Rokkenjima. 
+#v4948Everyone's got so much time to waste. If only they'd spend it thinking about sweets, instead of the truth of Rokkenjima.
+Todo mundo tem tanto tempo para desperdiçar. Se ao menos passassem o tempo pensando em doces, ao invés da verade de Rokkenjima.
 
 #v4508Right now, the truth of that day lies deep beneath an ocean of jelly! I won't let anyone reach it! 
+Agora mesmo, a verdade daquele dia descansa debaixo de um oceano de gelatina! Não deixarei que ninguém se aproxime dela!
 
-#v5406That's our Lady Lambdadelta! You're so awesome, I didn't even have a chance to step in nyeh! 
+#v5406That's our Lady Lambdadelta! You're so awesome, I didn't even have a chance to step in nyeh!
+Como esperado da nossa Lady LAMBDADELTA! Você é tão incrível que eu sequer tenho chance, nyeh!
 
-#v4949Do you wanna play too? Too bad, you can't!! I'm not done playing yet! 
+#v4949Do you wanna play too? Too bad, you can't!! I'm not done playing yet!
+Quer brincar também? Que pena, não pode!! Eu não terminei de brincar ainda!
 
-#v4950This? It's a piece of konpeitou. The memory of a fun battle can be crystallized as a single speck, like this one. 
+#v4950This? It's a piece of konpeitou. The memory of a fun battle can be crystallized as a single speck, like this one.
+Isto? É um pedaço de konpeitou. A memória de uma divertida batalha cristalizada na forma de um mero grão, como este.
 
-#v5407That konpeitou really is pretty nyeh. ...It makes me want to crystallize memories and gather them in a bottle nyeh! 
+#v5407That konpeitou really is pretty nyeh. ...It makes me want to crystallize memories and gather them in a bottle nyeh!
+Esse konpeitou é mesmo lindo, nyeh. ...Me deixa com vontade de cristalizar memórias e juntar todas elas numa garrafa, nyeh!
 
-#v4951Win, laugh, and have fun! That's my secret to being the strongest in the universe! 
+#v4951Win, laugh, and have fun! That's my secret to being the strongest in the universe!
+Vença, ria e si divirta! Esse é o meu segredo para ser a mais forte do universo!
 
-#v5408And it's also the secret to having silky skin and looking younger nyeh! I wanna try it out too nyeh! 
+#v5408And it's also the secret to having silky skin and looking younger nyeh! I wanna try it out too nyeh!
+E é também o segredo para ter uma pele de seda e parecer jovem, nyeh! Quero experimentar também, nyeh!
 
 #v4584Are you okay? Your elbow's bleeding. Would you like a handkerchief? 
+Tudo bem? Seu cotovelo está sangrando. Quer um lenço?
 
-#v4952This is strawberry sauce. It's really sweet if you lick it. Wanna taste? 
+#v4952This is strawberry sauce. It's really sweet if you lick it. Wanna taste?
+Esse é um molho de morango. É mesmo doce de lamber. Quer provar?
 
-#v4953Hah! If you can keep up with me, you're no ordinary four-eyes. I promote you to the rank of competent four-eyes! 
+#v4953Hah! If you can keep up with me, you're no ordinary four-eyes. I promote you to the rank of competent four-eyes!
+HAh! Se consegue me acompanhar, você não é comum, quatro olhos. Eu o promovo para o rank de um quatro olhos competente!
 
-#v4585Hahahah... Is that a compliment? 
+#v4585Hahahah... Is that a compliment?
+Hahahah... Foi um elogio?
 
 #v4954I still haven't played nearly enough! Don't you think so too? 
 
@@ -12065,7 +12107,8 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 #v4390That's the Great Lady Lambdadelta for you. You're just as cool as my master, aren't you? 
 
-#v4962Bern is cool. I'm <cute> and <hot>! You, by the way, are a curled-up, half-dried floor rag! 
+#v4962Bern is cool. I'm <cute> and <hot>! You, by the way, are a curled-up, half-dried floor rag!
+A Bern é lega. Eu sou cute e hot! A propósito, você é um tapete enrolado e ressecado.
 
 #v4391You took away my chance to shine... I won't be able to report this to my master now! 
 
@@ -12119,7 +12162,6 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 #v4979*giggle* I'm doing this for me. Of course I'd come running from anywhere! 
 
-
 Undefined line - Partner Conversations - First Person
 Linha indefinida - Diálogo das Duplas - Primeira Pessoa 
 
@@ -12129,33 +12171,47 @@ Linha indefinida - Diálogo das Duplas - Segunda Pessoa
 #v0334Hey, that's not a bad disguise...! I'll rip it right off!
 Ei, esse não é um disfarce ruim...! Vou arrancá-lo agora mesmo!
 
-#v0335Don't get cocky, fake! You can't win against the real thing! 
+#v0335Don't get cocky, fake! You can't win against the real thing!
+Não fique se achando, impostor! Você não é pareo para o verdadeiro!
 
-#v0336Tch... Don't mess with me! I'm the real Battler! 
+#v0336Tch... Don't mess with me! I'm the real Battler!
+Tch... Não brinque comigo! Eu sou o verdadeiro Battler!
 
 #v0337Ange? Is that really you?! How did you get here...?! 
+Ange? É mesmo você?! Como chegou aqui...?!
 
 #v0338This is our first sibling squabble, isn't it?! Well, let's make it a clean one. 
+Essa é nossa primeira briga de irmãos, não é? Bem, vamos faz com que seja justa.
 
-#v0339Wow, you're like a whole new person... I'm glad you turned out so pretty. 
+#v0339Wow, you're like a whole new person... I'm glad you turned out so pretty.
+Nossa, parece até outra pessoa... Fico feliz que tenha ficado tão linda.
 
 #v0340Heheh, sure, let's have a match! I won't go easy on you either! 
+Heheh, claro, vamos disputar! Não pegarei leve com você.
 
-#v0341You're sure you don't want me to go easy on you, right?! I hope you don't regret it. 
+#v0341You're sure you don't want me to go easy on you, right?! I hope you don't regret it.
+Tem certeza que não quer que eu pegue leve?! Espero que não se arrependa.
 
 #v0342Ihihi! Try not to overdo it, okay? You're gonna feel it in your back later! 
+Ihihi! Tente não exagerar, tá? Depois suas costas vão cobrar!
 
-#v0343Perfect! I've been wanting to have a go at you! 
+#v0343Perfect! I've been wanting to have a go at you!
+Perfeito! Estive esperando para ir com tudo contra você. 
 
 #v0344There's no need to hold back between men! I'm gonna bring you to your limit. 
+Não é necessário se segurar entre homens! O levarei ao seu limite.
 
 #v0345I'll rip that mustache off! You'll be glad I did, okay? 
+Irei arrancar esse bigode! Vai me agradecer depois.
 
 #v0346I've been waiting for this moment. Let's settle this, Beatrice! 
+Estive esperando por este momento. Vamos decidir isso, BEATRICE!
 
 #v0347This is where I'll crush your illusion of the witch! 
+É aqui onde irei esmagar sua ilusão da bruxa!
 
 #v0348I've already seen through your tricks! 
+Já vi através dos seus truques!
 
 #v0349I've been in your care a lot before now! Time to pay back some long-held grudges! 
 
@@ -14175,201 +14231,289 @@ E pensar que eu seria capaz de me divertir tanto com o Battler. ...O mar de Frag
 #v6051How terrifying. To think that it's possible to produce a piece this twisted. ...*giggle*giggle* 
 Que horror. E pensar que é possível dar vida a uma peça tão distorcida. ...*risos*risos*
 
-#v4980This looks fun, so let me join in, okay? I'm not waiting to hear your answer. 
+#v4980This looks fun, so let me join in, okay? I'm not waiting to hear your answer.
+Parece divertido, então me deixem participar, tá? Não vou esperar para ouvir sua resposta. 
 
-#v4981Don't play with Beato all the time! Play with me too every now and then! 
+#v4981Don't play with Beato all the time! Play with me too every now and then!
+Não fique brincando com a Beato o tempo todo! Brinque comigo a partir de agora!
 
 #v4982Okay, maybe I'll show you the power of a former Game Master! Kyahahahah! 
+Certo, talvez eu mostre a você o poder de uma ex-Game Master! Kyahahahah!
 
 #v4983It'd be boring if you were a hamburger all the time, so try becoming konpeitou for once! 
+Seria chato se você fosse um hambúrguer o tempo todo, então tente virar um konpeitou de vez em quando!
 
 #v4984Dumbass! Did you really think you could beat me, Lady Lambdadelta? 
+Idiota! Achou mesmo que poderia me derrotar, Lady LAMBDADELTA?
 
 #v4985I've seen more than enough ground beef! Next time, I'll practice filleting you! 
 
 #v4986Old people shouldn't overdo it! You'll feel it in your back later! 
+Velhos não deveria exagerar assim! Depois suas costas vão cobrar!
 
 #v4987There's nothing wrong with playing normally every now and then! Okay, here I come! 
+Não tem dada de errado em brincar normalmente de vez em quando! Certo, lá vou eu!
 
 #v4988So, you're Beatrice's Teacher. Well, don't let me get bored, okay?! If you're boring, I'll kill you! 
+Então, você é a professora da BEATRICE. Bem, não me deixe entediada, tá?! Se for chato, eu te mato!
 
 #v4989I'd better not let my reflexes dull! You're a butler, right? Help me out here! 
+É melhor não deixar meus reflexos enferrujar! Você é um mordomo, né? Me ajude aqui!
 
 #v4990I might overdo it a bit, but you're a demon, so it'll be fine, right? 
+Eu posso ter exagerado um pouco, mas você é um demônio, então vai ficar bem, né?
 
 #v4991You'll get them for me, right? Tea and snacks! 
+Vai pegá-los para mim, né? Chá e guloseimais!
 
 #v4992Did you think you could beat Super Paper Lambda-sama? I'll crush you into a pulp! 
+Achou que poderia derrotar a superpapel limitada LAMBDA-sama?! Vou transformá-lo em polpa!
 
 #v4993Okay! I'll play with you! Though I'm not sure I'll be able to hold back enough to not break you! 
+Certo! Eu brinco com você! Embora eu não tenha certa se conseguirei me segurar para não quebrá-lo!
 
 #v4994It's already gotten really boring, huh? ...This game board of yours. 
+Já está ficando bem chato, hein? ...Esse tabuleiro de vocês.
 
 #v4995I'm bored, I'm bored, I'm bored!! Hey, Lucifer! Do something funny! 
+Estou entediada, entediada, entediada!! Ei, Lucifer! Faça algo engraçado!
 
 #v4996I'm fighting furniture? That's so boring, it'll break right away! 
 
 #v4997You've really got guts to face me, the Great Lambdadelta-sama! 
+Você tem mesmo coragem para me enfrentar, a Grande LAMBDADELTA-SAMA!
 
 #v4998I'm fighting a Human, and furniture no less? There's no point breaking you! 
 
 #v4999Your certain willpower... It's interesting, so I'll put you to the test! 
+Sua força de vontade absoluta... É interessante, então deixe-me colocá-la à prova!
 
 #v5000Do you have some business with the Witch of Certainty? ...Interesting! Let's see it. 
+Tem algo a tratar com a Bruxa da Certeza? ...Interessante! Vejamos o que é.
 
 #v5001You'd probably be pretty yummy as a konpeitou! Let me have a taste! 
+Você provavelmente ficaria deliciosa com um konpeitou! Deixe-me saboreá-la!
 
 #v5002Having furniture that's a little impudent makes it more fun to rectify them! 
+Ter uma mobília um pouco impudente faz com que seja mais divertido retificá-la!
 
 #v5003I don't know how to hold back, so sorry if you end up as mincemeat! 
+Eu não sei como me segurar, então me perdoe se acabar virando guisado!
 
 #v5004You're a newbie witch, and you're trying to lock horns with me, Lambdadelta-sama? Are you stupid? Are you gonna die? 
+Você está tentando argumentar comigo, mesmo sendo uma bruxa novata? Você é burra? Quer morrer?
 
-#v5005Hey! Haven't you been a bit full of yourself lately?! 
+#v5005Hey! Haven't you been a bit full of yourself lately?!
+Ei! Não acha que está se achando muito ultimamente?!
 
-#v5006As your sempai, I'll give you a kind, strict lesson on how to use magic! Here we go. 
+#v5006As your sempai, I'll give you a kind, strict lesson on how to use magic! Here we go.
+Como sua senpai, darei a você uma gentil e dura lição sobre como usar magia! Pronta?
 
 #v5007Playing with dolls is boring! They break so easily! 
+Brincar de boneca é chato! Elas quebra muito facilmente!
 
 #v5008Hey, hey! Can I pull on your ears? And can I pull out your ears? 
 
-#v5009Did you think that a mere weapon would be able to leave a single scratch on a Great Witch? Moron! 
+#v5009Did you think that a mere weapon would be able to leave a single scratch on a Great Witch? Moron!
+Achou que uma simples arma poderia deixar um mero arranhão em uma Grande Bruxa? Idiota!
 
 #v5010Do you think you'll be able to defeat Lambdadelta-sama with your fists? How optimistic can you be?! 
+Acha que pode derrotar a LAMBDADELTA-sama com seus punhos? O quão otimista você consegue ser?!
 
 #v5011Oooh! So, you're using enchantments, despite being Jessica! Interesting! 
+Oooh! Então, está usando encantamentos, apesar de ser a Jessica! Interessante!
 
 #v5012I don't want a boring match. If we're doing this, keep me entertained! 
+Não quero uma disputa entediante. Se vamos fazer isso, mantenha-me entretida!
 
 #v5013Oh, it's George! Sure, come over here! I'll play with you! 
+Oh, é o George! Claro, venha até aqui! Eu brincarei com você!
 
-#v5014Hey, hey, tell me too! What do you gotta do to become a demon lord?! 
+#v5014Hey, hey, tell me too! What do you gotta do to become a demon lord?!
+Ei, ei, me conta também! O que precisa fazer para virar um lorde demônio?!
 
 #v5015Does a mere Human think he can win against the Great Lambdadelta-sama? 
+Um mero humano acha que tem chances contra a Grande LAMBDADELTA-sama?
 
 #v5016I'll bet Maria would make a sweeter candy than you! Out of the way! 
+Aposto que a Maria daria uma guloseima muito mais doce que você! Suma daqui!
 
-#v5017A gun? What the heck?! I'm not so soft that I'd be done in by something like that! 
+#v5017A gun? What the heck?! I'm not so soft that I'd be done in by something like that!
+Uma arma? Mas que perda?!
 
 #v5018Once I've gotten bored of killing you, I'll kill you some other way! Both you and your daughter, forever! 
+Quando eu me cansar de matar você, irei matá-la de outra maneira! Você e sua filha, para sempre!
 
 #v5019You came here to get in the way of my lovey-dovey time with Bern, didn't you?! 
+Veio aqui para atrapalhar meu amoroso momento com a Bern?!
 
 #v5020Why did you come back?! You're in the way! Get a clue! 
+Porque voltou?! Está atrapalhando! Se liga!
 
 #v5021Bern and I have sworn our love to each other. You've got no place here! 
+A Bern e eu juramos nosso amor uma a outra. Não tem lugar para você aqui!
 
 #v5022Can murder dolls break? Let's find out! 
+Bonecas assassinas quebram? Vamos descobrir!
 
 #v5023Blessings come to those who laugh. Let's have fun! We're playing, after all! 
+A benção vem para aqueles que riem. Vamos nos divertir! Afinal, estamos jogando!
 
 #v5024Are you sure you're not up against the wrong person? Do you think you're a match for me? 
+Tem certeza que não está enfrentando a pessoa errada? Acha que tem chances contra mim?
 
 #v5025A witch hunt, huh? That could be a little fun! Make sure you don't break right away! 
+Uma caça às bruxas, é? Até que pode ser divertido! Tenha certeza de que não vai quebrar em seguida!
 
 #v5026Do you really think you can corner me, Lambdadelta-sama, with something like Van Dine? 
+Acha mesmo que pode encurralar a LAMBDADELTA-sama usando algo como Van Dine?
 
 #v5027I'll make that bit of your hair pink! You're gonna be so popular! 
+Vou deixar essa sua mecha rosa! Você vai ficar tão popular!
 
 #v5028If I win, I'll cover you with sugar and make syrup! ...Doesn't that sound nice? 
+Se eu vencer, irei cobri-lo com açúcar e fazer xarope! ...Não parece legal?
 
 #v5029Ah, my beloved Bern! You're gonna accept aaall of my love, right? 
+Ah, minha amada Bern! Você vai aceitar tooodo o meu amor, não vai?
 
 #v5030I can't believe I get to play with my beloved Bern again! I won't let anyone get their hands on her...! 
+Não acredito que vou poder brincar com a minha amada Bern de novo! Não deixarei que ninguém coloque as mãos nela...!
 
 #v5031Oooh! I don't know which Fragment's 'me' you are, but this is pretty interesting!
 Oooh! Não sei de qual Fragmento 'eu' sou, mas isso é realmente interessante!
 
-#v5032Hey! If you're trying to get near my Bern, think again! 
+#v5032Hey! If you're trying to get near my Bern, think again!
+Ei! Se está tentando chegar perto da minha Bern, é melhor repensar!
 
-#v5033Let's see who the real super paper is! Prepare yourself, okay?! 
+#v5033Let's see who the real super paper is! Prepare yourself, okay?!
+Vamos ver que é o verdadeiro superpapel limitado! Prepare-se, tá?!
 
 #v5034What are you talking about, Battler? Got a screw loose in your brain? 
+Do que está falando, Battler? Está com um parafuso solto?
 
 #v5035...You're a creepy piece. That's totally not my thing, so I'm gonna clean you up. 
+...Você é uma peça sinistra. Isso não faz o meu tipo, por isso você me livrar de você.
 
 #v5036It's all useless. You certainly can't kill me. I proclaim it as the Witch of Certainty! 
+Não está nada certo. Você certamente não pode me amtar. Eu proclamo isso como Bruxa da Certeza!
 
 #v3510Hey there, me. ...I see you're looking as stupid as ever. It looks like you still don't know who I am. 
+E aí, eu. ...Vejo que parece mais idiota que nunca. Parece que ainda não sabe quem eu sou.
 
 #v3511Can't you tell by looking? I'm you too. Well, not quite. ...I'm just a bit more brutal than you are. 
+Não consegue dizer só de olhar? Eu também sou você. Bem, não exatamente. ...Sou só um pouco mais brutal que você.
 
 #v3512There's no need for you to think any more. Leave this to me, close your eyes, and go quietly to sleep... 
+Não há mais a necessidade de você pensar. Deixe isso comigo, feche seus olhos e adormeça silenciosamente...
 
 #v3513Hey there, my cute little sister Ange. ...What a sad person you are. ...Having to encounter me. 
+E aí, minha adorável irmãzinha Ange. ...Como você é triste. ...Tendo um encontro comigo.
 
 #v3514Sure, I'll tell you. This is what happened on that day... 
+Claro, eu te conto. É isso o que aconteceu naquele dia...
 
 #v3515Be happier than that. ...I'm your Onii-chan, right? The one you've always dreamed about... 
+Fique mais feliz que isso. ...Eu sou seu irmão, não sou? Aquele com quem você sempre sonhou...
 
 #v3516Hey, you're a pretty witch. ...I'll be gentle with you. Nice and gentle as I kill you. 
+Ei, você é uma bruxa linda. ...Serei gentil com você. Bonzinho e gentil enquanto a mato.
 
 #v3517It looks like you know who I am. Then, you probably know how unfortunate you are to have met me. 
+Parece que sabem que sou eu. Então, você provavelmente sabe o quão desafortunado é por ter cruzado meu caminho.
 
 #v3518Shut up and let yourself get killed. This is my tale. And I've got no pages to waste on you. 
+Cale a boca e se deixe morrer. Este é o meu conto. Não tenho páginas para desperdiçar com você.
 
 #v3519Hey, Ronove. You done praying? Don't tell me you're waiting to see your life flash before your eyes... 
+Ei, Ronove. Terminou de rezar? Não me diga que está esperando sua vida passar diante dos seus olhos...
 
 #v3520I'll leave. Nothing will remain but the smell of tea. ...That's the kind of boring tale that's about to happen. Understand...? 
+Estou indo. Não restará nada além do aroma do chá. ...É esse tipo de conto chato que está para ocorrer. Entendeu...?
 
 #v3521Is that all you have to say? ...Time to die then. 
+É tudo o que tem a dizer? ...Então é hora de morrer.
 
 #v3522Hey, Beato. It looks like I've got your job this time. That's right, I'm gonna kill you. 
+Ei, Beato. Parece que fiquei com seu trabalho dessa vez. Isso mesmo, eu vou te matar.
 
 #v3523Don't look at me like that. ...You'll make me want to gouge those eyes out and give them a kiss. 
+Não me olhe assim. ...Faz com que eu queira arrancar esses olhos e dar um beijo neles.
 
 #v3524If only you'd closed this up properly, ...you wouldn't have had to worry about scum like me appearing. 
+Se você ao menos tivesse encerrado isso direito, ...não precisaria se preocupar com uma escória como eu aparecendo.
 
 #v3525Hey, Nee-chans of the Seven Stakes. ...Sorry, but I'm not the Battler you know.
 Ei, nee-chans das Sete Estacas. ...Sinto muito, mas eu não sou o Battler que vocês conhecem.
 
 #v3526That rouge doesn't look good on you. ...You'd be prettier with those lips stained with blood... 
+Esse vermelho não combina com você. ...Ficaria linda com esses lábios machados de sangue...
 
 #v3527Don't be scared. ...I'll be gentle, so this won't hurt at all. 
+Não fique com medo. ...Eu serei gentil para que não doa nada.
 
 #v3528Hey, Shannon-chan. ...I've come here...to get you. ...That promised time has come. 
+Ei, Shannon-chan. ...Eu vim aqui...para te buscar. ...O prometido momento chegou.
 
 #v3529...I killed everything. I killed you too. ...That's right, I'd already killed you on that day. 
+...Eu matei tudo. Matei você também. ...Isso mesmo, eu já a matei naquele dia.
 
 #v3530Am I the one who killed? Or was it you? *cackle*cackle* This is a nightmare you'll never wake from. 
+Fui eu quem matou? Ou foi você? *gargalhada*gargalhada*. Você nunca acordará deste pesadelo.
 
 #v3531Hey, Kanon-kun. ...Come, it's time to become one. I'll erase you for all eternity. 
+Ei, Kanon-kun. ...Vamos, está na hora de se tornar um. Irei apagá-lo por toda a eternidade.
 
 #v3532Your eyes...are filled with fear. Why are you afraid...? I don't understand... 
+Seus ohlos...estão repletos de medo. Por que teme...? Eu não entendo...
 
 #v3533*cackle* Don't be so hostile. We're both residents of a cat box, aren't we? 
+*gargalhada. Não seja tão hostil. Somos ambos residentes da uma caixa de gato, não somos?
 
 #v3534Hey, Aunt Eva. I've come for you. Now, that island will be locked in a cat box for real. 
+Ei, tia Eva. Eu vim por você. Agora, aquela ilha ficará realmente trancada na caixa de gato.
 
 #v3535Then go on and kill me. ...If that will satisfy you. 
+Venha e me mate. ...Se isso for satisfazê-lo.
 
-#v3536We were all dancing on the palm of the Golden Witch. Both me...and you. 
+#v3536We were all dancing on the palm of the Golden Witch. Both me...and you.
+Estamos todos dançando na palma da Bruxa ourada. Tanto eu...e você.
 
 #v3537Hey, 410. ...It's useless. No matter how much you search, you will never, ever find your friend.
 Ei, 410. ...É inútil. Não importa o quanto procure, você nunca, jamais, vai encontrar seu amigo.
 
-#v3538I understand. You start feeling so sad the instant you stop running around. ...It's the same for me. 
+#v3538I understand. You start feeling so sad the instant you stop running around. ...It's the same for me.
+Eu entendo. Você começou a se sentir triste no momento em que parou de correr por aí. ...O mesmo vale para mim.
 
 #v3539What a noisy rabbit. Let's see if you're still that noisy when you're dead... 
+Que coelha mais barulhenta. Vamos ver se ainda fará todo esse barulho quando estiver morta...
 
 #v3540Hey, George-aniki. ...Don't look at me like that. How am I supposed to tell jokes to a face like that? 
+Ei, George-aniki. ...Não me olhe assim. Como quer que eu conte piadas olhando pra essa cara?
 
 #v3541Back off, George-aniki. You're no replacement for me. 
+Desista, George-aniki. Você não é meu substituto.
 
 #v3542You poor thing. ...Now you've gone and run into me. That proves that this is a nightmare. 
+Coitadinha. ...
 
 #v3543Hey, Jessica. You look like you don't want to believe any of this. ...Sorry, but this is my tale. 
+Ei, Jessica. Parece que você não quer acreditar em nada disso. ...Desculpe, mas este conto é meu.
 
 #v3544I'm sure you wouldn't understand. ...Just shut up and let me kill you. 
+Tenho certeza que não entenderá. ...Apenas fique quieta e deixe-me matá-la.
 
 #v3545I'll make you remember. ...How were you killed, and by whom?
 Farei com que lembre. ...Como foste morte, e quem o matou?
 
 #v3546Hey, Aunt Rosa. Don't worry about all this blood on me. After all, there's gonna be much more of it soon. 
+Ei, tia Rosa. Não se preocupe com todo esse sangue em mim. Afinal, logo terá muito mais.
 
 #v3547Hmm, what to do. ...Got any requests, Aunt Rosa? Which twilight do you want to die on? 
+Hmm, o que eu faço. ...Algum pedido, tia Rosa? Em qual crepúsculo quer morrer?
 
 #v3548I'll take good care of Maria. ...Her death will be simply divine. 
+Eu tomarei conta da Maria. ...A morte dela será divina.
 
 #v3549Hey, Erika. Curiosity carries a heavy price. What a stupid woman.
 Ei, Erika. A curiosidade tem um alto preço. Mulher estúpida.
