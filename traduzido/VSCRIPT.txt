@@ -10039,7 +10039,8 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 #v1229W-We've already won...! Let's go. Please, spare them! 
 
-#v0618Hehehehehhyahyahyah! Ihihihihihihihi!! 
+#v0618Hehehehehhyahyahyah! Ihihihihihihihi!!
+Hehehehehhyahyahyah! Ihihihihihihihi!! 
 
 #v1230...How...gruesome...! Please, ...just...stop...! 
 
@@ -10997,80 +10998,109 @@ Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
 #v3968If you are Lady MARIA's mother, that explains your STRENGTH. 
 
-#v5227Are you a friend of Maria's? Where are you from? What's your name? 
+#v5227Are you a friend of Maria's? Where are you from? What's your name?
+É amiga da Maria? De onde você é? Qual o seu nome?
 
-#v5228Get back, Dla-chan! We still haven't captured the culprit! 
+#v5228Get back, Dla-chan! We still haven't captured the culprit!
+Volte, Dla-can! Ainda não capturamos o culpado!
 
-#v3969...She is treating me, Dlanor A. Knox, just like a KID. 
+#v3969...She is treating me, Dlanor A. Knox, just like a KID.
+Ela está tratando a mim, Dlanor A. Knox, como uma CRIANÇA.
 
 #v5571I'm amazed you're able to pull the trigger like that without hesitation. 
+Estou impressionado que você seja capaz de puxar o gatilho assim sem hesitar.
 
 #v5229I feel the opposite. Why are men unable to do something as simple as pulling back their index finger? 
+Eu sinto o contrário. Por que homens são incapazes de fazer algo tão simples como puxar o gatilho?
 
 #v5230Really, who are you? ...It's about time you revealed your true identity. 
+Sério, quem é você? ...Já está na hora de revelar sua verdadeira identidade.
 
 #v5572Don't think too deeply about it... ...You'll just get a headache. 
+Não pense tanto nisso... ...Vai ficar com dor de cabeça.
 
 #v5573Let's leave it at that. We can't be sure that they're the culprits yet. 
+Vamos deixar isso assim. Ainda não temos como ter certeza que eles são mesmo os culpados.
 
 #v5231That's right. We don't know that they're wolves yet. ...Tie them up. 
+Isso mesmo. Ainda não sabemos se eles são lobos. ...Amarre-os.
 
 #v5923Go on, continue your wolf hunt. All to protect your beloved Maria. *giggle*... 
+Vamos, continue sua caçada aos lobos. Tudo para proteger sua amada Maria. *risos*...
 
 #v5232...Maria, come over here! Make sure you stay right behind my back! 
+...Maria, venha aqui! Trate de ficar atrás de mim!
 
 #v5233Some people are calling me the Black Witch. ...Do you know what that means? 
+Algumas pessoas estão me chamando de Bruxa da Escuridão. ...Sabe o que isso significa?
 
 #v5924I could tell you, if you want to know. ...If you're really prepared to face the truth. *giggle* 
+Eu posso dizer, se quiser saber. ...Se estiver realmente preparada para encarar a verdade. *risos*
 
 #v5234How must one raise a kid...for them to turn out as cold as you...? 
+Como se cria uma criança...para ela acabar tão fria quanto você...?
 
 #v5925You might try tossing them in a pitch-black room for a thousand years. They might look a tiny bit like me after that. 
+Pode tentar jogá-la em um quarto escuro por milhares de anos. Pode ser que ela fique um pouco parecida comigo assim.
 
 #v4907You really are an interesting piece. It's a shame that you only really had a chance to shine in the second game. 
+Você é mesmo uma pessa interessante. É uma pena que só teve uma chance de brilhar no segundo jogo.
 
 #v5235Why would I want a chance to shine?! Someone, get me out of this witches' nightmare! 
+Por que eu iria querer uma chance de brilhar?! Alguém me tire desse pesadelos de bruxas!
 
 #v4908Sweets give kids nourishment of the heart! If you don't give them enough, they'll end up going down the wrong path! 
 
-#v5236I-Is that so? Maybe...I'll give Maria sweets a bit more often. 
+#v5236I-Is that so? Maybe...I'll give Maria sweets a bit more often.
+É-É mesmo? Talvez...eu deva dar mais doces à Maria.
 
 #v5237I'm sorry. I can't let anyone stand in my way, no matter who they are. 
+Me desculpe. Não posso permitir que ninguém fique no meu caminho, independente de quem seja.
 
 #v4909No, you can't. After all, I'm watching you from the stands. *giggle*giggle*! 
 
 #v3790Whew. You're actually pretty reliable as an ally. I'd expect no less from my rival. 
+Nossa, você é bem confiável como aliada. Não poderia esperar menos da minha rival.
 
 #v4322If you want to call yourself that, try getting your act together a little. You're still weighing me down. 
 
 #v4323Have they surrendered already? Our reasoning is far from over. 
+Eles já desistiram? Nosso raciocínio está muito além.
 
 #v3791We're gonna pierce through all your closed rooms and tricks!! 
+Vamos penetrar todos os seus truques e quartos fechados!!
 
 #v4324Oh. It looks like we blasted through all their tricks, and now they don't even have the strength to get up. 
 
 #v3792Leave them be. They probably put all they had into those tricks. 
 
 #v4141That's comrade Erika for you. So this is the power of the witch with the strength to withstand the truth. 
+Como esperado da confrade Erika. Então este é o poder da bruxa com força para suportar a verdade.
 
 #v4325Truth lies within a thorny thicket. You can't grab it if you're afraid of getting hurt. 
 
 #v4326Comrade Ange, ...is the truth you want to know really in a place like this? 
+Confrade Ange, ...a verdade que quer saber está mesmo num lugar desses?
 
 #v4142I don't know that. Also, could you stop calling me 'comrade'? 
+Não sei... E poderia parar de me chamar de 'confrade'?
 
 #v4327Okay! Now I'll expose the truth that you are and humiliate you thoroughly! 
 
 #v4143I don't make a habit of toying with the defeated. Do that on your own. 
+Não tenho o hábito de brincar com os derrotados. Faça isso sozinho.
 
 #v4328I see. I guess you didn't go by the name of Beatrice for nothing. 
+Entendo... Suponho que não tenha o título de BEATRICE em vão.
 
 #v5745I intended to pass along my heart as well as my name, ...but really, that child... 
+Eu pretendia passar meu coração junto ao meu nome, ...mas sério, aquela criança...
 
 #v5746There is no 'love' in how you fight. Shouldn't you try and relax a bit more? 
+Não há 'amor' na forma como você luta. Não acha que deveria relaxar um pouco mais?
 
 #v4329Love, blooming in the middle of a battle? What's that supposed to mean? Does it taste good? *giggle*giggle*! 
-
+Amor, florescendo no meio de uma luta? O que isso significa? É gostoso? *risos*risos*
 #v4330That ends my reasoning. Okay then, Virgilia, deliver the final blow. 
 
 #v5747You've already done more than enough yourself. My, my, you poor thing. 
