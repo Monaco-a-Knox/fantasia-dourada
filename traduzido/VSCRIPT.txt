@@ -4750,43 +4750,66 @@ B-Beatrice-sama, ...me perdoe... Bleh!
 
 —ASSUMINDO: VIRGILIA VS RONOVE—
 #v1432It always surprises me. To think that one with your talents would be kind enough to lose. 
+Isso sempre me surpreende. E pensar que alguém com seus talentos seria gentil o suficiente para perder.
 
 #v0970It means only that you're an opponent to whom I needed to relinquish victory... 
+Apenas significa que você é um oponente ao qual precisei entregar a vitória...
 
 #v1433That certainly was thrilling. I don't know what I would have done if you had been serious. 
+Isso certamente foi empolgante. Não sei o que teria feito se você estivesse sério.
 
 #v0971If I had been serious, you would only have needed to get serious in turn. My loss would have remained unchanged... 
+Se estivesse sério, você só precisaria ficar séria também. Minha derrota permaneceria a mesma...
 
 #v0972A splendid victory. Are you at all hurt, Madam? 
+Uma esplêndida vitória. Está machucada, Madame?
 
 #v1434Thank you. I see you're even a gentleman at a time like this... 
+Obrigada. Vejo que é um cavalheiro até em situações como essa...
 —VIRGILIA VS RONOVE FIM—
 
+—VIRGILIA VS BEATRICE INICIO—
 #v1435Come, try and remember. What form did you have? 
+Vamos, tente lembrar. Que forma você tinha?
 
 #v0070St-Stop, I don't want to remember! Don't make me remember me!! 
+P-Para, não quero lembrar! Não me faça lembrar!!
 
 #v1436What a troublesome child you are. Come, study with me once more. 
+Mas que criança problemática você é. Venha, estude comigo mais uma vez.
 
 #v0071...Dammit, is it even possible for a disciple to surpass her teacher...?! 
+...Droga, será que é possível uma discípula superar sua professora...?!
 
 #v1437It seems it was too early for you to receive the title of Endless Witch after all. 
+Parece que foi muito cedo para você receber o título de Bruxa Eterna no final das contas.
 
 #v0072No, I'm not giving it baaaack! Ah, no, waaaaaaah! 
+Não, não vou devolveeeeer! Ah, não, waaaaaaaah!
+—VIRGILIA VS BEATRICE FIM—
 
+—VIRGILIA VS lUCIFER INICIO—
 #v1438Arise, younger Sisters of Purgatory. Care for her wounds. 
+Levantem-se, jovens Irmãs do Purgatório. Tratem dos ferimentos dela.
 
 #v0820D-Don't call my sisters here...! Don't let them see me looking so pathetic! 
+N-Não chame minhas irmãs...! Não quero que me vejam com essa aparência tão patética! 
 
 #v0821I haven't lost yet... Until this body of mine crumbles, ...I will fight! 
+Ainda não perdi ainda... até que este meu corpo colapse, ...lutarei! 
 
 #v1439It is furniture's nature not to disobey orders... You poor thing. You have my sympathy. 
+É da natureza de mobílias não desobedecer ordens... Pobrezinha. Você tem minha simpatia.
 
 #v1440Perhaps it's about time the Seven Sisters graduated from being naughty little children. 
+Talvez seja hora das Sete Irmãs deixarem de ser criancinhas levadas.
 
 #v0822Y-You still treat me like a little kid... I-I can't stand it...! B-But... 
+V-Você ainda me trata como uma criancinha... o-odeio isso...! M-Mas...
+—VIRGILIA VS LUCIFER FIM—
 
-#v1441Furniture girl. I pray that you gain the right to love... 
+—VIRGILIA VS SHANNON? INICIO—
+#v1441Furniture girl. I pray that you gain the right to love...
 
 #v1120Th-Thank you very much. I won't lose heart, and I won't give up... 
 
