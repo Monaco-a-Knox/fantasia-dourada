@@ -4429,11 +4429,13 @@ Devolva-o agoraaaaaa, ele é meeeeeu, waaaaaah!!
 Me diga! O que aconteceu naquela ilha, naquele dia?!
 
 #v0068Again, I am telling you! You're free to disbelieve it if you choose...! 
+Estou te contando! Você é livre para não acreditar se quiser...!
 
 #v0069St-Stop, you've already won, haven't you?! Ow, ow!
 P-Para, você já ganhou, não ganhou? Ai, ai!
 
 #v0384Aaah, it's useless, it's all useless! I haven't punched you nearly enough! 
+Aaah, não está certo, não está nada certo! Não te soquei o suficiente!
 
 —ASSUMINDO: ANGE VS LUCIFER—
 #v0385I guess even furniture can get violent. At least when its owner is violent themselves, anyway. 
@@ -4782,7 +4784,7 @@ Mas que criança problemática você é. Venha, estude comigo mais uma vez.
 ...Droga, será que é possível uma discípula superar sua professora...?!
 
 #v1437It seems it was too early for you to receive the title of Endless Witch after all. 
-Parece que foi muito cedo para você receber o título de Bruxa Eterna no final das contas.
+Parece que foi muito cedo para você receber o título de Bruxa do Infinito no final das contas.
 
 #v0072No, I'm not giving it baaaack! Ah, no, waaaaaaah! 
 Não, não vou devolveeeeer! Ah, não, waaaaaaaah!
@@ -4846,30 +4848,48 @@ I-Isso não é possível... sei que estava lutando calmamente...!
 Por que...?! Raiva não resulta em força...?!
 
 #v1446Anger dulls your blade. Stop giving yourself over to it... 
+Raiva deteriora sua lâmina. Pare de se entregar a ela...
+—ASSUMINDO: VIRGILIA VS KANON? FIM—
 
+—ASSUMINDO: VIRGILIA VS EVATRICE INICIO—
 #v0520My magic...should have been invincible... So why... 
+Minha mágica...deveria ser invencível... Por que então...
 
 #v1447Study with me. Learn the correct way to use the Endless Magic. 
+Estude comigo. Aprenda a maneira correta de usar a Magia do Infinito.
 
-#v1448I was too soft on my disciple. So, I'll be stricter with my disciple's disciple. 
+#v1448I was too soft on my disciple. So, I'll be stricter with my disciple's disciple.
+Peguei muito leve com minha discípula. Então serei mais rígida com a discípula de minha discípula. 
 
 #v0521Maybe you should start with your disciple first! Enough with this disciple's disciple abuse! 
+Talvez você devesse começar com sua discípula primeiro! Já deu desse abuso da discípula da discípula!
 
 #v1449To become drunk on the dark pleasures of magic... ...It's an error that all novice witches commit. 
+Ficar bêbada com os prazeres sombrios da magia... ...É um erro que todas as bruxas novatas cometem.
 
-#v0522I-I'm just a novice?! But I'm a genius...! How dare you...mock me...aaaah! 
+#v0522I-I'm just a novice?! But I'm a genius...! How dare you...mock me...aaaah!
+S-Sou apenas uma novata?! Mas sou um gênio...! Como ousa... me ridicularizar... aaaah! 
+—ASSUMINDO: VIRGILIA VS EVATRICE FIM—
 
+—ASSUMINDO: VIRGILIA VS CHIESTER410 INICIO—
 #v1270Nihihi! I lost nyeh! Let's fight again nyeh, nyeh nyeh! 
+Nihihi! Perdi nyeh! Vamos lutar denovo nyeh, nyeh, nyeh!
 
 #v1450Hohoho. I see you rabbits are as spirited as ever. 
+Hohoho. Parece que vocês coelinhas estão animadas como sempre.
 
-#v1451Go back to Lady MARIA. It seems she's growing lonely. 
+#v1451Go back to Lady MARIA. It seems she's growing lonely.
+Volte para a Lady MARIA. Parece que ela está se sentindo solitária.
 
 #v1271Nyeh?! That's not good nyeh! Lady MARIA, I'll come back right away nyeh! 
+Nyeh?! Isso não é bom nyeh! Lady MARIA, voltarei neste instante nyeh!
 
 #v1452Weapons are quite terrifying. You were born for the sole purpose of killing people, weren't you...? 
+Armas são assustadoras. Você nasceu com o único propósito de matar pessoas, não foi...?
 
 #v1272Well, you can't choose the stars you're born under nyeh. We've learned to accept it nyeh. Nihi. 
+Bem, você não pode escolher as estrelas sob as quais nasceu nyeh. Aprendemos a aceitar isso nyeh. Nihi.
+—ASSUMINDO: VIRGILIA VS CHIESTER410 FIM—
 
 #v3468You fought well. I felt great conviction in your power, George-kun. 
 
