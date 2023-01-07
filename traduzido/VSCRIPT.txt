@@ -4768,7 +4768,7 @@ Uma esplêndida vitória. Está machucada, Madame?
 Obrigada. Vejo que é um cavalheiro até em situações como essa...
 —VIRGILIA VS RONOVE FIM—
 
-—VIRGILIA VS BEATRICE INICIO—
+—ASSUMINDO: VIRGILIA VS BEATRICE INICIO—
 #v1435Come, try and remember. What form did you have? 
 Vamos, tente lembrar. Que forma você tinha?
 
@@ -4788,7 +4788,7 @@ Parece que foi muito cedo para você receber o título de Bruxa Eterna no final 
 Não, não vou devolveeeeer! Ah, não, waaaaaaaah!
 —VIRGILIA VS BEATRICE FIM—
 
-—VIRGILIA VS lUCIFER INICIO—
+—ASSUMINDO: VIRGILIA VS lUCIFER INICIO—
 #v1438Arise, younger Sisters of Purgatory. Care for her wounds. 
 Levantem-se, jovens Irmãs do Purgatório. Tratem dos ferimentos dela.
 
@@ -4806,31 +4806,44 @@ Talvez seja hora das Sete Irmãs deixarem de ser criancinhas levadas.
 
 #v0822Y-You still treat me like a little kid... I-I can't stand it...! B-But... 
 V-Você ainda me trata como uma criancinha... o-odeio isso...! M-Mas...
-—VIRGILIA VS LUCIFER FIM—
+—ASSUMINDO: VIRGILIA VS LUCIFER FIM—
 
-—VIRGILIA VS SHANNON? INICIO—
+—ASSUMINDO: VIRGILIA VS SHANNON? INICIO—
 #v1441Furniture girl. I pray that you gain the right to love...
+Garota mobília. Rezo para que você ganhe o direito de amar...
 
 #v1120Th-Thank you very much. I won't lose heart, and I won't give up... 
+M-Muito obrigada. Não serei desencorajada, e não desistirei...
 
 #v1442Know the truth of magic. ...You are too innocent.
 Conheça a verdadeira magia. ...Você é muito inocente.
 
 #v1121Y-Yes Ma'am... I'm still immature... I'll try to keep studying... 
+Sim, senhora... Ainda sou imatura... tentarei continuar com meus estudos...
 
 #v1122Thank you. I'm sure I'll learn something from this loss. 
+Obrigada. Tenho certeza que aprenderá algo com esta derrota.
 
 #v1443You're a kind and strong girl. I'm always watching over you. 
+Você é uma garota forte e doce. Estou sempre te vigiando.
 
+—ASSUMINDO: VIRGILIA VS SHANNON? FIM—
+
+—ASSUMINDO: VIRGILIA VS KANON? INICIO—
 #v0670Dammit... It won't be like this next time! I'll defeat you! No matter what! 
+Droga... não vai ficar assim da próxima vez! Derrotarei você! A qualquer custo!
 
 #v1444Calm down. Your foe will respond to your hostility with yet more hostility. 
+Acalme-se. Seu oponente responderá a sua hostilidade com ainda mais hostilidade.
 
 #v1445No matter how fast you are, if you're wrapped up in fierce emotions, your movements will be predicted. 
+Não importa o quão rápido você seja, se estiver envolto em emoções ferozes, seus movimentos serão previstos.
 
 #v0671Th-That's not possible... I know I was fighting calmly...! 
+I-Isso não é possível... sei que estava lutando calmamente...!
 
 #v0672Why...?! Doesn't anger equal strength...?! 
+Por que...?! Raiva não resulta em força...?!
 
 #v1446Anger dulls your blade. Stop giving yourself over to it... 
 
