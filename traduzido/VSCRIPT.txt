@@ -4339,7 +4339,7 @@ Aquilo está no passado! Este é o agora! No mundo dos jogos, ninguém deve nada
 Ihihi. Lutar com a Lambda me deixa faminto!
 
 #v4762Ronove! Get us some fresh-baked cookies and tea, if you would! And some warm milk! 
-Ronove! Nos traga biscoitos frescos e chá, por favor! E leite quente!
+Ronove! Nos traga cookies frescos e chá, por favor! E leite quente!
 
 #v4763Ow! How could you do that to a fragile lady?! 
 Aie! Como pôde fazer isso com uma donzela frágil?!
@@ -4357,7 +4357,7 @@ Já acabou com a brincadeira? É hora de ir pra casa!
 Espere, me escuta... ainda tem algo que preciso fazer...
 
 #v0368Stupid Onii-chan! Don't you care about anyone else?! 
-Onii-chan estúpido! Não se importa com mais alguém?!
+Onii-chan estúpido! Você não se importa com mais ninguém?!
 
 #v0369I can't believe it. To think that you've been playing around for 12 years. 
 Não posso acreditar. E pensar que você esteve brincando por aí por 12 anos.
@@ -4381,10 +4381,10 @@ Não importa o ponto de vista, sou obviamente o real. Talvez você deva examinar
 Você deveria ter perdido aqui... ...você vai...se arrepender disso...
 
 #v0375<See you in hell.> Go on and wait in the pit I'm headed for. 
-<See you in hell.> Vá à frente e aguarde no poço para qual estou indo.
+See you in hell. Vá à frente e aguarde no poço para qual estou indo.
 
 #v1417This era belongs to the young... Perhaps it's about time I retired... 
-Essa era pertence aos jovens... talvez seja hora de me aposentar...
+Esta era pertence aos jovens... talvez seja hora de me aposentar...
 
 #v0376You belong in a faded old picture book. 
 Você pertence num álbum de fotos desbotado.
@@ -4508,7 +4508,7 @@ Você não vai me dizer? Você sempre é assim, até o fim.
 
 —ASSUMINDO: ANGE VS CHIESTER410—
 #v1267Nihi... The Chiester Sisters Corps mustn't lose so easily... 
-Nihi... O Corpo das Irmãs Chiester não perderão tão facilmente...
+Nihi... A Tropa das Irmãs Chiester não perderão tão facilmente...
 
 #v0397Just stop it already! I don't want to fight against Onee-chan's friends. 
 Pare já! Não quero lutar com amigos da Onee-chan.
@@ -4591,7 +4591,7 @@ Claro que não. Vocês não me contam nada!!
 S-Sua... mera hambúrguer... Aiaiai...
 
 #v4096Ah, that feels great! Now I've paid you back for all those times you bullied Onii-chan! 
-Ah, isso foi ótimo! Agora te fiz pagar por todas as vezes que maltratou o Onii-chan!
+Ah, isso foi ótimo! Agora te fiz pagar por todas as vezes que maltratou o onii-chan!
 
 #v4097Our attitudes towards the truth aren't the same. Sorry, but I don't think we could be friends. 
 Nossas atitudes em relação à verdade não são as mesmas. Desculpe, mas não acho que podemos ser amigas.
@@ -4629,13 +4629,13 @@ Você acha? Do meu ponto de vista, é o mundo inteiro que está errado.
 
 —ASSUMINDO: ANGE VS WILL—
 #v4102What a letdown. I was an idiot for thinking you might be like Onii-chan. 
-Mas que decepção. Fui idiota em pensar que você poderia ser como o Onii-chan.
+Mas que decepção. Fui idiota em pensar que você poderia ser como o onii-chan.
 
 #v5430No kidding. No one could replace your brother. Isn't that right? 
 Não diga. Ninguém poderia substituir seu irmão. Não é mesmo?
 
 #v4103Who are you? If you know something about this island, tell me. 
-Quem é você? Se sabe algo sobre essa ilha, me diga.
+Quem é você? Se sabe algo sobre esta ilha, me diga.
 
 #v5431That's still under investigation. ...I'm the one who wants someone to tell me. 
 Isso ainda está sob investigação. ...Sou eu que quero que alguém me conte.
@@ -4649,7 +4649,7 @@ Sei que não tem nada. Isso mesmo, não tenho nada, nadinha!
 
 —ASSUMINDO: ANGE VS BERNKASTEL—
 #v4105I won... Bernkastel! Keep your promise!! 
-Ganhei... Bernkastel! Mantenha sua promessa!!
+Ganhei... BERNKASTEL! Mantenha sua promessa!!
 
 #v5781...*giggle*giggle* ...Sure, I'll give you a miracle. 
 *risadinhas* ...Muito bem, te concederei um milagre.
@@ -4674,7 +4674,7 @@ Terei minha família de volta a todo custo. Esta é minha determinação certeir
 ...Contanto que não esqueça disso, definitivamente será realizado um dia. Te prometo isso.
 
 #v4109Witch of Certainty, Lambdadelta. Lend me your strength! Give me your certainty! 
-Bruxa da Certeza, Lambdadelta. Me conceda sua força! Me conceda sua certeza!
+Bruxa da Certeza, LAMBDADELTA. Me conceda sua força! Me conceda sua certeza!
 
 #v4765Hmm, what should I do...? ...Well, okay. Sure, take it free of charge. 
 Hmm, o que farei...? ...Bem, okay. Certo, pegue de graça. 
@@ -4812,7 +4812,7 @@ V-Você ainda me trata como uma criancinha... o-odeio isso...! M-Mas...
 
 —ASSUMINDO: VIRGILIA VS SHANNON? INICIO—
 #v1441Furniture girl. I pray that you gain the right to love...
-Garota mobília. Rezo para que você ganhe o direito de amar...
+Garota-mobília. Rezo para que você ganhe o direito de amar...
 
 #v1120Th-Thank you very much. I won't lose heart, and I won't give up... 
 M-Muito obrigada. Não serei desencorajada, e não desistirei...
@@ -4821,7 +4821,7 @@ M-Muito obrigada. Não serei desencorajada, e não desistirei...
 Conheça a verdadeira magia. ...Você é muito inocente.
 
 #v1121Y-Yes Ma'am... I'm still immature... I'll try to keep studying... 
-Sim, senhora... Ainda sou imatura... tentarei continuar com meus estudos...
+Sim senhora... Ainda sou imatura... tentarei continuar com meus estudos...
 
 #v1122Thank you. I'm sure I'll learn something from this loss. 
 Obrigada. Tenho certeza que aprenderá algo com esta derrota.
@@ -4891,41 +4891,65 @@ Armas são assustadoras. Você nasceu com o único propósito de matar pessoas, 
 Bem, você não pode escolher as estrelas sob as quais nasceu nyeh. Aprendemos a aceitar isso nyeh. Nihi.
 —ASSUMINDO: VIRGILIA VS CHIESTER410 FIM—
 
+—ASSUMINDO: VIRGILIA VS GEORGE INICIO—
 #v3468You fought well. I felt great conviction in your power, George-kun. 
+Você lutou bem. Senti uma grande convicção em seu poder, George-kun.
 
 #v2661And yet, I still couldn't win... I wonder if that means my conviction is lacking. 
+Ainda assim, não consegui vencer... Me pergunto se isso significa que me falta convicção.
 
 #v3469Let's put an end to this, shall we? After all, it would seem that you've understood the power of witches. 
+Vamos dar um fim a isso, tudo bem? Afinal, parece que entendeu o poder das bruxas.
 
 #v2662...I surrender. I guess it's been a long time since Humans forgot their fear of things like you. 
+...Desisto. Acho que faz muito tempo que humanos esqueceram o medo de coisas como você.
 
 #v3470If you eat three meals of mackerel a day, every day, you'll be able to use magic like me. 
+Se comer três porções de cavalinha por dia, todos os dias, conseguirá usar mágica como eu.
 
 #v2663Magic does sound really nice, but three meals of mackerel a day...would be harsh. 
+Mágica parece ser legal, mas comer três porções de cavalinha por dia...seria duro.
+—ASSUMINDO: VIRGILIA VS GEORGE FIM—
 
+—ASSUMINDO: VIRGILIA VS JESSICA INICIO—
 #v3465It seems I went a little too far... Are you okay? Can you stand...? 
+Parece que exagerei... está bem? Consegue se levantar...?
 
 #v2856......Haah. That was some incredible magic, which I guess I should've expected from a magical teacher... 
+......Haah. Essa foi uma mágica incrível, o que aposto que seja de se esperar de uma professora mágica...
 
 #v2857If I trained starting from step one, ...could I become a witch too...? 
+Se treinasse desde a primeira etapa, ...será que eu poderia me tornar uma bruxa também...?
 
 #v3466Of course. However, I'm quite a strict instructor. Hohoho. 
+Mas é claro. Porém, sou uma instrutora durona. Hohoho.
 
 #v2858Owowow... Well, I really was trying to fight all-out! 
+Aiaiai... Bem, eu estava mesmo tentando lutar com tudo!
 
 #v3467Your power was impressive, Jessica-chan. Come now, let us have some tea. 
+Seu poder foi impressionante, Jessica-chan. Venha, vamos tomar chá.
+—ASSUMINDO: VIRGILIA VS JESSICA FIM—
 
+—ASSUMINDO: VIRGILIA VS ROSA INICIO—
 #v3471Throw aside your weapon. Evil weapons guide the human heart towards evil. 
+Jogue fora sua arma. Armas do mal guiam o coração humano ao mal.
 
 #v3186This is a weapon to defend myself...! Against the culprit...and witches...! 
+Essa é uma arma para me defender...! Contra o culpado...e bruxas...!
 
-#v3472You mustn't open your heart to darkness. Not if you love your daughter. 
+#v3472You mustn't open your heart to darkness. Not if you love your daughter.
+Você não deve abrir seu coração para a escuridão. Especialmente se ama sua filha. 
 
 #v3187...I-I do love Maria! I love her...! But even so...aaah... 
+...E-Eu amo a Maria! Eu a amo...! Mas ainda assim... aah...
 
 #v3188G-Go ahead and kill me! Just spare Maria! Please, at least let that child go...! 
+V-Vá em frente e me mate! Mas poupe a Maria! Por favor, pelo menos deixe aquela criança ir...!
 
 #v3473Everyone looks like a culprit to you, don't they? Try and calm down a little. 
+Todos parecem com um culpado para você, não é? Tente se acalmar um pouco.
+—ASSUMINDO: VIRGILIA VS ROSA FIM—
 
 #v5700That level of reasoning cannot fell me, much less Beato. 
 
