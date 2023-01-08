@@ -4951,7 +4951,7 @@ V-Vá em frente e me mate! Mas poupe a Maria! Por favor, pelo menos deixe aquela
 Todos parecem com um culpado para você, não é? Tente se acalmar um pouco.
 —ASSUMINDO: VIRGILIA VS ROSA FIM—
 
-—ASSUMINDO: VIRGILIA VS BATTLER INICIO—
+—ASSUMINDO: VIRGILIA VS ERIKA?INICIO—
 #v5700That level of reasoning cannot fell me, much less Beato. 
 Esse nível de raciocínio não pode me abater, muito menos a Beato.
 
@@ -4962,26 +4962,34 @@ De onde ela tirou esse truque de quarto fechado estranho...? ...Definitivamente 
 Se não entende a dor do coração humano, ...Terei de te fazer a sentir pessoalmente.
 
 #v4181I don't care! I will expose the truth! That's the only point of my life...! 
-Não ligo! Vou expor a verdade! Esse é o unico sentido da minha vida...!
+Não ligo! Vou expor a verdade! Esse é o único sentido da minha vida...!
 
 #v5702I'll let you go this time. Come now, return to the place you are supposed to be. 
 Te deixarei ir dessa vez. Vá, retorne ao local aonde deveria estar.
 
 #v4182S-So, you don't intend to deliver the final blow...? ...I'll make you regret being so soft...! 
 E-Então, você não pretende dar o golpe final...? Te farei se arrepender de ser tão mole...!
-—ASSUMINDO: VIRGILIA VS BATTLER FIM—
+—ASSUMINDO: VIRGILIA VS ERIKA?FIM—
 
+—ASSUMINDO:VIRGILIA VS DLANOR INICIO—
 #v3829To be that strong and youthful at that AGE. ...If you have a secret, please let me KNOW... 
+Tão forte e juvenil nessa idade. ...Se tiver um segredo, por favor me CONTE...
 
 #v5703One mackerel drink, three times a day without exception. That is my secret. It goes down easier if it's matcha flavored. 
+Um drinque de cavalinha três vezes ao dia sem exceção. Esse é meu segredo. Desce mais fácil se tiver sabor de matchá.
 
 #v5704Checkmate. ...How was that, Dlanor? 
+Xeque-mate. ...Que tal, Dlanor?
 
 #v3830...I RESIGN. It was quite an intellectual BATTLE. Let us fight AGAIN. 
+Eu DESISTO. Foi uma luta bem INTELECTUAL. Vamos lutar NOVAMENTE.
 
 #v5705You know, if you keep skipping out on work, those two will come after you. 
+Sabe, se ficar faltando ao serviço, aquelas duas virão atrás de você.
 
-#v3831I-I'm using up my vacation TIME! I am not skipping out on WORK! I am NOT! 
+#v3831I-I'm using up my vacation TIME! I am not skipping out on WORK! I am NOT!
+E-Estou usando meu período de FÉRIAS! Não estou faltando ao SERVIÇO! Não ESTOU!
+—ASSUMINDO:VIRGILIA VS DLANOR FIM—
 
 #v5706I see mercy in your blade. ...If only that child had it as well... 
 
