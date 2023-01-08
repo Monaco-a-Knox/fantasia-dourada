@@ -4511,7 +4511,7 @@ Você não vai me dizer? Você sempre é assim, até o fim.
 Nihi... A Tropa das Irmãs Chiester não perderão tão facilmente...
 
 #v0397Just stop it already! I don't want to fight against Onee-chan's friends. 
-Pare já! Não quero lutar com amigos da Onee-chan.
+Pare já! Não quero lutar com amigos da onee-chan.
 
 #v0398I remember playing with you and Onee-chan long ago. 
 Lembro de brincar com você e a Onee-chan tempos atrás.
@@ -4951,17 +4951,25 @@ V-Vá em frente e me mate! Mas poupe a Maria! Por favor, pelo menos deixe aquela
 Todos parecem com um culpado para você, não é? Tente se acalmar um pouco.
 —ASSUMINDO: VIRGILIA VS ROSA FIM—
 
+—ASSUMINDO: VIRGILIA VS BATTLER INICIO—
 #v5700That level of reasoning cannot fell me, much less Beato. 
+Esse nível de raciocínio não pode me abater, muito menos a Beato.
 
 #v4180Where did she drag that weird closed room trick out from...? ...I'll definitely defeat you...! 
+De onde ela tirou esse truque de quarto fechado estranho...? ...Definitivamente te derrotarei...!   
 
 #v5701If you don't understand the pain of the human heart, ...I will have to make you experience it personally. 
+Se não entende a dor do coração humano, ...Terei de te fazer a sentir pessoalmente.
 
 #v4181I don't care! I will expose the truth! That's the only point of my life...! 
+Não ligo! Vou expor a verdade! Esse é o unico sentido da minha vida...!
 
 #v5702I'll let you go this time. Come now, return to the place you are supposed to be. 
+Te deixarei ir dessa vez. Vá, retorne ao local aonde deveria estar.
 
 #v4182S-So, you don't intend to deliver the final blow...? ...I'll make you regret being so soft...! 
+E-Então, você não pretende dar o golpe final...? Te farei se arrepender de ser tão mole...!
+—ASSUMINDO: VIRGILIA VS BATTLER FIM—
 
 #v3829To be that strong and youthful at that AGE. ...If you have a secret, please let me KNOW... 
 
