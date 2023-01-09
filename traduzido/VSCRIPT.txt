@@ -4728,7 +4728,7 @@ Sei como se sente. Também é dificil para mim...
 
 #v0402If I've got a witch sympathizing with me, ...I'm screwed... 
 Se tem uma bruxa simpatizando comigo, ...estou ferrada...
-—VIRGILIA VS ANGE FIM—
+—ASSUMINDO: VIRGILIA VS ANGE FIM—
 
 —ASSUMINDO: VIRGILIA VS VIRGILIA INICIO—
 #v1426...Damn you...and your willingness to beat your opponent down without hesitation, even in a fight against yourself... 
@@ -4748,7 +4748,7 @@ Minha nossa... isso é algum tipo de espetáculo da Beato? Que desagradável.
 
 #v1431B-Beatrice-sama, ...forgive me.... Bleh! 
 B-Beatrice-sama, ...me perdoe... Bleh!
-—VIRGILIA VS VIRGILIA FIM—
+—ASSUMINDO: VIRGILIA VS VIRGILIA FIM—
 
 —ASSUMINDO: VIRGILIA VS RONOVE—
 #v1432It always surprises me. To think that one with your talents would be kind enough to lose. 
@@ -4768,7 +4768,7 @@ Uma esplêndida vitória. Está machucada, Madame?
 
 #v1434Thank you. I see you're even a gentleman at a time like this... 
 Obrigada. Vejo que é um cavalheiro até em situações como essa...
-—VIRGILIA VS RONOVE FIM—
+—ASSUMINDO: VIRGILIA VS RONOVE FIM—
 
 —ASSUMINDO: VIRGILIA VS BEATRICE INICIO—
 #v1435Come, try and remember. What form did you have? 
@@ -4788,7 +4788,7 @@ Parece que foi muito cedo para você receber o título de Bruxa do Infinito no f
 
 #v0072No, I'm not giving it baaaack! Ah, no, waaaaaaah! 
 Não, não vou devolveeeeer! Ah, não, waaaaaaaah!
-—VIRGILIA VS BEATRICE FIM—
+—ASSUMINDO: VIRGILIA VS BEATRICE FIM—
 
 —ASSUMINDO: VIRGILIA VS lUCIFER INICIO—
 #v1438Arise, younger Sisters of Purgatory. Care for her wounds. 
@@ -4951,7 +4951,7 @@ V-Vá em frente e me mate! Mas poupe a Maria! Por favor, pelo menos deixe aquela
 Todos parecem com um culpado para você, não é? Tente se acalmar um pouco.
 —ASSUMINDO: VIRGILIA VS ROSA FIM—
 
-—ASSUMINDO: VIRGILIA VS ERIKA?INICIO—
+—ASSUMINDO: VIRGILIA VS ERIKA INICIO—
 #v5700That level of reasoning cannot fell me, much less Beato. 
 Esse nível de raciocínio não pode me abater, muito menos a Beato.
 
@@ -4969,7 +4969,7 @@ Te deixarei ir dessa vez. Vá, retorne ao local aonde deveria estar.
 
 #v4182S-So, you don't intend to deliver the final blow...? ...I'll make you regret being so soft...! 
 E-Então, você não pretende dar o golpe final...? Te farei se arrepender de ser tão mole...!
-—ASSUMINDO: VIRGILIA VS ERIKA?FIM—
+—ASSUMINDO: VIRGILIA VS ERIKA FIM—
 
 —ASSUMINDO:VIRGILIA VS DLANOR INICIO—
 #v3829To be that strong and youthful at that AGE. ...If you have a secret, please let me KNOW... 
@@ -4989,80 +4989,131 @@ Sabe, se ficar faltando ao serviço, aquelas duas virão atrás de você.
 
 #v3831I-I'm using up my vacation TIME! I am not skipping out on WORK! I am NOT!
 E-Estou usando meu período de FÉRIAS! Não estou faltando ao SERVIÇO! Não ESTOU!
-—ASSUMINDO:VIRGILIA VS DLANOR FIM—
+—ASSUMINDO: VIRGILIA VS DLANOR FIM—
 
+—ASSUMINDO: VIRGILIA VS WILL INICIO—
 #v5706I see mercy in your blade. ...If only that child had it as well... 
+Vejo a piedade em sua espada. ...Se apenas aquela criança também a tivesse...
 
 #v5433...I'm counting on you to give your disciple strict guidance. I wouldn't have had to come here in the first place if you had. 
+...Estou contando que você dê uma rígida orientação para sua discípula. Eu não estaria aqui em primeiro lugar se você tivesse dado.
 
 #v5707Hohoho... How did you like that? I'm still quite young, am I not? 
+Hohoho... O que achou disso? Ainda sou jovem, não sou?
 
 #v5434All women are girls no matter how old they get... ...A 1017-year-old girl, huh? ...Amazing. 
+Todas as mulheres são garotas independente do quão velhas elas fiquem... ...Uma garota de 1017 anos, hm? ...Incrível.
 
 #v5435I guess I'll take my leave then. It's always a disaster when Diana gets into a bad mood. 
+Creio que estarei de saída então. Sempre é um desastre quando a Diana fica de mau-humor. 
 
 #v5708Oh, and I haven't even cared for your wounds. Do you think Diana-san would like some mackerel as a souvenir? 
+Oh, e ainda nem tratei de seus ferimentos. Acha que Diana-san gostaria de um pouco de cavalinha como lembrancinha?
+—ASSUMINDO: VIRGILIA VS WILL FIM—
 
+—ASSUMINDO: VIRGILIA VS BERNKASTEL INICIO—
 #v5709That child really should choose her friends better. Is this my fault as well? 
+Aquela criança realmente deveria escolher suas amizades melhor. Isso é minha culpa também?
 
 #v5784...Is this what it feels like to be scolded by your friend's mom? I hate it... 
+...Essa é a sensação de ser repreendida pela mãe de sua amiga? Eu odeio isso...
 
 #v5785...I love black tea. I love it even more with dried plums. ...But no mackerel. Hell no. 
+...Amo chá-preto. O amo ainda mais com ameixas secas. ...Mas sem cavalinha. Nem ferrando.
 
 #v5710How can you not understand its deliciousness?! Come now, take a big gulp! Come on! 
+Como não pode compreender tal deliciosidade?! Vamos, tome um golezão! Vai!
 
 #v5711Enough! I cannot allow you to do as you please with that child's game any longer! 
+Chega! Não posso permitir que continue fazendo o que quiser com o jogo daquela criança!
 
 #v5786Come on. I'm just trying to clean up that boring game board for you. 
+Ah, vai. Só estou tentando limpar este tabuleiro entediante para você.
+—ASSUMINDO: VIRGILIA VS BERNKASTEL FIM—
 
+—ASSUMINDO: VIRGILIA VS LAMBDADELTA INICIO—
 #v4767Owww! I was just messing around a bit, okay?! 
+Aiii! Eu só estava brincando um pouco, okay?!
 
 #v5712You call that messing around? What a terrifying person you are... 
+Você chama isso de brincadeira? Mas que pessoa terrível você é...
 
 #v5713My, my. Eating so many sweet foods is bad for your skin... 
+Minha nossa. Comer tantos doces faz mal para sua pele...
 
 #v4768*gulp* ...H-How did you know I've been getting pimples lately?! 
+*engulo* ...C-Como sabia que estou ficando com espinhas recentemente?!
 
 #v5714Thinking that you were that child's friend, I fear I may have overdone it a bit. Allow me to care for your wounds. 
+Considerando que você é amigo daquela criança, temo que exagerei um pouco. Me permita tratar de suas feridas.
 
 #v4769Don't treat me like that barbarian Beato! ...Ow! Be more gentle! 
+Não me trate com aquela barbara da Beato! ...Ai! Seja mais gentil!
+—ASSUMINDO: VIRGILIA VS LAMBDADELTA FIM—
 
+—ASSUMINDO: VIRGILIA VS BATTLER INICIO—
 #v0973That should be enough. Come, I have some tea ready. 
+Isso deve ser suficiente. Vamos, fiz um pouco de chá.
 
 #v0253Tch, I resign... Let's call it a game and have tea and cookies... 
+Tch, eu desisto... Vamos parar por aqui e tomar chá com cookies....
 
 #v0254It's useless! I don't see how I could beat you. I resign! 
+É inútil! Não consigo ver como poderia te derrotar. Eu desisto!
 
 #v0974Hmph, don't be so humble. You truly are a formidable opponent, Battler-sama. 
+Hmmm, não seja tão modesto. Você realmente é um oponente formidável, Battler-sama.
 
 #v0255You're an irritating sort of guy... You could've killed me in an instant, but you chose not to, right...? 
+Você é um tipo de pessoa bem irritante... Você poderia ter me matado em um instante, mas decidiu não o fazer, não é...?
 
 #v0975Forgive me. Not using all of my strength is a personal virtue of mine. 
+Perdão. Não usar toda a minha força é uma virtude pessoal minha.
+—ASSUMINDO: VIRGILIA VS BATTLER FIM—
 
+—ASSUMINDO: VIRGILIA VS ANGE INICIO—
 #v0976Come this way, Ange-sama. You wouldn't mind some tea and cookies, would you? 
+Venha, Ange-sama. Você não se incomodaria com um pouco de chá e cookies, não é?
 
 #v0403I wouldn't mind them. But right now, I'd mind a first aid kit even less. 
+Não me incomodaria com isso. Mas neste momento, me incomodaria ainda menos com um kit de primeiros socorros.
 
-#v0977It seems one cannot fight their blood. You truly do resemble Battler-sama. 
+#v0977It seems one cannot fight their blood. You truly do resemble Battler-sama.
+Parece que não se pode resistir ao seu próprio sangue.  Você realmente parece com o Battler-sama.
 
 #v0404No, I don't...! If I did, he'd come right home...! 
+Não, não pareço...! Se parecesse, ele retornaria para casa...!
 
 #v0978To think that you managed to learn magic so well through self-study... Quite impressive. 
+E pensar que você aprendeu mágica tão bem por meio de autoaprendizagem... Muito impressionante.
 
 #v0405But it doesn't matter if I can't win! I've gotta learn a lot more about magic...! 
+Mas não importa se eu não ganhar! Tenho que aprender muito mais sobre mágica...!
+—ASSUMINDO: VIRGILIA VS ANGE FIM—
 
+—ASSUMINDO: VIRGILIA VS RONOVE INICIO—
 #v0979You must pardon me... I thought I wouldn't need to hold back against you, Virgilia-sama. 
+Me perdoe... Achei que não precisaria me segurar contra você, Virgilia-sama.
 
 #v1453Thank you. It's been so long since I last saw the young 'you', even if just for a brief moment... 
+Obrigada. Fazia tanto tempo desde que vi o jovem 'você', mesmo que por um breve instante...
 
 #v0980What a terrifying person. Your magical power never ceases to amaze. 
+Mas que pessoa assustadora. Seu poder mágica nunca deixa de me impressionar.
 
 #v1454Not at all... I've gotten on in years. A millennium really is too long to live. 
+Não é nada... enferrujei com o passar dos anos. Um milênio realmente é demais para viver.
 
 #v1455I thought I would be able to fight a bit longer, ...but it seems I've already reached my limit. 
+Pensei que conseguiria lutar um pouco mais, mas parece que alcancei o meu limite.
 
 #v0981Neither of us is young anymore. Indeed, no one is fond of aging. 
+Nós dois não somos mais jovens. É verdade que ninguém gosta de envelhecer.
+—ASSUMINDO: VIRGILIA VS RONOVE FIM—
 
+—ASSUMINDO: INICIO DAS LUTAS DO RONOVE—
+
+—ASSUMINDO: RONOVE VS RONOVE INICIO—
 #v0982Pu ku ku. You handle the tea, and I'll handle the cookies. 
 
 #v0983It seems there's nothing else I can do... Then allow me to submit and accept that role. 
@@ -5212,7 +5263,7 @@ BOLINHOS! ...S-Se você INSISTE. Vamos dizer que ACEITO...!
 Pu ku ku. Se desperdiçar seu tempo em um lugar desses, só vai acabar tempo mais coisas para carimbar. 
 
 #v3834I hate STAMPS! HATE HATE HATE! I hope all stamps disappear from this WORLD!!
-Eu odeio CARIMBOS! ODEIO ODEIO ODEI! Espero que todos os carimbos desapareçam deste MUNDO!
+Eu odeio CARIMBOS! ODEIO ODEIO ODEIO! Espero que todos os carimbos desapareçam deste MUNDO!
 
 #v5121It's been so long since we've had a gentleman as a guest, and I fear I may have grown a bit too passionate in welcoming you here. 
 
