@@ -5115,53 +5115,85 @@ Nós dois não somos mais jovens. É verdade que ninguém gosta de envelhecer.
 
 —ASSUMINDO: RONOVE VS RONOVE INICIO—
 #v0982Pu ku ku. You handle the tea, and I'll handle the cookies. 
+Pu ku ku. Você cuida do chá, e eu cuido dos cookies.
 
 #v0983It seems there's nothing else I can do... Then allow me to submit and accept that role. 
+Parece não haver nada mais que eu possa fazer... Então me permita ceder e aceitar essa função.
 
 #v0984What a dreamily beautiful boy you are. Oh, but you're me. Pu ku ku! 
+Que garoto sonhadoramente bonito você é. Oh, mas você sou eu. Pu ku ku!
 
 #v0985No, no, I'm the one swooning over that brilliant victory. Oh, but you're me. 
+Não, não, sou eu que estou perdendo o fôlego com essa vitória brilhante. Oh, mas você sou eu.
 
 #v0986Ooh, not bad, me. You were gorgeous, even in defeat. 
+Oh, nada mal, eu. Você foi esplêndido, até mesmo na derrota.
 
 #v0987Defeat is precisely when a man can best display his virtues. Just like a lone shooting star. 
+A derrota é precisamente quando um homem pode demonstrar melhor suas virtudes. Como uma estrela-cadente solitária.
+—ASSUMINDO: RONOVE VS RONOVE FIM—
 
+—ASSUMINDO: RONOVE VS BEATRICE INICIO—
 #v0073Hey, Ronove! I'm your master! Go easy on me at least a little!! 
+Ei, Ronove! Sou sua mestre! Pegue leve comigo pelo menos um pouco!!
 
 #v0988Ah, I didn't realize it was you, Milady! You have my deepest apologies! Pu ku ku! 
+Ah, não percebi que era você, Milady! Minhas sinceras desculpas! Pu ku ku!
 
 #v0989Didn't you just order me not to go easy on you? Pu ku ku! 
+Você não acabou de me ordenar para não pegar leve com você? Pu ku ku!
 
 #v0074My orders are as ever-changing as the raging seas! That was then, this is now! 
+Minhas ordens estão em constante mudança como os oceanos furiosos! Aquilo foi naquela hora, isso é agora!
 
 #v0990And that is all. Well then, perhaps we should get you a change of clothes before having tea. 
+E isso é tudo. Bem, talvez devêssemos te dar uma muda de roupa antes do chá.
 
-#v0075How could I have tea after losing like that?! Please, one more match! One more match! 
+#v0075How could I have tea after losing like that?! Please, one more match! One more match!
+Como posso tomar chá após perder assim?! Por favor, mais uma partida! Mais uma! 
+—ASSUMINDO: RONOVE VS BEATRICE FIM—
 
+—ASSUMINDO: RONOVE VS LUCIFER INICIO—
 #v0991Members of the Seven Stakes of Purgatory, it's time to clean up. 
+Membros das Sete Irmãs do Purgatório, é hora da limpeza.
 
 #v0823My little sisters are going to mock me. To think I'd go as wild as that...and then lose anyway... Nng! 
+Minhas irmãzinhas vão me caçoar. E pensar que eu iria tão à loucura assim...e então perder mesmo assim...Nng!
 
 #v0992Oh? Someone seems to have left a stake here. I thought I'd already cleaned those up. 
+Parece que alguém deixou uma estaca aqui. Pensei que já tinha limpado elas.
 
 #v0824H-How humiliating...! I hate this!! B-But... 
+Q-Que humilhante...! Odeio isso!! M-Mas...
 
 #v0825M-My apologies, Beatrice-sama... I couldn't...fulfill my purpose... 
+M-Meus perdões, Beatrice-sama... Não pude...cumprir meu dever...
 
-#v0993Milady's furniture is quite talented, but rather naughty as well. 
+#v0993Milady's furniture is quite talented, but rather naughty as well.
+A mobília da Milady é talentosa, mas bem levada também. 
+—ASSUMINDO: RONOVE VS LUCIFER FIM—
 
+—ASSUMINDO: RONOVE VS SHANNON INICIO—
 #v0994Furniture needs no heart. Isn't that our motto...? 
+Mobília não precisa de coração. Não é esse nosso lema...?
 
 #v1123It is as you say... I...let my emotions get the best of me... 
+Isso mesmo...eu...me deixei levar por minhas emoções...
 
 #v0995Not bad at all. Goldsmith's furniture truly is not to be underestimated. 
+Nada mal. A mobília do Goldsmith realmente não deve ser subestimada.
 
 #v1124I was just born that way... 
+Apenas nasci assim...
 
-#v0996Shannon, you have indeed grown strong and beautiful. 
+#v0996Shannon, you have indeed grown strong and beautiful.
+Shannon, você certamente cresceu linda e forte. 
 
-#v1125Th-Thank you very much. I'm still very weak, though... 
+#v1125Th-Thank you very much. I'm still very weak, though...
+M-Muito obrigada. Mas ainda sou muito fraca... 
+—ASSUMINDO: RONOVE VS SHANNON FIM—
 
+—ASSUMINDO: RONOVE VS KANON INICIO—
 #v0673Me, lose?! I can't accept it...! Dammit, dammiiiiiit!
 Eu perdi?! Não consigo aceitar isso...! Merda, merdaaaaaa!
 
@@ -5169,89 +5201,145 @@ Eu perdi?! Não consigo aceitar isso...! Merda, merdaaaaaa!
 Perder é aprender. Aprenda direito e cresça.
 
 #v0998Furniture needs no heart. You let your anger and impatience overcome you. 
+Mobília não precisa de coração. Você deixou a raiva e impaciência te dominarem.
 
 #v0674Impossible... There's no way I was letting those emotions control me...! 
+Impossível... Sem chance que me deixei controlar por essas emoções...!
 
 #v0999<Nice fight!> A boy certainly mustn't lose heart after a little thing like this!
-Nice fight! Um garoto certamente deve ficar desesperançoso após algo assim.
+Nice fight! Um garoto certamente não deve ficar desesperançoso após algo pequeno assim.
 
 #v0675How humiliating...! But if I can gain something from this battle...! 
+Que humilhante...! Mas se eu puder tirar algo desta batalha...!
+—ASSUMINDO: RONOVE VS KANON FIM—
 
+—ASSUMINDO: RONOVE VS ANGE INICIO—
 #v1000Forgive me. You never ordered me to go easy on you. 
+Minhas desculpas. Você nunca me ordenou para pegar leve com você.
 
 #v0523I underestimated you... As they say, a clever falcon hides his claws...! 
+Eu te subestimei... Como dizem, um falcão esperto esconde suas garras...!
 
 #v1001At least when it comes to brutality, it seems you do have what it takes to be a witch. 
+Pelo menos quando se trata de brutalidade, parece que você tem o que é necessário para ser um bruxa.
 
 #v0524I'll take that as a compliment... N-Now take care of my wounds already...! 
+Vou levar isso como elogio... A-Agora cuide das minhas feridas logo...!
 
 #v1002That is all. If you need anything else, just call for me. 
+Isso é tudo. Se precisar de mais alguma coisa, é só chamar.
 
 #v0525Mind if I do that right now then? Get me a cool towel and some bandages. On the double. 
+Se importa se eu fizer isso agora mesmo, então? Traga-me uma toalha gelada e alguns curativos. De imediato.
+—ASSUMINDO: RONOVE VS ANGE FIM—
 
+—ASSUMINDO: RONOVE VS CHIESTER410 INICIO—
 #v1003Those are the Chiesters for you. I can see why you were left in charge of your master's defense. 
+Como esperado das Chiesters. Posso ver porque foram deixadas a cargo da defesa de seu mestre.
 
 #v1273I wanted to win and say that line to you nyeeeh! 
+Queria ter ganhado e dizer essa fala para você, nyeeeh!
 
 #v1004It's time for snacks. How about some tea and carrots? 
+É hora de petiscos. Que tal chá e cenouras?
 
 #v1274Nyeh! Yay, tea and carrots! That's enough fighting then nyeh! 
+Nyeh! Eba, chá e cenouras! Chega de lutar então, nyeh!
 
 #v1005Good work. Now, back to Lady MARIA's toy box with you. 
+Bom trabalho. Agora, volte para a caixa de brinquedo da Lady MARIA.
 
 #v1275Bow to Ronove-sama! Riiight face! Troops, forward march! 
+Curvem-se para o Ronove-sama! À direiiiiita! Tropas, marchar!
 
+—ASSUMINDO: RONOVE VS CHIESTER410 FIM—
+
+—ASSUMINDO: RONOVE VS GEORGE INICIO—
 #v3138George-sama, would you prefer to have your tea without sugar or milk? 
+George-sama, você prefere seu chá sem açúcar e leite?
 
 #v2664Sure. ...And I'll need to analyze why I lost... 
+Sim. ...E vou precisar analisar por que perdi...
 
 #v3139With that level of power, it will be a long time before you can become a demon king. 
+Com esse nível de poder, levará muito tempo até você se tornar um rei demônio.
 
 #v2665Nng...! If I'm not even a match for a demon, I must still be immature... 
+Nng...! Se não sou nem páreo para um demônio, ainda devo ser imaturo...
 
 #v3140Forgive me. I've been testing your strength, George-sama. 
+Desculpe. Estava testando sua força, George-sama.
 
 #v2666It looks like I didn't get a passing grade... ...Time to restart from square one. 
+Parece que não recebi uma nota de aprovação... ...Hora de recomeçar do zero.
+—ASSUMINDO: RONOVE VS GEORGE FIM—
 
+—ASSUMINDO: RONOVE VS JESSICA INICIO—
 #v3135How about some hot tea and cookies? 
+Que tal um pouco de chá quente e cookies?
 
 #v2859Ah, shut up. I don't need tea, so go get me some bandages... 
+Ah, cale-se. Não preciso de chá, me traga curativos...
 
 #v2860*sigh*...I thought I could win, dammiiit!! 
+*suspiro*...Pensei que poderia ganhar, merdaaaa!!
 
 #v3136That was a good punch. Plus ten points for you. 
+Esse foi um bom soco. Mais dez pontos para você.
 
 #v2861So this is how strong demons are! I don't stand a chance... 
+Então essa é a força dos demônios! Não tenho chance...
 
 #v3137Not at all. I'm strong because I'm a butler. Now do you understand? Pu ku ku. 
+Nada disso. Sou forte porque sou um mordomo. Entende agora? Pu ku ku.
+—ASSUMINDO: RONOVE VS JESSICA FIM—
 
+—ASSUMINDO: RONOVE VS ROSA INICIO—
 #v3141Now there's a surprise. To think that little old me would defeat the Black Witch, Rosa-sama. 
+Mas que surpresa. E pensar que o velho eu derrotaria a Bruxa da Escuridão, Rosa-sama.
 
 #v3189Hey, why are you calling me a witch? I'm really not... 
+Ei, por que está me chamando de bruxa? Não sou uma...
 
 #v3142Here's a type of tea I'd like you to try. Please, have it while it's still hot. 
+Aqui está um tipo de chá que gostaria que você experimentasse. Por favor, tome enquanto ainda está quente.
 
 #v3190Could I get some for Maria too? And some cookies. 
+Posso dar um pouco para a Maria também? E alguns cookies.
 
 #v3191Ngg...! I mustn't...lose in a place like thiiiiiiis!! 
+Ngg...! Não posso...perder em um lugar como esseeeeee!!
 
 #v3143And yet, the game is over, Rosa-sama. 
+Ainda assim, o jogo acabou, Rosa-sama.
+—ASSUMINDO: RONOVE VS ROSA FIM—
 
+—ASSUMINDO: RONOVE VS ERIKA INICIO—
 #v5115Erika-sama, from this point on, act the part of a polite guest. 
+Erika-sama, daqui para frente, aja como uma convidada educada.
 
 #v4183...Sheesh. ...I give up. I'll play nice, so please get me some tea. 
+...Aff. ...Eu desisto. Vou me comportar, então por favor me sirva chá.
 
 #v5116It seems you've been a bit too naughty. Allow me to report this to your master. 
+Parece que você foi um pouco levada demais. Me permita denunciar isso a sua mestre.
 
 #v4184Eeep...! I mustn't let her know of this pathetic defeat...!! 
+Aaah...! Não posso deixar ela saber dessa derrota patética...!!
 
 #v5117Pu ku ku. Did you like my little game? 
+Pu ku ku. Gostou do meu pequeno jogo?
 
-#v4185It was okay. ...Until the crime occurs, the detective will be a good little girl. 
+#v4185It was okay. ...Until the crime occurs, the detective will be a good little girl.
+Foi decente. ...Até que o crime ocorra, a detetive vai ser uma garotinha boazinha. 
+—ASSUMINDO: RONOVE VS ERIKA FIM—
 
+—ASSUMINDO: RONOVE VS DLANOR INICIO—
 #v3832That SMELL! Those are SCONES, and TEA! Allow me to be SEATED! 
+Esse CHEIRO! São SCONES, e CHÁ! Permita-me SENTAR!
 
 #v5118Yes, please enjoy Ronove's afternoon tea to the fullest...! 
+Sim, desfrute ao máximo do chá da tarde do Ronove!
 
 #v5119Shall we call it a draw? How about some freshly-baked muffins and tea?
 Devemos considerar isto um empate? Que tal alguns bolinhos recém assados e chá?
@@ -5264,48 +5352,67 @@ Pu ku ku. Se desperdiçar seu tempo em um lugar desses, só vai acabar tempo mai
 
 #v3834I hate STAMPS! HATE HATE HATE! I hope all stamps disappear from this WORLD!!
 Eu odeio CARIMBOS! ODEIO ODEIO ODEIO! Espero que todos os carimbos desapareçam deste MUNDO!
+—ASSUMINDO: RONOVE VS DLANOR FIM—
 
+—ASSUMINDO: RONOVE VS WILL INICIO—
 #v5121It's been so long since we've had a gentleman as a guest, and I fear I may have grown a bit too passionate in welcoming you here. 
+Faz tanto tempo que tivemos um cavalheiro como convidado, temo que posso ter ficado um pouco entusiasmado demais em te receber aqui.
 
 #v5436...That fiery welcome of yours...really hit me right here. ...Try and greet me in a more normal way next time. 
+...Essas suas boas-vindas ardentes...realmente me atingiram em cheio. ...Busque me cumprimentar de maneira normal na próxima vez.
 
 #v5122Why did you retire? ...With your skill, you could have remained out in the field much longer. 
+Por que você se aposentou? ...Com sua habilidade, teria permanecido no campo por muito mais tempo.
 
 #v5437I just lost. ...When you've got demons trying to comfort you, you're finished as an Inquisitor. 
+Eu apenas perdi. ...Quando tem demônios tentando te confortar, acabou para um Inquisitor.
 
 #v5438Why is a demon of your caliber working as a butler? At least tell me that. 
+Por que um demônio de seu calibre está trabalhando como mordomo? Pelo menos me responda isso.
 
 #v5123Pu ku ku. I'll answer that question when you defeat me. 
+Pu ku ku. Respondarei quando me derrotar.
+—ASSUMINDO: RONOVE VS WILL FIM—
 
+—ASSUMINDO: RONOVE VS BERNKASTEL INICIO—
 #v5124Oh my! How outrageously rude I've been to the Great Lady Bernkastel...! 
+Minha nossa! Como fui tão indelicadamente grosseiro com a Grande Lady BERNKASTEL...!
 
 #v5787You... Remember this. One of these days, I'll rip that mustache off. 
+Você... Lembre-se disso. Um dia desse, vou arrancar fora esse bigode.
 
 #v5125I've managed to procure some high-quality dried plums. Would you like some? 
+Consegui obter algumas ameixas secas de alta-qualidade. Gostarei de algumas? 
 
 #v5788...Thanks. ...I'm still pissed off, but let's call it my loss today. 
+...Obrigada. ...Ainda estou irritada, mas vamos dizer que é minha derrota por hoje.
 
 #v5126Did you enjoy that little sideshow? Have some delicious tea. 
+Você gostou do pequeno espetáculo? Aqui está um chá delicioso.
 
-#v5789It wasn't boring. You brought dried plums of course, yes? 
+#v5789It wasn't boring. You brought dried plums of course, yes?
+Não foi entediante. Você trouxe ameixas secas, certo? 
+—ASSUMINDO: RONOVE VS BERNKASTEL FIM—
 
+—ASSUMINDO: RONOVE VS LAMBDADELTA INICIO—
 #v4770How could super paper Lambdadelta-sama looooooose?!
-Como pode a superpepel limitada LAMBDADELTA-sama, perdeeeeeer?! 
+Como pode a superpapel limitada LAMBDADELTA-sama, perdeeeeeer?! 
 
 #v5127Pu ku ku. Didn't you realize that I'm actually super scissors? Pu ku ku!
-Pu ku ku. Você não perceber que, na verdade, eu sou uma supertesoura? Pu ku ku! 
+Pu ku ku. Você não percebeu que, na verdade, eu sou uma supertesoura? Pu ku ku! 
 
 #v5128I've made some excellent tea, suitable for the Great Lady Lambdadelta.
-Preparamos um excelente chá, digno da Grande Lady LAMBDADELTA. 
+Preparei um excelente chá, digno da Grande Lady LAMBDADELTA. 
 
 #v4771Great, and get me some popcorn to go with it! Caramel flavored!
-òtimo, agora traga uma pipoca para acompanhar! Sabor caramelo;
+Ótimo, agora traga uma pipoca para acompanhar! Sabor caramelo!
 
 #v5129How lively Beatrice-sama's friends are...!
 Como são animadas as amigas da BEATRICE-sama...! 
 
 #v4772Hey! Are you calling me, Lambdadelta-sama, Beato's friend? ...Well, okay then...!
 Ei! Está dizendo que eu, LAMBDADELTA-sama, sou amiga da Beato? ...Bom, tudo bem...!
+—ASSUMINDO: RONOVE VS LAMBDADELTA FIM—
 
 Hahahah! Let me speak with the red truth! #cFFFF2020You are incompetent#cFFFFFFFF!
 Hahahah! Deixe-me falar usando o vermelho: #cFFFF2020Você é incompetente#cFFFFFFFF!
