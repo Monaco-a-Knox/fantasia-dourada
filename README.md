@@ -15,12 +15,13 @@ Este patch pretende traduzir inicialmente apenas os diálogos de cada cenário. 
 Não há patch disponível ainda.
 
 # Equipe:
-- Tradução: ????
+- Tradução: Deca, JesterThirty4 
 - Edição: ????
 - Revisão: ????
 - Testes: ????
 - Limpeza do script: Deca
-- Inserção do script: ????
+- Inserção do script: Frost51
+- Edição de fonte: Frost51
 
 # Notas:
 Fantasia, do italiano, (幻想曲 gensoukyoku) é uma composição musical com raízes no improviso, assim como o script deste jogo, que é uma imensa colcha de retalhos improvisada e funciona por meio de magia.
