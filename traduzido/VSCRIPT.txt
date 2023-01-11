@@ -6113,7 +6113,7 @@ Sim, me desafie quantas vezes quiser! Me deixe de perfurar mais uma vez! Me deix
 
 —ASSUMINDO: LUCIFER VS BERNKASTEL INICIO—
 #v5046Lady Bernkastel! Try to be reasonable! Please, withdraw...! 
-Lady BERNKASTEL! Seja Razoável! Por favor, retire-se...!
+Lady BERNKASTEL! Seja razoável! Por favor, retire-se...!
 
 #v5793...This is no fun anymore. Me, losing to mere furniture... ...Okay, I'll let you call it a win. 
 ...Isso não tem mais graça. Eu, perdendo para uma mera mobília... ...Okay, vou te deixar chamar isso de vitória.
