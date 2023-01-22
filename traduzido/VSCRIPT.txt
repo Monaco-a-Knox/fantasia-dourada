@@ -6156,430 +6156,709 @@ Oooh! Muito bem, então não pegarei leve da próxima vez!
 
 —ASSUMINDO: SHANNON VS BATTLER INICIO—
 #v0262You're not so bad yourself, Shannon-chan... ...Oww... 
+Você não é nada má, Shannon-chan... ...Aii...
 
 #v1132F-Forgive me...! But I couldn't afford to lose! 
+D-Desculpe-me! Mas não posso me dar o luxo de perder!
 
 #v1133I simply...cannot lose this fight! 
+Simplesmente... não posso perder esta luta!
 
 #v0263You have a reason, right? Then don't worry about it. Go on, move forward... 
+Você tem um motivo, não é? Então não se preocupe. Vá, siga em frente...
 
 #v1134Thanks...for going easy on me! 
+Obrigada... por pegar leve comigo!
 
 #v0264Not that I was trying to... ...Dammit, how lame can I get... 
+Não que eu estivesse tentando... ...Merda, mas que mico...
+—ASSUMINDO: SHANNON VS BATTLER FIM—
 
+—ASSUMINDO: SHANNON VS ANGE INICIO—
 #v1135You're Ange-sama?! You've grown so big... 
+Você é a Ange-sama?! Você cresceu tanto...
 
 #v0412I guess I'll still be treated like a six-year-old, even 12 years later... ...Dammit... 
+Acho que ainda serei tratada como se tivesse 6 anos, até mesmo após 12 anos se passarem... ...Droga...
 
 #v1136You waited...12 whole years? ...You poor thing... 
+Você esperou por...12 anos inteiros? ...Pobrezinha...
 
 #v0413I don't need your sympathy. There's no way you could understand my pain... 
+Não preciso de sua simpatia. Não tem como você entender minha dor...
 
 #v1137I'm sorry. There's nothing I can tell you... 
+Me desculpe. Não posso te contar nada...
 
 #v0414Why not...? Why won't anyone tell me? What on earth happened today?! 
+Por que não...? Por que ninguém me conta? O que diabos aconteceu hoje?!
+—ASSUMINDO: SHANNON VS ANGE FIM—
 
+—ASSUMINDO: SHANNON VS VIRGILIA INICIO—
 #v1138Virgilia-sama, ...th-thank you very much! 
+VIRGILIA-sama, ...m-muito obrigada!
 
 #v1462Follow your own path... I am merely a guidepost... 
+Siga seu próprio caminho... sou apenas um poste-guia
 
 #v1139How was that...? That was...everything I had... 
+Que tal...? Isso foi...tudo que eu tinha...
 
 #v1463Yes, I saw it quite clearly... I'm sure you'll be able to achieve your goals. 
+Sim, consegui ver muito bem... tenho certeza que conseguirá alcançar seus objetivos.
 
 #v1464No piece of furniture has a heart. So, you aren't furniture. 
+Nenhuma peça de mobília tem coração. Logo, você não é mobília.
 
 #v1140Virgilia-sama, ...please, guide me...! 
+VIRGILIA-sama, ...por favor, guie-me!
+—ASSUMINDO: SHANNON VS VIRGILIA FIM—
 
+—ASSUMINDO: SHANNON VS RONOVE INICIO—
 #v1141Ronove-sama, ...you understand, right...? 
+Ronove-sama, ...você entende, não é...?
 
 #v1012You need say nothing more. And neither will I. Go on, move forward... 
+Não precisa dizer mais nada. E também não direi. Vá, siga em frente...
 
 #v1013It would seem that's all I can manage. I wish you luck. 
+Parece que isso é tudo que posso fazer. Te desejo sorte.
 
 #v1142Thank you! Thanks for letting me win...! 
+Obrigada! Obrigada por me deixar ganhar...!
 
 #v1143Is this okay, ...Ronove-sama...? 
+Tudo bem com isso, ...Ronove-sama...?
 
 #v1014It's the result you yourself hoped for. Leave the loser be and advance down your own path. 
+Esse é o resultado que você desejou. Deixe o perdedor para trás e avance em seu próprio caminho.
+—ASSUMINDO: SHANNON VS RONOVE FIM—
 
+—ASSUMINDO: SHANNON VS BEATRICE INICIO—
 #v1144It's so sad. To think that you and I would end up fighting... 
+É tão triste. Eu e você acabarmos tendo que lutar...
 
-#v0112If I had known it would come to this, ...I would have put you so, so much more in my debt... 
+#v0112If I had known it would come to this, ...I would have put you so, so much more in my debt...
+Se soubesse que chegaria a este ponto, ...teria te colocado muito, mas muito mais em dívida comigo. 
 
 #v1145Thank you. I'm grateful for the magic you gave me on that day...! 
+Obrigada. Agradeço pela mágica que me deu naquele dia...!
 
 #v0113Though...my plan was to lift your hopes and make them come crashing down all at once. ...I was too soft... 
+Mas...meu plano era alimentar sua esperança e então a derrubar toda de uma vez. ...Fui mole demais...
 
 #v1146Why do you hate romance? I don't understand... 
+Por que você odeia romance? Não compreendo...
 
 #v0114Just get out of here! How much do you intend to torment me with this drivel?! 
+Apenas dê o fora daqui! Quanto mais pretende me atormentar com essa tagarelice?!
+—ASSUMINDO: SHANNON VS BEATRICE FIM—
 
+—ASSUMINDO: SHANNON VS LUCIFER INICIO—
 #v0862I-Impossible! How could I lose to that loser Shannon?! 
+I-Impossível! Como pude perder para aquela perdedora da Shannon?!
 
 #v1147Right now, I can't lose to heartless furniture. 
+Nesse momento, não posso perder para mobília sem coração.
 
 #v1148Now that I've experienced romance, I'm not furniture anymore. 
+Agora que vivenciei o romance, não sou mais mobília.
 
 #v0863That's insane... Furniture is furniture, ...no matter what... 
+Isso é loucura... mobília é mobília, ...nada mudará isso...
 
 #v0864F-Forgive me, Beatrice-sama... ...I couldn't...win... 
+Me desculpe, Beatrice-sama... ...não fui capaz de...vencer...
 
 #v1149It's not your fault. ...That's just furniture's...fate.
-Não é sua culpa. ...É apena...o destino das...mobílias. 
+Não é sua culpa. ...É apenas...o destino...das mobílias. 
+—ASSUMINDO: SHANNON VS LUCIFER FIM—
 
-#v1150To think that me taking this form wouldn't even make you hesitate... Shannon, I underestimated you... 
+—ASSUMINDO: SHANNON VS SHANNON INICIO—
+#v1150To think that me taking this form wouldn't even make you hesitate... Shannon, I underestimated you...
+Quem diria que eu tomar esta forma não a faria nem hesitar... Shannon, eu te subestimei...
 
 #v1151Was it fun? Toying with me like that?! 
+Foi divertido? Brincar comigo assim?!
 
 #v1152I'm a furniture copy of you... It shouldn't be possible for you to beat me...! 
+Sou uma mobília cópia de você... você não deveria ser capaz de me derrotar...!
 
 #v1153To defeat oneself. That's what it means to be Human. 
+Derrotar a si mesma. É isso que significa ser humana.
 
 #v1154...If I won, ...even I...might have become...Human... 
+...Se eu ganhasse, ...até mesmo eu...teria me tornado...humana...
 
 #v1155Forgive me, me. I'm undergoing a trial. 
+Perdoe-me, eu. Estou passando por um desafio.
 
+—ASSUMINDO: SHANNON VS SHANNON FIM—
+
+—ASSUMINDO: SHANNON VS KANON INICIO—
 #v1156I win this time. You did really well too, Kanon-kun. 
+Ganhei desta vez. Você foi muito bem também, Kanon-kun.
 
 #v0682I don't need...your sympathy... ...Nngggg... 
+Não preciso...de sua simpatia... ...Nnggg...
 
 #v1157Are you okay...? I'll get you some water. 
+Está tudo bem...? Vou te trazer água.
 
 #v0683The loser needs nothing. That's the best charity you can give him... 
+O perdedor não precisa de nada. Essa é a melhor coisa que você pode dar a ele...
 
 #v1158Your feelings...will go with me too, Kanon-kun. 
+Seus sentimentos... estarão comigo também, Kanon-kun.
 
 #v0684Take everything of me, Nee-san... ...And find happiness. With certainty. 
+Pegue tudo de mim, Nee-san... ...e encontre a felicidade. Com certeza.
+—ASSUMINDO: SHANNON VS KANON FIM—
 
+—ASSUMINDO: SHANNON VS EVATRICE INICIO—
 #v0532How?! How can someone like you...defeat meeeeee?! 
+Como?! Como pode uma pessoa como você...me derrotaaaaar?!
 
 #v1159EVA-sama, you don't deserve to be a witch. 
+EVA-sama, você não merece ser uma bruxa.
 
-#v0533I am a witch! The Golden Witch!! I can do anything! So why?! 
+#v0533I am a witch! The Golden Witch!! I can do anything! So why?!
+Sou uma bruxa! A Bruxa Dourada!! Posso fazer qualquer coisa! Então por quê?! 
 
 #v1160Please stay calm... You were just having a nightmare... 
+Por favor, acalme-se... você só estava tendo um pesadelo...
 
 #v1161Forgive me...! I couldn't afford to lose, not even to you, EVA-sama. 
+Perdoe-me...! Não pude me dar o luxo de perder, nem mesmo contra você, EVA-sama.
 
-#v0534Okay, okay, you win. If only you'd just give up and die! 
+#v0534Okay, okay, you win. If only you'd just give up and die!
+Tá legal, tá legal, você venceu. Por que não desiste e morre bem devagar! 
+—ASSUMINDO: SHANNON VS EVATRICE FIM—
 
+—ASSUMINDO: SHANNON VS CHIESTER410 INICIO—
 #v1162Let's stop this. Any more, and Maria will be sad. 
+Vamos parar com isso. Mais um pouco, e a Maria ficará triste.
 
 #v1282N-Nnnnggg... I-I'd win if we went at it again, but I'll stand down nyeh. 
+N-Nnnnggg... eu ganharia se nos enfrentássemos novamente, mas ficarei no chão, nyeh.
 
 #v1163I wish I could spend my days singing songs with all of you... 
+Queria que pudesse passar meus dias cantando com todos vocês...
 
 #v1283Y-Yes, we did do that once, didn't we nyeh... ...That really takes me back nyeh. 
+S-Sim, nós fizemos isso uma vez, não foi, nyeh... ...Isso me traz lembranças, nyeh.
 
 #v1284Ukyuu. Downloading Self-Diagnostic Tool. System Response Negative... 
+Ukyuu. Baixando Ferramenta de Auto-diagnóstico. Resposta do sistema negativa...
 
 #v1164Maria-sama, I'm so sorry for hurting your friend...! 
+Maria-sama, mil perdões por machucar sua amiga...!
+—ASSUMINDO: SHANNON VS CHIESTER410 FIM—
 
+—ASSUMINDO: SHANNON VS GEORGE INICIO—
 #v3378Forgive me, George-san! Umm, were you hurt? 
+D-Desculpe-me, George-san! Hmm, está machucado?
 
 #v2673I'm fine. You're beautiful when you're being strong, too. I'm falling in love all over again. 
+Estou bem. Você também é linda quando mostra sua força. Estou me apaixonando de novo.
 
 #v3379Umm... Did my feelings reach you, George-san? 
+Hmm... meus sentimentos te alcançaram, George-san?
 
 #v2674Of course. I'm really glad...that your feelings for me were so powerful. 
+Mas é claro. Estou contente...que seus sentimentos por mim foram tão poderosos.
 
 #v2675I'm pathetic. Not only did I not protect you, I'm not even as strong as you...! 
+Sou patético. Não apenas fui incapaz de te proteger, também não sou tão forte como você...!
 
-#v3380Still, the fact that you try to protect me despite all that...is why I love you. 
+#v3380Still, the fact that you try to protect me despite all that...is why I love you.
+Ainda assim, o fato de que você tentou me proteger apesar disso...é o motivo de eu te amar.
+—ASSUMINDO: SHANNON VS GEORGE FIM— 
 
+—ASSUMINDO: SHANNON VS JESSICA INICIO—
 #v2868Spit it out! Tell me about the hugging and kissing that happened on that Okinawa vacation! 
+Desembucha! Me conte sobre os abraços e beijos que ocorreram nas férias de Okinawa!
 
 #v3375I can't! That's an absolute secret, even to you, Milady! 
+Não posso! Esse é um segredo absoluto, até mesmo para você, ojou-sama!
 
 #v3376Then, as promised, you will tell me about what happened with Kanon during the school festival. 
+Então, como prometido, te contarei sobre o que aconteceu com o Kanon durante o festival escolar.
 
 #v2869Umm, ...uhh... W-We walked around the booths together, ...a-and then... 
+Hmm, ...ehh... n-nós andamos pelas barracas juntos, ...e e-então...
 
 #v3377Are you sure you've been exercising enough? Lately, your cheeks have been... 
+Tem certeza que está se exercitando o suficiente? Ultimamente, suas bochechas estiveram...
 
 #v2870Gyaah, don't say it!! I knew those shady supplements wouldn't be enough! 
+Gyaah, não diga isso!! Sabia que aqueles suplementos duvidosos não seriam suficientes!
+—ASSUMINDO: SHANNON VS JESSICA FIM—
 
+—ASSUMINDO: SHANNON VS ROSA INICIO—
 #v3381Now, ...do you believe in my innocence? 
+E agora, ...acredita em minha inocência?
 
 #v3198Good...question. I'm sorry, I must have been a little tired. Please, leave me be for now. 
+Boa...pergunta. Desculpe, devia estar meio cansada. Por favor, me deixe sozinha por enquanto.
 
 #v3382Good morning, Rosa-sama. ...You were groaning. 
+Bom dia, Rosa-sama. ...Você estava gemendo.
 
 #v3199Huh? Wh-Where's my gun?! ......Was that...all a dream...? 
+Hã? O-Onde está minha arma?! ......Tudo aquilo foi...um sonho...?
 
 #v3200...It would seem that a Human's common sense no longer applies on this island... 
+...Parece que o bom senso humano não se aplica mais a essa ilha...
 
 #v3383Don't worry. ...That's why we furniture are here. 
+Não se preocupe. ...É para isso que nós mobílias estamos aqui.
+—ASSUMINDO: SHANNON VS ROSA INICIO—
 
+—ASSUMINDO: SHANNON VS ERIKA INICIO—
 #v5271Those who don't know love are unable to 'see' the truth. Perhaps you should study up on love first. 
+Aqueles que não tem amor são incapazes de 'ver' a verdade. Talvez você devesse estudar o amor primeiro.
 
 #v4193A mystery you can't solve without love?! That's...impossible... 
+Um mistério insolúvel sem amor?! Isso é... impossível...
 
 #v5272...Please, leave this place. ...You weren't invited to this game board. 
+...Por favor, deixe este lugar. ...Você não foi convidada a este tabuleiro.
 
 #v4194To think...that my detective authority would fail to work... Who on earth...is this...? 
+Quem diria...que minha autoridade de detetive falharia... quem diabos... é você...?
 
 #v4195I'll back off for now... ...But make sure you're ready for the next time! 
+Vou me retirar por enquanto... ...Mas certifique-se de estar preparada da próxima vez!
 
 #v5273I await your next visit. Though, no matter how many times you come, the result will be the same. 
+Aguardarei sua próxima visita. Embora que, independente de quantas vezes vier, o resultado será o mesmo.
+—ASSUMINDO: SHANNON VS ERIKA FIM—
 
+—ASSUMINDO: SHANNON VS DLANOR INICIO—
 #v5274I thought you were a thief... ...If only you'd just rung the bell... 
+Pensei que era uma ladra... ...Se ao menos tivesse tocado o sino...
 
-#v3841If I knew you would be serving such delicious cake, I would have rung it right AWAY... 
+#v3841If I knew you would be serving such delicious cake, I would have rung it right AWAY...
+Se soubesse que fosse servir um bolo tão delicioso, o tocaria IMEDIATAMENTE... 
 
 #v5275Oh, ...you're an angel...?! S-So that's why you're such an adorable kid...! 
+Oh, ...você é um anjo...?! Então é por isso que é uma criança tão adorável...!
 
 #v3842Strictly speaking, I'm a public servant working at the Great Court of HEAVEN. To call me an angel...makes me BLUSH. 
+Tecnicamente falando, sou uma servente pública trabalhando para a Grande Corte do CÉU. Me chamar de anjo... me faz CORAR.
 
 #v3843I-I'm no one SUSPICIOUS... ...So please, stop hitting ME. 
+N-Não sou nenhum SUSPEITO... ...Então, por favor, pare de me BATER.
 
 #v5276The front door is over there. Let's start this over from where you ring the bell. 
+A porta da frente está ali. Vamos recomeçar da parte onde você toca o sino.
+—ASSUMINDO: SHANNON VS DLANOR FIM—
 
+—ASSUMINDO: SHANNON VS WILL INICIO—
 #v5277...Forgive me. I have no idea what you're talking about. 
+...Desculpe-me. Não faço ideia do que está dizendo.
 
 #v5445I imagine so... ...I take back that question. Forget about it. 
+Imaginei... ...Retiro essa pergunta. Esquece.
 
 #v5278............ ......... ...... ...
 ............ ......... ...... ...
 
 #v5446...Or maybe not. ...I'll come back later. 
+...Ou talvez não. ...Volto depois.
 
 #v5447You really don't know Ushiromiya Lion, do you...? 
+Você realmente não conhece Ushiromiya Lion, não é...?
 
 #v5279...I've never heard of someone in the Ushiromiya family with that name... 
+...Nunca ouvi falar de ninguém na família Ushiromiya com esse nome...
+—ASSUMINDO: SHANNON VS WILL FIM—
 
+—ASSUMINDO: SHANNON VS BERNKASTEL INICIO—
 #v5280Beatrice-sama has ordered me to prevent anyone from crossing this point. 
+BEATRICE-sama me ordenou que impedisse qualquer um de cruzar este ponto.
 
 #v5796...Then let Beato know. ...This is going to cost her a lot...! 
+...Então diga a Beato. ...Que isso vai custar caro a ela...!
 
 #v5281Now, will you grant me a miracle of magic...? 
+E agora, vai me garantir um milagre mágico...?
 
 #v5797...You can be certain that no miracle will ever occur for you. ...Heheh, heheheheheheheh...! 
+...Pode ter certeza que um milagre jamais irá ocorrer para você. ...Heheh, heheheheheheheh...! 
 
 #v5798...That just happened to me, the Great Bernkastel...?! What's going on here?! Auau?! 
+...Acabou de ocorrer isso a mim, a Grande Bernkastel...?! O que está rolando aqui?! Auau?!
 
 #v5282Stand down. This game board won't welcome you anymore. 
+Retire-se. Este tabuleiro não lhe dá mais as boas-vindas.
+—ASSUMINDO: SHANNON VS BERNKASTEL FIM—
 
+—ASSUMINDO: SHANNON VS LAMBDADELTA INICIO—
 #vv5283Guest, your garments are dirty. Please, come this way...! 
+Convidada, suas roupas estão sujas. Venha, me acompanhe...!
 
 #v4779Aw, how nice of you! Hey! You're the one who got them dirty! 
+Aw, que simpático de sua parte! Ei! Foi você que as sujou!
 
 #v5284This is the strength of my will. ...Please, give me the power of certainty. 
+Esse é o poder de minha vontade. ...Por favor, me conceda o poder da certeza.
 
 #v4780You want to become a witch...? ...Hmm, what to do. ...That sounds interesting. 
+Quer se tornar uma bruxa...? ...Hmm, o que fazer. ...Isso parece interessante.
 
 #v4781Huh? Shortcake? ...Okay, I'll let you win today! 
+Hã? Shortcake? ...Muito bem, vou te deixar vencer hoje!
 
 #v5285...Th-Thank goodness. I managed to make a deal with the cake we had set aside for people to snack on... 
+...G-Graças a deus. Consegui fazer um acordo com o bolo que tínhamos separados para as pessoas lancharem.
+—ASSUMINDO: SHANNON VS LAMBDADELTA FIM—
 
+—ASSUMINDO: INICIO DAS LUTAS DO KANON—
+
+—ASSUMINDO: KANON VS BATTLER INICIO—
 #v0685I doubt there's any point in continuing this. You can't win against me. 
+Duvido que haja sentido em continuar com isso. Você não pode ganhar de mim.
 
 #v0265Aah, dammit! ...It looks like you're right...! I resign! 
+Aah, merda! ...Parece que você está certo...! Desisto!
 
 #v0686Forgive me. This is also part of my job. 
+Desculpe-me. Isso também é parte de meu trabalho.
 
 #v0266I see... It looks like you had more to do than care for the roses... 
+Entendo... parece que você tinha bem mais que fazer fora cuidar das rosas...
 
 #v0267I don't think you have me beat when it comes to power... Well, I guess this isn't arm wrestling... 
+Não acho que você tenha me derrotado no quesito de força... Bem, parece que isso não é queda de braço.
 
 #v0687This isn't about power. It takes speed to control a battle...! 
+Não se trata de força. É preciso velocidade para controlar a batalha...!
+—ASSUMINDO: KANON VS BATTLER FIM—
 
+—ASSUMINDO: KANON VS ANGE INICIO—
 #v0688To think that Ange-sama would know magic... 
+Quem diria que Ange-sama saberia magia...
 
 #v0415I guess this is as far as cramming will take me... ...What a letdown... 
+Parece esse é o mais longe que chegarei... ...Mas que decepção...
 
 #v0689To think that 12 years later, you would have gained such power... 
+E pensar que após 12 anos, você teria ganhado tal poder...
 
 #v0416And if I lost despite that, it means that's all my 12 years were worth... 
+E se apesar disso eu perdi, parece que todos os meus 12 anos só valeram isso...
 
 #v0690What a surprise. I never thought that six-year-old girl would... 
+Mas que surpresa. Nunca imaginei que uma criança de seis anos iria...
 
 #v0417This is meaningless. I'm still being treated like a six-year-old. That's pathetic... 
+Isso não faz sentido. Ainda estou sendo tratada como criança de seis anos. Que patético...
+—ASSUMINDO: KANON VS ANGE FIM—
 
+
+—ASSUMINDO: KANON VS VIRGILIA INICIO—
 #v0691I believe that settles it. Please forgive my rudeness. 
+Acredito que isso resolve o problema. Por favor, perdoe minha indelicadeza.
 
 #v1465It was a good victory, which allowed for a refreshing defeat. You've grown strong... 
+Foi uma boa vitória, que me garantiu uma derrota refrescante. Você se fortaleceu...
 
 #v1466To think you'd manage to repel my magic. ...I do admire your conviction. 
+Quem diria que seria capaz de repelir minha mágica. ...Admiro sua convicção.
 
 #v0692See, even I can win against witches. Don't be afraid...! 
+Viu, até eu posso ganhar contra bruxas. Não tema...!
 
 #v0693Virgilia-sama, please try to avoid pushing yourself too hard... 
+VIRGILIA-sama, por favor tente evitar se esforçar demais...
 
 #v1467My, my... I don't like it, but I shall do so. Make sure you do the same... 
+Minha nossa... não me agrada, mas o farei. Certifique-se de fazer o mesmo...
+—ASSUMINDO: KANON VS VIRGILIA FIM—
 
+—ASSUMINDO: KANON VS RONOVE INICIO—
 #v0694Ronove-sama...! Why did you let me win...?! 
+Ronove-sama...! Por que me deixou ganhar...?!
 
 #v1015Well now. Why might that be? Do you have any ideas? 
+Ora, ora. Por que será? Tem alguma ideia?
 
 #v0695I know. ...I can tell you were going easy on me. 
+Eu sei. ...Posso ver que estava pegando leve comigo.
 
 #v1016Go forth without saying anything. Consider this a farewell present... 
+Siga em frente sem dizer nada. Considere isso um presente de despedida...
 
 #v1017That's enough of this farce. Now, allow me to return to my work. 
+Chega dessa farsa. Agora, me permita retornar ao meu trabalho.
 
 #v0696So, I've been allowed to win. ...I must still be immature. 
+Então, a vitória foi concedida a mim. ...Ainda devo ser imaturo.
+—ASSUMINDO: KANON VS RONOVE FIM—
 
+—ASSUMINDO: KANON VS BEATRICE INICIO—
 #v0697Get up! You mustn't give in that easily! 
+Levante-se! Não deve desistir tão facilmente!
 
 #v0115To think I'd be unable to stand after a little thing like that...! My own weakness is merely laughable now! 
+E imaginar que eu seria incapaz de me levantar após uma coisinha dessas...! Minha fraqueza é de se dar risadas agora!
 
 #v0698Did you see that?! This is all of my strength...! 
+Prestou atenção?! Esta é toda minha força...!
 
 #v0116Why? What changed you?! How could you handle me so easily?! 
+Por quê? O que te mudou? Como pode ter lidado comigo tão facilmente?!
 
 #v0117<Congratulations, Kanonnn!!!> To think that you would beat meeee! 
+Congratulations, Kanooon!!! Queeeem diria que você me venceria!
 
 #v0699Is even this a farce? ...What an empty victory. 
+Isso também é uma farsa? ...Mas que vitória vazia.
+—ASSUMINDO: KANON VS BEATRICE FIM—
 
+—ASSUMINDO: KANON VS LUCIFER INICIO—
 #v0865I-Impossible, impossible I lost? To Kanon?! Impossible! 
+I-Impossível, impossível, eu perdi? Para o Kanon? Impossível! 
 
 #v0700Now are you happy? I'm the winner! 
+Está feliz agora? Sou o ganhador!
 
 #v0866This can't be! Something's wrong! I'm supposed to win! 
+Não pode ser! Algo não está certo! Eu deveria ter ganhado!
 
-#v0701You were too proud. Such arrogance is fatal...! 
+#v0701You were too proud. Such arrogance is fatal...!
+Você estava orgulhosa. Tal arrogância foi fatal...! 
 
 #v0702The lesson here is: don't keep looking down on me. 
+A lição aqui é: não fique me subestimando.
 
 #v0867N-Nnnngggg...!! How can that sissy Kanon...treat me like this...?!! 
+N-Nnnngggg...!! Como pode o maricas do Kanon...me tratar assim...?!!
+—ASSUMINDO: KANON VS LUCIFER FIM—
 
+—ASSUMINDO: KANON VS SHANNON INICIO—
 #v0703Sorry, Nee-san. ...It's the end of a fight we both agreed to accept. 
+Desculpe, nee-san, ...é a conclusão de uma luta que concordamos em aceitar.
 
 #v1165...Yeah. I know. ...Good luck...for my sake as well. 
+...É. Eu sei. ...Boa sorte... pelo meu bem também.
 
 #v0704Even I...don't want to give up on my feelings...! 
+Até mesmo eu...não quero desistir de meus sentimentos...!
 
 #v1166Yeah. You should be more honest with yourself. I'll be supporting you... 
+É. Você deve ser honesto consigo mesmo. Vou te apoiar...
 
 #v0705Why must I fight Nee-san... ...Is this fate...? 
+Por que devo enfrentar a nee-san... ...seria o destino...?
 
 #v1167Yes. So don't lament. It was already decided upon... 
+Sim. Por isso não lamente. Já havia sido decidido...
+—ASSUMINDO: KANON VS SHANNON FIM—
 
+—ASSUMINDO: KANON VS KANON INICIO—
 #v0706Damn witch. You know I hate myself...! 
+Maldita bruxa. Você sabe que me odeio...!
 
 #v0707Are you happy now, Kanon...? Now that you've torn me to pieces...?! Ahahahaha! 
+Está feliz agora, Kanon...? Agora que me rasgou em pedaços...?! Ahahahaha!
 
 #v0708I am me! I won't let anyone deny that! 
+Eu sou eu! Não deixarei ninguém negar isso!
 
 #v0709If I'd won, I'd have been able to say that to you... What a shame. ...Ahahaha! 
+Se eu tivesse ganhado, teria dito isso para você... mas que pena. ...Ahahaha!
 
 #v0710How can you surpass me?! You shouldn't have been able to predict my movements...! 
+Como pôde me superar?! Você não deveria conseguir prever meus movimentos...!
 
 #v0711I know my own weaknesses better than anyone. 
+Conheço minhas próprias fraquezas melhor que qualquer outro.
+—ASSUMINDO: KANON VS KANON FIM—
 
+—ASSUMINDO: KANON VS EVATRICE INICIO—
 #v0712You and I are very much alike. ...The darkness of the heart. 
+Você e eu temos muito em comum. ...A escuridão do coração.
 
 #v0535Huh?! What you mumbling about?! If only you'd just give up and die! 
+Hã?! O que está resmungando?! Por que não desiste e morre bem devagar!
 
 #v0536I'm the Golden Witch! How could I lose to lowly furniture?! Nng, ngaaaaaah!! 
+Sou a Bruxa Dourada! Como pude perder para uma mera mobília?! Nng, ngaaaaah!! 
 
 #v0713Were you drunk on power? What a pitiful witch...! 
+Se embebedou com o poder? Que bruxa deplorável...!
 
 #v0714What a fearsome person. Can people really become witches so easily...? 
+Mas que pessoa assustadora. Será que pessoas podem realmente se tornarem bruxas tão facilmente...?
 
 #v0537...Yeah, it is easy. Why don't you try solving that epitaph too? If you can! 
+...Sim, é fácil. Por que não tenta resolver o epitáfio também? Se você puder!
+—ASSUMINDO: KANON VS EVATRICE FIM—
 
+—ASSUMINDO: KANON VS CHIESTER410 INICIO—
 #v0715So you still underestimate me?! Well, this is your reward! 
+Então você ainda me subestima?! Bem, aqui está sua recompensa!
 
 #v1285Nihihihi... I guess...I underestimated you just a tiny little bit nyeh... Nihi... 
+Nihihihi... parece...que te subestimei um pouquinho, nyeh... Nihi...
 
 #v1286Th-That doesn't make sense nyeh... That strength is nothing like the Kanon from our information nyeh... 
+I-Isso não faz sentido, nyeh... essa forçã não se compara ao Kanon de nossas informações, nyeh...
 
 #v0716I'm too old to play house with rabbits. 
+Sou velha demais para brincar de casinha com coelhos.
 
 #v0717That bow of yours is no problem if I can get under your guard! 
+Esse seu arco não é problema se eu te pegar desprevenida!
 
 #v1287...If only 556 were here, I'd never let someone like this get through me... ...Kyuu. 
+...Se apenas a 556 estivesse aqui, não deixaria ninguém passar por mim assim... ...Kyuu.
+—ASSUMINDO: KANON VS CHIESTER410 FIM—
 
+—ASSUMINDO: KANON VS GEORGE INICIO—
 #v3048Will that do, George-sama...? 
+Foi suficiente, George-sama...?
 
 #v2676Yes, that will do fine. ...For some reason, I feel a bit refreshed too. 
+Sim, isso serve. ...Por algum motivo, me sinto refrescado também.
 
 #v3049I want to become a truly strong man...just like you, George-sama. 
+Quero me tornar um homem verdadeiramente forte...assim como você, George-sama.
 
 #v2677...That hurts. I'd rather have heard those words after winning. 
+...Isso doeu. Preferiria ouvir essas palavras após vencer.
 
 #v2678What a surprise. I never thought you'd be this strong. I honestly misjudged you. 
+Mas que surpresa. Nunca achei que você seria tão forte. Honestamente, te julguei mal.
 
 #v3050...Thank you very much. But I never wanted this cursed power... 
+...Muito obrigado. Mas nunca desejei este poder amaldiçoado...
+—ASSUMINDO: KANON VS GEORGE FIM—
 
+—ASSUMINDO: KANON VS JESSICA INICIO—
 #v3045Forgive me, Milady. Were you injured? 
+Me perdoe, ojou-sama. Está ferida?
 
 #v2871Owowow... You really are strong, Kanon-kun! I see you in a whole new light now...! 
+Aiaiai... você é realmente forte, Kanon-kun! Te enxergo de maneira totalmente diferente agora...!
 
 #v2872If I'd won, ...I would've wanted to hear your true name. 
+Se eu tivesse ganhado, ...gostaria de ter ouvido seu verdadeiro nome.
 
 #v3046I am...furniture. ...My real name is just... 
+Sou...mobília. ...Meu nome real é apenas...
 
 #v2873Losing against you, I have no regrets. Let's fight again! 
+Já que perdi para você, não tenho arrependimentos. Vamos lutar denovo!
 
 #v3047Perhaps at some other time. ...Right now, let's get you patched up. This will sting a bit. 
+Talvez outra hora. ...Por agora, vamos te tratar. Vai arder um pouco.
+—ASSUMINDO: KANON VS JESSICA FIM—
 
+—ASSUMINDO: KANON VS ROSA INICIO—
 #v3051Rosa-sama, pardon me. Allow me to treat your wounds. 
+Rosa-sama, perdoe-me. Me permita tratar de seus ferimentos.
 
 #v3201So, you won't kill me. ...Why not? Are you really not the culprit? 
+Então, você não vai me matar. ...Por que não? Realmente não é o culpado?
 
 #v3052What a surprise. I never knew you had such power, Rosa-sama. 
+Mas que surpresa. Não sabia que tinha tal poder, Rosa-sama.
 
 #v3202...All women grow stronger when they become mothers. ...Maria, ...forgive me... 
+...Todas as mulheres ficam mais fortes quando se tornam mães. ...Maria, ...me desculpe...
 
 #v3203Y-You really are the culprit, aren't you?! You cut everyone up with that thing, right?! 
+V-Você é realmente o culpado, não é?! Você cortou todos com essa coisa, né?
 
 #v3053...Rosa-sama, please calm yourself. ...Damn, she won't listen. 
+...Rosa-sama, por favor se acalme. ...Droga, ela não escuta.
+—ASSUMINDO: KANON VS ROSA FIM—
 
+—ASSUMINDO: KANON VS ERIKA INICIO—
 #v4683Pardon me, but I don't believe you're a suitable guest for this family. 
+Perdoe-me, mas não creio que você seja uma convidada apropriada para esta família.
 
 #v4196<Good.> ...Thanks for the lesson on how you welcome uninvited guests... 
+Good. ...Obrigada pela lição de como receber convidados inesperados...
 
 #v4684It doesn't matter how many times you come here! I'll throw you back into those depths over and over!! 
+Não importa quantas vezes venha aqui! Vou jogá-la de volta a estes abismos repetidamente!
 
 #v4197Gah...! I can't let my master see me being this pathetic...!! Nngg...ggg... 
+Gah...! Não posso deixar minha mestra me ver de maneira tão patética...!! Nngg...ggg..
 
 #v4198You think to disturb the detective's reasoning, ...despite being a mere servant...?! 
+Pretende perturbar o raciocínio da detetive, ...apesar de ser um mero serviçal...?!
 
 #v4685Sorry, but this island has no use for that reasoning. 
+Desculpe, mas esta ilha não precisa deste raciocínio.
+—ASSUMINDO: KANON VS ERIKA FIM—
 
+—ASSUMINDO: KANON VS DLANOR INICIO—
 #v3844You WON. If you aren't a bit more proud about it, even I will be INJURED. 
+Você GANHOU. Se não ficar um pouco mais orgulhoso disso, até eu ficarei FERIDA.
 
 #v4686What else am I supposed to do after winning against a kid? 
+O que mais deveria fazer após ganhar de uma criança?
 
 #v4687Your sleeve, there. ...You got it dirty a second ago. 
+Sua manga, aqui. ...Você sujou ela um segundo atrás.
 
 #v3845That is not GOOD. If I get my clothes dirty, Gertrude will be on my CASE! I must hurry home before she NOTICES! 
+Isso não é BOM. Se sujar minhas roupas, Gertrude vai entrar no meu CASO! Devo me apressar de volta para casa antes que ela NOTE!
 
 #v4688Then that will be all from me. I still need to care for the roses. 
+Bem, isso é tudo por minha parte. Ainda preciso ir cuidar das rosas.
 
 #v3846I envy your elegant JOB. ...If only you'd trade places with me and my STAMPING.
 Eu invejo o seu elegante TRABALHO. ...Se pudesse trocar de lugar comigo e meus CARIMBOS.
+—ASSUMINDO: KANON VS DLANOR FIM—
 
+—ASSUMINDO: KANON VS WILL INICIO—
 #v4689Are you done yet? If you're leaving, allow me to guide you. 
+Já acabou? Se estiver de saída, permita-me guiá-lo.
 
 #v5448...Yeah, I won't be getting any work done this way. ...Guess I'll come back later. 
+...É, não farei nenhum progresso desta maneira. ...Acho que vou voltar mais tarde.
 
 #v4690Pardon me, but those without invitations must leave. 
+Com licença, mas aqueles sem convites devem se retirar.
 
 #v5449Trust me, I would if I could. ...Damn that witch...couldn't you at least get me an invitation? 
+Acredite, eu teria um se pudesse. ...Maldita bruxa... não podia ao menos me conseguir um convite?
 
 #v5450Owowow!! What is it, Lion?! Why are you pinching my butt?! 
+Aiaii!! Qual foi, Lion?! Por que está beliscando minha bunda?!
 
 #v4691...Who is that person? They wear the crest of the One-Winged Eagle, ...but I don't recognize that face. 
+...Quem é esta pessoa? Traz consigo o brasão da Águia de Uma Asa, ...mas não reconheço este rosto.
+—ASSUMINDO: KANON VS WILL FIM—
 
+—ASSUMINDO: KANON VS BERNKASTEL INICIO—
 #v4692Disappear! ...I already have my fill of witches trying to deceive me! 
+Desapareça! ...Já me cansei de bruxas tentando me enganar!
 
 #v5799Sure, okay. I'll disappear for today. ...But who knows about tomorrow? *giggle*... 
+Certo, tudo bem. Desaparecerei por hoje. ...Mas sabe-se lá o que amanhã aguarda? *risadinha*...
 
 #v5800You winning...truly is a miracle. 
+Você vencer...certamente é um milagre.
 
 #v4693I-It's no miracle! This is the natural result of all my efforts! 
+N-Não é um milagre! Esse é resultado natural de todo o meu esforço!
 
 #v4694She disappeared... ...Was she an illusion...?! ......Dammit, is this yet another farce...?
-Ela desapareceu... É um ilusão...?! ......Merda, é mais uma farsa...?
+Ela desapareceu... É uma ilusão...?! ......Merda, é mais uma farsa...?
 
 #v5801*giggle* ...That was a well-fought battle. Why don't I let you get your reward? 
 *risos* ...Foi uma batalha bem disputada. Acho que o deixarei com uma recompensa?
+—ASSUMINDO: KANON VS BERNKASTEL FIM—
 
+—ASSUMINDO: KANON VS LAMBDADELTA INICIO—
 #v4782Hey! How can you be so merciless against a lady?! 
 Ei! Como pode ser tão impiedoso com uma dama?!
 
@@ -6597,13 +6876,19 @@ Que tal, bruxa? Não tente fazer com que eu me perca novamente!!
 
 #v4784Owww! You idiot, can't you go easy just a little bit?! Bern, avenge me! 
 Aiii! Seu idiota, não pode pegar um pouco mais leve?! Bern, me vingue!
+—ASSUMINDO: KANON VS LAMBDADELTA FIM—
 
+—ASSUMINDO: INICIO DAS LUTAS DA EVATRICE—
+
+—ASSUMINDO: EVATRICE VS BATTLER INICIO—
 #v0268Aaah, ...it's useless, ...it's all useless... How could I...lose at a time like this?! 
 Aaah, ...isso não está certo, ...não está nada certo... ...Como eu pude...perder num momento desses?!
 
 #v0538Kyahahaha! What's that supposed to mean?! If only you'd just give up and die?! 
 Kyahahaha! O que isso deveria significar? Era melhor ter desistido e morrido bem devagar!
-#v0539Hey, Battler-kuuun. Is someone as young as you really calling it quits after just that? 
+
+#v0539Hey, Battler-kuuun. Is someone as young as you really calling it quits after just that?
+Ei, Battler-kuuun. Alguém tão jovem como você está realmente desistindo após só isso? 
 
 #v0269Damn you, could you stop saying that already... Dammit...! 
 Merda, dá para parar de dizer isso...? Droga...!
@@ -6613,8 +6898,11 @@ Eu ainda não perdi! Ainda não! Merda, levante, corpo...!!
 
 #v0540You really are just like Rudolf used to be! And that includes how it feels to punch you. *giggle*! 
 Você é igualzinho a como o Rudolf costumava ser! E isso inclui a sensação do soco dele. *risos*!
+—ASSUMINDO: EVATRICE VS BATTLER FIM—
 
+—ASSUMINDO: EVATRICE VS ANGE INICIO—
 #v0541I'm doing this out of concern for you, okay? Not out of hatred! 
+Faço isso por me preocupar com você, beleza? Não é por ódio!
 
 #v0418I'm tired of hearing that! Is that how far you're willing to go to hide the truth from me?! 
 Estou cansado de ouvir isso! Chega a esse ponto a sua vontade de esconder a verdade de mim?!
@@ -6623,121 +6911,196 @@ Estou cansado de ouvir isso! Chega a esse ponto a sua vontade de esconder a verd
 Ah, mas que criança patética! O George era cem vezes mais maravilhoso!
 
 #v0419Yeah, just keep on clinging to that ghost of 12 years ago. That's what I'll do too... 
-Isso, continue apegada a esse fantasma de 12 anos atrás. É o que eu farei também...
+Isso, continue apegada a esse fantasma de 12 anos atrás. É o que farei também...
 
 #v0543You really are an uncute girl! If only you'd just give up and die. 
 Você não é nada fofa! Por que não desiste e morre bem devagar?
 
 #v0420Sure, thanks. I'll be doing that before too long, so don't worry...! 
 Claro, obrigada. Estarei fazendo isso logo mais, não se preocupe...!
+—ASSUMINDO: EVATRICE VS ANGE FIM—
+
+—ASSUMINDO: EVATRICE VS VIRGILIA INICIO—
 #v1468Have I failed once again to communicate the proper use of magic...? 
+Será que falhei mais uma vez em comunicar o uso apropriado da magia...?
 
 #v0544Kyahahahaha! Why don't you huddle under a kotatsu and eat oranges, you old hag?! 
+Kyahahahaha! Por que não se encolhe num kotatsu e come laranjas, sua bruxa velha?!
 
 #v0545This is the power of the new Beatrice. Was it to your liking? 
+Esse é o poder da nova BEATRICE. Gostou?
 
 #v1469Why do you let the Endless Magic overwhelm you...? Magic is to be used for the sake of happiness... 
+Por que deixa a Magia do Infinito te dominar...? Magia deve ser usada pelo bem da felicidade...
 
 #v0546I hate being lectured by old hags! If only you'd just give up and die! 
+Odeio ser ensinada por velhotas! Por que não desiste e morre bem devagar!
 
 #v1470How can I make you understand...? Understand how wonderful and precious magic truly is...! 
+Como posso te fazer entender...? Entender quão maravilhosa e preciosa a magia realmente é...!
+—ASSUMINDO: EVATRICE VS VIRGILIA FIM—
 
+—ASSUMINDO: EVATRICE VS RONOVE INICIO—
 #v0547So? Am I a bit different from your former master? 
+Então? Sou um pouco diferente de sua antiga mestra?
 
 #v1018Impressive... It would seem you are quite accomplished when it comes to brutality... 
+Impressionante... Parece que você é bem dotada quando se trata de brutalidade...
 
-#v0548Ah, what a letdown. I figured you'd be a bit more capable than this. 
+#v0548Ah, what a letdown. I figured you'd be a bit more capable than this.
+Ah, mas que decepção. Pensei que seria um pouco mais capaz que isso. 
 
 #v1019My, my... My apologies for not living up to your expectations... 
+Minha nossa... minhas desculpas por não alcançar suas expectativas...
 
 #v0549What a useless man! If only you'd just give up and die! 
+Mas que homem inútil! Por que não desiste e morre bem devagar!
 
 #v1020Very well then. First, though, perhaps I should practice my yoga... 
+Muito bem. Mas primeiro, talvez eu deva praticar meu yoga...
+—ASSUMINDO: EVATRICE VS RONOVE FIM—
 
+—ASSUMINDO: EVATRICE VS BEATRICE INICIO—
 #v0550The power of magic really is wonderful! You have my gratitude, Predecessor-sama! 
+O poder da mágica realmente é maravilhoso! Você tem minha gratidão, antecessora-sama!
 
 #v0118...I-Indeed. You've managed to make good use of it... Even I am surprised... 
+...D-De fato. Você realmente conseguiu usá-la bem... estou surpresa...
 
 #v0551Oh, Predecessor-sama! Why are you crawling on the floor?! 
+Oh, antecessora-sama! Por que está se rastejando no chão?!
 
 #v0119Th-This is a popular pose these days... Nng, owowow... 
+I-Isso é popular nos dias de hoje... Nng, aiaiaii...
 
 #v0552I won't follow your orders! If only you'd just give up and die! 
+Não seguirei suas ordens! Por que não desiste e morre bem devagar!
 
 #v0120Now I know how Teacher felt... A failed disciple of a failed disciple, is it...?! 
+Agora sei como a professora se sente... uma discípula fracassada de uma discípula fracassada, não é...?! 
+—ASSUMINDO: EVATRICE VS BEATRICE FIM—
 
+—ASSUMINDO: EVATRICE VS LUCIFER INICIO—
 #v0868E-Eeeeeep...! I was a fool to draw my blade on you...! Forgive me...! 
+A-Aiiiiiii...! Fui uma tola por desembainhar minha espada contra você...! Me perdoe...!
 
 #v0553Ah, what a killjoy. Yeah, these hand-me-downs from my Predecessor-sama really are useless. 
+Ah, que estraga prazeres. É, essas heranças de minha antecessora realmente são inúteis.
 
 #v0554I hate secondhand goods. Isn't there any furniture suitable for me?! 
+Odeio esses bens de segunda mão. Não tem nenhuma mobília adequada para mim?!
 
 #v0869Y-You dare to call us s-secondhand furniture... ...Nngg... 
+V-Você ousa nos chamar de b-bens de segunda mão... ...Nngg...
 
 #v0555You really are useless! If only you'd just give up and die! 
+Você realmente é inútil!! Por que não desiste e morre bem devagar!
 
 #v0870F-Forgive me! Please, anything but that...!! 
+D-Desculpe-me! Por favor, qualquer coisa menos isso...!!
+—ASSUMINDO: EVATRICE VS LUCIFER FIM—
 
+—ASSUMINDO: EVATRICE VS SHANNON INICIO—
 #v1168H-How can you use magic...?! Don't tell me...! 
+C-Como consegue usar magia...?! Não me diga...!
 
 #v0556Heheheh, sorry, Shannon-chan. I've become a witch...! 
+Heheheh, desculpe, Shannon-chan. Me tornei uma bruxa...!
 
 #v0557How could such a shameful girl ever be a match for George?! 
+Como poderia uma garota tão vergonhosa estar à altura do George?!
 
 #v1169...Y-Yes Ma'am... George-sama is a wonderful man... I'm no match for him... 
+...S-Sim senhora... George-sama é um homem maravilhoso... não estou à altura dele...
 
 #v0558Never get near George again! If only you'd just give up and die! 
+Nunca mais se aproxime do George! Por que não desiste e morre bem devagar!
 
-#v1170...George-san... ...This is as far as I can go. ...I'm sorry... 
+#v1170...George-san... ...This is as far as I can go. ...I'm sorry...
+...George-san... ...Aqui é o mais longe que conseguirei chegar. ...Sinto muito...
+—ASSUMINDO: EVATRICE VS SHANNON FIM— 
 
+—ASSUMINDO: EVATRICE VS KANON INICIO— 
 #v0559*giggle* A boy needs to build up a little more strength than that. Take a look at George. 
+*gargalhada* Um garoto precisa de um pouco mais que força que isso. Olhe para o George.
 
 #v0718D-Damn you...! I hate my pitiful body...! Nngg...! 
+D-Droga...! Odeio meu corpo patético...! Nngg...!
 
 #v0560I like young kids, but even that won't save you, you little brat...! 
+Gosto de garotos jovens, mas até mesmo isso não te salvará, seu pestinha...!
 
 #v0719I-I can't let you get away with calling me a brat...! Take it back... Take it back! 
+N-Não te deixarei se safar de me chamar de pestinha...! Retire o que disse... retire!
 
 #v0720Is this where my fate ends...? Nee-san, ...forgive me... 
+É aqui que meu destino termina...? Nee-san, ...perdoe-me...
 
 #v0561That's it! I love that pain-ridden little face! If only you'd just give up and die! 
+É isso! Amo esse rostinho cheio de dor! Por que não desiste e morre bem devagar!
+—ASSUMINDO: EVATRICE VS KANON FIM— 
 
+—ASSUMINDO: EVATRICE VS EVATRICE INICIO— 
 #v0562Women always become more beautiful and brutal than who they were yesterday. 
+Mulheres sempre ficam mais bonitas e brutais do que eram ontem.
 
 #v0563...I hate to admit it, but it looks like you're the real me... 
+...Odeio admitir, mas parece que você é a verdadeira eu...
 
 #v0564T-To think that my magic wouldn't work...! I should be the real one...! 
+C-Como pode minha magia não funcionar...! Eu deveria ser a verdadeira...!
 
 #v0565Is that all? I knew you weren't really me! 
+Isso é tudo? Sabia que você não era a verdadeira eu!
 
 #v0566Heh, heheheh... I guess switching places with you was impossible after all... 
+Heh, heheheh... parece que trocar de lugar com você é impossível, no final das contas...
 
 #v0567So long, fake! If only you'd just give up and die! 
+Adeus, farsa! Por que não desiste e morre bem devagar!
+—ASSUMINDO: EVATRICE VS EVATRICE FIM— 
 
+—ASSUMINDO: EVATRICE VS CHIESTER410 INICIO— 
 #v0568Are you really furniture suitable for me? I'm not so sure anymore. 
+Você realmente é uma mobília adequada para mim? Não tenho mais certeza.
 
 #v1288Ukyuu. That ends this demonstration nyeh...*collapses*... 
+Ukyuu. Este é o fim da demonstração, nyeh...*desaba*...
 
 #v0569What's with those ears?! They're embarrassing, so I'll pull them out for you! 
+Por que as orelhas?! Elas são constrangedoras, então vou removê-las para você!
 
 #v1289Nyeh?! Not the ears nyeh! Ukyu?! Ukyuukyuukyuu! 
+Nyeh?! As orelhas não! Ukyu! Ukyuukyuukyuu! 
 
 #v1290I-I give up nyeh. I can't beat you, EVA-sama nyeh... 
+D-Desisto, nyeh. Não posso vencer você, EVA-sama, nyeh...
 
 #v0570And you call yourself my furniture?! If only you'd just give up and die! 
+E você se autodenomina minha mobília?!  Por que não desiste e morre bem devagar!
+—ASSUMINDO: EVATRICE VS CHIESTER410 FIM— 
 
+—ASSUMINDO: EVATRICE VS GEORGE INICIO— 
 #v2613George, you understand now, right? I've got the most suitable girl for you! 
+George, você entende agora, não é? Tenho a garota mais adequada para você!
 
 #v2679I don't understand... I'm not a kid either! I won't do whatever you say, Mother! 
+Não entendo...não sou uma criança também! Não farei tudo que você disser, mãe!
 
 #v2614This is so fun, George! So much fun! 
+Isso é tão divertido, George! Tão divertido!
 
 #v2680Well, I can't be upset if you're enjoying yourself... 
+Bem, não posso ficar irritado se você está se divertindo...
 
 #v2681Mother! Why won't you listen to me...?! 
+Mãe! Por que não me escuta...?!
 
 #v2615I am listening! Why don't you do what I say?! 
+Estou ouvindo! Por que não faz o que digo?!
+—ASSUMINDO: EVATRICE VS GEORGE FIM— 
 
+—ASSUMINDO: EVATRICE VS JESSICA INICIO— 
 #v2610What's wrong, Jessica-chan? Why are you taking a nap in a place like that?
 O que aconteceu, Jessica-chan? Por que está cochilando num lugar desses?
 
@@ -6755,7 +7118,9 @@ A tia Eva é uma bruxa? Não dá pra acreditar! O que está acontecendo aqui?!
 
 #v2612Can't you tell by looking? I am the Golden Witch! Beatrice!! 
 Não consegue dizer só de olhar? Eu sou a Bruxa Dourada! BEATRICE!!
+—ASSUMINDO: EVATRICE VS JESSICA FIM— 
 
+—ASSUMINDO: EVATRICE VS ROSA INICIO— 
 #v2616It's no use! Both the gold and the Ushiromiya Family belong to me! 
 É inútil! Tanto o ouro quanto a família Ushiromiya pertencem a mim!
 
@@ -6769,11 +7134,13 @@ Kyahaha! Ei, Rosa! Vamos brincar como quando éramos crianças!
 Pare com isso! Não suporto mais ser o seu passatempo!!	
 
 #v3206Please, Nee-san! At least spare Maria... At least her...! 
-Por favor, nee-san. Ao menos poupe a Maria... Ao menos ela...!
+Por favor, nee-san. Ao menos poupe a Maria... ao menos ela...!
 
 #v2618I'm the Golden Witch, Beatrice!! Do you know what that means? 
 Eu sou a Bruxa Dourada, BEATRICE!! Sabe o que isso significa?
+—ASSUMINDO: EVATRICE VS ROSA FIM— 
 
+—ASSUMINDO: EVATRICE VS ERIKA INICIO— 
 #v4449Comrade Erika, you've already served your purpose. Hurry up and return to nothingness. 
 Confrade Erika, você já serviu ao seu propósito. Anda logo e retorne ao nada.
 
@@ -6781,7 +7148,7 @@ Confrade Erika, você já serviu ao seu propósito. Anda logo e retorne ao nada.
 Ngg...! Irei relatar isto a minha mentora, não tema...!
 
 #v4450As the lid of the cat box, I can't afford to lose here. 
-Sendo a tamba da caixa de gato, não posso bancar uma derrota aqui.
+Sendo a tampa da caixa de gato, não posso bancar uma derrota aqui.
 
 #v4200...<Good.> Now I'm even more determined to pry it open. 
 ...Good. Agora estou ainda mais determinada a abri-la. 
@@ -6791,12 +7158,14 @@ Deixarei que fique com essa vitória. Não confunda as coisas.
 
 #v4451*giggle* Thanks. But the ends are all that matter, understand...? 
 *risos*Obrigada. Mas o final é tudo o que importa, compreende...?
+—ASSUMINDO: EVATRICE VS ERIKA FIM— 
 
+—ASSUMINDO: EVATRICE VS DLANOR INICIO— 
 #v4452Sorry about this, okay? I'm going to shut the lid on the cat box. 
 Desculpe por isso, tá? Eu vou fechar a tampa da caixa.
 
 #v3847There is nothing I can do but remain silent, even with the Single Truth right in front of ME... 
-Não há nada que eu possa fazer além de permanecer em silêncio, mesmo com a Única Verdade diante de mim...
+Não há nada que eu possa fazer além de permanecer em silêncio, mesmo com a Única Verdade diante de MIM...
 
 #v4453Leave it to me. ...I'm the guardian of this cat box. 
 Deixe isso para mim. ...Eu sou a guardiã desta caixa de gato.
@@ -6809,7 +7178,9 @@ Consigo entender o que a levou a herdar a posição de Bruxa Dourada, BEATRICE.
 
 #v4454*giggle* ...Thanks. Next time, come at me more seriously, okay? 
 *risos* ...Obrigada. Na próxima vez, venha com mais seriedade, certo?
+—ASSUMINDO: EVATRICE VS DLANOR FIM— 
 
+—ASSUMINDO: EVATRICE VS WILL INICIO— 
 #v4455No matter who you are, ...I won't let you open the cat box! 
 Não importa quem é você, ...eu não deixarei que abra a caixa.
 
@@ -6827,7 +7198,9 @@ Não esperava menos da Bruxa Dourada BEATRICE. Acho que você não vai facilitar
 
 #v4457I'm more than just 'not easy'. If you still think that, how about another go? 
 Sou muito mais que 'não tão fácil'. Se ainda pensa assim, que tal outra rodada?
+—ASSUMINDO: EVATRICE VS WILL FIM— 
 
+—ASSUMINDO: EVATRICE VS BERNKASTEL INICIO— 
 #v4458Thank you for being my opponent, my master. Perhaps you would like to lie down? 
 Agradeço por ser minha oponente, minha mentora. Talvez queira se deitar agora?
 
@@ -6844,8 +7217,10 @@ Irei destruir essa tampa.
 Como isso pôde acontecer comigo...?! É impossível! Deve haver algum engano!
 
 #v4460The things I protect and the burdens I bear are on a whole different scale from yours! 
-As coisas que eu protejo e o peso que carrego estão numa escala completamente diferente das suas1
+As coisas que eu protejo e o peso que carrego estão numa escala completamente diferente das suas!
+—ASSUMINDO: EVATRICE VS BERNKASTEL FIM— 
 
+—ASSUMINDO: EVATRICE VS LAMBDADELTA INICIO— 
 #v4461I did go easy on you. Are you okay, you cute little girl? 
 Eu peguei tão leve. Você está bem, jovenzinha?
 
@@ -6863,6 +7238,7 @@ B-Bem, se insiste. Chega de treino por hoje!
 
 #v4463*giggle* Oh, so we were training? I just assumed that you were serious...and also pathetically weak. 
 *risos* Oh, então estávamos treinando? Eu supus que você estava séria...e pateticamente fraca.
+—ASSUMINDO: EVATRICE VS LAMBDADELTA FIM— 
 
 #v0271Damn you, hopping around all over the place! Take this fight seriously...! 
 Maldito, pulando por todo lado! Leve essa luta a sério...!
@@ -7134,257 +7510,425 @@ Pois BEM. Você tem meu sincero RESPEITO. Desta vez, eu abrirei mão de confisc�
 #v5354Mission Complete! Silencing of Target Dlanor Confirmed! 
 Missão completa! Silêncio do alvo Dlanor: confirmado!
 
+—ASSUMINDO: CHIESTER410 VS WILL INICIO— 
 #v5355Hot guys are cool even when they withdraw nyeh. 
+Gostosos são estilosos até mesmo quando recuam, nyeh.
 
 #v5454...Tch. I'll let you flatter me for now. Next time, remember this. 
+...Tch. Vou te deixar me lisonjear por enquanto. Da próxima vez, lembre-se disso.
 
 #v5356See! Rabbits are better than cats nyeh! Hahah! 
+Viu! Coelhos são melhores que gatos, nyeh! Hahah!
 
 #v5455I'm a cat lover. I've got no desire to switch over to rabbits. 
+Sou um amante de gatos. Não tenho intenção de mudar para coelhos.
 
 #v5456What on earth... I was right to retire. ...To think I would have dulled this much... 
+Que diabos...eu estava certo em me aposentar. ...E imaginar que eu teria enfraquecido tanto...
 
 #v5357Mission Complete! Silencing of Target Willard Confirmed! 
+Missão completa! Silenciamento do alvo Willard confirmado!
+—ASSUMINDO: CHIESTER410 VS WILL FIM— 
 
+—ASSUMINDO: CHIESTER410 VS BERNKASTEL INICIO— 
 #v5358Nihihi! Well then, Lady Bernkastel, allow me to take my leave nyeh! 
+Nihihi! Muito bem, Lady BERNKASTEL, permita que eu me retire, nyeh!
 
 #v5805A good decision. I was planning to knock those ears off with my next strike. 
+Uma boa decisão. Estava planejando arrancar essas orelhas com meu próximo golpe.
 
 #v5359Thanks for playing with me nyeh! That was fun nyeh! 
+Obrigada por brincar comigo, nyeh! Foi divertido, nyeh!
 
 #v5806Yeah. That was so fun, I almost made a rabbit hamburger. 
+É. Foi tão divertido, quase fiz um hambúrguer de coelho.
 
 #v5807...How could I...how could I... Nngg, damn...you...! 
+...Como pude...como pude... Nngg, merda...você...!
 
 #v5360Mission Complete! Silencing of Target Great Lady Bernkastel Confirmed! 
+Missão completa! Silenciamento da Grande Lady BERNKASTEL confirmado!
+—ASSUMINDO: CHIESTER410 VS BERNKASTEL FIM— 
 
+—ASSUMINDO: CHIESTER410 VS LAMBDADELTA INICIO— 
 #v5361Come on! Give me all those candies you're hiding, Lady Lambdadelta nyeh! 
+Vamos lá! Me dê todos esses doces que está escondendo, Lady LAMBDADELTA, nyeh!
 
 #v4788Owowowow! That's all of them, really! There aren't any more! 
+Aiaiaiaii! Esses eram todos, juro! Não tem mais nenhum!
 
 #v5362Nihihi! I'm glad you went easy on me, Lady Lambdadelta nyeh! 
+Nihihi! Estou feliz que tenha pegado leve comigo, Lady LAMBDADELTA, nyeh!
 
 #v4789Of course! I went easy on you! Don't get the wrong idea! 
+Mas é claro! Peguei leve com você! Não confunda as coisas!
 
 #v4790I go easy on you, and you get all uppity! You little rabbit! 
+Pego leve com você, e você fica toda convencida! Sua coelhinha!
 
 #v5363Mission Complete! Silencing of Target Great Lady Lambdadelta Confirmed! 
+Missão completa! Silenciamento do alvo Grande Lady LAMBDADELTA confirmado!
+—ASSUMINDO: CHIESTER410 VS LAMBDADELTA FIM— 
 
+—ASSUMINDO: GEORGE VS BATTLER INICIO— 
 #v2685A man becomes a man when he's able to brush off the sparks that fall upon him. 
+Um homem torna-se um homem quando consegue varrer as faíscas que caem sobre ele.
 
 #v2529That's awesome, Aniki. You're too cool! Teach me how to use some of those kicks too! 
+Isso é incrível, aniki. Você é muito maneiro! Me ensine como usar algum desses chutes também!
 
 #v2530I-It's no use, I'm no match for you...! 
+N-Não adianta, não sou páreo para você...!
 
 #v2686Will you really be able to protect the woman you love like that? You've got to start training too, Battler-kun! 
+Você será mesmo capaz de proteger a mulher que ama assim? Você deve começar a treinar também, Battler-kun!
 
 #v2687Even I wasn't studying all the time. 
+Até mesmo eu não estudei o tempo todo.
 
 #v2531Dammit! Those glasses had me completely fooled...! 
+Merda! Esses óculos me enganaram completamente...!
+—ASSUMINDO: GEORGE VS BATTLER FIM—
 
+—ASSUMINDO: GEORGE VS ANGE INICIO—  
 #v2688So, you're 18 now, Ange-chan. Shouldn't you start acting a bit more ladylike? 
+Então, você tem 18 anos agora, Ange-chan. Não deveria agir mais como uma donzela? 
 
 #v2574...I'll pass. I've already had my fill of Aunt Eva telling me that. 
+...Dispenso. Já me cansei da tia Eva me dizer isso.
 
-#v2575Maybe I could've become strong too, if I'd studied under Aunt Eva... 
+#v2575Maybe I could've become strong too, if I'd studied under Aunt Eva...
+Talvez eu poderia ter me fortalecido também, se tivesse estudado com a tia Eva... 
 
 #v2689You could have. My mother was an expert in the martial arts...! 
+Você poderia. Minha mãe era uma especialista em artes marciais...!
 
 #v2576I-I thought you were skinnier than that... I let my guard down. 
+P-Pensei que você era mais magro que isso...abaixei minha guarda.
 
 #v2690If you're judging your opponent by how they look, you still have a long way to go, Ange-chan. 
+Se está julgando seu oponente por suas aparências, então ainda tem um longo caminho pela frente, Ange-chan.
+—ASSUMINDO: GEORGE VS ANGE FIM—  
 
+—ASSUMINDO: GEORGE VS VIRGILIA INICIO—  
 #v2691Is that checkmate, young lady...? 
+Foi um cheque-mate, jovem donzela...?
 
 #v3474Y-Young lady? Umm...hohoho, you are too kind. 
+J-Jovem donzela? Hmmm...hohoho, você é muito gentil.
 
 #v3475Congratulations on managing to train yourself this far. That truly was splendid. 
+Parabéns por conseguir se treinar tanto. Foi realmente esplêndido.
 
 #v2692Thanks. But I still have a lot to learn. I'll continue to train. 
+Obrigado. Mas ainda tenho muito a aprender. Continuarei treinando.
 
 #v2693I don't want to hurt a woman. Would you mind surrendering? 
+Não quero machucar uma mulher. Se importa em se render?
 
-#v3476How kind you are. Then allow me to take you up on that offer... 
+#v3476How kind you are. Then allow me to take you up on that offer...
+Você é muito gentil. Permita-me aceitar sua oferta então... 
+—ASSUMINDO: GEORGE VS VIIRGILIA FIM—  
 
+—ASSUMINDO: GEORGE VS RONOVE INICIO—
 #v2694Thanks for going easy on me. Were you just letting me have a little fun...? 
+Obrigado por pegar leve comigo. Estava me deixando me divertir um pouco...?
 
 #v3144So, you noticed. I, Ronove, surrender completely. 
+Então você notou. Eu, Ronove, desisto completamente.
 
 #v3145You once seemed such an unreliable man. To think that you have grown so far... 
+Antes você parecia um homem tão inseguro. Quem diria que você cresceria tanto...
 
 #v2695My old self isn't the issue. The future self I want to become is what matters. 
+Meu velho eu não é o problema. O futuro eu que quero me tornar é o que importa.
 
 #v2696After all, a demon king needs to rule over everyone. A demon such as yourself is no exception. 
+No fim das contas, um rei-demônio precisa reinar sobre todos. Um demônio como você não é exceção.
 
 #v3146My, my, how impressive. How terribly rude I've been to your highness... 
+Minha nossa, que impressionante. Quão rude fui para com vossa majestade...
+—ASSUMINDO: GEORGE VS RONOVE FIM—  
 
+—ASSUMINDO: GEORGE VS BEATRICE INICIO—
 #v2697I hope you'll put a stop to these bizarre crimes before I get serious. 
+Espero que pare esses crimes bizarros antes que eu fique sério.
 
 #v2484...H-Hoh... It seems I underestimated the piece that you are... 
+...H-Hoh... Parece que subestimei sua peça...
 
 #v2485Th-That's crazy!! How could I lose to someone like George?!! 
+I-Isso é maluquice!! Como pude perder para alguém como o George?!!
 
 #v2698Probably because you're weak enough to lose to someone like me. 
+Provavelmente porque é fraca o suficiente para perder para alguém como eu.
 
 #v2486Nnngg! We'll call this my loss, but don't expect the same thing to happen twice...! 
+Nnngg! Vamos considerar isso minha derrota, mas não espere que o mesmo se repita...!
 
 #v2699I agree, Beatrice. Next time, I'll take this seriously. 
+Concordo, BEATRICE. Da próxima vez, vou levar isso com seriedade.
+—ASSUMINDO: GEORGE VS BEATRICE FIM—
 
+—ASSUMINDO: GEORGE VS LUCIFER INICIO—
 #v2700Is that all you've got, you adorable young lady? 
+Isso é tudo que tem, adorável mocinha?
 
-#v3099...H-How can you call me...an adorable young lady... ...Agh... 
+#v3099...H-How can you call me...an adorable young lady... ...Agh...
+...C-Como pode me chamar de...adorável mocinha... ...Agh... 
 
 #v3100...I-I can't win... Surrender is my only option... Nnng... 
+...N-Não posso ganhar... Rendição é minha única opção... Nnhg...
 
 #v2701Good. I'll accept your surrender and praise your courage. 
+Bom. Aceitarei sua rendição e elogiarei sua coragem.
 
 #v2702Yes, I was going easy on you. ...If I damaged your pride, allow me to apologize. 
+Sim, eu estava pegando leve com você. ...Se machuquei seu orgulho, me permita que me desculpe.
 
 #v3101......Nng. ...And yet, I was taking it seriously...and lost... I hate this...! 
+......Nng. ...Mas, eu estava levando isso a sério...e perdi... odeio isso...!
+—ASSUMINDO: GEORGE VS LUCIFER FIM—
 
+—ASSUMINDO: GEORGE VS SHANNON INICIO—
 #v2703Do you believe it now? That I'm the knight who's going to protect you? 
+Acredita agora? Que sou o cavaleiro que protegerá você?
 
 #v3384...Y-Yes... Thank you very much, ...George-san... 
+...S-Sim... Muito obrigada, ...George-san...
 
 #v3385George-san, ...y-you really are...umm...tough... 
+George-san, ...v-você é...hmm...forte...
 
 #v2704Aren't I? I was reborn in order to make you mine. 
+Não sou? Renasci para poder te fazer minha.
 
 #v3386How did you know...that I wasn't Shannon...? 
+Como sabia...que eu não era a Shannon...?
 
-#v2705I'm not blind. ...If you're going to copy her, do a better job than that. 
+#v2705I'm not blind. ...If you're going to copy her, do a better job than that.
+Não sou cego. ...Se vai copiar ela, faça melhor que isso.
+—ASSUMINDO: GEORGE VS SHANNON FIM—
 
+—ASSUMINDO: GEORGE VS KANON INICIO—
 #v2706You were a bit too rushed. If you don't have a little peace in your heart, I'll read your moves easily. 
+Você foi muito apressado. Se não tiver um pouco de paz em seu coração, lerei seus movimentos facilmente.
 
 #v3054...Peace in my heart...? I don't understand....Is that why I can't win...?! 
+...Paz em meu coração...? Não entendo...é por isso que não consigo ganhar...?!
 
 #v3055No loser wants to be comforted! ...I'm...pathetic...! 
+Nenhum perdedor quer ser confortado! ...Sou...patético...!
 
 #v2707If you close off your heart, you won't be able to grow. 
+Se fechar seu coração, não será capaz de crescer.
 
 #v3056How...can I become strong like you, George-sama? 
+Como...posso me tornar forte como você, George-sama?
 
 #v2708When you find someone you love, I'm sure you'll understand, Kanon-kun. 
+Quando encontrar alguém que ama, tenho certeza que conseguirá entender, Kanon-kun.
+—ASSUMINDO: GEORGE VS KANON FIM—
 
+—ASSUMINDO: GEORGE VS EVATRICE INICIO—
 #v2709You aren't young anymore, Mother. Maybe you shouldn't overdo it. 
+Você não é mais jovem, mãe. Talvez não devesse exagerar.
 
 #v2619...George... Why can't you understand how I feel...?! 
+...George... por que não consegue entender como me sinto...?!
 
 #v2620Break up with that woman...! There are others more suitable for you! 
+Separe-se dessa mulher...! Existem outras mais adequadas para você!
 
 #v2710Sorry, Mother. I get to decide who my partner is. And I've already decided. 
+Desculpe, mãe. Eu decido quem é minha parceira. E já decidi.
 
 #v2711Mother, if you're going to be a wall between me and Shannon, ...I'll break that wall down without mercy. 
+Mãe, se vai se tornar uma parede entre mim e Shannon, ...quebrarei essa parede sem misericórdia.
 
 #v2621George! Wait, Geooooooorge! 
+George! Espera, Geooooooorge!
+—ASSUMINDO: GEORGE VS EVATRICE FIM—
 
+—ASSUMINDO: GEORGE VS CHIESTER410 INICIO—
 #v2712Sorry, but your attacks don't affect me. 
+Desculpe, mas seus ataques não me afetam.
 
 #v3429I-I'm not sure if having that spelled out is painful or just disappointing nyeh... 
+N-Não tenho certeza se ouvir isso é doloroso ou apenas desapontador, nyeh...
 
 #v3430I-I underestimated George nyeh... This guy's not so bad nyeh... 
+E-Eu subestimei o George, nyeh... Esse cara não é tão ruim, nyeh...
 
 #v2713Thanks for changing your opinion of me. It looks like I won't need to go easy on you next time. 
+Obrigado por mudar sua opinião sobre mim. Parece que não precisarei pegar leve com você da próxima vez.
 
 #v2714You may be a rabbit, but if you sleep out in the open like that, you'll definitely catch cold. 
+Você pode ser um coelho, mas se dormir ao ar livre assim, definitivamente pegará um resfriado.
 
 #v3431And who laid me out on the ground nyeh...? I'll sue you for animal abuse nyeh... 
+E quem foi que me jogou no chão, nyeh...? Vou te denunciar por abuso de animais, nyeh...
+—ASSUMINDO: GEORGE VS CHIESTER410 FIM—
 
+—ASSUMINDO: GEORGE VS GEORGE INICIO—
 #v2718What do I hate most? Just my old, unreliable self...! 
+O que mais odeio? Meu velho eu, tão inseguro...!
 
 #v2719...That's good. You must always overcome yourself and spread your wings. 
+...Isso é bom. Você sempre deve se superar e abrir suas asas.
 
 #v2720Not bad... I was planning to copy you, so I could get close to Shannon... 
+Nada mal... planejava te copiar, só para conseguir me aproximar da Shannon...
 
 #v2721A pointless strategy. Shannon certainly wouldn't be deceived by a fake me. 
+Uma estratégia inútil. Shannon certamente não seria enganada por uma farsa.
 
 #v2722Now that I really look at you, the difference is obvious. So, is it time for the fake to disappear? 
+Agora que paro para olhar para você, a diferença se torna óbvia. Então, está na hora da farsa desaparecer?
 
 #v2723What did I lack...? ...I should've had you copied perfectly... 
+O que me falta...? ...Deveria ter te copiado perfeitamente...
+—ASSUMINDO: GEORGE VS GEORGE FIM—
 
+—ASSUMINDO: GEORGE VS JESSICA INICIO—
 #v2715I win. You have to admit it, right? 
+Ganhei. Você tem que admitir isso, não é?
 
 #v2880N-Not bad... Maybe I'll learn some martial arts for real... 
+N-Nada mal... Talvez eu tente aprender artes marciais pra valer...
 
 #v2881I-I can't believe you're the same person as that old, unreliable George nii-san... 
+N-Não posso acreditar que você é a mesma pessoa que o inseguro George nii-san do passado...
 
 #v2716That was when I was still a pupa. I'm not like that now! 
+Aquilo foi quando ainda era um filhote. Não sou mais assim!
 
 #v2717Maybe this is a good chance for you to become a little more ladylike. 
+Talvez essa seja uma boa chance para você se comportar mais como uma dama.
 
 #v2882Owwww... If I don't look ladylike, you've still got a long way to go yourself! 
+Aiiii... Se não me pareço com uma dama, então você também tem um longo caminho pela frente!
+—ASSUMINDO: GEORGE VS JESSICA FIM—
 
+—ASSUMINDO: GEORGE VS ROSA INICIO—
 #v2724Please don't take this the wrong way. I am, after all, a ranked martial artist. 
+Por favor, não confunda as coisas. Sou, afinal de contas, um artista marcial graduado.
 
 #v3210You've beaten your aunt... Maybe I'll teach Maria martial arts too... 
+Você derrotou sua tia... talvez eu ensine artes marciais para a Maria também...
 
 #v3211What's going on?! A-Aren't you a wolf...?! 
+O que está acontecendo?! V-Você não é um lobo...?!
 
 #v2725Calm down, Aunt Rosa. Paranoia is exactly what the culprit wants. 
+Acalme-se, tia Rosa. Paranoia é exatamente o que o culpado quer.
 
 #v2726Leave the rest to us. Head back, Aunt Rosa. 
+Deixe o resto conosco. Volte, tia Rosa.
 
 #v3212...U-Understood. ...Leave the guesthouse to me. 
+...M-Muito bem. ...Deixe a hospedaria comigo.
+—ASSUMINDO: GEORGE VS ROSA FIM—
 
+—ASSUMINDO: GEORGE VS ERIKA INICIO—
 #v4527Your reasoning is very interesting. However, would you mind saving it for a later time? 
+Seu raciocínio é deveras interessante. Porém, poderia deixar ele para outra hora?
 
 #v4205...How could you...do that to my detective's authority...?! 
+...Como pode... fazer isso com minha autoridade de detetive...?!
 
 #v4206H-How can you s-slight my beautiful reasoning...?! 
+C-Como pode m-manchar meu lindo raciocínio...?!
 
 #v4528Forgive me, but it wasn't as beautiful as you claim. 
+Desculpe-me, mas não era tão lindo como você dizia.
 
 #v4529If we need you, we'll tell you. Until then, would you mind keeping to yourself? 
+Se precisarmos de você, diremos. Até lá, poderia ficar calada?
 
 #v4207You're...saying that to me, ...despite just being one of the suspects...? 
+Você...diz isso para mim, ...apesar de ser apenas mais um dos suspeitos...?
+—ASSUMINDO: GEORGE VS ERIKA FIM—
 
+—ASSUMINDO: GEORGE VS DLANOR INICIO—
 #v4530I don't understand. Why must we fight...? 
+Não entendo. Por que devemos lutar...?
 
 #v3853I feel the SAME. However, it is the fate of pieces to face off against each OTHER. 
+O sentimento é o MESMO. Porém, é destino das peças se ENFRENTAREM.
 
 #v3854It seems it was not yet my time to SHINE. I will leave QUIETLY... 
+Parece que ainda não era minha hora de BRILHAR. Vou me retirar QUIETAMENTE...
 
 #v4531In that case, would you mind heading to the parlor? There are tea and cookies waiting for you. 
+Neste caso, se importa de ir para o salão? Têm chá e cookies esperando para você.
 
 #v4532I see. That reasoning is definitely intriguing. I'll keep it in mind, so how about a break? 
+Entendo. Seu raciocínio é definitivamente intrigante. Ficarei com ele em mente, então que tal uma pausa?
 
 #v3855...It seems my moment in the spotlight is now OVER. ...Then, if you will excuse ME. 
+...Parece que meu momento nos holofotes ACABOU. ...Pois bem, se me ser LICENÇA.
+—ASSUMINDO: GEORGE VS DLANOR FIM—
 
+—ASSUMINDO: GEORGE VS WILL INICIO—
 #v4533Pardon me. I never would have guessed that you were a guest of the family...! 
+Perdoe-me. Nunca imaginaria que você fosse um convidado da família...!
 
 #v5457Thanks for the warm welcome. This sort of thing isn't so bad. 
+Obrigado pelas boas-vindas calorosas. Esse tipo de coisa não é tão ruim.
 
 #v5458If I haven't lost my edge, ...you must be quite a fighter. 
+Se não perdi o jeito, ...você deve ser um lutador e tanto. 
 
 #v4534Not at all. If you had regained your instincts, I doubt I would have been able to win. 
+Nada disso. Se tivesse recuperado seus instintos, duvido que eu teria conseguido ganhar.
 
 #v4535...I see you know when to withdraw as well. ...I'm glad you're a gentleman. 
+...Vejo que sabe como recuar também. ...Estou feliz que seja um cavalheiro.
 
 #v5459Yep. ...And thanks to that, I get to leave without getting any more wounds. 
+É. ...E graças a isso, sou capaz de me retirar sem ganhar mais ferimentos.
+—ASSUMINDO: GEORGE VS WILL FIM—
 
+—ASSUMINDO: GEORGE VS BERNKASTEL INICIO—
 #v4536Oh, are you okay? I figured I wouldn't need to go easy on you. 
+Oh, está tudo bem? Pensei que não deveria pegar leve com você.
 
 #v5808...That decision saved your life. I hate being underestimated. 
+...Essa decisão salvou sua vida. Odeio ser subestimada.
 
 #v5809Ngg, *cough*, *cough*...! How could you...do this to the Great Bernkastel...?! 
+Ngg, *tosse*, *tosse*...! Como pôde...fazer isso com a Grande BERNKASTEL...?!
 
 #v4537It seems you never realized...that your willingness to look down on people was the cause of your defeat. 
+Parece que nunca percebeu...que sua mania de menosprezar as pessoas foi a causa de sua derrota.
 
 #v4538Toying with people's lives is wrong. Now do you see that? 
+Brincar com as vidas das pessoas é errado. Percebeu isso agora?
 
 #v5810You... How could George, of all people... ...Nng, ...ngngggggg!! 
+Você...como pode o George, de todas as pessoas... ...Nng, ...ngngggggg!!
+—ASSUMINDO: GEORGE VS BERNKASTEL FIM—
 
+—ASSUMINDO: GEORGE VS LAMBDADELTA INICIO—
 #v4539I'd planned to stop that last blow an inch before hitting you. Are you okay there, little lady? 
+Planejei parar aquele ultimo golpe um centímetro antes de te atingir. Está tudo bem ai, pequena dama?
 
 #v4791Wh-Why are you calling the Great Lambdadelta-sama little?! How rude! 
+P-Por que está chamando a Grande LAMBDADELTA-sama de pequena?! Que rude!
 
 #v4792I-I think I've taught you enough of a lesson for one day! Ohohohoho! 
+P-Parece que te ensinei o suficiente por um dia! Ohohohoho! 
 
 #v4540Sure, let's go with that. Because I won't be going easy on you next time. 
+Certo, vamos deixar assim. Porque não vou pegar leve com você da próxima vez.
 
 #v4541Shannon and I will become one. I won't let anyone deny that certainty. 
+Shannon e eu nos tornaremos um. Não deixarei ninguém negar essa certeza.
 
 #v4793Ah, so you do know how to speak up. I'll see your certain willpower through to the end. 
+Ah, então você sabe como falar. Acompanharei sua força de vontade certeira até o fim.
+—ASSUMINDO: GEORGE VS LAMBDADELTA FIM—
 
 #v2883Both then and now, it looks like I'm the better one in a fight! 
 
