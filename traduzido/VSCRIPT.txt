@@ -12802,52 +12802,52 @@ Não TEMA. Eu não tenho a intenção de expor sua IDENTIDADE. Exceto se for o m
 
 
 #v4001Thanks for your SUPPORT. ...As I expected from a Chiester. Your skills are highly regarded even in HEAVEN. 
-
+Obrigada pelo APOIO. ...Como esperado de uma Chiester. Suas habilidades são muito respeitadas, mesmo nos CÉUS.
 
 #v5398We regard you highly too nyeh! Death Sentence Dlanor! You're as talented as the rumors say nyeh! 
-
+Nós também a respeitamos profundamente, nyeh! Dlaro, a Senteça Mortal! É tão talentosa quanto dizem os rumores, nyeh!
 
 #v5399Why aren't you delivering the finishing blow nyeh? You could just slice them in half nyeh. 
-
+Por que não está executando o golpe final, nyeh? Você poderia simplesmente parti-los ao meio, nyeh.
 
 #v4002Exposing illusions is my JOB. However, stealing away opportunities for reasoning is NOT. 
-
+Meu trabalho é expor as ILUSÕES. Contudo, tomar de meus oponentes a oportunidade de raciocinar, NÃO.
 
 #v4575Let's take a quick break. Would you like some tea? 
-
+Vamos fazer uma pausa. Gostaria de um pouco de chá?
 
 #v4003Please put in milk and SUGAR. I don't want it PLAIN. Because I am a KID. 
-
+Com açúcar e leite, por FAVOR. Não quero sem sabor, afinal sou uma CRIANÇA.
 
 #v4004To think that you would cooperate under these CONDITIONS. ...To be honest, I'm SURPRISED. 
-
+E pensar que iria cooperar sob tais CONDIÇÕES. ...Honestamente, estou SURPRESA.
 
 #v4576The people you deal with in business won't necessarily be Japanese. I'm more cosmopolitan than I look. 
-
+As pessoas com quem lido nos negócios não são necessariamente japonesas. Sou mais cosmopolita do que pareço.
 
 #v4577I just have to eliminate all who stand in the way of the love tale Shannon and I will weave, no matter who they are! 
-
+Só preciso eliminar todos que ficarem no caminho do conto de amor que eu e Shannon vamos tecer, independente de quem seja!
 
 #v4005The power of love is WONDERFUL. I want to learn of it too, ...but I am a KID. 
-
+O poder do amor é MARAVILHOSO. Também quero aprender sobre ele, ...mas sou uma CRIANÇA.
 
 #v4653Awesome! We've got no enemies wherever we go! Let's keep up this pace!! 
-
+Incrível!
 
 #v4006Let us keep up this pace, INDEED. Aaah, jobs that don't involve stamping bring me back to LIFE! 
-
+Sim, vamos manter o RITMO. Aaah, ofícios que não envolvam carimbar me traze de volta à VIDA!
 
 #v4007I've always found this strange, but why do you talk like a boy, when you're a daughter of a rich FAMILY? 
-
+Sempre achei isso estranho, mas porque você fala como um garoto, sendo que é a filha da uma família RICA?
 
 #v4654You just don't get it, do you? This is what they call gap moe! 
-
+Você não entende mesmo, né? Isso é o que chamam de gap moe!
 
 #v4655Still, ...those ringlets are incredible. Just how long is your hair? 
-
+Ainda assim, ...esse cachos são incríveis. O quão longo é o seu cabelo?
 
 #v4008It's longer than my LEGS. I need to roll it, or it drags behind me and causes a lot of TROUBLE. 
-
+Mais longos que minhas PERNAS. Preciso enrolar assim ou eles
 
 #v4009Fear NOT. I have no interest in your GOLD.
 Não TEMA. Não estou interessada no seu OURO.
@@ -12870,6 +12870,7 @@ Confesse agora! Quem é o culpado! Quais são seus álibis?!
 #v4012What a sad PERSON. ...To be taken out by us, of all PEOPLE.
 
 #v4379*cackle*cackle* I'll reason out everything and deny every part of you! I won't leave a speck of dust behind...! 
+*gargalhada*gargalhada* Irei desvendar tudo e negar cada parte sua! Não deixarei um pedaço de poeira para trás...!
 
 #v4013I am Dlanor A. KNOX! The Death Sentence of the Ten WEDGES!!
 Dlaron A. Knox é meu NOME! A Sentença Mortal das Dez CUNHAS!!
@@ -12911,14 +12912,16 @@ Por favor, me ensine a APOSENTAR. Quero parar de carimbar documentos e viver uma
 Fomos longe DEMAIS? Deve estar com pena deles, por terem ido contra duas Inquisidoras CHEFE.
 
 #v5578I'm just an alumni. ...How long does the Great Court intend to work me before they're satisfied? 
+Sou apenas uma estudante. ...Quanto tempo mais a Grande Corte planeja me fazer trabalhar até que fiquem satisfeitos?
 
 #v5579I'd say you've denied them enough already. You go a bit too far sometimes. 
+Eu diria que já os negou o suficiente. Você exagera de vez em quando.
 
 #v4023I hadn't NOTICED. It is very difficult to control my strength with this Red KEY.
 Eu não tinha PERCEBIDO. É muito difícil controlar minha força com esta chave VERMELHA.
 
 #v5929Heheheheheh. Splendid work. But, it went a bit too quickly, which was boring.
-Heheheheheh.
+Heheheheheh. Esplêndido. Contudo, foi um pouco apressado, tornando-o maçante.
 
 #v4024Do you wish for me to experience DIFFICULTIES? ...Then I will do so next TIME.
 Deseja que eu experimente DIFICULDADES? ...Então assim o farei na PRÓXIMA.
@@ -12936,273 +12939,274 @@ Isto concluí minha negação sobre ELES. ...Satisfeita, lady BERNKASTEL?
 Sim, estou satisfeita. Continue assim. Assistir você lutando é a melhor guloseima que posso ter para acompanhar meu chá.
 
 #v4913Hey, you did great work! Watching you from the stands is fun. Keep up that pace, okay?! 
-Ei, você fez um ótimo trabalho!
+Ei, você fez um ótimo trabalho! Observá-la de longo é divertido. Mantenha o ritmo, tá?!
 
 #v4027UNDERSTOOD. ...Truly, going along with a witch's game is TIRING. 
-ENTENDIDO. 
+ENTENDIDO. ...Sinceramente, participar de um jogo de bruxas é CANSATIVO.
 
 #v4028My BAD. ...I forgot to leave you a chance to SHINE. 
-
+Minha CULPA. ...Esqueci de deixar uma oportunidade para que pudesse BRILHAR.
 
 #v4914We just talked about this five seconds ago! I was gonna spectacularly deliver the final blow! Sheesh! 
-
+Falamos sobre isso faz cinco segundos! Eu ia terminar um golpe final espetacular! Tch!
 
 #v4029Lady Lambdadelta, the battle is OVER. ...Did you not hear ME? 
-
+Lady LAMBDADELTA, a luta TERMINOU. ...Não me OUVISTE?
 
 #v4915Shh! 'Abarenbo Yoshimune' is just getting to the good part, so be quiet! 'Did you forget what my face looked like?!' 
-
+Shh! 'Abarenbo Yoshimune' está chegando na parte boa, então fica quieta! 'Esqueceste como minha cara se parece?"'
 
 #v3796Whew! Is that sword real? Let me touch it a little! 
-
+Uau! Essa espada é de verdade? Deixa eu tocar nela?!
 
 #v5580It's real enough. Though only I can wield it. 
-
+Real o suficiente. Embora apenas eu possa empunhá-la.
 
 #v5581Your thoughts move deeply and precisely. ...However, when you do mess up on a theory, you have trouble pulling back. 
-
+Seus pensamentos movimentam-se de forma profunda e precisa. ...Entretanto, quando embaralha sua teoria, acaba tendo dificuldade de colocar de volta aos trilhos.
 
 #v3797...You've got that right. And you could say the same thing when it comes to fighting! 
-
+...Tem razão. E poderia dizer o mesmo quando se trata de lutar!
 
 #v5582Sorry. Did I steal the territory lord's show? 
-
+Desculpe. Roubei a cena do Lorde terrirotial?
 
 #v3798I'll show you. Just watch and see how I fight in the next round...! 
-
+Fique vendo! Vou mostrar a você como se luta no próximo round...!
 
 #v4147Who on earth are you? Are you...a witch's ally? 
-
+Quem diabos é você? Seria uma...aliada da bruxa?
 
 #v5583Don't go lumping me in with them. I'm just here...to carry out a funeral. 
-
+Não me misture com eles. Só estou aqui...para conduzir um funeral.
 
 #v5584...You're too frantic. Whether you're trying to think or trying to fight, you need to keep a broad outlook in mind. 
-
+...Você é bem agitado. Seja quando tenta pensar ou tenta lutar, precisa manter uma ampla perspectiva em mente.
 
 #v4148And you're saying you're a prime example of that? ...I might as well remember that, just for reference. 
-
+E você está dizendo que é o melhor exemplo disso? ...Devo lembrar disso, apenas como referência.
 
 #v5585A Witch of Truth, huh? Grasp your own truth with your own hands. 
-
+Uma Bruxa da Verdade, é? Agarre sua própria verdade com suas próprias mãos.
 
 #v4149That's what I intend to do. I'll let you take on the small fry. However, I'll grasp my truth myself...! 
-
+É o que pretendo fazer. Deixarei que fique com o mais fraco. Contudo, eu alcançarei a minha própria verdade...!
 
 #v5586Leave this to me. If you play around too much, you'll feel it in your back later. 
-
+Deixe isso comigo. Se ficar brincando muito por aí, vai sentir dor nas costas depois.
 
 #v5751Yes, indeed... Aging is not fun. 
-
+Sim, realmente.... Envelhecer não é divertido.
 
 #v5752As I would expect from the Head Inquisitor of the SSVD. 
-
+Como esperado do Inquisidor Chefe da SSVD.
 
 #v5587The glimpses you show me of the old Endless Witch are pretty impressive too. 
-
+Os lampejos que mostrou da velha Bruxa do Infinito são realmente impressionantes.
 
 #v5753Ohohohoho. Perhaps I scolded them a tad too much. 
-
+Ohohohoho. Talvez eu as tenha repreendido além da conta.
 
 #v5588I must be young myself. I thought I knew how to hold back, but I keep going too far. 
-
+Eu devo mesmo ser imatura. Pensei que sabia como me segurar, mas continuo exagerando.
 
 #v5589Did we go a bit too far? Sorry, but could I ask you to see to their wounds? 
-
+Será que fomos um pouco longe? Desculpe, mas poderia checar os ferimentos deles?
 
 #v5166Pu ku ku. Certainly. Allow me to use a disinfectant that reeeally stings. 
-
+Pu ku ku. Como desejar. Permita-me usar um desinfetante realmeeeente fedorento.
 
 #v5167You're strong, cool, and perfect. If you were also a butler, you'd be stealing my character. Pu ku ku. 
-
+Você é forte, descolado e perfeito. Se também fosse um mordomo, acabaria roubando meu personagem. Pu ku ku.
 
 #v5590Don't worry. I don't know how to serve food, and I'm never growing a mustache. 
-
+Não se preocupe. Não sei como servir comida, e nunca vou deixar crescer um bigode.
 
 #v5168As I expected. I, Ronove, cannot help but be charmed by your performance. 
-
+Como esperado. Eu, Ronove, nada posso fazer além de ficar encantado com sua performance.
 
 #v5591You're too kind. We only managed to win because you picked up the slack. 
-
+Você é muito gentil. Só conseguimos vencer porque 
 
 #v3718Hohoh! Hey, you're not bad yourself! This should keep me entertained for a while now! 
-
+Hohoh! Ei, você não é tão ruim! Isto deve me manter entretido por algum tempo!
 
 #v5592Sorry, but I don't have the time. You're gonna have to let me finish this job up fast. 
-
+Desculpe, mas não tenho tempo. Terá que deixar eu acabar com isso logo.
 
 #v3719I envy the other me, ...who gets to have you for company. 
-
+Eu invejo meu outro eu, ...que é capaz de ter a sua companhia.
 
 #v5593And I envy you. ...Well, at least you don't go around pinching people's butts. 
-
+E eu o invejo. ...Bem, ao menos você não sai por aí beliscando a bunda das pessoas.
 
 #v5594Don't play with your opponents. Victory is our goal, not screwing around. 
-
+Não brinque com seus oponentes. Nosso objetivo é vencer, não ficar ficar brincando.
 
 #v3720Leaving the prey to you is truly boring. Don't think I'll let you have the next one! 
-
+Deixar a presa para você é chato. Não pense que deixarei ficar com a próxima!
 
 #v5088So this is the Wizard-Hunting Wright from all those rumors...! 
-
+Então esse é o tal do Wizard-Hunting Wright...!
 
 #v5595Forget the rumors. ...After all, I'll be teaming up with you for a bit longer. 
-
+Esqueça os rumores. ...Afinal, ficarei no seu time por mais algum tempo.
 
 #v5596Have respect for those who admit to their loss. That's the only duty of the victor. 
-
+Respeite aqueles que reconhecem a derrota. Essa é a única obrigação do vencedor.
 
 #v5089You mean the victor has the right to gouge, torture, and otherwise trample over the human rights of the loser! ...Obviously! 
-
+Quer dizer que o vencedor tem o direito de goivar, torturar e passar por cima dos direitos humanos do perdedor! ...É óbvio!
 
 #v5090Y-You'd better thank me! I let you have the final blow...! 
-
+É-É melhor me agradecer! Eu deixe que acertasse o último golpe...!
 
 #v5597Sure, thanks. You looked like you were having trouble there, but I guess it was my imagination. 
-
+Claro, valeu. Você parecia estar tendo dificuldade, mas acho que foi só a minha imaginação.
 
 #v5322I apologize for forcing a guest to dirty their hands...! 
-
+Peço desculpas por obrigar uma convidada a sujas as mãos...!
 
 #v5598Don't worry about it. I've never thought of myself as a guest. 
-
+Não se preocupe com isso. Eu mesma nunca pensei em mim como uma convidada.
 
 #v5323...Excellent work... Who on earth are you...? 
-
+...Ótimo trabalho.... Quem é você...?
 
 #v5599It's about time you stopped worrying about me. You'll just get a headache. 
-
+Está na hora de parar de se preocupar comigo. Só vai ficar com dor de cabeça.
 
 #v5600Shannon, could I ask you to treat their wounds? 
-
+Shannon, se importaria de tratar as feridas deles?
 
 #v5324Yes, leave it to me. ...You're a kind person, Willard-sama. 
-
+Claro, deixe comigo. ...Você é gentil, Willard-sama.
 
 #v4734Ngg... So, ...being tall really does give you an advantage in a fight... 
-
+Ngg... Então, ...ser alto realmente o deixa em vantagem numa luta...
 
 #v5601Think about increasing your skill with a sword before increasing your height. It looks like you still have a lot more to learn. 
-
+Se preocupe em melhorar suas habilidades com a espada antes de aumentar sua estatura. Parece que você ainda tem muito a aprender.
 
 #v5602Your blade is too impulsive. You're the one swinging your sword. Don't let it swing you around. 
-
+Sua lâmina é muito impulsiva. É você quem branda sua espada. Não deixe que ela o comande.
 
 #v4735...I-It's just as you say. ...Even I...still have a lot of room to grow... 
-
+...V-Você está tem razão. ...Mesmo eu...ainda tenho muito o que crescer...
 
 #v4736What an edge. ...Not just his blade, but everything about him... 
 
 
 #v5603That's right. It's not the blade you're honing. It's yourself. ...Keep on training, kid. 
-
+Isso mesmo. Não é sobre a lâmina que está afiando. É sobre você. ...Continue treinando, jovem.
 
 #v4500Well, you're a capable man. ...The ideal I wish George would reach. 
-
+Bem, você é um homem capaz. ...O ideal que eu quero que o George alcance.
 
 #v5604That's not true. Your son is incredible enough as he is. 
-
+Isso não é verdade. Seu filho é incrível do jeito dele.
 
 #v5605I won't let you heartless people lay a finger on this cat box. 
-
+Não deixarei que pessoas sem coração encostem um dedo nesta caixa de gato.
 
 #v4501...How are you able to understand the cat box? ...How...? 
-
+...Como foi capaz de compreender a caixa de gato? ...Como...?
 
 #v5606Laying the cat box to rest...is my job. 
-
+Deixar com que a caixa descanse...é meu trabalho.
 
 #v4502...If you really can do that, ...I'll leave everything...in your hands... 
-
+...Se realmente é capaz disso, ...eu deixarei tudo...em suas mãos...
 
 #v5400People from heaven show no mercy nyeh. Even a weapon like me gets the shivers nyeh...! 
-
+As pessoas do Cúe não demonstram misericórcia, nyeh. Até mesmo uma arma como eu treme, nyeh...!
 
 #v5607I don't play when I fight. ...This is just what happens when you try to end it as quickly as possible. 
-
+Não brinco quando estou lutando. ...É isso que acontece quando você tenta colocar um ponto final o mais rápido possível.
 
 #v5608The Chiester Sisters Corps, huh? ...You're surprisingly reliable. 
-
+A Tropa das IrmãsChiester? ...Até que são bem confiáveis.
 
 #v5401Covering fire is our main job nyeh. We're the unseen stage hands in a battle nyeh...! 
-
+Fogo de cobertura é nossa especialidaed, nyeh. Somos as ajudantes invisíveis da batalha, nyeh...!
 
 #v5609...It's such a sad mystery. Both this game...and your story. 
-
+...É um mistério muito triste. Tanto este jogo...e a sua história.
 
 #v5402You can't choose the game board you're born into nyeh. We can only live with all we've got nyeh. 
-
+Não tem como escolher o tabuleiro que você vai nascer, nyeh. Só nos resta viver ao máximo, nyeh.
 
 #v4656Sorry I had to ask a guest for help! You saved me back there. 
-
+Sinto muito por ter que pedir a ajuda de uma convidada! Você me salvou há pouco.
 
 #v5613Don't worry about it. That's my role, apparently. 
-
+Não esquenta com isso. É o meu papel, pelo que parece.
 
 #v4657It looks like you know a lot about the Ushiromiya Family. Are you a friend of one of the relatives or something...? 
-
+Parece que você sabe bastante sobre a família Ushiromiya. É amiga de algum deles ou algo assim...?
 
 #v5614How should I put it... ...Well, it's true that I have a connection to all this. 
-
+Como eu posso dizer... ...Bem, é verdade que estou conectada a tudo isso.
 
 #v5615I mustn't let you get hurt. ...For the sake of my ass. 
-
+Não posso deixar que se machuque. ...Pelo bem da minha bunda.
 
 #v4658Your ass? What are you talking about? Anyway, thanks for the help! 
-
+Sua bunda? Do que está falando? Seja como for, obrigada pela ajuda!
 
 #v4578So, you have both looks and skill. I think I'm a bit jealous. 
-
+Então, você é bonito e forte. Estou com um pouco de inveja.
 
 #v5610You have a beautiful girlfriend, don't you? If one of us is a winner in life, it's you. 
-
+Você tem uma namorada linda, não tem? Se alguém aqui venceu na vida, foi você.
 
 #v4579Will I be able to become like you someday...? 
-
+Será que serei capaz de ser como você algum dia..?
 
 #v5611It's not a question of 'will you be able to', but 'will you'. Don't give up on yourself. 
-
+Não é sobre 'ser capaz', mas 'você será'. Não desista de si mesmo.
 
 #v5612It may be indiscreet to say this, but it's nice to win like this, every now and then. 
-
+Pode ser meio indiscreto dizer isso, mas é bom vencer desas forma às vezes.
 
 #v4580Periodically letting off stress is essential for the mind and body, after all. 
-
+Liberar o estresse periodicamente é essencial para mente e o corpo.
 
 #v5616That should be enough of a scolding. If you go too far, it'll have a bad effect on their upbringing. 
-
+Já foi repreendido o bastante. Se exagerar, pode acabar afetando o crescimento deles.
 
 #v5244...That's painful to hear. I suppose even medicine can become poison if you use too much... 
-
+...Isso é doloroso de ouvir. Creio que até mesmo remédios pode se tornar um veneno se passar da dose...
 
 #v5245So, there was someone like you on this island. Where on earth were you hiding? 
-
+Então, havia alguém como você nesta ilha. Onde diabos estava se escondendo?
 
 #v5617I wasn't hiding. I was just on a different game board. 
-
+Eu não estava me escondendo. Só estava em um tabuleiro diferente.
 
 #v5618Are you hurt? Make sure you get home safely. There's someone waiting for you to come home, isn't there? 
-
+Está ferido? Trate de ir para casa em segurança. Tem alguém esperando pelo seu retorno, não tem?
 
 #v5246There's someone waiting for you back home too, right? Don't make them cry. 
-
+Também tem alguém esperando por você, não? Não as faça chorar.
 
 #v5619I can't take this witch's farce... 
-
+Não suporto essa farsa das bruxas...
 
 #v4382Then maybe you should just go home. ...If you can, that is. 
-
+Então talvez deva simplesmente ir pra casa. ...Se conseguir, é claro.
 
 #v4383<Good.> I thought you'd be more soft than that, but you're not bad. 
-
+Good. Pensei que seria mais gentil que isso, mas você não é ruim.
 
 #v5620I don't wanna hear your compliments. Let's go. On to the next one. 
-
+Não quero ouvir seus elogios. Anda, vamos para o próximo.
 
 #v4384N-Not only did you lay a hand on my prey, but you struck the finishing blow?! 
-
+A-Além de pegar a minha presa, ainda deu o golpe final?!
 
 #v5621Well, you were going so slow. I thought you were leaving them to me. 
+Bom, você foi muito lenta. Pensei que estivesse deixando para mim.
 
 #v4030It seems your skills have improved yet AGAIN. I mustn't lose EITHER. 
 
