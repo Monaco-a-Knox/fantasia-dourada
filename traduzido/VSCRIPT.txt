@@ -2952,10 +2952,10 @@ T-Tia Rosa?! O que está tentando fazer?!
 Você não pode desobedecer a Bruxa da Escuridão, nyeh! Pare de resistir e deixe ser arrumada, nyeh!
 
 #v6278Who cares about the black witch...?! If you think you can tidy us up, then do it!!
-Quem se importa com a Bruxa da Escuridão?! 
+Quem se importa com a Bruxa da Escuridão?! Se acha que é capaz de arrumar as cosas, então tente!!
 
 #v6375Let's get started!! I won't leave a single fragment of anybody behind!!!
-Vamos começar!! 
+Vamos começar!! Não deixarei um fragmento de ninguém para trás!!!
 
 #v6279I-It's no use... Maria-sama, ...I'm so sorry...
 É-É inútil... Maria-sama, me desculpe.
@@ -2974,34 +2974,46 @@ Fiquem completamente limpa, sem um traço de sujeira. *risos*risos*risos*!
 Por favor, pare...! Por que está destruindo os sonhos de uma criança?!
 
 #v6378If you have a dream, put it on drawing paper. It looks like your dream's gotten a bit too big...
-Se já teve um sonho, ponha ele num desenho em papel. Parece que seu sonho ficou um pouco grande demais...
+Se já teve um sonho, desenhe-o em um papel. Parece que seu sonho ficou um pouco grande demais...
 
 #v6078...The Black Witch who destroys the world of dreams, is it...? I've heard the rumors... 
+...A Bruxa da Escuridão que destrói o mundo dos sonhos, é...? Já ouvi rumores...
 
 #v6422She's a terrifying witch who smashes kids' dreams into little bits nyeh. None can oppose her nyeh... 
+Ela é uma bruxa assustadora que esmaga em pedacinhos os sonhos das crianças, nyeh. Ninguém pode se opor a ela, nyeh...
 
 #v6379Come, it's time to tidy up... Get it absolutely clean, without a smidgen of dirt...!!
+Venham, é hora de arrumar as coisas... Deixe isso limpo, sem uma migalha de sujeira...!
 
 #v6393I-I won't let you...! I'll protect Maria-sama's dreams...! 
+N-Nâo permitirei...! Eu protegerei os sonhos da Maria-sama...!
 
 #v6394Please, don't do it...! That castle belongs to Maria-sama...!! 
+Por favor, não faça isso...! Este castelo pertence à Maria-sama...!!
 
 #v6380It really is a wonderful castle, isn't it? But this is against the rules. 
+É mesmo um castelo magnífico, não é? Mas é contra as regras.
 
 #v6079...How...cruel... That magnificent castle...is in pieces... 
+...Quanta...crueldade... Aquele castelo magnífico...em pedaços...
 
 #v6423None can oppose the Black Witch nyeh... Everyone, tidy up nyeh... 
+Ninguém pode contra a Bruxa da Escuridão, nyeh... Pessoa, limpando, nyeh...
 
 #v6381Come, it's time to tidy up!! *giggle* Ahahahahahahah!!!
 Venha, é hora da limpeza!! *risos* Ahahahahahahah!!!
 
 #v6382Maria! Didn't I tell you to always tidy up before going out to play?!! 
+Maria! Eu já não disse para arrumar as coisas antes de sair para brincar?!!
 
 #v6395And we made such a wonderful building block castle... *sob* 
+Fizemos um castelo de blocos tão lindo... *sob*
 
 #v6080There's no helping it. The rules do say that you have to tidy up before going out to play. 
+Não há o que fazer. As regras dizem quem você precisa arrumar tudo antes de sair para brincar.
 
 #v6383And you've even left the forest band scattered about in a place like this! Now, where were they supposed to go...? 
+E ainda deixou a banda da floresta espalhada por aí! E agora, para onde eles foram...?
 
 #v6424What?!! Not into the dark toy box nyeeeh!!
 O quê?! Tudo menos a caixa de brinquedos escura, nyeeeh!!
@@ -3802,7 +3814,6 @@ Se este é o seu desejo, vamos continuar acabando com eles um após o outro. Ond
 #v6500Where are you hiding, Beato? My adorable Erika is about to reap your head. Heheheheheheh, ahahahahahahahah!!
 Onde está se escondendo, Beato? Minha adorável Eria está pronta para ceifar sua cabeça. Heheheheheheh, ahahahahahahahah!!
 
-
 #v6200Aaah, my master's joy is my joy!! Golden Land, I'll reap you to pieces!!
 Aaah, a alegria da minha mentora é minha alegria! Irei ceifá-la aos pedaços, Terra Dourada!!
 
@@ -3863,67 +3874,97 @@ LAMBDADELTA X CHIESTER 410 INÍCIO
 Tadããã! Este arco rosa é o prêmio do dia, nyeh!
 
 #v6300It's a Love Maker Guided Warhead!! Shoot someone through the heart with this, and any sort of couple will instantly be born!!
- 
+É uma Ogiva Guiada Casamenteira!! Atire no coração de alguém com ela, e qualquer tipo de casal nasce instantaneamente!!
+
 #v6426That's an incredible prize nyeh! How can people get their hands on it nyeh?! 
+Esse prêmio é incrível, nyeh! Como colocar as mãos nisso, nyeh?!
 
 #v6301Isn't it obvious?! By defeating us! Heheh, I'll be waiting for any hopelessly reckless pure-hearted kids who think they can beat me! 
+Não é óbvio?! Nos derrotando! Heheh, estarei esperando por qualquer criança imprudente de coração puro que achar que pode me derrotar!
 
 #v6427Come this way to fight for the Love Maker nyeh! Come one, come all nyeh!
- 
+Venham por aqui para lutarem pela Casamenteira, nyeh! Venham um, venham todos, nyeh!
+
 #v6267If we're talking about a magical item that can make romance come true, I can't just sit around!!
+Se estamos falando de um item mágico que pode concretizar o romance, não posso só ficar sentada olhando!!
 
 #v6412I-If we'll do, let us challenge you too...! 
 
 #v6302Sure! We'll happily take all comers! Come on, let's see what you've got! 
+Claro! Aceitarei com muito prazer todos que vierem! Vamos, deixem-me ver qual é a de vocês!
 
 #v6428Welcome, Jessica-chan and Shannon-chan! Look forward to our excellent service nyeh! 
+Bem-vindas, Jessica-chan, Shannon-chan! Aguarde ansiosas pelo nosso excelente serviço, nyeh!
 
 #v6303Aw, too bad! Better luck next time, you two!! 
+Puxa, que pena! Boa sorte na próxima!!
 
 #v6429Nihihihi! Now to suck up the romantic energy from the two losers nyeh!
- 
+Nihihihi!
+
 #v6304Just as you'd expect from a pair of maidens starving for love. The pink energy just keeps charging up higher and higher. 
+O esperado de um par de donzelas sedentas pelo amor. A energia rosa continua carregando e aumentando cada vez mais.
 
 #v6430The more romantic hearts we gather, the more powerful this arrow gets nyeh!
- 
+Quanto mais corações românticos reunirmos, mais poderoso este arco fica, nyeh! 
+
 #v6305*giggle*! I'm gonna power this up more and more, and then shoot my Bern with it! Aah, Bern, I love you!! 
+*risos*! Vou fortalecer isto cada vez mais, e então atirar com tudo na minha Bern! Aah, Bern, eu te amo!!
 
 #v6306I love you, Bern!! Come on, just get pierced by this Love Maker Guided Arrow, and we'll love each other forever!!
+Eu te amo, Bern!! Anda, seja perfurada por esta Ogiva Guiada Casamenteira, e iremos nos amar para sempre!!
  
 #v6508...No way. If I loved you, you wouldn't whisper your love into my ear anymore. 
+...Sem chance. Se eu a amasse, você não iria mais sussurrar seu amor nos meus ouvidos.
 
 #v6431Nihihihi, makes sense nyeh. Love's more interesting when it's incomplete nyeh!
- 
+Nihihihi, faz sentido, nyeh. O amor é mais interessante quando incompleto, nyeh!
+
 #v6209I'm confiscating that dangerous arrow! And then, my master will be...*pant*pant*!!
+Estou confiscando este arco perigoso. E então, minha mentora será...*haah*haah*!!
 
 #v6509I'll snatch it and pierce you instead, Lambda. Then, I'll make you whisper of your love...while I have fun ignoring it. 
+Vou passar a mão nele e perfurar você, Lambda. E assim, farei com que sussurre seu amor...enquanto eu me divirto ignorando ele.
 
 #v6307*giggle*!! Come on, Bern!! Let's love each other over this arrow of romance!! 
+*risosi*!! Anda, Bern!! Vamos amar uma a outra com este arco do romance!!
 
 #v6308I won! It's my victory, Bern!! I love you! And I'll make it so you can't love anyone but me! 
+Eu venci! A vitória é minha, Bern!! Eu te amo! E farei isso para que não ame ninguém mais além de mim!
 
 #v6432Congratulations, Lady Lambdadelta! So, shall we shoot Lady Bernkastel with the arrow of love right now nyeh? 
+Parabéns, Lady LAMBDADELTA! Então, devemos atirar na Lady BERNKASTEL com este arco de amor agora, nyeh?
 
 #v6309I was planning to, ...but nah.
+Eu estava planejando fazer isso, ...mas não.
  
 #v6510Now there's a surprise. 
+Isso sim é uma surpresa.
 
 #v6310Cats are cats because they don't try to make you like them. If I shoot Bern with this arrow, it's not that different from killing her.
+Gatos são gatos porque não tentam fazer você gostar deles. Se eu atirar na Bern com esse arco, seria o mesmo que matar ela.
  
-#v6511*giggle* ...That's why I love you. )
+#v6511*giggle* ...That's why I love you.
+*risos* ...É por isso que eu te amo.
 
 #v6210I stole it! I stole the arrow of love! How do I use this thing...? Wait, what?! Hey, where is it going?!! 
+Roubei! Eu roubei o arco do amor! Como eu uso essa coisa...? Espera, quê?! Ei, pra onde foi?!!
 
 #6433Whoops. The guidance system tends to go crazy when used by an amateur nyeh. 
+Ops. O sistema guiado tente a ficar enlouquecido quando usado por amadores, nyeh.
 
 #v6311Th-This is no joke! If that arrow hits someone, they'll fall in love with me, right?! But I belong to Bern alone!!
+I-Isso não é brincadeira! Se esse flecha atinginr alguém, essa pessoa vai se apaixonar por mim, não vai?! Mas eu pertenso só à Bern!!
  
 #v6512...I'm not sure what's going on, but hurry up and get it back. I'll be making tea. 
+...Não sei o que está acontecendo, mas anda logo e pega de volta. Vou fazer um chá.
 
 #v6211I'm not giving this arrow of love up! I'll turn it into my arrow...and make my love with my master complete!! 
+Não vou devolver esse arco do amor! Ele será o meu arco...e meu amor com minha mentora estará completo!!
 
 #v6312Let go, Erika!! This arrow is mine!! ...Wha, aaah! It hit Erika's chest?!?! 
 Solte-o, Erika!! Esse arco é meu!! ...Wha, aaah! Ele acertou o peito da Erika?!?!
+
 LAMBDADELTA X CHIESTER 410 FINAL
 
 BERNKASTEL X LAMBDADELTA INÍCIO
@@ -4057,10 +4098,10 @@ Chama isso de pegar leve? Não quero mais lutar com você...
 O que é isso que permanece estimulando você?! Vamos embora logo!
 
 #v0221Please understand. I'll definitely come back to you. 
-Por favo, compreenda. Eu definitivamente voltarei por você.
+Por favor, compreenda. Eu definitivamente voltarei por você.
 
 #v0222It's not so bad, is it? Having a sibling squabble every now and then...! 
-Não é tão ruim, é? Ter uma brica de irmãos de tempos em tempos...!
+Não é tão ruim, é? Ter uma briga de irmãos de tempos em tempos...!
 
 #v0366Yeah, it's not so bad. How about another round? 
 Sim, não é tão ruim. Que tal outro round?
@@ -4081,6 +4122,7 @@ Você tem minha gratidão! Então é assim que se luta contra magia!
 Entendi. Não vai pegar leve comigo, né...?
 
 #v1416It seems I can't slip anything past you, can I...? Go. It's time for you to move on. 
+Parece que não consigo fazer com que nada escape de você... Vamos. É hora de fazer seu moviemnto.
 
 #v0226Don't take it personally. I never go easy when I'm up against a guy.
 Não leve para o lado pessoal. Eu nunca pego leve contra enfrento um cara.
@@ -4122,10 +4164,10 @@ Ainda não! Ainda posso contra-atacar! Hmmm, hmmmmmmm!!
 Ihihi! Esses são peitos que valem apertar.
 
 #v0814Lecher! Pervert! Beast! Give back the purity of my breasts!! 
-Lascivo, pervertido! Besta! Devolva a pureza dos meus peitos!!
+Lascivo! Pervertido! Besta! Devolva a pureza dos meus peitos!!
 
 #v0233Now I've paid you back for all that stuff you do to me day in and day out! 
-Agora sim eu eu fiz você pegar de volta por todas as coisas que fez comigo dia após dia!
+Agora sim eu eu fiz você pagar por todas as coisas que fez comigo dia após dia!
 
 #v0815I can't stand it! How could I lose to that incompetent Battler?! I can't stand it, I can't stand it, I can't stand it! 
 Não consigo suportar isso! Como eu pude perder para o incompetente do Battler?! Não consigo, não consigo, simplesmente não consigo!
@@ -4167,7 +4209,7 @@ Por que sou tão impotente?! Eu me odeio...!
 Você ainda está em fase de crescimento, né? Os músculos vão vir naturalmente...!
 
 #v0240Just who are you...? You're no ordinary guy. 
-Aifnal, que é você...? Só um cara comum.
+Afinal, quem é você...? Você não é só um cara comum.
 
 #v0666I am...furniture... 
 Eu sou...uma mobília...
@@ -4185,16 +4227,16 @@ Mas eu sou uma bruxa! Eu sou a nova BEATRICE!!
 Desista! Você sequer pode intimidar a Beato!
 
 #v0243It's all useless. You don't understand witches. 
-Isso não está certo. VOcê não compreende as bruxas.
+Isso não está certo. Você não compreende as bruxas.
 
 #v0516You just have to be able to use magic, right?! How is that wrong?! 
 Você só precisa ser capaz de usar magia, não é?! Como pode estar errado?!
 
 #v0244Game and set! It's time for the rabbits to get back into their cage! 
-Game and set! Está na hora dos coelhos voltarem para suas gaiolas!
+Game and set! Está na hora das coelhinhas voltarem para suas gaiolas!
 
 #v1264I hate cages nyeh! Why can't we be free-range rabbits nyeh?!
-Odeio gaiolas, nyeh! Por que não podemos ser coelhos livres, nyeh?!
+Odeio gaiolas, nyeh! Por que não podemos ser coelhinhas livres, nyeh?!
 
 #v1265Not bad nyeh... This time, I acknowledge my defeat nyeh. 
 Nada mal, nyeh... Desta vez, eu reconheço minha derrota, nyeh.
@@ -4236,10 +4278,10 @@ Aiaiaia... Você precisa ser um pouco mais considerativo com as damas, Battler!
 Merda! Como eu fui perder para o Battler?! Isso não aconteceu! Mais uma vez, mais uma vez!!
 
 #v2521No matter how many times we do it, the result will be the same! Come on! I'll beat you back! 
-Não importa quantas vezes lutemos, o resultado será sempre o vemos! Vamos! Vou acabar com você!
+Não importa quantas vezes lutemos, o resultado será sempre o mesmo! Vamos! Vou acabar com você!
 
 #v2522Ihihi! I guess those boobs aren't actually padded. What a surprise! 
-Ihihi! Acho que esses peitos não são amolfadados. Mas que surpresa!
+Ihihi! Acho que esses peitos não são almofadados. Mas que surpresa!
 
 #v2852You touched them, didn't you?! You touched them, you bastard! Groper, sicko, pervert!
 Você os tocou, não foi? Você tocou neles, seu desgraçado! Apalpador, maníaco, pervertido!
@@ -4254,7 +4296,7 @@ Você certamente é filho do Rudolf nii-san. ...Quando olha para mim assim, eu n
 Após ver você lutando, fico preocupada só de pensar em como será a Maria...!
 
 #v3181Yes. When Maria has something of her own to protect, I'm sure she'll be much stronger than me. 
-Sim. Quando a Maria tem algo que quer proteger, tenho certeza que ela deve ser muito mais forte que eu.
+Sim. Tenho certeza que quando a Maria quer proteger algo, ela se torna ainda mais forte que eu.
 
 #v3182Nngg. I underestimated you, Battler-kun. ...That's Rudolf nii-san's kid for you... 
 Nngg. Eu o subestimei, Battler-kun. ...Você é mesmo filho do Rudolf nii-san...
@@ -4264,10 +4306,12 @@ Não, não, não me compare ao meu pai! Eu sou muito mais capacitado que aquele 
 
 #v3745Is that the best your reasoning can manage?! Ha! As a rival, this is just embarrassing to hear! 
 Essa é a melhor teoria que consegue arranjar?!Ha! Como rival, é simplesmente embaraçosos ouvi isso!
-#v4174Against a mere trick like this, ...I still have...many...nnngg...! 
+
+#v4174Against a mere trick like this, ...I still have...many...nnngg...!
+Contra um mero truque desses, ...eu ainda tenho...muitos...nnngg...!
 
 #v4175<Good!> I'd expect no less from the rival of the detective, Furudo Erika! I acknowledge your skill!
-Good! Não esperaria mesmo do rival da detetive, Furudo Erika! Eu reconheço suas habilidades!
+Good! Não esperaria menoos do rival da detetive, Furudo Erika! Eu reconheço suas habilidades!
 
 #v3746Come on, stand up. Our fight has just begun!!
 Vamos, levante-se. Nossa luta apenas começou!! 
@@ -4291,43 +4335,46 @@ Parece que o Ronove preparou um novo chá para nós. Que tal aproveitarmos dele 
 Com PRAZER. Contudo, eu gostaria de alguns curativos PRIMEIRO...
 
 #v3750I forgot to mention it, but some of that chocolate you ate earlier is stuck on your face. 
-Esqueci de mencionar, mas um pouco do chocolate que comeu antes fico grudado na sua cara.
+Esqueci de mencionar, mas um pouco do chocolate que comeu antes ficou grudado na sua cara.
 
 #v3825Say that before we FIGHT! What a waste of a cool BATTLE... 
-Diga isso depois de LUTARMOS! Desperdiçando uma boa LUTA...
+Diga isso depois de LUTARMOS! Que desperdício de uma boa LUTA...
 
 #v3751I get the feeling we could become good partners. Wanna join forces with me next time? 
 Tenho o pressentimento que podemos ser bons parceiros. Quer se aliar a mim na próxima?
 
 #v5427Sorry, but I've already got a partner with an incredibly firm grip. Forgive me. 
-Desculpe, mas eu já tenho um parceiro que é duro na queda. Desculpe.
+Desculpe, mas eu já tenho um parceiro que é duro na queda. Perdoe-me.
 
 #v3752Is it time for you to go to work or something? You keep getting distracted and glancing at the clock.
-Está na hora de ir trabalhar ou algo do tipo? Você passa o tempo todo olhando o relógio.
+Está na hora de ir trabalhar ou algo do tipo? Você passa o tempo todo distraído olhando para o relógio.
 
 #v5428...Sorry, my princess is waiting at home. When she gets lonely and runs wild, nothing can stop her. 
-...Desculpa, minha princessa está esperando em casa. Nada podê pará-la quando ela fica sozinha e descontrolada.
+...Desculpa, minha princesa está esperando em casa. Nada podê pará-la quando ela fica sozinha e descontrolada.
 
 #v3753Nihihi. Has your partner been waiting for you? You'd better head home with a firm guard around your butt! 
-Nihihi. Sua parceira está esperando por você? É melhor ir direto para caça e proteger bem essa bunda!
+Nihihi. Sua parceira está esperando por você? É melhor ir direto para casa e guarnecer bem essa bunda!
 
 #v5429It sounds like you've been a victim yourself... Let's both pray that our left and right cheeks stay the same size. 
-Soa como se você fosse a vítima aqui... Vamos ambos rezar para que ambos os nossos lados permaneçam do mesmo tamanho.
+Soa como se você fosse a vítima aqui... Vamos ambos rezar para que nossos dois lados permaneçam do mesmo tamanho.
+
 #v3754I win! How about you turn tail and run?!! 
+Venci! Que tal colocar o rabo entre as pernas e fugir?!
 
 #v5778You're loved by miracles, aren't you? ...As praise for that accomplishment, I'll let you get away this time.
-Você é amado pelos milagres, não é? ...Como recompensa pelo fito, deixarei que se safe desta vez.
+Você é amado pelos milagres, não é? ...Como recompensa pelo feito, deixarei que se safe desta vez.
 
 #v3755How could you waste Ronove's tea...by putting dried plums in it? 
 Colocar umeboshi assim...é um desperdício do chá do Ronove.
 
 #v5779What? Don't be a picky eater. Tea with dried plums...is the best. 
 O quê? Não seja tão exigente. Chá com umeboshi é simplesmente...o melhor.
+
 #v3756Nice job playing the bad guy this round! Next time, I'll play the loser role. 
 Bom trabalho pagando de vilão neste round! Da próxima vez, farei o papel de perdedor.
 
 #v5780Oh my, a lowly human is trying to be nice to me. Perhaps I'll take you up on that offer... 
-Minha nossa, um mero humano está tentando ser gentil comigo. Talvez aceitarei sua oferta...
+Minha nossa, um mero humano está tentando ser gentil comigo. Talvez eu aceite sua oferta...
 
 #v4761Hey! You haven't forgotten how much you owe me for that one time, right?! 
 Ei! Não se esqueceu do quanto me deve por aquela vez, né?!
@@ -4342,10 +4389,10 @@ Ihihi. Lutar com a Lambda me deixa faminto!
 Ronove! Nos traga cookies frescos e chá, por favor! E leite quente!
 
 #v4763Ow! How could you do that to a fragile lady?! 
-Aie! Como pôde fazer isso com uma donzela frágil?!
+Ai! Como pôde fazer isso com uma frágil donzela?!
 
 #v3759There's a fragile lady here? Where is she?! I'd love to meet her! 
-Tem uma donzela frágil aqui?! Onde? Adoraria conhecê-la!
+Tem uma frágil donzela aqui?! Onde ela está? Eu adoraria conhecê-la!
 
 —ASSUMINDO: ANGE VS BATTLER INICIO—
 #v0247N-Not bad... To think I'd lose...to that little Ange... 
@@ -4364,7 +4411,7 @@ Onii-chan, seu estúpido! Você não se importa com mais ninguém?!
 Não posso acreditar. E pensar que você esteve brincando por aí por 12 anos.
 
 #v0249F-Forgive me... I really...didn't forget about you...
-Perdoe-me... eu realmente...não esqueci de você...
+Sinto muito... eu realmente...não esqueci de você...
 —ASSUMINDO: ANGE VS BATTLER FIM—
 
 —ASSUMINDO: ANGE VS ANGE INICIO—
@@ -4381,7 +4428,7 @@ I-Isso é insano... pensei que tinha te copiado perfeitamente...!
 Não importa o ponto de vista, sou obviamente o real. Talvez você deva examinar seus olhos.
 
 #v0374You would've been better off losing here... ...You will...regret this... 
-Você deveria ter perdido aqui... ...você vai...se arrepender disso...
+Seria melhor se tivesse perdido aqui... ...você vai...se arrepender disso...
 
 #v0375<See you in hell.> Go on and wait in the pit I'm headed for. 
 See you in hell. Vá à frente e aguarde no poço para qual estou indo.
@@ -4392,7 +4439,7 @@ See you in hell. Vá à frente e aguarde no poço para qual estou indo.
 Esta era pertence aos jovens... talvez seja hora de me aposentar...
 
 #v0376You belong in a faded old picture book. 
-Você pertence num álbum de fotos desbotado.
+Seu lugar é num álbum de fotos desbotado.
 
 #v0377Sorry, I've gotten older. I'm not at an age where I can believe in witches. 
 Desculpe, eu cresci. Não estou na idade de acreditar em bruxas.
@@ -4401,23 +4448,23 @@ Desculpe, eu cresci. Não estou na idade de acreditar em bruxas.
 Tudo bem. Você deve enxergar com dois olhos, um que acredita e um que duvida...
 
 #v0378What are witches? What is magic? ...I'm getting a headache. 
-O que são bruxas? O que é mágica? ...Estou ficando com dor de cabeça.
+O que são bruxas? O que é magia? ...Estou ficando com dor de cabeça.
 
 #v1419I've been hit all over. Both my head and my body ache... 
 Fui golpeada por todo corpo. Minha cabeça e meu corpo doem...
 
 —ASSUMINDO: ANGE VS RONOVE INICIO—
 #v0379Shave off that mustache. And enough with that hair, and the monocle too! 
-Barbeie esse bigode. E já deu desse cabelo, e desse monóculo!
+Barbeie esse bigode. E já deu desse cabelo, e desse monóculo também!
 
 #v0967Are you telling me to kill myself?! Oh, how cruel! 
-Está me dizendo para cometer suicídio? Ora, que cruel!
+Está me dizendo para cometer suicídio?! Ora, que cruel!
 
 #v0380Please, just stop going easy on women. It seriously pisses me off. 
 Por favor, pare de pegar leve com mulheres. Isso me deixa puta.
 
 #v0968No, no, pay it no mind... It is merely a personal virtue of mine... 
-Não não, não é nada... é meramente uma virtude pessoal minha.
+Não não, não é nada... É meramente uma virtude pessoal minha.
 
 #v0381<No, thank you.> I've got more than enough guys hitting on me.
 No, thank you. Já tive o suficiente de caras dando em mim.
@@ -4451,13 +4498,13 @@ Aaah, isso não está certo, não está nada certo! Não te soquei o suficiente 
 Parece que até mobílias conseguem ser violentas. Bem, pelo menos quando seu dono também é violento.
 
 #v0817I-I won't allow such blasphemy against my master! If you want to insult someone, insult me! 
-N-Não permitirei tal blasfêmia contra meu mestre! Se quer insultar alguém, insulte-me!
+N-Não permitirei tal blasfêmia contra minha mestra! Se quer insultar alguém, insulte-me!
 
 #v0818It's still far too early...for me to lose! N-Nngg...
 Ainda é muito cedo...para mim perder! N-Ngg...
 
 #v0386Lucifer, you've done enough! Go back to being a stake. 
-Lucifer, já fez o suficiente. Transforme-se de volta em uma estaca.
+Lucifer, você já fez o suficiente. Transforme-se de volta em uma estaca.
 
 #v0387You really are a hard worker. I'll give you that. 
 Você é realmente esforçada. Tenho que admitir.
@@ -4474,16 +4521,16 @@ Você estava naquela ilha naquele dia. Me conte a verdade!
 Posso te contar... porém, duvido que acreditaria em mim, Ange-sama...
 
 #v0389I wonder if Onii-chan also...likes girls like you. 
-Me pergunto se o Onii-chan também... gosta de garotas como você.
+Me pergunto se o Onii-chan também...gosta de garotas como você.
 
 #v1118Wh-Who knows... ...A-After all, ...he does call himself a breast sommelier... 
 V-Vai saber... ...Afinal, ...ele se autodenomina um sommelier de peitos...
 
 #v0390It looks like you'd also understand this thing called magic. 
-Parece que você também entende essa coisa chamada mágica.
+Parece que você também entende essa coisa chamada magia.
 
 #v1119What I do isn't magic... ...This is the power given to furniture... 
-O que faço não é magia... ...esse é o poder concedido a mobília...
+O que faço não é magia... ...Esse é o poder concedido a mobília...
 —ASSUMINDO: ANGE VS SHANNON FIM—
 
 —ASSUMINDO: ANGE VS KANON INICIO—
@@ -4491,16 +4538,19 @@ O que faço não é magia... ...esse é o poder concedido a mobília...
 Eu...ainda nem perdi... mas ainda assim, ...nng!
 
 #v0391<See you again.> I really hate girly boys. 
-See you again. eu realmente odeio garotos afeminados.
+See you again. Eu realmente odeio garotos afeminados.
 
 #v0668...I can't lose. ...I'll win, and win, and win... ...Nngg! 
 ...Não posso perder. ...Ganharei, ganharei e ganharei... ...Nngg!
 
 #v0392You've got wild eyes. It pisses me off... like I'm looking at myself. 
+Você tem olhos selvagens. Isso me tira do sério... É como se estivesse olhando para mim mesma.
 
-#v0393What's with those eyes? Give it up. You've already lost. 
+#v0393What's with those eyes? Give it up. You've already lost.
+Qual é a desse olhar? Desista. Você já perdeu.
 
 #v0669No! I haven't lost until I admit it...! Dammit, ...dammit...!
+Não! Eu não perdi até admitir...! Merda, ...merda...!
 —ASSUMINDO: ANGE VS KANON FIM— 
 
 —ASSUMINDO: ANGE VS EVATRICE INICIO—
@@ -4508,19 +4558,19 @@ See you again. eu realmente odeio garotos afeminados.
 Ah, me sinto ótimo! Vou te perdoar por um décimo dos rancores que acumulei durante os anos.
 
 #v0517Just how much do you hate me?! Hey, how much?! 
-O quanto você me odeia?! Ei, quanto?!
+O quanto você me odeia?! Ei, o quanto?!
 
 #v0395You should know! What happened on that day?! 
 Você deveria saber! O que aconteceu naquele dia?!
 
 #v0518...I'm not telling. If only you'd just give up and die. 
-...Não direi. Você devia desistir e morrer.
+...Eu não direi nada. Por que não desiste e morre bem devagar?
 
 #v0519I know nothing. If that's what you think, why not go on thinking it...?
-Não sei de nada. Se isso é o que pensa, porque não segue com esse pensamento...? 
+Não sei de nada. Se é isso o que pensa, porque não segue com esse pensamento...? 
 
 #v0396You don't intend to tell me? You're always like that, up until the very end. 
-Você não vai me dizer? Você sempre é assim, até o fim.
+Você não vai me dizer? Você sempre foi assim, até seu último momento.
 —ASSUMINDO: ANGE VS EVATRICE FIM—
 
 —ASSUMINDO: ANGE VS CHIESTER410—
@@ -4528,39 +4578,39 @@ Você não vai me dizer? Você sempre é assim, até o fim.
 Nihi... A Tropa das Irmãs Chiester não perderão tão facilmente...
 
 #v0397Just stop it already! I don't want to fight against Onee-chan's friends. 
-Pare já! Não quero lutar com amigos da onee-chan.
+Pare já! Não quero lutar contra as amigas da onee-chan.
 
 #v0398I remember playing with you and Onee-chan long ago. 
-Lembro de brincar com você e a Onee-chan tempos atrás.
+Lembro de brincar com você e a onee-chan tempos atrás.
 
 #v1268So you remembered nyeh. ...You were quite violent back then too nyeh. 
-Então você lembra, nyeh. ...Você era bem violenta na época, nyeh.
+Então você lembra, nyeh. ...Você era bem violenta naquela época, nyeh.
 
 #v0399Could we stop fighting? I'd rather have fun singing with you. 
 Podemos parar de brigar? Prefiro me divertir cantando com você.
 
 #v1269That takes me back nyeh. Though I only remember the 'uu-uu-' song nyeh.
-Isso me tráz lembranças, nyeh. Embora eu lembre apenas da canção do 'uu-uu-', nyeh.
+Isso me trás lembranças, nyeh. Embora eu lembre apenas da canção do 'uu-uu-', nyeh.
 —ANGE VS CHIESTER410 FIM—
 
 —ASSUMINDO: ANGE VS GEORGE—
 #v2568You were forced to learn martial arts too, right? ...The same goes for me. I escaped pretty quickly though. 
-Você foi forçado a aprender artes marciais, não é? ...O mesmo aconteceu comigo. Porém, escapei rapidamente.
+Você foi forçado a aprender artes marciais, não foi? ...O mesmo aconteceu comigo. Porém, escapei rapidamente.
 
 #v2658And yet you're this strong? ...I'm no match... 
 E apesar disso, você é tão forte assim? ...Não tenho chances...
 
 #v2569If only I'd been able to call her 'Mother' back then, ...maybe something would've changed. 
-Se apenas eu tivesse conseguido chamá-la de 'Mãe' naquela época, ...talvez algo teria mudado.
+Se eu ao menos tivesse conseguido chamá-la de 'mãe' naquela época, ...talvez algo teria mudado.
 
 #v2659I have nothing to say. ...This is the future you chose for yourself, Ange-chan. 
-Não tenho nada a dizer. ...Esse é o futuro que escolheu para si mesma, Ange-chan.
+Não tenho nada a dizer. ...Esse é o futuro que você escolheu para si mesma, Ange-chan.
 
 #v2660You've grown to be strong, haven't you? I'm sure your family's proud of what you are now. 
 Você se tornou uma pessoa forte, não é mesmo? Tenho certeza que sua família está orgulhosa de quem você é agora.
 
 #v2570...Stop that. ...I'm not strong at all. I've just closed off my heart. 
-...Para. ...Não sou nada forte. Apenas fechei meu coração.
+...Pare com isso. ...Eu não sou forte. Apenas fechei meu coração.
 —ASSUMINDO: ANGE VS GEORGE FIM—
 
 —ASSUMINDO: ANGE VS JESSICA—
@@ -4568,10 +4618,10 @@ Você se tornou uma pessoa forte, não é mesmo? Tenho certeza que sua família 
 Agora que tenho a mesma idade, percebo...que você é mesmo uma criança, Jessica onee-chan.
 
 #v2853Can't you just say that my heart is burning with the vigor of youth...? 
-Será que não pode apenas dizer que meu coração está queimando com o vigor da juventude?
+Será que não pode simplesmente dizer que meu coração está queimando com o vigor da juventude?
 
 #v2566We're both 18, but the troubles we've been through are completely different. 
-Ambos temos 18, mas os problemas pelos quais passamos são totalmente diferentes.
+Ambas temos 18 anos, mas os problemas pelos quais passamos são totalmente diferentes.
 
 #v2854...Don't be so stiff... You used to be so cute, back then... 
 ...Não seja tão rígida... você costumava ser tão fofa naquela época...
@@ -4588,7 +4638,7 @@ Tudo bem, Jessica onee-chan. ...A verdade é algo que você precisa obter por si
 Lembre-se. ...A dor no coração da Maria onee-chan...em nada se comparava a isso.
 
 #v3183...I really hurt her that much? ...I'm so sorry, ...Maria... 
-Realmente a machuquei tanto? ...Desculpe, ...Maria...
+Realmente a machuquei tanto? ...Desculpa, ...Maria...
 
 #v2572Sorry. I decided not to go easy on you, Aunt Rosa. 
 Desculpe. Decidi não pegar leve com você, tia Rosa.
@@ -4597,7 +4647,7 @@ Desculpe. Decidi não pegar leve com você, tia Rosa.
 Que mal fiz a você...? Por que me odeia...?
 
 #v3185...You couldn't possibly understand my pain.
-Você não conseguiria entender minha dor.
+...Você não conseguiria entender minha dor.
 
 #v2573Of course not. You people won't tell me anything!!
 Claro que não. Vocês não me contam nada!! 
@@ -4617,7 +4667,7 @@ Nossas atitudes em relação à verdade não são as mesmas. Desculpe, mas não 
 Você não possui a força para aguentar a verdade, então nunca será capaz de a alcançar...
 
 #v4098This truth that you people are trying to force on me... I won't believe it, won't accept it! 
-Essa verdade que vocês estão tentando forçar para cima de mim... não acreditarei nela, não aceitarei ela!
+Essa verdade que vocês estão tentando forçar para cima de mim... Não acreditarei nela, não aceitarei ela!
 
 #v4179...Then keep wandering about in search of it for all eternity. It's just like the blue bird, isn't it...? 
 ...Então continue vagando em busca dela por toda eternidade. É como O Pássaro Azul, não é...?
@@ -4628,7 +4678,7 @@ Essa verdade que vocês estão tentando forçar para cima de mim... não acredit
 Não busco raciocínio. Tudo que quero... é a verdade.
 
 #v3826I had hoped that I could assist you in reaching THAT. ...Too BAD. 
-Esperava poder te auxiliar em alcançar ELA. ...Que PENA.
+Esperava poder auxiliar você a ALCANÇÁ-LA. ...Que PENA.
 
 #v4100I'll sweep aside anyone who stands in my way. You're just another obstacle. 
 Eliminarei qualquer um que fique eu meu caminho. Você é apenas outro obstáculo.
@@ -4668,26 +4718,26 @@ Sei que não tem nada. Isso mesmo, não tenho nada, nadinha!
 Ganhei... BERNKASTEL! Mantenha sua promessa!!
 
 #v5781...*giggle*giggle* ...Sure, I'll give you a miracle. 
-*risadinhas* ...Muito bem, te concederei um milagre.
+*risos*risos* ...Muito bem, lhe concederei um milagre.
 
 #v4106Is that enough? Have I passed this trial of yours and proved that I have the necessary resolve?
 Foi suficiente? Passei por esse seu desafio e provei ter a determinação necessária?  
 
 #v5782...You certainly have. ...*giggle* Yes, this is why you're worthy of receiving my power. 
-...Certamente passou. ...*risadinha* Sim, é por isso que é digna de receber meu poder.
+...Certamente passou. ...*risos* Sim, é por isso que é digna de receber meu poder.
 
 #v5783Not bad. You have my praise. ...As a reward, I guess I'll give you any miracle you want. 
 Nada mal. Você tem meus parabéns. ...Como recompensa, acho que te concederei qualquer milagre que desejar.
 
 #v4107Bring back Onii-chan, bring back my family! Give me a miracle...!! 
-Traga o Onii-chan de volta, traga minha família de volta! Me conceda um milagre...!!
+Traga o onii-chan de volta, traga minha família de volta! Me conceda um milagre...!!
 
 —ASSUMINDO: ANGE VS LAMBDADELTA—
 #v4108I'll take back my family no matter what. That's my certain willpower. 
 Terei minha família de volta a todo custo. Esta é minha determinação absoluta.
 
 #v4764...As long as you don't forget that, it'll definitely come true someday. I promise you that. 
-...Contanto que não esqueça disso, definitivamente será realizado um dia. Te prometo isso.
+...Contanto que não esqueça disso, definitivamente será realizado um dia. Eu prometo isso a você.
 
 #v4109Witch of Certainty, Lambdadelta. Lend me your strength! Give me your certainty! 
 Bruxa da Certeza, LAMBDADELTA. Me conceda sua força! Me conceda sua certeza!
@@ -4696,7 +4746,7 @@ Bruxa da Certeza, LAMBDADELTA. Me conceda sua força! Me conceda sua certeza!
 Hmm, o que farei...? ...Bem, okay. Certo, pegue de graça. 
 
 #v4766Even after being lowered to the state of a witch's piece, you still struggle on. ...You really are cute. 
-Mesmo após ser reduzida a uma peça de bruxa, você ainda luta. ...Você é realmente fofa.
+Mesmo após ser reduzida ao patamar de uma mera peça da bruxa, você ainda resiste. ...Você é realmente fofa.
 
 #v4110I've already thrown away this life once. I'll keep falling and drag everyone up from the pits of hell! 
 Já joguei esta vida fora uma vez. Continuarei caindo e puxarei todos para fora dos poços do inferno!
@@ -4708,19 +4758,19 @@ Já joguei esta vida fora uma vez. Continuarei caindo e puxarei todos para fora 
 
 —ASSUMINDO: VIRGILIA VS BATTLER—
 #v0250Magic, trick, magic, trick... Nope, I'm lost! 
-Mágica, truque, mágica, truque... Não, estou perdido!
+Magia, truque, magia, truque... É, estou perdido!
 
 #v1420My, my. If you surrender after something like this, you certainly won't be able to beat Beato. 
 Minha nossa. Se você se render após algo assim, certamente não conseguirá derrotar a Beato.
 
 #0251It should be possible to explain everything with tricks! And yet...dammit! Dammit! 
-Deve ser possível explicar tudo com truques! E ainda assim... porcaria! Que droga!
+Deve ser possível explicar tudo com truques! E ainda assim...porcaria! Que droga!
 
 #v1421Your range of vision is a tad too limited. Think more flexibly... 
 Seu campo de visão é muito limitado. Pense mais flexivamente...
 
 #v0252Damn! One more time, please! Next time, I'll definitely...! 
-Merda! Mais uma vez, por favor! Na próxima, definitivamente...!
+Merda! Mais uma vez, por favor! Na próxima, eu definitivamente...!
 
 #v1422This part of you is your best point...and also your weakness... 
 Essa parte sua é seu melhor qualidade...e também sua fraqueza...
@@ -4737,10 +4787,10 @@ Desculpe. Não posso devolver seu irmão ainda.
 Não deixarei você entrar no caminho do jogo da Beato e do Battler-kun...
 
 #v0401What's so important about their game?! I don't understand...! 
-O que tem de tão importante no jogo deles?! Não entendo...!
+O que tem de tão importante no jogo deles?! Eu não entendo...!
 
 #v1425I understand how you feel. It's hard for me too... 
-Sei como se sente. Também é dificil para mim...
+Sei como se sente. Também é difícil para mim...
 
 #v0402If I've got a witch sympathizing with me, ...I'm screwed... 
 Se tem uma bruxa simpatizando comigo, ...estou ferrada...
@@ -4757,10 +4807,10 @@ Refletir sobre si mesma é uma forma importante de treinamento para uma bruxa.
 Droga... E estava tão perto de me tornar uma verdadeira bruxa...
 
 #v1429It's quite hard, isn't it? Refusing to avert your gaze from your own ugliness. 
-É bastante difícil, não é? Recusar-se a desviar seu olhar de sua própria feiura. 
+É bem difícil, não é? Recusar-se a desviar seu olhar de sua própria feiura. 
 
 #v1430My, my... Is this some sideshow of Beato's? How distasteful.
-Minha nossa... isso é algum tipo de espetáculo da Beato? Que desagradável.
+Minha nossa... Isso é algum tipo de espetáculo da Beato? Que desagradável.
 
 #v1431B-Beatrice-sama, ...forgive me.... Bleh! 
 B-BEATRICE-sama, ...me perdoe... Bleh!
@@ -4788,10 +4838,10 @@ Obrigada. Vejo que é um cavalheiro até em situações como essa...
 
 —ASSUMINDO: VIRGILIA VS BEATRICE INICIO—
 #v1435Come, try and remember. What form did you have? 
-Vamos, tente lembrar. Que forma você tinha?
+Vamos, busque recordar. Qual forma você possuía??
 
 #v0070St-Stop, I don't want to remember! Don't make me remember me!! 
-P-Para, não quero lembrar! Não me faça lembrar!!
+P-Para, eu não quero me lembrar! Não me faça lembrar!!
 
 #v1436What a troublesome child you are. Come, study with me once more. 
 Mas que criança problemática você é. Venha, estude comigo mais uma vez.
@@ -4800,7 +4850,7 @@ Mas que criança problemática você é. Venha, estude comigo mais uma vez.
 ...Droga, será que é possível uma discípula superar sua professora...?!
 
 #v1437It seems it was too early for you to receive the title of Endless Witch after all. 
-Parece que foi muito cedo para você receber o título de Bruxa do Infinito no final das contas.
+No final das contas, parece que foi muito cedo para você receber o título de Bruxa do Infinito.
 
 #v0072No, I'm not giving it baaaack! Ah, no, waaaaaaah! 
 Não, não vou devolveeeeer! Ah, não, waaaaaaaah!
@@ -4811,7 +4861,7 @@ Não, não vou devolveeeeer! Ah, não, waaaaaaaah!
 Levantem-se, jovens Irmãs do Purgatório. Tratem dos ferimentos dela.
 
 #v0820D-Don't call my sisters here...! Don't let them see me looking so pathetic! 
-N-Não chame minhas irmãs...! Não quero que me vejam com essa aparência tão patética! 
+N-Não chame minhas irmãs aqui...! Não quero que me vejam com essa aparência tão patética! 
 
 #v0821I haven't lost yet... Until this body of mine crumbles, ...I will fight! 
 Ainda não perdi ainda... até que este meu corpo colapse, ...lutarei! 
@@ -4823,7 +4873,7 @@ Ainda não perdi ainda... até que este meu corpo colapse, ...lutarei!
 Talvez seja hora das Sete Irmãs deixarem de ser criancinhas levadas.
 
 #v0822Y-You still treat me like a little kid... I-I can't stand it...! B-But... 
-V-Você ainda me trata como uma criancinha... o-odeio isso...! M-Mas...
+V-Você ainda me trata como uma criancinha... E-Eu não suporto isso...! M-Mas...
 —ASSUMINDO: VIRGILIA VS LUCIFER FIM—
 
 —ASSUMINDO: VIRGILIA VS SHANNON? INICIO—
@@ -4843,7 +4893,7 @@ Sim senhora... Ainda sou imatura... tentarei continuar com meus estudos...
 Obrigada. Tenho certeza que aprenderá algo com esta derrota.
 
 #v1443You're a kind and strong girl. I'm always watching over you. 
-Você é uma garota forte e doce. Estou sempre te vigiando.
+Você é uma garota forte e doce. Estarei sempre de olho em você.
 
 —ASSUMINDO: VIRGILIA VS SHANNON? FIM—
 
@@ -4855,13 +4905,13 @@ Droga... não vai ficar assim da próxima vez! Derrotarei você! A qualquer cust
 Acalme-se. Seu oponente responderá a sua hostilidade com ainda mais hostilidade.
 
 #v1445No matter how fast you are, if you're wrapped up in fierce emotions, your movements will be predicted. 
-Não importa o quão rápido você seja, se estiver envolto em emoções ferozes, seus movimentos serão previstos.
+Não importa o quão rápido você seja, se estiver envolto em emoções ferozes, seus movimentos serão previsíveis.
 
 #v0671Th-That's not possible... I know I was fighting calmly...! 
-I-Isso não é possível... sei que estava lutando calmamente...!
+I-Isso não é possível... Sei que estava lutando calmamente...!
 
 #v0672Why...?! Doesn't anger equal strength...?! 
-Por que...?! Raiva não resulta em força...?!
+Por quê...?! Raiva não resulta em força...?!
 
 #v1446Anger dulls your blade. Stop giving yourself over to it... 
 Raiva deteriora sua lâmina. Pare de se entregar a ela...
@@ -4869,7 +4919,7 @@ Raiva deteriora sua lâmina. Pare de se entregar a ela...
 
 —ASSUMINDO: VIRGILIA VS EVATRICE INICIO—
 #v0520My magic...should have been invincible... So why... 
-Minha mágica...deveria ser invencível... Por que então...
+Minha magia...deveria ser invencível... Então, por quê...
 
 #v1447Study with me. Learn the correct way to use the Endless Magic. 
 Estude comigo. Aprenda a maneira correta de usar a Magia do Infinito.
@@ -4889,16 +4939,16 @@ S-Sou apenas uma novata?! Mas sou um gênio...! Como ousa... me ridicularizar...
 
 —ASSUMINDO: VIRGILIA VS CHIESTER410 INICIO—
 #v1270Nihihi! I lost nyeh! Let's fight again nyeh, nyeh nyeh! 
-Nihihi! Perdi, nyeh! Vamos lutar denovo nyeh, nyeh, nyeh!
+Nihihi! Perdi, nyeh! Vamos lutar de novo nyeh, nyeh, nyeh!
 
 #v1450Hohoho. I see you rabbits are as spirited as ever. 
-Hohoho. Parece que vocês coelinhas estão animadas como sempre.
+Hohoho. Parece que vocês coelhinhas estão animadas como sempre.
 
 #v1451Go back to Lady MARIA. It seems she's growing lonely.
 Volte para a Lady MARIA. Parece que ela está se sentindo solitária.
 
 #v1271Nyeh?! That's not good nyeh! Lady MARIA, I'll come back right away nyeh! 
-Nyeh?! Isso não é bom nyeh! Lady MARIA, voltarei neste instante, nyeh!
+Nyeh?! Isso não é bom nyeh! Já estou a caminh, Lady MARIA! Nyeh!
 
 #v1452Weapons are quite terrifying. You were born for the sole purpose of killing people, weren't you...? 
 Armas são assustadoras. Você nasceu com o único propósito de matar pessoas, não foi...?
@@ -4918,13 +4968,13 @@ Ainda assim, não consegui vencer... Me pergunto se isso significa que me falta 
 Vamos dar um fim a isso, tudo bem? Afinal, parece que entendeu o poder das bruxas.
 
 #v2662...I surrender. I guess it's been a long time since Humans forgot their fear of things like you. 
-...Desisto. Acho que faz muito tempo que humanos esqueceram o medo de coisas como você.
+...Desisto. Acho que faz muito tempo desde que os humanos esqueceram o medo que tinham de coisas como você.
 
 #v3470If you eat three meals of mackerel a day, every day, you'll be able to use magic like me. 
-Se comer três porções de cavalinha por dia, todos os dias, conseguirá usar mágica como eu.
+Se comer três porções de cavalinha por dia, todos os dias, conseguirá usar magia como eu.
 
 #v2663Magic does sound really nice, but three meals of mackerel a day...would be harsh. 
-Mágica parece ser legal, mas comer três porções de cavalinha por dia...seria duro.
+Magia parece ser legal, mas comer três porções de cavalinha por dia...seria duro.
 —ASSUMINDO: VIRGILIA VS GEORGE FIM—
 
 —ASSUMINDO: VIRGILIA VS JESSICA INICIO—
@@ -4932,10 +4982,10 @@ Mágica parece ser legal, mas comer três porções de cavalinha por dia...seria
 Parece que exagerei... está bem? Consegue se levantar...?
 
 #v2856......Haah. That was some incredible magic, which I guess I should've expected from a magical teacher... 
-......Haah. Essa foi uma mágica incrível, o que aposto que seja de se esperar de uma professora mágica...
+......Haah. Essa foi uma magia incrível, o que aposto que seja de se esperar de uma professora mágica...
 
 #v2857If I trained starting from step one, ...could I become a witch too...? 
-Se treinasse desde a primeira etapa, ...será que eu poderia me tornar uma bruxa também...?
+Se eu treinasse a partir do básico, ...será que eu poderia me tornar uma bruxa também...?
 
 #v3466Of course. However, I'm quite a strict instructor. Hohoho. 
 Mas é claro. Porém, sou uma instrutora durona. Hohoho.
@@ -5320,7 +5370,7 @@ Ei, por que está me chamando de bruxa? Não sou uma...
 Aqui está um tipo de chá que gostaria que você experimentasse. Por favor, tome enquanto ainda está quente.
 
 #v3190Could I get some for Maria too? And some cookies. 
-Posso dar um pouco para a Maria também? E alguns cookies.
+Posso servir um pouco para a Maria também? E alguns cookies.
 
 #v3191Ngg...! I mustn't...lose in a place like thiiiiiiis!! 
 Ngg...! Não posso...perder em um lugar como esseeeeee!!
@@ -12516,6 +12566,7 @@ Um raciocínio bastante lógico. É quase como se eu estivesse procurando por qu
 Esta é toda a verdade deste mundo. Até mesmo enfrentamentos são tão simples quanto quebra-cabeças de arame para mim.
 
 #v4353I thought you were just a slowpoke glasses guy, but it looks like you're not half bad. 
+Pensei que fosse só um quatro-olhos lerdo, mas parece que não é tão ruim assim.
 
 #v4573Young lady, perhaps you should show a little more respect towards your elders. 
 Senhorita, talvez você devesse demonstrar um pouco mais de respeito pelos mais velhos.
@@ -12694,7 +12745,7 @@ Tem um ótimo AROMA. Está fazendo um pouco de CHÁ?
 Correto. Presumo que, com você aqui, não há motivos para eu me envolver. Pu ku ku.
 
 #v5164A blade of the Great Court of Heaven has such a chilling edge that even a demon like me must tremble. 
-
+Uma lâmina da Grande Corte dos Céus tem uma lâmina tão afiada que até mesmo um demônio como eu treme.
 
 #v3983I think of it as a merciful BLADE. It surpasses pain in an instant and brings about NOTHINGNESS. 
 EU penso nela como uma lâmina PIEDOSA. Ela supera a dor em um instante e traz a INSIGNIFICANCIA.
@@ -12799,7 +12850,6 @@ Não TEMA. Eu não tenho a intenção de expor sua IDENTIDADE. Exceto se for o m
 
 #v5397...Thanks for that nyeh. If I step out of line, I'm gonna have my existence denied nyeh...! 
 ...Obrigada por isso, nyeh. Se eu sair da linha, minha existência será negada, nyeh...!
-
 
 #v4001Thanks for your SUPPORT. ...As I expected from a Chiester. Your skills are highly regarded even in HEAVEN. 
 Obrigada pelo APOIO. ...Como esperado de uma Chiester. Suas habilidades são muito respeitadas, mesmo nos CÉUS.
@@ -13210,249 +13260,372 @@ Bom, você foi muito lenta. Pensei que estivesse deixando para mim.
 
 #v4030It seems your skills have improved yet AGAIN. I mustn't lose EITHER. 
 
+
 #v5622I've gotten slow. This won't go like our old fights. 
+
 
 #v4031Such a SHAME. To think that one with such skill would be RETIRED... 
 
+
 #v5623I'm from the wrong era. It's best if I just disappear. 
+
 
 #v5624A solved mystery...feels so empty. 
 
+
 #v4032It's like a FLOWER. It's beautiful for a short time because it eventually WITHERS. 
+
 
 #v5625A tag team between me and me, huh? A witch's diversion can be interesting every now and then. 
 
+
 #v5626True. And now we can get unpleasant jobs done in half the time. 
+
 
 #v5627So, in the end, who are you? 
 
+
 #v5628My role is to love Diana. Your role is to get your butt pinched. 
+
 
 #v5629Is that all? I'm going home. It's time to feed Diana. 
 
+
 #v5630True. If we take too long, she'll scratch up the sofa again. 
+
 
 #v5932As I'd expect from a competent man. You're nothing like that incompetent Bat-whatever-san. 
 
+
 #v5631Is incompetence really so bad? How fun would it be if everything got solved as early as Episode 1? 
+
 
 #v5632Hey, at least fight a little. Are you planning to make me do all the work? 
 
+
 #v5933What? Do you actually intend to make me, Bernkastel, put out effort? *giggle*giggle*... 
+
 
 #v5934You really are an interesting piece. I'm glad I chose you. 
 
+
 #v5633Good for you. Thanks to that, I'm fighting one battle after another. 
+
 
 #v4916Hmm, not bad...! I'll acknowledge your skill. Just a bit, though. 
 
+
 #v5634Sure, thanks. By the way, feel free to join in when you're done eating popcorn. 
+
 
 #v5635Why are you glaring at me? ...We won. Be happy. 
 
+
 #v4917Grrrr! Just when Lambda-chan-sama was planning a magnificent finish! 
+
 
 #v4918Awesome, awesome! *clap*clap*clap*! You really are strong! 
 
+
 #v5636You're sitting in the audience seating, aren't you? You know, you're technically supposed to be my partner... 
+
 
 #v3799Are you really my ally...? ...I can't tell sometimes. 
 
+
 #v5935What is an ally, really? There are only two kinds of people in this world: those who use, and those who are used. 
+
 
 #v5936...How was that? You told me to fight too, so I did. 
 
+
 #v3800I shouldn't have said that... This isn't a fight. It's a disgusting...nightmare...! 
+
 
 #v5937Right now, you're my miko. ...I won't let anyone get in your way. 
 
+
 #v3801Hey, haven't you done enough to them...? ...It's not like they were even getting in my way... 
+
 
 #v4150...You sure are reliable. ...With you, I get the feeling that I could actually reach the truth. 
 
+
 #v5938Yes, I promise it. I promise to invite you to see the truth of that day... 
+
 
 #v5939Ange, open your eyes wide. Make sure you don't let even a miniscule fragment of truth slide past your vision. 
 
+
 #v4151...Yeah, that's my plan. ...Take me...into the depths of the truth...! 
+
 
 #v5940I'm brutal. ...Good for you, Ange. You don't have me as an enemy. 
 
+
 #v4152...True. If only I could've avoided knowing you too. 
+
 
 #v5754Lady Bernkastel, what is the source of that power of yours...? 
 
+
 #v5941Miracles. ...I'm strong...because I know that miracles don't occur. 
+
 
 #v5942Mysteries are my specialty too. I once spent a whole century chasing after a single riddle. 
 
+
 #v5755Were you able to enjoy that riddle...? Mysteries are about enjoyment. Not suffering. 
+
 
 #v5943Oh, no. I've forgotten to hold back. ...And I was planning to sip some tea while leaving everything to you. 
 
+
 #v5756Hohoho... Perhaps you should do that next time. I'm sure your opponent will be overjoyed. 
+
 
 #v5169Pardon me for keeping you waiting. Here is the salted kelp tea with mustard you requested. 
 
+
 #v5944Thanks. A minor prize, suitable for this minor victory of mine. *giggle*... 
+
 
 #v5945I've heard the rumors, but butlers really are convenient. ...Got any interest in becoming my miko? 
 
+
 #v5170Perish the thought. A mere demon like me would be undeserving of the role. 
+
 
 #v5946Ronove, why are you serving someone as boring as Beato? 
 
+
 #v5171...Perhaps because she is a fitting master for a demon as boring as me. 
+
 
 #v3721I can't help but sympathize...with those pitiful victims abandoned by fate, forced to fight against the Witch of Miracles. 
 
+
 #v5947Meeting me is a miracle. And, meeting me means that all miracles have abandoned you. *giggle* 
+
 
 #v5948I like your style. It makes for a better tea snack than a bad cookie. 
 
+
 #v3722I'm glad you enjoyed it. You came all the way out here, after all. Please, enjoy yourself at your leisure! 
+
 
 #v5949Poor thing. ...You used up all your miracles in meeting me. 
 
+
 #v3723Haven't you done enough, Lady Bern? More importantly, how about some tea? At this rate, you'll dirty your clothes. 
+
 
 #v5091F-Forgive me... I-I'm so pathetic, I... Aaaah...! 
 
+
 #v5950You really are slow-witted furniture, making your master work like that. I'd better tighten your screws a bit... 
+
 
 #v5951Please don't make me waste my time on opponents like this. ...Do you need me to tighten your screws again? 
 
+
 #v5092N-Not at all! ...Next time, ...I definitely won't embarrass you like this... 
+
 
 #v5952Apparently, I'm boring when it comes to killing people. That's why I brought you here. 
 
+
 #v5093Leave it to me! I'll cook up our next opponents with the murder method of your choice...! 
+
 
 #v5325What a terrifying person... What is a witch like you visiting this island for...? 
 
+
 #v5953It's just a side trip on my journey to escape boredom. Don't be afraid...just entertain me. 
+
 
 #v5954Shannon, bring me a more formidable opponent. Don't bore me. 
 
+
 #v5326Y-Yes Ma'am, at once... O-Oh no, I can't think of anyone else... 
+
 
 #v5955What a useless maid you are, making me work. ...Never trust a woman with large breasts. 
 
+
 #v5327M-M-My apologies...! B-But you're plenty big yourself... 
+
 
 #v4737This is...a witch's power. ...No stronger or weaker than Beatrice-sama's! 
 
+
 #v5956Are you mocking me? Don't compare me to that fake witch. *giggle* 
+
 
 #v5957Kanon, watch without looking away. This is what strength is, see? *giggle*... 
 
+
 #v4738...No... The strength I seek...isn't something this brutal...! 
+
 
 #v5958It's a miracle, me lending you a hand. Next time, take care of everything yourself. 
 
+
 #v4739Y-Yes Ma'am. As you command. ...Dammit, I never asked for your help. 
+
 
 #v4503I'd be happy to welcome you. ...Play as much as you like with my cat box, and take the truth further and further away from them! 
 
+
 #v5959...Of course. I'll give it lots of loving. ...Though, when I get tired of it, I'm ripping out its guts. 
+
 
 #v5960Yes, I know what the truth you're hiding is. ...All I'm interested in is how I can have fun with it. 
 
+
 #v4504Who are you? ...You feel completely different from Beatrice and Virgilia. 
+
 
 #v5961I am the Witch of Miracles, Bernkastel. ...I'm your ally. For now. 
 
+
 #v4505Then I'll be happy to welcome you, for now. ...Though I'll be welcoming you in a different way when you aren't my ally anymore. 
+
 
 #v5403Just as I'd expect from Lady Bernkastel...! She shows up with atrocities to terrify even rabbits nyeh...! 
 
+
 #v5962What a pleasant compliment. I am Bernkastel. A witch who will spare not even a Fragment of hope. 
+
 
 #v5963Still, this world really is interesting. I never expected that rabbits standing on two legs would start to play musical instruments. 
 
+
 #v5404The Chiester Troops will do everything from marching band work to live stadium performances to light-speed handshake events nyeh! 
+
 
 #v5964You're not bad. I see. So, a rabbit clown is the thing I was missing. 
 
+
 #v5405Nihihihi. Chiester 410 will do all she can to satisfy you, Lady Bernkastel nyeh! 
+
 
 #v4581I cannot stand silent and watch you humiliate the defeated anymore. 
 
+
 #v5965Are you gonna take me on in their place? Well, that should let us kill time for a few seconds. 
+
 
 #v5966It's hilarious when people are so absurdly overconfident that they think they can challenge the great Bernkastel. 
 
+
 #v4582Sometimes you have to fight, even when you know you'll lose. 
+
 
 #v5967Okay, how do you want to be killed next? I'll be taking requests. 
 
+
 #v4583If you just stayed quiet, you'd be such a sweet girl... 
+
 
 #v4659H-Hey, stop that already! They've acknowledged their defeat, haven't they?! 
 
+
 #v5968They should've done that before the fight started. ...This is what it means to lose to me. 
+
 
 #v4660You're terrifying for someone with such a cute face... Almost like a demon... 
 
+
 #v5969That's rude, calling someone a demon like that. I'm a witch. An adorable little witch. 
+
 
 #v5970Remember this, Jessica. Only when you've reached this point...do you have the right to ask for a miracle. 
 
+
 #v4661If a miracle means brutality, then I don't want one... 
+
 
 #v5971Did you think you had even a little chance of winning? Well, I did make you think that. 
 
+
 #v5247...What a terrifying girl. I wish I could see the faces of the parents who raised her... 
+
 
 #v5248Seriously, who are you?! I don't see why you can't tell me that now. 
 
+
 #v5972You wouldn't be able to understand anyway. So, even answering you would be a pain. Come on, let's go, Rosa. 
+
 
 #v5973What's wrong, Rosa? Defeat your opponent. Brutally, just like me. 
 
+
 #v5249Why should I have to fight?! Just stop! Let me go! 
+
 
 #v5974You really are a useless piece, forcing your master to fight like that. Maybe I'd better throw you away. 
 
+
 #v4385F-Forgive me! I was just enraptured by my master's adorable bodyyyyyy! 
+
 
 #v4387Time to take a beautiful shot of my master mid-fiiiiiight!! 
 
+
 #v5975...You fight too. Come on, put the camera down. 
+
 
 #v4388I-I'm so jealous! You got to get beaten up by my master so thoroughly! 
 
+
 #v5976*giggle* You want me to look after you too? ...Sure. Come over here. 
+
 
 #v4033So, this is the power of a witch of the SENATE... How merciless...and CRUEL... 
 
+
 #v5977Don't be shocked by a little thing like that. ...I'm still just having some fun. 
+
 
 #v4034I announce the conclusion of this BATTLE. Lady Bernkastel, please STOP. 
 
+
 #v5978There's still room for a final possible miracle...of them defeating me somehow. I'm certainly not gonna spare them until I've crushed all hope. 
+
 
 #v5979Still, the Great Court must have a lot of time on their hands if they've sent you to babysit me. 
 
+
 #v4035YES. We really, truly, and splendidly have lots of time on our HANDS. I've had enough of stamping DOCUMENTS...! 
+
 
 #v5637You keep hitting them with merciless truths. ...Just what makes that so fun? 
 
+
 #v5980Truth is everything, right? That's what Humans live and die for. 
+
 
 #v5981When did that arm grow back? Would you like me to remove it again? 
 
+
 #v5638Lady Lambda gave me it as a bonus. ...Sorry, but I've got no arms left to give you. 
+
 
 #v5639Why do you toy with people's fates? Even though you realize how much they mean to them. 
 
+
 #v5982It's because I know. A human's fate is a surprisingly trivial thing. *giggle*giggle*! 
+
 
 #v5983It looks like the me of this Fragment is also the best and the worst. 
 
+
 #v5984Of course, the me in any Fragment is gonna be both the best and the worst. 
 
+
 #v5985That's troublesome. ...That definitely wasn't an interesting battle. 
+
 
 #v5986Auau's gonna complain that it got boring again.
 A Auau vai reclamar que ficou chato de novo.
