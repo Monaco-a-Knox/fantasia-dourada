@@ -6999,10 +6999,10 @@ Então? Sou um pouco diferente de sua antiga mestra?
 Impressionante... Parece que você é bem dotada quando se trata de brutalidade...
 
 #v0548Ah, what a letdown. I figured you'd be a bit more capable than this.
-Ah, mas que decepção. Pensei que seria um pouco mais capaz que isso. 
+Ah, mas que decepção. Pensei que você seria um pouco mais capaz que isso. 
 
 #v1019My, my... My apologies for not living up to your expectations... 
-Minha nossa... minhas desculpas por não alcançar suas expectativas...
+Minha nossa... Sinto muito por não alcançar suas expectativas...
 
 #v0549What a useless man! If only you'd just give up and die! 
 Mas que homem inútil! Por que não desiste e morre bem devagar!
@@ -7013,13 +7013,13 @@ Muito bem. Mas primeiro, talvez eu deva praticar meu yoga...
 
 —ASSUMINDO: EVATRICE VS BEATRICE INICIO—
 #v0550The power of magic really is wonderful! You have my gratitude, Predecessor-sama! 
-O poder da mágica realmente é maravilhoso! Você tem minha gratidão, antecessora-sama!
+O poder da magia é realmente maravilhoso! Você tem minha gratidão, antecessora!
 
 #v0118...I-Indeed. You've managed to make good use of it... Even I am surprised... 
 ...D-De fato. Você realmente conseguiu usá-la bem... estou surpresa...
 
 #v0551Oh, Predecessor-sama! Why are you crawling on the floor?! 
-Oh, antecessora-sama! Por que está se rastejando no chão?!
+Oh, antecessora! Por que está se rastejando no chão?!
 
 #v0119Th-This is a popular pose these days... Nng, owowow... 
 I-Isso é popular nos dias de hoje... Nng, aiaiaii...
@@ -7033,7 +7033,7 @@ Agora sei como a professora se sente... uma discípula fracassada de uma discíp
 
 —ASSUMINDO: EVATRICE VS LUCIFER INICIO—
 #v0868E-Eeeeeep...! I was a fool to draw my blade on you...! Forgive me...! 
-A-Aiiiiiii...! Fui uma tola por desembainhar minha espada contra você...! Me perdoe...!
+A-Aiiiiiii...! Fui uma tola por desembainhar minha lâmina contra você...! Me perdoe...!
 
 #v0553Ah, what a killjoy. Yeah, these hand-me-downs from my Predecessor-sama really are useless. 
 Ah, que estraga prazeres. É, essas heranças de minha antecessora realmente são inúteis.
@@ -7062,18 +7062,18 @@ Heheheh, desculpe, Shannon-chan. Me tornei uma bruxa...!
 Como poderia uma garota tão vergonhosa estar à altura do George?!
 
 #v1169...Y-Yes Ma'am... George-sama is a wonderful man... I'm no match for him... 
-...S-Sim senhora... George-sama é um homem maravilhoso... não estou à altura dele...
+...S-Sim senhora... O George-sama é um homem maravilhoso... Eu não estou à altura dele...
 
 #v0558Never get near George again! If only you'd just give up and die! 
 Nunca mais se aproxime do George! Por que não desiste e morre bem devagar!
 
 #v1170...George-san... ...This is as far as I can go. ...I'm sorry...
-...George-san... ...Aqui é o mais longe que conseguirei chegar. ...Sinto muito...
+...George-san... ...Esse é o mais longe que conseguirei chegar. ...Sinto muito...
 —ASSUMINDO: EVATRICE VS SHANNON FIM— 
 
 —ASSUMINDO: EVATRICE VS KANON INICIO— 
 #v0559*giggle* A boy needs to build up a little more strength than that. Take a look at George. 
-*gargalhada* Um garoto precisa de um pouco mais que força que isso. Olhe para o George.
+*gargalhada* Um garoto precisa de um pouco mais de força que isso. Olhe para o George.
 
 #v0718D-Damn you...! I hate my pitiful body...! Nngg...! 
 D-Droga...! Odeio meu corpo patético...! Nngg...!
@@ -7136,7 +7136,7 @@ E você se autodenomina minha mobília?!  Por que não desiste e morre bem devag
 George, você entende agora, não é? Tenho a garota mais adequada para você!
 
 #v2679I don't understand... I'm not a kid either! I won't do whatever you say, Mother! 
-Não entendo...não sou uma criança também! Não farei tudo que você disser, mãe!
+Não entendo...Eu não sou mais criança! Não farei tudo que você disser, mãe!
 
 #v2614This is so fun, George! So much fun! 
 Isso é tão divertido, George! Tão divertido!
@@ -7208,7 +7208,7 @@ Sendo a tampa da caixa de gato, não posso bancar uma derrota aqui.
 Deixarei que fique com essa vitória. Não confunda as coisas.
 
 #v4451*giggle* Thanks. But the ends are all that matter, understand...? 
-*risos*Obrigada. Mas o final é tudo o que importa, compreende...?
+*risos* Obrigada. Mas o final é tudo o que importa, compreende...?
 —ASSUMINDO: EVATRICE VS ERIKA FIM— 
 
 —ASSUMINDO: EVATRICE VS DLANOR INICIO— 
@@ -7228,7 +7228,7 @@ ENTENDIDO. Por favor, PROTEJA-A.
 Consigo entender o que a levou a herdar a posição de Bruxa Dourada, BEATRICE.
 
 #v4454*giggle* ...Thanks. Next time, come at me more seriously, okay? 
-*risos* ...Obrigada. Na próxima vez, venha com mais seriedade, certo?
+*risos* ...Obrigada. Na próxima vez, venha com mais seriedade, tá?
 —ASSUMINDO: EVATRICE VS DLANOR FIM— 
 
 —ASSUMINDO: EVATRICE VS WILL INICIO— 
@@ -7273,10 +7273,10 @@ As coisas que eu protejo e o peso que carrego estão numa escala completamente d
 
 —ASSUMINDO: EVATRICE VS LAMBDADELTA INICIO— 
 #v4461I did go easy on you. Are you okay, you cute little girl? 
-Eu peguei tão leve. Você está bem, jovenzinha?
+Eu peguei tão leve. Você está bem, garotinha?
 
 #v4785You really piss me off, both parent and child! How can you be so rude to the Great Lambdadelta-sama?! 
-Vocês realmente me irritaram, mãe e filha! COmo podem ser tão rudes com a Grande Lambdelt-sama?!
+Vocês realmente me irritaram, mãe e filha! COmo podem ser tão rudes com a Grande LAMBDADELTA-sama?!
 
 #v4462You said you were my master's friend, ...so I thought I'd be able to enjoy myself a bit more. 
 Você disse que era amiga da minha mentora, ...por isso pensei que seria capaz de aproveitar um pouco mais.
@@ -7313,7 +7313,7 @@ Missão completa! Silêncio do alvo Battler: confirmado!
 Brincar de casinha com coelhas combina perfeitamente com você, nyeh!
 
 #v0421D-Don't you mock me...! I...don't have time to play with you... 
-P-Pare de zombar de mim...! E...não tenho tempo para brincar com você...
+P-Pare de zombar de mim...! Eu não tenho tempo para brincar com você...
 
 #v1295It's time for the uninvited guest to realize she's not wanted and leave nyeh. 
 Está na hora da convidada indesejada perceber que ela não é querida e ir embora, nyeh.
@@ -7379,7 +7379,7 @@ Sua cara está toda surrada! Vai querer o que primeiro? Um kit de maquiagem ou d
 Nada mal para uma arma! Você não deve subestimá-las! Heheheh, hahahahahahah... ...Ai...
 
 #v1305Mission Complete! Silencing of Target Beatrice Confirmed! 
-Missão completa! Silêncio do Algo Beatrice: confirmado!
+Missão completa! Silêncio do Alvo BEATRICE: confirmado!
 
 #v0871I-I mustn't lose here...! Even if I have to go down with you, I'll...! 
 N-Não posso perder aqui...! Mesmo se eu tiver que cair com você, eu irei...!
@@ -7445,10 +7445,10 @@ Não foi ruim... E-Esse é o tipo de mobília que eu mereço!
 Se isso chamou sua atenção, por favor use-me como guarda. Fico com três intervalos para o lanche por dia e cochilos ilimitados, nyeh!
 
 #v0572It looks like I'll have to be satisfied with that arrangement... Okay, it's a deal... 
-Parece que tenho que ficar satisfeita com o que foi combinado... Yduo bem, temos um acordo...
+Parece que tenho que ficar satisfeita com o que foi combinado... Tudo bem, temos um acordo...
 
 #v0573How could a witch lose to furniture...? This is impossible... 
-Como uma bruxa pôde perder para uma mobíla...? Isso é impossível...
+Como uma bruxa pôde perder para uma mobília...? Isso é impossível...
 
 #v1317Mission Complete! Silencing of Target EVA-sama Confirmed! 
 Missão completa! Silêncio do alvo EVA-sama: confirmado!
@@ -7463,7 +7463,7 @@ Tem um monte de Irmãs Chiester, então nunca sabemos quem é quem, nyeh.
 Ukyuuu! Desta vez, eu resigno, nyeh! Nihihihihihi!
 
 #v1321Playing with your sisters is fun nyeh! Let's keep playing nyeh! 
-Brincar com suas irmãs é divertido, nyeh! Vamos brincar mais, nyeh!
+Brincar com minhas irmãs é divertido, nyeh! Vamos brincar mais, nyeh!
 
 #v1322Training Complete! Beginning Self-Evaluation, Uploading Data nyeh! 
 Treinamento completo! Começar autoavaliação; uploading de dados, nyeh! 
@@ -7520,7 +7520,7 @@ Se ficar com essa cara assustadora, os garotos nunca vão se aproximar de você,
 C-Cala a boca! Não é da sua conta! Me deixe sozinha, por favor!
 
 #v3209I'm sorry, Maria... Please forgive your weak mother... 
-Desculpe, MAria... Perdoe sua fraca mãe...
+Desculpe, Maria... Perdoe sua fraca mãe...
 
 #v3428Mission Complete! Silencing of Target Rosa Confirmed! 
 Missão completa: Silêncio do alvo Rosa: confirmado!
@@ -7529,7 +7529,7 @@ Missão completa: Silêncio do alvo Rosa: confirmado!
 Nihihhi! Não me diga que já terminou, nyeh. Não pode ser, nyeh.
 
 #v4202Of course not! I, Furudo Erika, would never be taken down so easily...! 
-É claro que não! Eu, Furuto Erika, nunca cairia tão facilmente...!
+É claro que não! Eu, Furudo Erika, nunca cairia tão facilmente...!
 
 #v4203I lost to a rabbit?! I, the detective did?! What kind of mystery is this?!! 
 Eu perdi para uma coelha? Eu, a detetive? Que tipo de mistério é esse?!
@@ -7563,7 +7563,7 @@ Missão completa! Silêncio do alvo Dlanor: confirmado!
 
 —ASSUMINDO: CHIESTER410 VS WILL INICIO— 
 #v5355Hot guys are cool even when they withdraw nyeh. 
-Gostosos são estilosos até mesmo quando recuam, nyeh.
+Bonitões são estilosos até mesmo quando recuam, nyeh.
 
 #v5454...Tch. I'll let you flatter me for now. Next time, remember this. 
 ...Tch. Vou te deixar me lisonjear por enquanto. Da próxima vez, lembre-se disso.
@@ -7635,7 +7635,7 @@ N-Não adianta, não sou páreo para você...!
 Você será mesmo capaz de proteger a mulher que ama assim? Você deve começar a treinar também, Battler-kun!
 
 #v2687Even I wasn't studying all the time. 
-Até mesmo eu não estudei o tempo todo.
+Nem mesmo eu passo o tempo todo estudando.
 
 #v2531Dammit! Those glasses had me completely fooled...! 
 Merda! Esses óculos me enganaram completamente...!
@@ -7663,7 +7663,7 @@ Se está julgando seu oponente por suas aparências, então ainda tem um longo c
 
 —ASSUMINDO: GEORGE VS VIRGILIA INICIO—  
 #v2691Is that checkmate, young lady...? 
-Foi um cheque-mate, jovem donzela...?
+Foi um xeque-mate, jovem donzela...?
 
 #v3474Y-Young lady? Umm...hohoho, you are too kind. 
 J-Jovem donzela? Hmmm...hohoho, você é muito gentil.
@@ -7863,7 +7863,7 @@ Aiiii... Se não me pareço com uma dama, então você também tem um longo cami
 
 —ASSUMINDO: GEORGE VS ROSA INICIO—
 #v2724Please don't take this the wrong way. I am, after all, a ranked martial artist. 
-Por favor, não confunda as coisas. Sou, afinal de contas, um artista marcial graduado.
+Por favor, não confunda as coisas. Afinal, eu sou qualificado em artes marciais.
 
 #v3210You've beaten your aunt... Maybe I'll teach Maria martial arts too... 
 Você derrotou sua tia... talvez eu ensine artes marciais para a Maria também...
@@ -7909,10 +7909,10 @@ Não entendo. Por que devemos lutar...?
 O sentimento é o MESMO. Porém, é destino das peças se ENFRENTAREM.
 
 #v3854It seems it was not yet my time to SHINE. I will leave QUIETLY... 
-Parece que ainda não era minha hora de BRILHAR. Vou me retirar QUIETAMENTE...
+Parece que ainda não era minha hora de BRILHAR. Vou me retirar em SILÊNCIO...
 
 #v4531In that case, would you mind heading to the parlor? There are tea and cookies waiting for you. 
-Neste caso, se importa de ir para o salão? Têm chá e cookies esperando para você.
+Neste caso, se importa de ir para o salão? Tem chá e cookies esperando para você.
 
 #v4532I see. That reasoning is definitely intriguing. I'll keep it in mind, so how about a break? 
 Entendo. Seu raciocínio é definitivamente intrigante. Ficarei com ele em mente, então que tal uma pausa?
@@ -7938,18 +7938,18 @@ Nada disso. Se tivesse recuperado seus instintos, duvido que eu teria conseguido
 ...Vejo que sabe como recuar também. ...Estou feliz que seja um cavalheiro.
 
 #v5459Yep. ...And thanks to that, I get to leave without getting any more wounds. 
-É. ...E graças a isso, sou capaz de me retirar sem ganhar mais ferimentos.
+Pois é. ...E graças a isso, sou capaz de me retirar sem ganhar mais ferimentos.
 —ASSUMINDO: GEORGE VS WILL FIM—
 
 —ASSUMINDO: GEORGE VS BERNKASTEL INICIO—
 #v4536Oh, are you okay? I figured I wouldn't need to go easy on you. 
-Oh, está tudo bem? Pensei que não deveria pegar leve com você.
+Está tudo bem? Conclui que eu não deveria pegar leve com você.
 
 #v5808...That decision saved your life. I hate being underestimated. 
 ...Essa decisão salvou sua vida. Odeio ser subestimada.
 
 #v5809Ngg, *cough*, *cough*...! How could you...do this to the Great Bernkastel...?! 
-Ngg, *tosse*, *tosse*...! Como pôde...fazer isso com a Grande BERNKASTEL...?!
+Ngg, *cof*, *cof*...! Como pôde...fazer isso com a Grande BERNKASTEL...?!
 
 #v4537It seems you never realized...that your willingness to look down on people was the cause of your defeat. 
 Parece que nunca percebeu...que sua mania de menosprezar as pessoas foi a causa de sua derrota.
@@ -7963,7 +7963,7 @@ Você...como pode o George, de todas as pessoas... ...Nng, ...ngngggggg!!
 
 —ASSUMINDO: GEORGE VS LAMBDADELTA INICIO—
 #v4539I'd planned to stop that last blow an inch before hitting you. Are you okay there, little lady? 
-Planejei parar aquele ultimo golpe um centímetro antes de te atingir. Está tudo bem ai, pequena dama?
+Planejei parar aquele ultimo golpe um centímetro antes de te atingir. Está tudo bem ai, jovenzinha?
 
 #v4791Wh-Why are you calling the Great Lambdadelta-sama little?! How rude! 
 P-Por que está chamando a Grande LAMBDADELTA-sama de pequena?! Que rude!
