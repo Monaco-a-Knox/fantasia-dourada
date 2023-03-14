@@ -2952,7 +2952,7 @@ T-Tia Rosa?! O que está tentando fazer?!
 Você não pode desobedecer a Bruxa da Escuridão, nyeh! Pare de resistir e deixe ser arrumada, nyeh!
 
 #v6278Who cares about the black witch...?! If you think you can tidy us up, then do it!!
-Quem se importa com a Bruxa da Escuridão?! Se acha que é capaz de arrumar as cosas, então tente!!
+Quem se importa com a Bruxa da Escuridão?! Se acha que é capaz de arrumar as coisas, então tente!!
 
 #v6375Let's get started!! I won't leave a single fragment of anybody behind!!!
 Vamos começar!! Não deixarei um fragmento de ninguém para trás!!!
@@ -5002,7 +5002,7 @@ Seu poder foi impressionante, Jessica-chan. Venha, vamos tomar chá.
 Jogue fora sua arma. Armas do mal guiam o coração humano ao mal.
 
 #v3186This is a weapon to defend myself...! Against the culprit...and witches...! 
-Essa é uma arma para me defender...! Contra o culpado...e bruxas...!
+Esta é uma arma para me defender...! Contra o culpado...e bruxas...!
 
 #v3472You mustn't open your heart to darkness. Not if you love your daughter.
 Você não deve abrir seu coração para a escuridão. Especialmente se ama sua filha. 
@@ -5025,7 +5025,7 @@ Esse nível de raciocínio não pode me abater, muito menos a Beato.
 De onde ela tirou esse truque de quarto fechado estranho...? ...Definitivamente te derrotarei...!   
 
 #v5701If you don't understand the pain of the human heart, ...I will have to make you experience it personally. 
-Se não entende a dor do coração humano, ...Terei de te fazer a sentir pessoalmente.
+Se não entende a dor do coração humano, ...terei de te fazer a sentir pessoalmente.
 
 #v4181I don't care! I will expose the truth! That's the only point of my life...! 
 Não ligo! Vou expor a verdade! Esse é o único sentido da minha vida...!
@@ -5034,21 +5034,21 @@ Não ligo! Vou expor a verdade! Esse é o único sentido da minha vida...!
 Te deixarei ir dessa vez. Vá, retorne ao local aonde deveria estar.
 
 #v4182S-So, you don't intend to deliver the final blow...? ...I'll make you regret being so soft...! 
-E-Então, você não pretende dar o golpe final...? Te farei se arrepender de ser tão mole...!
+E-Então, você não pretende dar o golpe final...? Farei com que se arrependa de ser tão ingênuo..!
 —ASSUMINDO: VIRGILIA VS ERIKA FIM—
 
 —ASSUMINDO:VIRGILIA VS DLANOR INICIO—
 #v3829To be that strong and youthful at that AGE. ...If you have a secret, please let me KNOW... 
-Tão forte e juvenil nessa idade. ...Se tiver um segredo, por favor me CONTE...
+Tão forte e juvenil nessa IDADE. ...Se tiver um segredo, por favor me CONTE...
 
 #v5703One mackerel drink, three times a day without exception. That is my secret. It goes down easier if it's matcha flavored. 
-Um drinque de cavalinha três vezes ao dia sem exceção. Esse é meu segredo. Desce mais fácil se tiver sabor de matchá.
+Um drinque de cavalinha três vezes ao dia, sem exceção. Esse é meu segredo. Desce mais fácil se tiver sabor de matcha.
 
 #v5704Checkmate. ...How was that, Dlanor? 
 Xeque-mate. ...Que tal, Dlanor?
 
 #v3830...I RESIGN. It was quite an intellectual BATTLE. Let us fight AGAIN. 
-Eu DESISTO. Foi uma luta bem INTELECTUAL. Vamos lutar NOVAMENTE.
+Eu DESISTO. Foi uma luta deveras INTELECTUAL. Vamos lutar NOVAMENTE.
 
 #v5705You know, if you keep skipping out on work, those two will come after you. 
 Sabe, se ficar faltando ao serviço, aquelas duas virão atrás de você.
@@ -5082,7 +5082,7 @@ Oh, e ainda nem tratei de seus ferimentos. Acha que Diana-san gostaria de um pou
 Aquela criança realmente deveria escolher suas amizades melhor. Isso é minha culpa também?
 
 #v5784...Is this what it feels like to be scolded by your friend's mom? I hate it... 
-...Essa é a sensação de ser repreendida pela mãe de sua amiga? Eu odeio isso...
+...Essa é a sensação de ser repreendida pela mãe de sua amiga? Que horror...
 
 #v5785...I love black tea. I love it even more with dried plums. ...But no mackerel. Hell no. 
 ...Amo chá preto. O amo ainda mais com umeboshi. ...Mas sem cavalinha. Nem ferrando.
@@ -5108,7 +5108,7 @@ Você chama isso de brincadeira? Mas que pessoa terrível você é...
 Minha nossa. Comer tantos doces faz mal para sua pele...
 
 #v4768*gulp* ...H-How did you know I've been getting pimples lately?! 
-*engulo* ...C-Como sabia que estou ficando com espinhas recentemente?!
+*engole* ...C-Como sabia que comecei a ficar com espinhas?!
 
 #v5714Thinking that you were that child's friend, I fear I may have overdone it a bit. Allow me to care for your wounds. 
 Considerando que você é amigo daquela criança, temo que exagerei um pouco. Permita-me tratar de suas feridas.
@@ -5153,10 +5153,10 @@ Parece que não se pode resistir ao seu próprio sangue. Você realmente parece 
 Não, não pareço...! Se parecesse, ele voltaria para casa...!
 
 #v0978To think that you managed to learn magic so well through self-study... Quite impressive. 
-E pensar que você aprendeu mágica tão bem por meio de autoaprendizagem... Muito impressionante.
+E pensar que você aprendeu magia tão bem por meio de autoaprendizagem... Bem impressionante.
 
 #v0405But it doesn't matter if I can't win! I've gotta learn a lot more about magic...! 
-Mas não importa se eu não ganhar! Tenho que aprender muito mais sobre mágica...!
+Mas não importa se eu não ganhar! Tenho que aprender muito mais sobre magia...!
 —ASSUMINDO: RONOVE VS ANGE FIM—
 
 —ASSUMINDO: RONOVE VS VIRGILIA INICIO—
@@ -5173,7 +5173,7 @@ Mas que pessoa assustadora. Seu poder mágico nunca deixa de me impressionar.
 Não é nada... enferrujei com o passar dos anos. Um milênio realmente é demais para viver.
 
 #v1455I thought I would be able to fight a bit longer, ...but it seems I've already reached my limit. 
-Pensei que conseguiria lutar um pouco mais, mas parece que alcancei o meu limite.
+Pensei que conseguiria lutar um pouco mais, ...mas parece que já cheguei ao meu limite.
 
 #v0981Neither of us is young anymore. Indeed, no one is fond of aging. 
 Nós dois não somos mais jovens. É verdade que ninguém gosta de envelhecer.
@@ -5184,7 +5184,7 @@ Nós dois não somos mais jovens. É verdade que ninguém gosta de envelhecer.
 Pu ku ku. Você cuida do chá, eu cuido dos cookies.
 
 #v0983It seems there's nothing else I can do... Then allow me to submit and accept that role. 
-Parece não haver nada mais que eu possa fazer... Então me permita ceder e aceitar essa função.
+Parece não haver nada mais que eu possa fazer... Então permita-me ceder e aceitar esse papel.
 
 #v0984What a dreamily beautiful boy you are. Oh, but you're me. Pu ku ku! 
 Que garoto sonhadoramente bonito você é. Oh, mas você sou eu. Pu ku ku!
@@ -5193,7 +5193,7 @@ Que garoto sonhadoramente bonito você é. Oh, mas você sou eu. Pu ku ku!
 Não, não, sou eu que estou perdendo o fôlego com essa vitória brilhante. Oh, mas você sou eu.
 
 #v0986Ooh, not bad, me. You were gorgeous, even in defeat. 
-Oh, nada mal, eu. Você foi esplêndido, até mesmo na derrota.
+Oh, nada mal, eu. Você é esplêndido, até mesmo na derrota.
 
 #v0987Defeat is precisely when a man can best display his virtues. Just like a lone shooting star. 
 A derrota é precisamente quando um homem pode demonstrar melhor suas virtudes. Como uma estrela-cadente solitária.
@@ -5201,7 +5201,7 @@ A derrota é precisamente quando um homem pode demonstrar melhor suas virtudes. 
 
 —ASSUMINDO: RONOVE VS BEATRICE INICIO—
 #v0073Hey, Ronove! I'm your master! Go easy on me at least a little!! 
-Ei, Ronove! Sou sua mestre! Pegue leve comigo pelo menos um pouco!!
+Ei, Ronove! Sou sua mestra! Pegue leve comigo pelo menos um pouco!!
 
 #v0988Ah, I didn't realize it was you, Milady! You have my deepest apologies! Pu ku ku! 
 Ah, não percebi que era você, ojou-sama! Minhas sinceras desculpas! Pu ku ku!
@@ -5224,7 +5224,7 @@ Como posso tomar chá após perder assim?! Por favor, mais uma partida! Mais uma
 Membros das Sete Irmãs do Purgatório, é hora da limpeza.
 
 #v0823My little sisters are going to mock me. To think I'd go as wild as that...and then lose anyway... Nng! 
-Minhas irmãzinhas vão me caçoar. E pensar que eu iria tão à loucura assim...e então perder mesmo assim...Nng!
+Minhas irmãzinhas vão zombar de mim. E pensar que eu iria tão à loucura assim...e então perder mesmo assim...Nng!
 
 #v0992Oh? Someone seems to have left a stake here. I thought I'd already cleaned those up. 
 Parece que alguém deixou uma estaca aqui. Pensei que já tinha limpado elas.
@@ -5356,7 +5356,7 @@ Esse foi um bom soco. Mais dez pontos para você.
 Então essa é a força dos demônios! Não tenho chance...
 
 #v3137Not at all. I'm strong because I'm a butler. Now do you understand? Pu ku ku. 
-Nada disso. Sou forte porque sou um mordomo. Entende agora? Pu ku ku.
+Nada disso. Sou forte porque sou um mordomo. Entendeu agora? Pu ku ku.
 —ASSUMINDO: RONOVE VS JESSICA FIM—
 
 —ASSUMINDO: RONOVE VS ROSA INICIO—
@@ -5484,13 +5484,13 @@ Ei! Está dizendo que eu, LAMBDADELTA-sama, sou amiga da Beato? ...Bom, tudo bem
 
 —ASSUMINDO: BEATRICE VS BATTLER INICIO—
 Hahahah! Let me speak with the red truth! #cFFFF2020You are incompetent#cFFFFFFFF!
-Hahahah! Deixe-me falar usando o vermelho: #cFFFF2020Você é incompetente#cFFFFFFFF!
+Hahahah! Deixe-me falar usando o vermelho: #cFFFF2020você é incompetente#cFFFFFFFF!
 
 #v0256...I-I can't counter that... If I can't win, ...am I incompetent after all...?! 
 ...Não consigo refutar isso... Se não posso vencer, ...então sou mesmo incompetente...?!
 
 #v0257Nnggg... It's useless... No matter how many times I stand back up, ...I can't win... 
-Nnggg... É inútil... não importa quantas vezes me levante, ...não consigo ganhar...
+Nnggg... Não adiante... não importa quantas vezes me levante, ...não consigo ganhar...
 
 #v0077What are you crawling on the ground for? Still can't get enough of the taste of chains?! 
 Por que está se rastejando no chão? Ainda não se cansou do gosto das correntes?!
@@ -5507,7 +5507,7 @@ Vá...em frente... mas definitivamente me levantarei...e te derrotarei...!
 Ei, onde estão as cebolas e pedaços de pão? Te transformarei em um hambúrguer.
 
 #v0406This is the person who's had Onii-chan locked up...? Oh my god... 
-Essa é a pessoa que trancou o onii-chan...? Oh meu deus...
+Essa é a pessoa que trancou o onii-chan...? Ai meu deus...
 
 #v0407...G-Give Onii-chan...back... Please... 
 ...D-Devolva o... onii-chan... por favor...
@@ -5547,7 +5547,7 @@ Faça como quiser... esse é meu pecado, ...minha falha em te ensinar como respe
 Ei, ei, ei, Ronove. Não te disse para não pegar leve comigo?!
 
 #v1006Of course, and I have not done so. ...You always manage to surprise, Milady. 
-Mas é claro, e não fiz isso. ...Você sempre consegue me surpreender, ojou-sama.
+Mas é claro, e eu não fiz isso. ...Você sempre consegue me surpreender, ojou-sama.
 
 #v0086Good work being a loser. How long are you going to lie there? Get some tea ready...! 
 Bom trabalho em ser um perdedor. Por quanto tempo vai ficar deitado aí? Me traga chá logo...!
@@ -5570,7 +5570,7 @@ Então, não consigo superar a verdadeira no final das contas... Nnngggg...
 Que interessante. Apesar de haver mais uma versão de mim, ...quero a quebrar em pedaços!
 
 #v0090Nothing I do works... ...Is this...all a shadow is capable of...? 
-Nada que faço funciona... ...Isso é tudo...que uma sombra consegue fazer...?
+Nada que faço funciona... ...Isso é tudo...uma sombra do que é capaz de fazer...?
 
 #v0091As I feared, this won't even serve as a sideshow! I can see exactly what you're planning, and that's the problem. 
 Como temia, isso não serve nem como distração! Consigo ver exatamente o que você está planejando, e esse é o problema.
@@ -5599,7 +5599,7 @@ Então você entra no meu caminho apesar de ser uma mera mobília. Nunca me cans
 É mil anos muito cedo para que você me goive! Você é aquela que será goivada, e pela suas irmãzinhas!! 
 
 #v0828A-Anything but that...! I'll suffer any humiliation you want, but not that! 
-Q-Qualquer coisa a não ser isso...! Vou sofrer qualquer humilhação que deseje, mas isso não!
+Q-Qualquer coisa menos isso...! Vou sofrer qualquer humilhação que deseje, mas isso não!
 —ASSUMINDO: BEATRICE VS LUFICER FIM—
 
 —ASSUMINDO: BEATRICE VS SHANNON INICIO—
@@ -5613,7 +5613,7 @@ Mas que pessoa triste você é... é incapaz até mesmo de falar sobre amor...!
 ...Nenhum tipo de violência perversa será capaz de macular nosso amor...
 
 #v0098You, ...trying to act all enlightened despite being furniture! I'll break you, I'll tear you to bits!! 
-Você, ...se fazendo de iluminada apesar de ser mobília! Te quebrarei, te rasgarei em pedaços!!
+Você, ...se fazendo de esclarecida apesar de ser mobília! Te quebrarei, te rasgarei em pedaços!!
 
 #v0099And how would you like to be humiliated? I'll grant all of your wishes, so let's hear it! 
 Como gostaria de ser humilhada? Garantirei todos os seus desejos, então pode falar!
@@ -5673,7 +5673,7 @@ S-Seus elogios me deixam honrada, nyeh...! A-Aiaiaii...
 E com isso acaba minha demonstração de habilidades, nyeh! F-Foi satisfatório, nyeh?
 
 #v0107*cackle*cackle* I like it! I give you permission to serve me! 
-*gargalhadas* Gostei! Te concederei permissão para me servir!
+*gargalhada**gargalhada* Gostei! Te concederei permissão para me servir!
 
 #v0108Oh, that won't do. I almost broke a most precious weapon!!
 Oh, nada bom. Quase quebrei a arma mais preciosa!! 
@@ -5742,7 +5742,8 @@ E pensar que chamaria a poderosa Bruxa das Origens de mera humana. É você que 
 —ASSUMINDO: BEATRICE VS ROSA FIM—
 
 —ASSUMINDO: BEATRICE VS ERIKA INICIO—
-#v3667*gargalhada*gargalhada*! Irei negar em vermelho!  #cFFFF2020Sua teoria está errada#cFFFFFFFF!!
+#v3667*cackle*cackle*! I'll deny it in red!  #cFFFF2020Your theory is wrong#cFFFFFFFF!!
+*gargalhada*gargalhada*! Irei negar em vermelho!  #cFFFF2020Sua teoria está errada#cFFFFFFFF!!
 
 #v4186Tch. ...This isn't over yet. I can still...reason out your trick... 
 Tch. ...Isso não acabou ainda. Ainda posso...explicar seu truque...
@@ -5762,13 +5763,13 @@ B-Bruxas não existem! Elas deveriam ser ilusões! Deveriam ser!!
 
 —ASSUMINDO: BEATRICE VS DLANOR INICIO—
 #v3835I get hungry after a FIGHT. Could I get some hot black TEA? 
-Fico com fome depois de uma LUTA. Pode me servir chá preto QUENTE?
+Fico com fome depois de uma LUTA. Pode me servir um pouco de chá preto QUENTE?
 
 #v3670Ronove! Prepare some victory tea and ice cream! We're celebrating! 
 Ronove! Prepare um chá de vitória e sorvete! Estamos celebrando!
 
 #v3671So, you're an Inquisitor... What frightening power. One would never guess it looking at you. 
-Então, você é uma Inquisidora... que poder assustador. Ninguém adivinharia olhando para você.
+Então, você é uma Inquisidora... Que poder assustador. Ninguém adivinharia olhando para você.
 
 #v3836I'm nothing compared to YOU. The defeated can do nothing but leave OBEDIENTLY... 
 Não sou nada comparado a VOCÊ. Os derrotados não podem fazer nada a não ser sair OBEDIENTEMENTE...
@@ -5782,7 +5783,7 @@ Gaaah! Não vou te perdoar! Rancores com comida podem ser assustadores, sabia! M
 
 —ASSUMINDO: BEATRICE VS WILL INICIO—
 #v3673Hahyahya! Is that the best Wizard-Hunting Wright has got? 
-Hahyahya! Isso é tudo que o Caçador de Bruxas Wright têm a oferecer?
+Hahyahya! Isso é tudo que o Wizard-Hunting Wright têm a oferecer?
 
 #v5439So, even that person would end up laughing like you in another world. ...That's very interesting. 
 Então, até mesmo aquela pessoa acabaria rindo como você em outro muito. ...Isso é muito interessante.
@@ -5831,13 +5832,13 @@ O que quis dizer com uma Beato?! Se eu ficar séria, isso é moleza!
 Quando luto com você, começo a querer algo doce. Será que você é feita de doce?
 
 #v4774Hey! Bern's the only one who gets to eat me! I won't even let you nibble on a bit of me! 
-Ei! Bern é a única que pode me comer! Não te deixarei mordiscar nem um pedacinho de mim!
+Ei! A Bern é a única que pode me comer! Não te deixarei mordiscar nem um pedacinho de mim!
 
 #v4775Beato's bullying meeee! I'll call up some friends and get you back! 
-Beato está me maltratando! Vou chamar uns amigos e me vingar!
+A Beato está me maltratando! Vou chamar uns amigos e me vingar!
 
 #v3681That's not good... Lady Lambda has many strange friends... I'd better be careful when walking alone at night...
-Nada bom...Lady Lambda tem muitos amigos estranhos... melhor ser cuidadosa quando estiver andando sozinha a noite... 
+Nada bom... A Lady Lambda tem muitos amigos estranhos... É melhor tomar cuidado quando estiver andando sozinha a noite... 
 —ASSUMINDO: BEATRICE VS LAMBDADELTA FIM—
 
 —ASSUMINDO: INICIO DAS LUTAS DA LUCIFER—
@@ -5845,6 +5846,7 @@ Nada bom...Lady Lambda tem muitos amigos estranhos... melhor ser cuidadosa quand
 —ASSUMINDO: LUCIFER VS BATTLER INICIO—
 #v0829Come on, that was laaaaame! So what, have you gotten hooked on the taste of defeat?! 
 Ei, isso foi patéticoooo! Qual foi, se viciou no gosto da derrota?!
+
 #v0259A-Are you kidding me... I never want...to be humiliated like that again...gwah! 
 T-Tá de brincadeira...nunca...quero ser humilhado assim novamente...gwah!
 
@@ -5875,7 +5877,7 @@ Irmãzinha do Battler? Não me faça rir! Você é apenas carne moída!
 Onii-chan, ...por que você não veio me salvar...? Onii-chan...!
 
 #v0834Weren't you going to rescue Battler onii-chan? Come on, come on, *giggle*! 
-Você não ia salvar o Battler onii-chan? Qual é, qual é, *risadinha*!
+Você não ia salvar o Battler onii-chan? Qual é, qual é, *risos*!
 
 #v0411Even though...I threw away everything to come here... ...Ngggg...! 
 Mesmo tendo...desistido de tudo para vir aqui... ...Ngggg...!
@@ -5977,7 +5979,7 @@ Queria ensinar a esta criança...mostrar a ela o quão nobre são essas coisas..
 Por favor, se tiver algum coração, deixe-me ir...
 
 #v0852No. I'm gonna play lots with your corpse! I'll tear it to shreds! 
-Não. Vou brincar bastante com seu cadáver! O rasgarei em pedaços!
+Não. Vou brincar bastante com seu cadáver! O dilacerarei em pedaços!
 —ASSUMINDO: LUCIFER VS SHANNON FIM—
 
 —ASSUMINDO: LUCIFER VS KANON INICIO—
@@ -5994,7 +5996,7 @@ Pensou que poderia ganhar? Pensou que seria capaz de me fazer rastejar, para que
 Sem chance...que eu perderia...! Se isso for um pesadelo, ...me acorde...!
 
 #v0855Hi there, weak, pathetic, unreliable, miserable Kanon-kuuuun! 
-Oláá, fracote, patético, irresponsável, e miserável Kanon-kuuuun!
+Olá, fracote, patético, irresponsável e miserável Kanon-kuuuun!
 
 #v0681So you continue to humiliate me even after beating me up... You...demon... 
 Então você continua me humilhando até mesmo após me espancar...seu...demônio...
