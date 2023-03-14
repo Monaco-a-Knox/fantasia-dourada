@@ -6031,7 +6031,7 @@ Pelo menos quando se trata de servir como mobília, somos suas superiores, okay?
 N-Nyeeeh... Lucifer-chan está se chamando de minha superior, nyeh...
 
 #v1280I let my guard down nyeh... I didn't analyze the latest info nyeh... 
-Eu baixei minha guarda, nyeh... Não analisei as informações atuais, nyeh...
+Eu baixei minha guarda, nyeh... Não analisei as informações mais recentes, nyeh...
 
 #v0860Oh, are these the famous Chiester Sisters? Talk about a letdown! 
 Oh, essas são as famosas Irmãs Chiester? Mas que decepção!
@@ -8294,10 +8294,13 @@ Ah, então você sabe como falar. Acompanharei sua força de vontade certeira at
 #v3062Ngg, Black Witch...! I can't lose in a place like this...! 
 
 #v3240Come on, prison isn't so bad. It'll be easy if you think of it as a job with a 500-million-yen salary, right? 
+Qual foi, a prisão não é tão ruim. Fica mais fácil se pensar neça com um emprego com um salário de 500 milhões de ienes, não?
 
-#v2625R-Rosaaaaaaa, yooooouuuu...!! 
+#v2625R-Rosaaaaaaa, yooooouuuu...!!
+R-Rosaaaaaaa, suaaaaaaaa...!
 
 #v2626I underestimated you. And I probably have been ever since you were born...! 
+Eu a subestimei. E provavelmente tenho subestimado desde que nasceu...!
 
 #v3241I'm your little sister, Nee-san. How could you underestimate me?
 Eu sou sua irmãzinha, nee-san. Como pôde me subestimar.
@@ -8412,232 +8415,339 @@ Teria sido perfeito se tivesse dito isso assim que apontei a arma para você.
 #v5198I don't believe it. How could a kid like you be working for a witch? 
 Eu não acredito nisso. Como uma criança como você pode estar trabalhando para uma bruxa?
 
-#v3861...I have a counter to that STATEMENT, but I believe I will leave FIRST... 
+#v3861...I have a counter to that STATEMENT, but I believe I will leave FIRST...
+...Eu tenho uma oposição a essa DECLARAÇÃO. Contudo, acredito que partirei PRIMEIRO... 
 
-#v5199Let's make up, okay? I'd rather meet with you at a fancy coffee shop. 
+#v5199Let's make up, okay? I'd rather meet with you at a fancy coffee shop.
+Vamos fazer as pazes, tá? Eu preferiria encontrar com você em uma cafeteria chique.
 
-#v5463...I agree. The smell of coffee beats the smell of blood any day. 
+#v5463...I agree. The smell of coffee beats the smell of blood any day.
+...Concordo. O aroma do café supera o cheiro de sangue em qualquer ocasião.
 
 #v5464Let's put an end to this. Get any more pissed off, and you'll just get a headache. 
+Vamos colocar um ponto final nisso. Se ficar ainda mais irritada, só vai ficar com dor de cabeça.
 
 #v5200You're right. And with a bullet through your brain, headaches will be the least of your problems. 
+Tem razão. E com uma bala no meio do cérebro, a dor de cabeça será o último dos seus problemas.
 
 #v5201Thanks to you, the weight on my heart seems to have lifted a little. You have my gratitude. 
+Graças a você, o peso no meu coração parece ter diminuído um pouco. Você tem a minha gratidão.
 
 #v5465Glad to hear it. Guess I didn't lose...for nothing. 
+Fico feliz em ouvir isso. Eu não perdi...por nada.
 
 #v5202Who is this kid...?! Don't tell me you're the mastermind behind this?! 
+Quem é essa criança...?! Não me diga que é a mente por trás de tudo isso?!
 
 #v5814Not at all. I'm just a theatergoer. A theatergoer to your little murder drama. *giggle* 
+Nada disso. Sou apenas uma espectadora. Uma espectadora da sua pequena dramaturgia assassina. *risos*
 
 #v5816Ah, I see! So that's the theme this time around! Ahahahahaha! 
+Ah, entendi! Então esse é o tema dessa rodada! Ahahahahaha! 
 
 #v5203What's so funny?! You're the one who lost, right?! ...What a creepy kid...! 
+Qual é a graça?! Foi você quem perdeu, não?! ...Que criança mais sinistra...!
 
 #v5204Are you another one of Beatrice's friends?! Answer me! 
+Você é outra das amigas da BEATRICE? Responda!
 
 #v5817Don't lump me in with her. ...I'm a proud theatergoer. *giggle*giggle* 
+Não me compare com ela. ...Sou uma orgulhosa espectadora. *risos*risos*
 
 #v5205Cute witches are great. They're even better on TV...! 
+Bruxas adoráveis são demais. Ficam ainda melhor na TV...!
 
 #v4797Are you talking about an anime adaptation?! You've got good taste, choosing me as the main character! 
+Está falando de uma adaptação para anime?! Você tem bom gosto, me escolhendo para ser a protagonista!
 
 #v4798That's the Black Witch for you. Why don't you just give up on being Human? 
+Como esperado da Bruxa da Escuridão. Por que não desiste de ser humana?
 
 #v5206Who are you calling a witch?! I'm Human! What's so funny?! Stop laughing! 
+Quem você está chamando de bruxa?! Eu sou humana! Qual é a graça?! Pare de rir!
 
 #v5207That fashion sense... Maybe the thing our brand lacked...was a person like you...! 
+Esse senso de moda... Tavez aquilo que faltasse para nossa marca...fosse uma pessoa como você...!
 
 #v4799Maybe you'd better try Gaap first. She knows a lot more about fashion than I do. 
+Talvez devesse tentar a Gaap primeiro. Ela entende muito mais de moda do que eu.
 
 #v4214What do you think? This level of reasoning is possible for Furudo Erika. 
+O que acha? Uma dedução como está é algo trivial para Furudo Erika.
 
-#v3760That's not reasoning... That's intellectual violence. 
+#v3760That's not reasoning... That's intellectual violence.
+Isso não é raciocínio.... É violência intelectual.
 
 #v3761How is that reasoning...? I'll never let something that messed up slide... 
+O que achou dessa dedução...? Eu nunca deixaria algo tão distorcido escapar...
 
 #v4215If you think that, go ahead and build a theory better than mine, Battler-saaaan! 
+Se acha isso, vá em frente e elabore uma teoria melhor que a minha, Battler-saaaan! 
 
 #v4216Checkmate! This is what real reasoning looks like, Battler-saaan! 
+Xeque-mate! É assim que uma dedução de verdade se parece, Battler-saaan!
 
 #v3762Like I'd ever surrender to reasoning like that... Your reasoning...is wrong... 
+Até parece que eu me renderia ao seu raciocínio... Sua dedução...está errada...
 
 #v4217Comrade Ange, you lack the resolve to expose the truth. 
+Confrade Ange, lhe falta determinação para expor a veradade.
 
 #v4111Are you saying that I'll never reach the truth without that...? 
+Ainda está dizendo que eu nunca alcançarei a verdade sem ela...?
 
 #v4112I-Is this the power of the Witch of Truth...? 
+E-Esse é o poder da Bruxa da Verdade...?
 
 #v4218The one with the power to withstand the truth... That's who the Witch of Truth is! 
+Aquela com o poder de testemunhar a verdade... Essa é a Bruxa da Verdade!
 
 #v4219Comrade Ange, do you really think you'll be able to reach the truth like that? 
+Confrade Ange, acha mesmo que vai alcançar a verdade dessa forma?
 
 #v4113I-I won't lose... Fight me again! Please...! 
+N-Não perderei... Lute comigo mais uma vez! Por favor...!
 
 #v4220Is that all? Have you finished that show of parlor tricks you call magic?! 
+Isso é tudo? Terminou aquele show de mágica que você chama de magia?!
 
 #v5715How powerless magic is before one who refuses to see... 
+Como é impotente a magia diante daqueles que se recusam a vê-la...
 
 #v5716How can your dried-out heart be watered again...? 
+Como poderia seu coração ressecado ser regado novamente...?
 
 #v4221Wonderful tricks are all my little gray cells seek! 
+Truques esplêndidos são tudo o que minhas pequenas células cinzentas conseguem ver!
 
 #v4222Now do you see how fragile the frost called witches are against the spring called truth? 
+Consegue ver agora o quão frágil é a geada das bruxas diante da primavera da veradade?
 
 #v5717...So it would seem. I don't appear to have...the strength to resist... 
 
 #v4223My reasoning is perfect. There are no gaps in it. 
+Meu raciocínio é perfeito. Ele não possui furos.
 
 #v5130...What a terrifying person. Truly the natural enemy of witches... 
+...Que pessoa horrível. É realmente um inimigo natural das bruxas...
 
 #v5131I am merely furniture. There exists no truth that would be fun for me to expose... 
+Sou uma mera mobília. Para mim, não existe verdade atrativa para se expor...
 
 #v4224I imagine so. What I want isn't tea, but closed room murders! 
+Eu imagino. O que quero não é chá, mas assassinatos de quarto fechado!
 
 #v4225Your mysteries are boring. You'd do better as a waiter. 
+Seus mistérios são chatos. Seria melhor se fosse uma criada.
 
 #v5132Well, it is forbidden for a servant to be the culprit. That bit of etiquette also exists... 
+Bem, é proibido que empregados sejam o culpado. Esse tanto de etiqueta também existe...
 
 #v4226And that concludes my proof. That's perfect reasoning for you! 
+E isso conclui minha prova. Um raciocínio perfeito para você!
 
 #v3682I-I won't accept it...! H-How could a witch be defeated by twisted logic...?!! 
+E-Eu não aceito...! C-Como pôde uma bruxa ser derrotada por uma lógica distorcida...?!
 
 #v3683V-Very well, let us say that I have resigned... 
+M-Muito bem, vamos dizer que eu resigno...
 
 #v4227All right then. Come back any time you think of a new trick! 
+Por mim, tudo bem. Fique à vontade para voltar quando pensar em um novo truque1
 
 #v4228How do you like that?! This level of reasoning is possible for Furudo Erika! 
+Gostou disso?! Uma dedução como está é algo trivial para Furudo Erika!
 
 #v3684Nnngg... I-I can't pull it out... I can't pull out her wedge of blue truth... 
+Nnngg.. N-Não consigo tirar... Não consigo tirar a cunha da verdade azul dela...
 
 #v4229To be honest, I'm disappointed. Is that all? O Paperweight of Purgatory? 
+Sinceramente, estou desapontada. Isso é tudo? Peso de Papel do Purgatório?
 
 #v5052How could my stake not work on her? ...I-I hate this...! 
+Como minha estaca não funciona nela? ...Q-Que droga...!
 
 #v5053St-Stop! Don't expose my identity! N-Nooooooo!! 
+P-Pare! Não exponha minha identidade! N-Nãoooooo!!
 
 #v4230Heheh, hahahah! The joy of exposing the truth! This is the pleasure of being an intellectual rapist! 
+Heheh, hahahah! O deleite de expor a verdade! Este é o prazer de ser uma estupradora intelectual!
 
 #v4231Another practice match this far in? Get me a closed room murder that's more fun! 
+Outra treino a essa altura? Me arranje um assassinato de quarto fechado que seja mais divertido!
 
 #v5054Treating me like a common grunt... ...I-I hate this... 
 
 #v4232That entertained me quite a bit. The mystery that you are, that is! 
+Isto me entreteve por um tempo. O mistério que é você!
 
 #v5286...Someone like you, who doesn't know love, won't be able to 'see' the truth... 
+...Alguém como você, que desconhece o amor, não será capaz de 'ver' a verdade...
 
 #v5287Even though...there's no evidence that you drifted to Rokkenjima... 
+Mesmo que...não tenha evidências de que você boiou até Rokkenjima...
 
 #v4233There's also no evidence disproving it. Isn't that the trick you all use? 
+Também não há evidências que neguem isso. Não é o truque que você usa o tempo todo?
 
 #v4234We should've met much earlier. I think we could've become friends! 
+Deveríamos ter nos encontrado muito antes. Acredito que poderíamos ter sido amigas!
 
 #v5288True. ...Or, we might have become the best and worst of rivals. 
+Verdade. ...Ou poderíamos ter nos tornados as melhores e piores rivais.
 
 #v4235Then allow me to present my reasoning. This part is regarding your defeat! 
+Então permita-me apresentar meu raciocínio. Esta parte é a respeito da sua derrota!
 
 #v4698I-I don't want to hear it! There couldn't have been any reason for it! 
+N-Não quero ouvir! Não tem motivo nenhum para isso!
 
 #v4699Why?! Why am I so weak...?! 
+Por quê?! Por que sou tão fraco...?!
 
 #v4236Come on, think about it. Giving up on thinking is the first step to becoming a dunce! 
+Vamos, pense sobre isso. Abrir mão do pensamento é o primeiro passo para se tornar um burro!
 
 #v4237How did you think you could defeat the Witch of Truth when you avert your gaze from the truth yourself?! 
+Como acha que pode derrotar a Bruxa da Verdade quando você evita olhar para seu veradeiro eu?!
 
 #v4700...You're right. That's my weakness. ...Gah... 
+...Tem razão. Essa é a minha fraqueza. ...Gah...
 
 #v4238Comrade EVA, violent intellectual games with you can be fun every now and then.
+Confrade EVA, jogos de violência intelectual com você podem ser divertidos às vezes.
 
 #v4464I'll let you claim victory this time. But remember this when next we meet... 
+Deixarei que reclame a vitória desta vez. Mas lembre-se disso na próxima vez que nos encontrarmos...
 
 #v4465If you want to expose the truth I sealed in that cat box, let's see you do it... 
+Se quer expor a verdade que selei naquela caixa de gato, vamos ver se consegue...
 
 #v4239The time hasn't come yet. You've got to save dessert for last. 
+Ainda não está na hora. Você precisa guardar a sobremesa para o final.
 
 #v4240Comrade EVA, my master is calling for me. I'll finish you off next time. 
+Confrade EVA, minha mentora está me chamando. Acabarei com você na próxima.
 
 #v4466Y-You're the one getting off easy... ...Remember this, comrade Erika...! 
 
 #v4241According to my reasoning, your true identity is incredibly sad and pathetic. 
+De acordo com meu raciocínio, sua verdadeira identidade é inacreditavelmente triste e patética.
 
 #v5364E-Even if you know, don't say anything more nyeh! The magic will melt nyeeeh! 
+M-Mesmo que saiba, não diga mais nada, neyh! A magia vai derreter, nyeeeh!
 
 #v5365What a scary person nyeh... My magic doesn't do anything to her nyeh... 
+Mas que pessoa mais assustadora, nyeh... Minha magia não faz nem cócegas nela, nyeh...
 
 #v4242Of course not. Magic doesn't work on those who have exposed the trick! 
+É claro que não. A magia não tem efeito naqueles que expuseram o truque!
 
 #v4243Pretending to use magic sure is fun! If you're still in kindergarten, that is! 
+Fingir usar magia realmente é divertido! Se ainda estiver no jardim de infância, é claro!
 
 #v5366...You're a clump of the anti-magic toxin nyeh. I don't wanna play with you again nyeh...! 
+...Você é um amontoado de toxina antimagia, nyeh. Não quero mais brincar com você, nyeh...!
 
 #v4247Aw, come on! I've never met a rich girl who was this lacking in intelligence! 
+Aw, qual foi?! Nunca conheci uma garota rica que faltassem tanto com inteligência!
 
 #v4620Sh-Shut up!! It's the heart that matters, not the head! 
+C-Calada!! É o coração que importa, não a cabeça!
 
 #v4621How dare you frame my mother...! I'll never forgive you!! 
+Como ousa acusar a minha mãe...! Jamais vou te perdoar!!
 
 #v4248That was just the result of my subtle reasoning. Please forgive me...! 
+É apenas o resultado do meu sutil raciocínio. Por favor, me perdoe...!
 
 #v4249Ignorant and violent! You're just perfect for a closed room murder victim! 
+Ignorante e violenta! Você é a vítima perfeita para um assassinato de quarto fechado!
 
 #v4622D-Damn... When I die, I'm definitely writing your name in blood... 
+M-Merda... Quando eu morrer, vou ter certeza de escrever seu nome com sangue...
 
 #v4244You're surprisingly good. And I figured you'd be more of a stupid, spoiled rich kid...! 
+Você é surpreendentemente boa. E eu pensando que seria uma criança rica, idiota e mimada...!
 
 #v4542You're not bad yourself. ...It seems thinking of you as a lady was the cause of my defeat. 
+Você também não é ruim. ...Parece que o que ocasionou minha derrota foi pensar em você como uma dama.
 
 #v4543...N-Not yet... I can't...fall down yet... 
+...Ainda não... Eu não posso...cair ainda...
 
 #v4245No, it's time for you to sleep. I'm about to begin my magnificent reasoning! 
+Não, está na hora de dormir. Estou prestes a dar início ao meu magnífico raciocínio!
 
 #v4246Someone like you would be the ultimate in unexpected true culprits. 
 
 #v4544...I'll take that as your version of a compliment. 
+...Entenderei isso como sendo a sua forma de elogiar.
 
 #v4250Do you need me to reason out your mysterious personal life too? 
+Precisa que eu deduza os mistérios da sua vida pessoa também?
 
 #v5208M-My personal life has nothing to do with this! Stop, don't expose it!! 
+M-Minha vida pessoa não tem nada a ver com isso! Pare, não exponha nada!!
 
 #v5209I-Is this child human? Or a witch?! 
+E-Esta criança é humana? Ou uma bruxa?!
 
 #v4251I'm a witch some of the time, but I'm always a detective in the end. That's me, the detective, Furudo Erika!! 
+Tem vezes que sou uma bruxa, mas no fim sou sempre uma detetive. Esta sou eu, a detetive, Furudo Erika!!
 
 #v4252That second game, where you managed to avoid being caught in the first twilight... That's very interesting, don't you think...? 
+Aquele segundo jogo, quando você evitou ser pega no primeiro crepúsculo... Aquilo foi bem curioso, não concorda...?
 
 #v5210Are you trying to say I'm a wolf...? Do you have proof? If you do, show it to me! 
+Está insinuando que sou um lobo...? Tem alguma prova? Se tem, mostre!
 
 #v4253That ends our parallel thought experiment. This time, my reasoning won out. 
+Isto conclui nosso experimento de pensamento paralelo. Desta vez, minha dedução venceu.
 
 #v4254My greatest rival... Who could it be other than me?! 
+Minha maior rival... Quem mais poderia ser além de mim?1
 
 #v4255N-Nicely done. I'd expect no less from me, the detective... 
+M-Muito bem. Eu não esperaria mesmo de mim, a detetive...
 
 #v4256Having a fake detective show up can make for an interesting plot twist now and then! 
+Ter a presença de um detetive de mentirinha pode ocasionar uma boa reviravolta!
 
 #v4257That's my thought technique. I fight against myself, honing my reasoning. 
+Esta é a minha técnica de pensamento. Eu luto contra mim mesma, afiando meu raciocino.
 
 #v4258Well done, Furudo Erika. Come, let us expose the next truth with that magnificent reasoning ability! 
+Muito bem, Furudo Erika. Venha, vamos expor a próxima verdade com uma técnica de raciocínio magnífica!
 
 #v4259I don't want to fight you. We're friends, aren't we? 
+Não quero lutar contra você. Somos amigas, não somos?
 
-#v3862...And that is precisely WHY. I am duty-bound to stop YOU. 
+#v3862...And that is precisely WHY. I am duty-bound to stop YOU.
+...E é justamente por ISSO. Estou encarregada de parar VOCÊ.
 
 #v3863You are WRONG. Reasoning and cruelty are not the SAME...! 
+Você está ERRADA. Raciocínio e crueldade não são a mesma COISA...!
 
 #v4260Ah, the pleasure of stripping down pretense and leaving the truth stark naked! It's a shame you can't understand that joy! 
 
 #v4261Checkmate. You were weak at the end there. Or were you going easy on me for some reason? 
+Xeque-mate. No fim, você era a fraca. Ou pegou leve comigo por algum motivo?
 
 #v3864Apparently, my best is so weak that Erika thinks I am going easy on HER. 
+Pelo que parece, o meu melhor é tão fraco que a Erika pensa que peguei leve com ELA.
 
 #v4262The mystery genre evolves. I hate to say it, but you're outdated now! 
+O gênero do mistério evolui. Odeio dizer isso, mas você está desatualizada!
 
 #v5466...So it seems. When did the mystery genre get so boring? 
+...É o que parece. Quando foi que o gênero do mistério ficou tão chato?
 
 #v5467I acknowledge my loss. ...But that reasoning was pathetically boring. 
+Eu reconheço minha derrota. ...Mas aquele raciocínio foi pateticamente chato.
 
 #v4263It's not the reasoning that's interesting. It's the frail truth that you get to expose! 
-
+Não é o raciocínio que interessa. É a frágil verdade que você expõem!
 #v4264The 'why dunnit'?! Ridiculous! Orthodox mysteries don't need a motive! 
 
 #v5468...The heart is what triggers the crime. ...Don't neglect the heart... 
