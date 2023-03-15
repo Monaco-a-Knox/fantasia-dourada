@@ -13076,7 +13076,7 @@ Só preciso eliminar todos que ficarem no caminho do conto de amor que eu e Shan
 O poder do amor é MARAVILHOSO. Também quero aprender sobre ele, ...mas sou uma CRIANÇA.
 
 #v4653Awesome! We've got no enemies wherever we go! Let's keep up this pace!! 
-Incrível!
+Incrível! Não há inimigos onde quer que a gente vá! Vamos continuar nesse ritmo!!
 
 #v4006Let us keep up this pace, INDEED. Aaah, jobs that don't involve stamping bring me back to LIFE! 
 Sim, vamos manter o RITMO. Aaah, ofícios que não envolvam carimbar me traze de volta à VIDA!
@@ -13112,6 +13112,7 @@ XEQUE-MATE. Este é o FIM. ...Rosa, seu interrogatório, por FAVOR.
 Confesse agora! Quem é o culpado! Quais são seus álibis?!
 
 #v4012What a sad PERSON. ...To be taken out by us, of all PEOPLE.
+Que pessoa mais TRISTE. ...De todas as pessoas, ser retirada por NÓS.
 
 #v4379*cackle*cackle* I'll reason out everything and deny every part of you! I won't leave a speck of dust behind...! 
 *gargalhada*gargalhada* Irei desvendar tudo e negar cada parte sua! Não deixarei um pedaço de poeira para trás...!
@@ -13339,7 +13340,7 @@ Sua lâmina é muito impulsiva. É você quem branda sua espada. Não deixe que 
 ...V-Você está tem razão. ...Mesmo eu...ainda tenho muito o que crescer...
 
 #v4736What an edge. ...Not just his blade, but everything about him... 
-
+É mesmo afiado. ...Não só a sua lâmina, mas tudo nele...
 
 #v5603That's right. It's not the blade you're honing. It's yourself. ...Keep on training, kid. 
 Isso mesmo. Não é sobre a lâmina que está afiando. É sobre você. ...Continue treinando, jovem.
@@ -13453,373 +13454,373 @@ A-Além de pegar a minha presa, ainda deu o golpe final?!
 Bom, você foi muito lenta. Pensei que estivesse deixando para mim.
 
 #v4030It seems your skills have improved yet AGAIN. I mustn't lose EITHER. 
-
+Parece que suas habilidades foram aprimoradas NOVAMENTE. Tampouco PERDEREI.
 
 #v5622I've gotten slow. This won't go like our old fights. 
-
+Você ficou mais lenta. Não será como nossas velhas lutas.
 
 #v4031Such a SHAME. To think that one with such skill would be RETIRED... 
-
+É uma PENA. Quem diria que alguém tão habilidoso iria se APOSENTAR...
 
 #v5623I'm from the wrong era. It's best if I just disappear. 
-
+Sou da era errada. Seria melhor se eu desaparecesse.
 
 #v5624A solved mystery...feels so empty. 
-
+Um mistério solucionado...passa uma sensação de vazio.
 
 #v4032It's like a FLOWER. It's beautiful for a short time because it eventually WITHERS. 
-
+É como uma FLOR. É bela por um curto período de tempo porque eventualmente RESSECA.
 
 #v5625A tag team between me and me, huh? A witch's diversion can be interesting every now and then. 
-
+Uma dupla entre nós dois, é?
 
 #v5626True. And now we can get unpleasant jobs done in half the time. 
-
+Realmente. Agora podemos terminar trabalhos desagradáveis na metade do tempo.
 
 #v5627So, in the end, who are you? 
-
+Então, afinal, quem é você?
 
 #v5628My role is to love Diana. Your role is to get your butt pinched. 
-
+Meu papel é amar a Diana. Seu papel é ter a sua bunda beliscada.
 
 #v5629Is that all? I'm going home. It's time to feed Diana. 
-
+Só isso? Estou indo embora. Está na hora de alimentar a Diana.
 
 #v5630True. If we take too long, she'll scratch up the sofa again. 
-
+Verdade. Se demorarmos muito, ela vai arranhar o sofá de novo.
 
 #v5932As I'd expect from a competent man. You're nothing like that incompetent Bat-whatever-san. 
-
+Como esperado de um homem competente. Você não é nada parecido com aquele incompetente do Bat-alguma-coisa-san.
 
 #v5631Is incompetence really so bad? How fun would it be if everything got solved as early as Episode 1? 
-
+Ser incompetente é tão ruim assim? Qual seria a graça se tudo fosse desvendado logo no Episódio 1?
 
 #v5632Hey, at least fight a little. Are you planning to make me do all the work? 
-
+Ei, ao menos lute um pouco. Pretende deixar todo o trabalho para mim?
 
 #v5933What? Do you actually intend to make me, Bernkastel, put out effort? *giggle*giggle*... 
-
+Quê? Você realmente quer que eu, BERNKASTEL, me esforce? *risos*risos*...
 
 #v5934You really are an interesting piece. I'm glad I chose you. 
-
+Você é mesmo uma peça interessante. Fico feliz por ter te escolhido.
 
 #v5633Good for you. Thanks to that, I'm fighting one battle after another. 
-
+Bom pra você. Por causa disso, estou lutando uma batalha atrás de outra.
 
 #v4916Hmm, not bad...! I'll acknowledge your skill. Just a bit, though. 
-
+Hmm, nada mal...! Eu reconheço suas habilidades. Embora, só um pouco.
 
 #v5634Sure, thanks. By the way, feel free to join in when you're done eating popcorn. 
-
+Claro, valeu. A propósito, fique à vontade para se juntar quando terminar de comer pipoca.
 
 #v5635Why are you glaring at me? ...We won. Be happy. 
-
+Por que está me encarando? ...Nós vencemos. Fique feliz.
 
 #v4917Grrrr! Just when Lambda-chan-sama was planning a magnificent finish! 
-
+Grrrr! Logo quando a Lambda-chan-sama estava planejando um final magnífico!
 
 #v4918Awesome, awesome! *clap*clap*clap*! You really are strong! 
-
+Incrível, inscrível! *clap*clap*clap*! Você é mesmo forte!
 
 #v5636You're sitting in the audience seating, aren't you? You know, you're technically supposed to be my partner... 
-
+Você está sentada na plateia, não está? Sabe, tecnicamente você deveria ser minha parceira...
 
 #v3799Are you really my ally...? ...I can't tell sometimes. 
-
+Você é mesmo minha aliada...? ...Tem horas que não parece.
 
 #v5935What is an ally, really? There are only two kinds of people in this world: those who use, and those who are used. 
-
+Sério, o que é um aliado? Só há dois tipos de pessoa neste mundo: quem usa e quem é usado.
 
 #v5936...How was that? You told me to fight too, so I did. 
-
+...Que tal? Você disse para lutar, e eu lutei.
 
 #v3800I shouldn't have said that... This isn't a fight. It's a disgusting...nightmare...! 
-
+Eu não deveria ter dito aquilo... Isto não é uma luta. É um pesadelo...desagradável...!
 
 #v5937Right now, you're my miko. ...I won't let anyone get in your way. 
-
+Neste momento, você é minha miko. ...Não deixarei que ninguém interfira no seu caminho.
 
 #v3801Hey, haven't you done enough to them...? ...It's not like they were even getting in my way... 
-
+Ei, ainda não terminou com eles...? ...Não é como se eles estivessem me atrapalhando...
 
 #v4150...You sure are reliable. ...With you, I get the feeling that I could actually reach the truth. 
-
+...Você é mesmo confiável. ...Contigo, eu sinto que poderei alcançar a verade.
 
 #v5938Yes, I promise it. I promise to invite you to see the truth of that day... 
-
+Sim, eu prometo. Eu prometo convidá-la para ver a verdade daquele dia...
 
 #v5939Ange, open your eyes wide. Make sure you don't let even a miniscule fragment of truth slide past your vision. 
-
+Ange, abra seus olhos. Tenha certeza de não deixar que nenhum fragmento minúsculo da verdade passe despercebido.
 
 #v4151...Yeah, that's my plan. ...Take me...into the depths of the truth...! 
-
+...Sim, esse é o plano. ...Leve-me...às profundezas da verdade...!
 
 #v5940I'm brutal. ...Good for you, Ange. You don't have me as an enemy. 
-
+Eu sou brutal. ...É bom que não me tenha como sua inimiga, Ange.
 
 #v4152...True. If only I could've avoided knowing you too. 
-
+...Realmente. Se ao menos eu pudesse evitar ter conhecido você.
 
 #v5754Lady Bernkastel, what is the source of that power of yours...? 
-
+Lady BERNKASTEL, qual é a fonte do seu poder...?
 
 #v5941Miracles. ...I'm strong...because I know that miracles don't occur. 
-
+Milagres. ...Sou forte...porque sei que eles não existem.
 
 #v5942Mysteries are my specialty too. I once spent a whole century chasing after a single riddle. 
-
+Mistérios também são a minha especialidade. Uma vez eu passei um século inteiro buscando por um único enigma.
 
 #v5755Were you able to enjoy that riddle...? Mysteries are about enjoyment. Not suffering. 
-
+Você conseguiu aproveitar esse enigma...? Mistérios são sobre divertimento, não sofrimento.
 
 #v5943Oh, no. I've forgotten to hold back. ...And I was planning to sip some tea while leaving everything to you. 
-
+Ah, não. Eu esqueci de me conter. ...Eu estava planejando tomar um gole de chá enquanto deixava tudo nas suas costas.
 
 #v5756Hohoho... Perhaps you should do that next time. I'm sure your opponent will be overjoyed. 
-
+Hohoho... Talvez deva fazer isso na próxima. Tenho certeza que seu oponente vai adorar.
 
 #v5169Pardon me for keeping you waiting. Here is the salted kelp tea with mustard you requested. 
-
+Desculpe por deixar você esperando. Aqui está o chá salgado de alga marinha com mostarda, que você pediu.
 
 #v5944Thanks. A minor prize, suitable for this minor victory of mine. *giggle*... 
-
+Obrigada. Um pequeno prêmio, adequado para esta minha pequena vitória. *risos*...
 
 #v5945I've heard the rumors, but butlers really are convenient. ...Got any interest in becoming my miko? 
-
+Já tinha ouvido rumores, mas mordomos são mesmo convenientes. ...Tem algum interesse em se tornar uma miko?
 
 #v5170Perish the thought. A mere demon like me would be undeserving of the role. 
-
+Pereça o pensamento. Um mero demônio como eu seria indigno deste papel
 
 #v5946Ronove, why are you serving someone as boring as Beato? 
-
+Ronove, por que está servindo alguém tão chata como a Beato?
 
 #v5171...Perhaps because she is a fitting master for a demon as boring as me. 
-
+...Talvez porque ela seja uma mestra adequada para um demônio chato como eu.
 
 #v3721I can't help but sympathize...with those pitiful victims abandoned by fate, forced to fight against the Witch of Miracles. 
-
+Sou obrigada a simpatizar...com aquelas vítimas coitadas, abandonadas pelo destino e forçadas a lutar contra a Bruxa dos Milagres.
 
 #v5947Meeting me is a miracle. And, meeting me means that all miracles have abandoned you. *giggle* 
-
+Encontrar comigo é um milagre. Encontrar comigo significa que os milagres abandonaram você. *risos*
 
 #v5948I like your style. It makes for a better tea snack than a bad cookie. 
-
+Gostei do seu estilo. É um aperitivo melhor para o chá do que um cookie ruim.
 
 #v3722I'm glad you enjoyed it. You came all the way out here, after all. Please, enjoy yourself at your leisure! 
-
+Fico feliz que tenha gostado. Afinal de contas, se deu o trabalho de vir até aqui. Por favor, fique à vontade!
 
 #v5949Poor thing. ...You used up all your miracles in meeting me. 
-
+Coitadinha. ...Esgotou seus milagres para me encontrar.
 
 #v3723Haven't you done enough, Lady Bern? More importantly, how about some tea? At this rate, you'll dirty your clothes. 
 
 
 #v5091F-Forgive me... I-I'm so pathetic, I... Aaaah...! 
-
+P-Perdoe-me... S-Sou patético, eu... Aaaah...!
 
 #v5950You really are slow-witted furniture, making your master work like that. I'd better tighten your screws a bit... 
-
+Você é mesmo uma mobília tansa, fazendo sua mestra trabalhar assim. É melhor eu apertas seus parafusos um pouco...
 
 #v5951Please don't make me waste my time on opponents like this. ...Do you need me to tighten your screws again? 
-
+Peço que não me faça desperdiçar meu tempo com um oponente desses. ...Precisa que eu aperte seus parafusos de novo?
 
 #v5092N-Not at all! ...Next time, ...I definitely won't embarrass you like this... 
-
+N-Nada disso! ...Na próxiam, ...eu definitivamente não vou envergonhá-la assim...
 
 #v5952Apparently, I'm boring when it comes to killing people. That's why I brought you here. 
-
+Pelo que parece, sou chata quando se trata de matar pessoas. É por isso que a trouxe aqui.
 
 #v5093Leave it to me! I'll cook up our next opponents with the murder method of your choice...! 
-
+Deixe comigo! Irei cozinhar nossos oponentes com o método de tortura que escolher...!
 
 #v5325What a terrifying person... What is a witch like you visiting this island for...? 
-
+Que pessoa mais assustadora... Por que uma bruxa como você está visitando esta ilha...?
 
 #v5953It's just a side trip on my journey to escape boredom. Don't be afraid...just entertain me. 
-
+É só uma pequena parada em minha jornada para escapar do tédio. Não se preocupe...apenas entretenha-me.
 
 #v5954Shannon, bring me a more formidable opponent. Don't bore me. 
-
+Shannon, traga mais oponentes formidáveis. Não me deixe entediada.
 
 #v5326Y-Yes Ma'am, at once... O-Oh no, I can't think of anyone else... 
-
+S-Sim senhora, é pra já... E-Essa não, não consigo pensar em mais ninguém...
 
 #v5955What a useless maid you are, making me work. ...Never trust a woman with large breasts. 
-
+Que criada mais inútil é você, me fazendo trabalhar. ...Nunca confie em uma mulher com peitos grandes.
 
 #v5327M-M-My apologies...! B-But you're plenty big yourself... 
-
+S-Sinto muitíssimo...! M-Mas você também é bem abençoada...
 
 #v4737This is...a witch's power. ...No stronger or weaker than Beatrice-sama's! 
-
+Este é...o poder de uma bruxa. ...Nem mais forte nem mais fraco que a BEATRICE-sama!
 
 #v5956Are you mocking me? Don't compare me to that fake witch. *giggle* 
-
+Está debochando de mim? Não me compare com aquela bruxa de araque. *risos*
 
 #v5957Kanon, watch without looking away. This is what strength is, see? *giggle*... 
-
+Kanon, olhe sem desviar o olhar. Isto sim é força, entendeu? *risos*...
 
 #v4738...No... The strength I seek...isn't something this brutal...! 
-
+...Não... A força que busco...não é algo brutal assim...!
 
 #v5958It's a miracle, me lending you a hand. Next time, take care of everything yourself. 
-
+Eu ajudá-lo é um milagre. Na próxima, trate de cuidar de si mesmo.
 
 #v4739Y-Yes Ma'am. As you command. ...Dammit, I never asked for your help. 
-
+S-Sim senhora. Às ordens. ...Merda, eu nem pedi a sua ajuda.
 
 #v4503I'd be happy to welcome you. ...Play as much as you like with my cat box, and take the truth further and further away from them! 
-
+Eu ficaria feliz em dar as boas-vindas. ...Brinque o quanto quiser com minha caixa de gato, e leve a verdade para cada vez mais longe daqui!
 
 #v5959...Of course. I'll give it lots of loving. ...Though, when I get tired of it, I'm ripping out its guts. 
-
+...Claro. Darei muito amor. ...Contudo, quando eu cansar, vou arrancar suas entranhas.
 
 #v5960Yes, I know what the truth you're hiding is. ...All I'm interested in is how I can have fun with it. 
+Sim, eu sei qual é a verdade que está escondendo. ...Tudo que me interessa é como posso me divertir com ela.
 
-
-#v4504Who are you? ...You feel completely different from Beatrice and Virgilia. 
-
+#v4504Who are you? ...You feel completely different from Beatrice and Virgilia.
+Quem é você? ...Parece completamente diferente da BEATRICE e da VIRGILIA.
 
 #v5961I am the Witch of Miracles, Bernkastel. ...I'm your ally. For now. 
-
+Eu sou a Bruxa dos Milagres, BERNKASTEL. ...Sou sua aliada, por ora.
 
 #v4505Then I'll be happy to welcome you, for now. ...Though I'll be welcoming you in a different way when you aren't my ally anymore. 
-
+Então ficarei feliz em recebê-la, por ora. ...Embora eu vá recebê-la de uma forma bem diferente quando não for mais minha aliada.
 
 #v5403Just as I'd expect from Lady Bernkastel...! She shows up with atrocities to terrify even rabbits nyeh...! 
-
+Como esperado da Lady BERNKASTEL...! Ela demonstrar atrocidades que apavoram até mesmo coelhos, nyeh...!
 
 #v5962What a pleasant compliment. I am Bernkastel. A witch who will spare not even a Fragment of hope. 
-
+Que elogio agradável. Eu sou BERNKASTEL, uma bruxa que poupa nem mesmo um Fragmento de esperança.
 
 #v5963Still, this world really is interesting. I never expected that rabbits standing on two legs would start to play musical instruments. 
-
+Embora este mundo seja realmente interessante. Nunca imaginei coelhos que andam com duas pernas iriam começar a tocar instrumentos musicais.
 
 #v5404The Chiester Troops will do everything from marching band work to live stadium performances to light-speed handshake events nyeh! 
-
+A Tropa das Chiester faz de tudo, desde marchar como uma banda até shows ao vivo em um estádio e eventos de apertos de mão na velocidade da luz, nyeh!
 
 #v5964You're not bad. I see. So, a rabbit clown is the thing I was missing. 
-
+Você não é ruim. Entendi, então o que me falta é um coelho-palhaço.
 
 #v5405Nihihihi. Chiester 410 will do all she can to satisfy you, Lady Bernkastel nyeh! 
-
+Nihihihi. A Chiester 410 fará tudo que puder para satisfazê-la, Ladu BERNLASTEL, neyh!
 
 #v4581I cannot stand silent and watch you humiliate the defeated anymore. 
-
+Não posso ficar em silêncio enquanto vejo você humilhar os derrotados.
 
 #v5965Are you gonna take me on in their place? Well, that should let us kill time for a few seconds. 
 
 
 #v5966It's hilarious when people are so absurdly overconfident that they think they can challenge the great Bernkastel. 
-
+É hilário quando as pessoas são tão confiantes que pensam que podem desafiar a Grande BERNKASTEL.
 
 #v4582Sometimes you have to fight, even when you know you'll lose. 
-
+Tem vezes que você precisa lutar, mesmo quando sabe que vai perder.
 
 #v5967Okay, how do you want to be killed next? I'll be taking requests. 
-
+Certo, como quer ser morto na próxima. Estarei aceitando pedidos.
 
 #v4583If you just stayed quiet, you'd be such a sweet girl... 
-
+Você seria uma garota muito mais doce se só ficasse quieta...
 
 #v4659H-Hey, stop that already! They've acknowledged their defeat, haven't they?! 
-
+E-Ei, pare com isso agora! Eles já reconheceram a derrota!
 
 #v5968They should've done that before the fight started. ...This is what it means to lose to me. 
-
+Deveriam ter feito isso antes de começarmos a lutar. ...Para mim, é isso que significa perder.
 
 #v4660You're terrifying for someone with such a cute face... Almost like a demon... 
-
+Para alguém com um rosto tão adorável, você é assustadora... Quase como um demônio...
 
 #v5969That's rude, calling someone a demon like that. I'm a witch. An adorable little witch. 
-
+É rude chamar alguém de demônio assim. Eu sou uma bruxa. Uma adorável bruxinha.
 
 #v5970Remember this, Jessica. Only when you've reached this point...do you have the right to ask for a miracle. 
-
+Lembre-se disso, Jessica. Apenas quando atinge este nível...você tem o direito de pedir por um milagre.
 
 #v4661If a miracle means brutality, then I don't want one... 
-
+Se milagre significa brutalidade, então não preciso de um...
 
 #v5971Did you think you had even a little chance of winning? Well, I did make you think that. 
-
+Achou mesmo que teria alguma chance de vencer? Bem, eu o fiz pensar que sim.
 
 #v5247...What a terrifying girl. I wish I could see the faces of the parents who raised her... 
-
+...Que garota assustadora. Queria poder ver o rosto dos pais que a criaram...
 
 #v5248Seriously, who are you?! I don't see why you can't tell me that now. 
-
+Sério, quem é você?! Não entendo por que não pode me dizer agora.
 
 #v5972You wouldn't be able to understand anyway. So, even answering you would be a pain. Come on, let's go, Rosa. 
-
+Você não seria capaz de compreender mesmo. Por isso, responder seria perda de tempo. Anda, vamos, Rosa.
 
 #v5973What's wrong, Rosa? Defeat your opponent. Brutally, just like me. 
-
+Qual o problema, Rosa. Derrote seu oponente. Brutalmente, assim como eu.
 
 #v5249Why should I have to fight?! Just stop! Let me go! 
-
+Por que tenho que lutar?! Pare com isso! Deixe-me ir!
 
 #v5974You really are a useless piece, forcing your master to fight like that. Maybe I'd better throw you away. 
-
+Você é mesmo uma peça inútil, forçando sua mentora a lutar assim. Acho melhor te descartar.
 
 #v4385F-Forgive me! I was just enraptured by my master's adorable bodyyyyyy! 
-
+P-Perdoe-me! Eu só estava entusiasmada com o adorável corpo da minha mentoraaaa!
 
 #v4387Time to take a beautiful shot of my master mid-fiiiiiight!! 
-
+Hora de tirar uma linda foto da minha mentora lutaaaando!!
 
 #v5975...You fight too. Come on, put the camera down. 
-
+...Lute também. Anda, larga essa câmera.
 
 #v4388I-I'm so jealous! You got to get beaten up by my master so thoroughly! 
-
+Q-Que inveja! Você foi completamente derrotado pela minha mentora!
 
 #v5976*giggle* You want me to look after you too? ...Sure. Come over here. 
-
+*risos* Quer que eu olhe por você também? ...Claro, vem até aqui.
 
 #v4033So, this is the power of a witch of the SENATE... How merciless...and CRUEL... 
-
+Então, este é o poder de uma bruxa do SENADO... É mesmo impiedoso...e CRUEL...
 
 #v5977Don't be shocked by a little thing like that. ...I'm still just having some fun. 
-
+Não fique surpresa com algo tão trivial. ...Só estou me divertindo um pouco.
 
 #v4034I announce the conclusion of this BATTLE. Lady Bernkastel, please STOP. 
-
+Anuncio a conclusão desta BATALHA. Lady BERNKASTEL, eu peço que PARE.
 
 #v5978There's still room for a final possible miracle...of them defeating me somehow. I'm certainly not gonna spare them until I've crushed all hope. 
-
+Ainda há chances para um último milagre...de me derrotar de alguma forma. Não irei poupá-los até que eu tenha esmagado todas as esperanças.
 
 #v5979Still, the Great Court must have a lot of time on their hands if they've sent you to babysit me. 
-
+Ainda assim, a Grande Corte deve ter muito tempo livre para mandar você ser minha babá.
 
 #v4035YES. We really, truly, and splendidly have lots of time on our HANDS. I've had enough of stamping DOCUMENTS...! 
-
+SIM. De fato, nós realmente e verdadeiramente tempos muito tempo LIVRE. Eu já chance de carimbar DOCUMENTOS...!
 
 #v5637You keep hitting them with merciless truths. ...Just what makes that so fun? 
-
+Você continua os atingindo com veradades impiedosas. ...O que tem de tão divertido nisso?
 
 #v5980Truth is everything, right? That's what Humans live and die for. 
-
+A verdade é tudo, não é? É por ela que humanos vivem e morrem.
 
 #v5981When did that arm grow back? Would you like me to remove it again? 
-
+Quando esse braço cresceu de volta? Quer que eu o remova novamente?
 
 #v5638Lady Lambda gave me it as a bonus. ...Sorry, but I've got no arms left to give you. 
-
+A Lady Lambda me deu como um bônus. ...Foi mal, mas não tenho mais braços para te dar.
 
 #v5639Why do you toy with people's fates? Even though you realize how much they mean to them. 
-
+Por que você brinca com o destino das pessoas? Mesmo sabendo o quanto eles significam para elas.
 
 #v5982It's because I know. A human's fate is a surprisingly trivial thing. *giggle*giggle*! 
-
+É porque eu sei. O destino humano é surpreendentemente trivial. *risos*risos*!
 
 #v5983It looks like the me of this Fragment is also the best and the worst. 
-
+Parece que a eu deste Fragmento também é a melhor e pior.
 
 #v5984Of course, the me in any Fragment is gonna be both the best and the worst. 
-
+É claro, a eu em qualquer Fragmento será tanto a melhor quanto a pior.
 
 #v5985That's troublesome. ...That definitely wasn't an interesting battle. 
-
+Que problemático. ...Essa definitivamente não é uma batalha interessante.
 
 #v5986Auau's gonna complain that it got boring again.
 A Auau vai reclamar que ficou chato de novo.
@@ -13898,41 +13899,59 @@ Nossa, mas que maravilha. ...Os perdedores parecem um bolo de aniversário.
 #v4930Why don't you live in a house of sweets too, Virgilia?! You'll be super happy from the moment you start your day!
 Por que não mora em uma casa de doces também, VIRGILIA?! Será feliz a partir do momento em que acordar!
 
-#v5759That's quite a dream. I'd love to take a marshmallow bath. 
+#v5759That's quite a dream. I'd love to take a marshmallow bath.
+Esse é um sonho e tanto. Eu adoraria tomar um banho de marshmallow.
 
-#v5172You've been eating sweets all this time, so I've prepared some bitter cocoa for you. 
+#v5172You've been eating sweets all this time, so I've prepared some bitter cocoa for you.
+Você tem comido doces o tempo todo, por isso preparei um chocolate para você.
 
 #v4931Mmm! How elegant! I've got losers lying at my feet, and the elegant scent of cocoa in my nose! This is perfect. 
+Mmm! Quanta elegância! Tenho os perdedores aos meus pés, e o elegante aroma do chocolate em meu nariz! É perfeito.
 
 #v4932Why do people shed blood? Wouldn't it be more fun and awesome if they shed strawberry sauce and jam? 
+Por que as pessoas sangram sangue? Não seria mais legal se fosse morango e geleia?
 
 #v5173But then you would get cavities. It's because humans shed blood...that the taste of jam is so profound. 
+Mas aí você teria cáries. ´´E porque os humanos sangram sangue...que o sabor da geleia é tão intenso.
 
 #v4933There aren't many people who can play with me to my satisfaction. Can you think of anyone? 
+Não tem muitas pessoas capaz de brincar comigo e me deixar satisfeita? Conhece alguém que possa?
 
 #v5174Indeed I can. ...When you wash your face or brush your teeth, there will be one of them right in front of you. 
+De fato, sim. ...Quando enxágua sue rosto ou escova seus dentes, vai ter uma bem na sua frente.
 
 #v3724What's your body filled with? Japanese sweets or hard candy? 
+Do que é feito o seu corpo? Doces japoneses ou balas de chupar?
 
 #v4934Heheheh. I don't have sweets inside me. I'm full of the sweet dreams of beautiful maidens! 
+Heheheh. Não tenho doces dentro de mim. Sou repleta de doces sonhos de belas donzelas!
 
 #v4935Beato! Don't make me do all the work! Fight a little yourself! 
+Beato! Não deixe todo o trabalho para mim! Lute um pouco também.
 
 #v3725Ridiculous. I'm showing them a warm welcome. Come on, would you like some more of that? *cackle*cackle*! 
+Ridículo. Estou dando a eles uma calorosa recepção. Gostariam de mais um pouco de chá? *gargalhada*gargalhada*!
 
 #v4936No idiot would disobey me twice. I'll make them fear my sweet scent. 
+Nenhum idiota iria me desobedecer duas vezes. Farei com que sintam meu doce aroma.
 
 #v3726...What a fearsome person. The phrase 'dainty flowers have sharp thorns' fits you perfectly...! 
+...Que pessoa mais terrível. A frase 'flores delicadas têm espinhos' combina perfeitamente com você...!
 
 #v5094I'm more than enough for an opponent for them, so please relax, Lambdadelta-sama...! 
+Sou mais do que suficiente para enfrentá-los, então pode relaxar, LAMBDADELTA-sama...!
 
 #v4937No way. Why should I let you have all the fun? Come on, let's get this started! 
+Sem chance! Por que eu deixaria toda a diversão para você? Anda, vamos começar!
 
 #v4938Yeah, that's right. I'm <cute>, <pop>, and <sweet>. But you'll find there's just one thorn hidden inside me. 
+Sim, isso mesmo! Eu sou cute, pop e sweet! Mas você descobrirá que tem um único espinho dentro de mim.
 
 #v5095...Nggg... A-Amazing... I-I wish I could say lines as cool as that... 
+...Nggg... I-Incrível... E-Eu queria poder dizer linhas leais iguais a essa...
 
 #v4939There! Lucifer! Did you get a good shot of that finishing blow?! 
+Lá! Lucifer! Tirou uma boa foto do meu golpe final?!
 
 #v5096Uh, u-umm... I've...never used an SLR camera before, so... Kyaa, don't throw popcorn at me!
 Uh, h-hmm... Eu...nunca usei uma câmera SLR antes, então... Kyaa, não jogue pipoca em mim!
@@ -14324,6 +14343,7 @@ Eu não aceito isso...! A ideia de que você sou eu... Eu jamais aceitarei isso!
 
 #v0484You mustn't sign that! Don't let the witch fool you! 
 Não assine isso! Não deixe a bruxa enganá-lo!
+
 #v0485How long do you plan on playing around? Stop being a moron and come home! 
 
 #v0486I've had enough of how soft you are, Onii-chan! So I'm gonna hit you! 
@@ -15612,7 +15632,8 @@ Fique longe da Maria! Se chegar perto dela, eu não terei piedade!
 
 #v3345Oh, what a dandy. If you can see this gun, maybe we can make a deal. 
 
-#v3346I want to be a lady when in front of a gentleman. ...So, stop pissing me off! 
+#v3346I want to be a lady when in front of a gentleman. ...So, stop pissing me off!
+Quero ser uma dama diante de um cavalheiro. ...Então pare de me irritar!
 
 #v3347You seem to be a quick learner. ...Would you mind standing aside? 
 Parece que você aprende rápido. ...Se importa de dar licença?
@@ -16040,7 +16061,7 @@ Bem, nem tente entender. Só vai ficar com dor de cabeça.
 Então você é...Ushiromiya Battler. ...Hmph. ...Compreendo.
 
 #v5646Try and make your mind a little more blank. Otherwise, you'll just get a headache. 
-
+Tente limpar um pouco mais a sua mente. Caso contrário, vai ficar com dor de cabeça.
 
 #v5647You have no love. ...I'll show you that. 
 Você não tem amor. ...Irei demonstrar.
@@ -16116,7 +16137,8 @@ Não vim aqui para brincar. ...Afastem-se, coelhas.
 #v5672If you wander around dressed like that, you'll catch cold. You must be freezing.
 Vai pegar um resfriado se ficar andando por aí com essa roupa. Deve estar congelando.
 
-#v5673You'd have that same personality even if Lion were around. That's really impressive. 
+#v5673You'd have that same personality even if Lion were around. That's really impressive.
+Você teria essa mesma personalidade mesmo se Lion estivesse por perto. Isso é bem impressionante.
 
 #v5674It must be nice, being an only child. You don't have to worry about your butt getting pinched.
 Deve ser ótimo ser filho único. Não precisa se preocupar em ter alguém beliscando sua bunda. 
@@ -16315,7 +16337,7 @@ Como ousa desobedecer o Game Master, mesmo sendo uma mera peça? Sabe o que vai 
 Ah, tudo bem. Eu brinco um pouco com você. ...Vamos.
 
 #v6035Oh, were you still there, Erika? 
-Oh, ainda está aqui, Erika?
+Ora, ainda está aqui, Erika?
 
 #v6036What do you need? I don't have time to play with you. 
 O que quer? Não tenho tempo para brincar com você.
@@ -16441,7 +16463,7 @@ Você está tentando argumentar comigo, mesmo sendo uma bruxa novata? Você é b
 Ei! Não acha que está se achando muito ultimamente?!
 
 #v5006As your sempai, I'll give you a kind, strict lesson on how to use magic! Here we go.
-Como sua senpai, darei a você uma gentil e dura lição sobre como usar magia! Pronta?
+Como sua superior, darei a você uma gentil e dura lição sobre como usar magia! Pronta?
 
 #v5007Playing with dolls is boring! They break so easily! 
 Brincar de boneca é chato! Elas quebra muito facilmente!
