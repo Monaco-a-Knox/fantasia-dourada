@@ -16,11 +16,11 @@ Não há patch disponível ainda.
 
 # Equipe:
 - Tradução: Deca, JesterThirty4 
-- Edição: ????
-- Revisão: ????
+- Edição: Deca
+- Revisão: Deca
 - Testes: ????
 - Limpeza do script: Deca
-- Inserção do script: Frost51
+- Programação: Frost51
 - Edição de fonte: Frost51
 
 # Notas:

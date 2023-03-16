@@ -14345,208 +14345,310 @@ Eu não aceito isso...! A ideia de que você sou eu... Eu jamais aceitarei isso!
 Não assine isso! Não deixe a bruxa enganá-lo!
 
 #v0485How long do you plan on playing around? Stop being a moron and come home! 
+Quanto tempo pretende ficar brincando aqui? Pare de ser idiota e volte para casa!
 
 #v0486I've had enough of how soft you are, Onii-chan! So I'm gonna hit you! 
+Já cansei dessa sua moleza, onii-chan! Agora vai apanhar!
 
 #v0487'Be hard on yourself' is my motto. I'll make you regret this. 
+'Seja duro consigo' é o meu lema. Farei com que se arrependa disso.
 
 #v0488If you're gonna copy me, try and make it a bit cuter next time. It wasn't convincing at all. 
+Se vai me copiar, tente ser um pouco mais fofa na próxima. Não me convenceu.
 
 #v0489What's going on? What kind of joke is this? How creepy can you get?! 
+O que tá acontecendo? Que tipo de piada é essa? Como consegue ser tão sinistro?!
 
 #v0490Your disciple is causing us a lot of trouble. Take responsibility already! 
+Sua discípula está nos causando muitos problemas. Assuma a responsabilidade!
 
 #v0491There's no need for witches outside of fairytales. I'll send you back to yours. 
+Bruxas não precisam existir fora dos contos de fadas, por isso a mandarei de volta para o seu.
 
 #v0492If you insist, I'll play along, but this is gonna be tough on the elderly. 
+Se insiste, vou te acompanhar, mas será difícil para os idosos.
 
 #v0493What are you thinking? Get out of the way. I've got no business with a mere butler. 
+O que está pensando? Saia da minha frente. Não tenho nada a tratar com um mero mordomo.
 
 #v0494I'm in a bad mood right now. Do you want that mustache ripped off at the roots?! 
+Estou de mau humor agora. Quer que eu arranque esse seu bigode?!
 
 #v0495If you're a demon, I don't have to hold back, right? Not that I was planning to. 
+Se é um demônio, então não preciso me conter, né? Não que eu pretendesse fazer isso.
 
 #v0496I finally found you. Where's Onii-chan? Give him back, Beatrice! 
+Finalmente te achei. Cadê o onii-chan?! Devolva ele, BEATRICE!
 
 #v0497Quit acting all high and mighty! You're just frost, terrified by the spring of the truth! 
+Pare de agir toda prepotente! Você não passa de uma geada, temendo pela primavera da verdade!
 
 #v0498Onii-chan doesn't belong to you! Give him back. I'm taking him home! 
+O onii-chan não é seu! Devolva ele! Vou levá-lo para casa!
 
 #v0499Do we have to do this...? I didn't want to fight you and your sisters if I could help it. 
+Precisamos fazer isso...? Se possível, eu não gostaria de lutar com você e suas irmãs.
 
 #v0500I understand. Furniture can't disobey their orders. There's nothing you can do! 
+Eu entendo. Mobílias não pode desobedecer ordens. Não há nada que possa ser feito!
 
 #v0501I'm not your master in 1986. If you insist on doing this, I can't stop you. 
+Não sou sua mestra em 1986. Se insistir em fazer isso, não poderei para-la.
 
 #v0502Sorry if this sounds rude, ...but don't you ever get tired with breasts that heavy? 
+Desculpe se parecer ofensivo, ...mas esses peitos pesados não te deixam cansada?
 
 #v0503Do you know? What happened on this island?! Tell me! 
+Você sabe? Sabe o que aconteceu nesta ilha? Diga-me!
 
 #v0504I'll hit anyone, even a woman. And with a fist! I won't let anyone get in my way! 
+Baterei em qualquer um, mesmo mulheres. E com o punho! Não deixarei que ninguém me atrapalhe!
 
 #v0505*sigh* ...I hate wimpy men! I'll wake you right up! 
+*suspir* ...Odeio homens covardes! Vou te acordar agora mesmo!
 
 #v0506You've got a bad attitude, kid. Going through a rebellious phase? This is no place for children! 
+Sua atitude é terrível, jovem. Está paando por uma fase rebelde? Este lugar não é para crianças!
 
 #v0507What's up with you? Get out of the way. I've got no time to waste on kids. 
+Qual o seu problema? Saia da minha frente. Não tenho tempo a perder com crianças.
 
 #v0508That outfit...really doesn't suit you. You'd be better off acting your age, Aunt Eva. 
+Essa roupa...não combina nada com você. Seria melhor agir de acordo com a sua idade, tia Eva.
 
 #v0509Thanks for raising me so well, Aunt Eva. Let me show my gratitude...with my fists! 
+Obrigada por me criar tão bem, tia Eva. Permita-me demonstrar minha gratidão...com os punhos!
 
 #v0510Ah, this is the best day ever. I finally get to beat the crap out of you! 
+Ah, este é o melhor dia de todos. Finalmente acabei com a sua raça!
 
 #v0511What's this supposed to be? Are we playing with rabbits now? Are you mocking me? 
+O que isso deveria significar? Estamos brincando com coelhas agora? Tá me zoando?
 
 #v0512Sorry. I don't have enough spare time that I can waste it on playing house! 
+Desculpa. Não tenho tempo para desperdiçar brincando de casinha!
 
 #v0513I don't hold back against the servants of a witch. I'll take those cute ears and rip them off of you! 
+Eu não me contenho diante de serventes da bruxa. Vou arrancar essas suas orelhinhas fora!
 
 #v2604Long time no see, George onii-chan. And sorry, but I need you to get out of the way. 
+Há quanto tempo, George onii-san. E me desculpe, mas preciso que saia do meu caminho.
 
 #v2605Do you know, George onii-chan? What happened on the island that day? 
+Você sabe, George onii-chan? O que aconteceu naquela ilha, naquele dia?
 
 #v2606It isn't your turn, George onii-chan. You're...gonna get hurt, okay? 
+Não é a sua vez, George onii-chan. Você vai...se machucar, sabia?
 
 #v2601I don't have time to play with you, Jessica onee-chan. Sorry, but get out of the way. 
+Não tenho tempo para brincar com você, Jessica onee-chan. Desculpa, mas pode sair da frente?
 
 #v2602It's been 12 years. ...I've been wanting to play with you again. 
+Faz 12 anos. ...Estive esperando para brincar com você de novo.
 
 #v2603If you refuse to move aside, I'm not holding anything back. Sorry if I hurt you. 
+Caso se recuse a sair, não irei me segurar. Desculpe se a machucar.
 
 #v2607What on earth happened on that island at the end of the second game? Tell me...! 
+O que diabos aconteceu naquela ilha no final do segundo jogo? Me diga...!
 
 #v2608I don't want to suspect you, ...but there's a Rosa culprit theory out there too. 
+Não quero suspeitar de você, ...mas tem uma teoria por aí sobre a Rosa ser culpada.
 
-#v2609You've got a gun...! Don't tell me you're the culprit?! 
+#v2609You've got a gun...! Don't tell me you're the culprit?!
+Você tem uma arma...! Não me diga que é o culpado.
 
 #v4156Onii-chan's rival? You are? Let's see if you've got what it takes. 
+Rival do onii-chan? Você? Vamos ver se tem o que é preciso.
 
 #v4157Are you saying this kid was on that island on that day? That's just Forgery garbage. 
+Está me dizendo que essa criança estava na ilha naquele dia? Isso é só uma Falsificação bosta.
 
 #v4158One Witch of Truth is enough. Understand? You aren't wanted here. 
+Uma Bruxa da Verdade é o suficiente. Entendeu? Você não é necessária aqui.
 
 #v4159What I want is the truth! I've got no use for reasoning! 
+O que eu quero é a verdade! O raciocínio não me serve!
 
 #v4160I'm sorry. I've got no interest in that mystery/fantasy stuff. 
+Desculpa. Não tenho interesse nessa coisa de mistério/fantasia.
 
 #v4161Kids should be kids and play with their toys. 
+Crianças deveriam ser crianças e brincar com seus brinquedos.
 
 #v4162Are you gonna get in my way too? Are you trying to hide the truth of that day from me? 
+Vai ficar no meu caminho também? Está tentando esconder de mim a verdade daquele dia?
 
 #v4163Tell me what happened on that day. If you can't, get out of the way. 
+Diga-me o que aconteceu naquele dia. Se não pode, saia da minha frente.
 
 #v4164Move. If you aren't gonna, I'll just have to make you move by force...! 
+Vaza. Senão, terei que remover você à força...!
 
 #v4165I believed... I believed that you alone would show me the truth...! 
+Eu acreditei... Eu acreditei que apenas você me mostraria a verdade...!
 
 #v4166Despite everything else, I'm at least grateful that you invited me to this game board...! 
+Apesar de tudo, ainda sou grata por ter me convidado para este tabuleiro...!
 
 #v4167I don't believe in witches! You get out of my sight too! 
+Não acredito em bruxar! Saia da minha frente!
 
 #v4168Sorry about that eternal tie thing. I'm here to bring Onii-chan home! 
+Desculpe por aquela coisa de empate eterno. Estou aqui levar o onii-chan de volta!
 
 #v4169You people are messing up this game! Get off the game board! 
+Vocês estão estragando esse jogo! Deem o fora do tabuleiro!
 
 #v4170So, even you're gonna stand in my way? Please...! Move aside! 
+Então, ainda pretende ficar no meu caminho? Por favor...! Afaste-se!
 
 #v4171What's going on?! Did Onii-chan... ...That's impossible...impossible!! 
+O que está acontecendo?! Foi o onii-chan... ...Isso é impossível...impossível!!
 
 #v4172I'll never accept you. You're just a screwed-up illusion. I'll turn you to dust...! 
+Nunca a aceitarei. Você não passa de uma ilusão sem valor. Vou transformá-la em poeira...!
 
 #v4173Stop, don't talk! Don't speak with Onii-chan's voice...! 
+Pare, não fale! Não fale com a voz do onii-chan...!
 
 #v1534Then allow me to ask. What sort of reasoning did you reach...? 
+Então permita-me perguntar. Que tipo de raciocínio você elaborou...?
 
 #v1535Have you figured out what magic is yet...? 
+Ainda não descobriu o que é a magia...?
 
 #v1536No need to hold back. I am the former Beatrice, after all. 
+Não precisa se segurar. Afinal, sou a BEATRICE anterior.
 
 #v1537Please find the truth yourself. That's all I can say... 
+Por favor, encontre a verdade por si. É tudo o que posso dizer...
 
 #v1538You won't be able to see the truth with only one eye... 
+Você não será capaz de ver a verdade com apenas um olho...
 
 #v1539It would be fascinating to know what the Witch of the Future might find... 
+Seria fascinante saber o que a Bruxa do Futuro pode encontrar...
 
 #v1540My, my, is that child behind this? That's quite a good imitation... 
+Ora, ora, aquela criança está por trás disso? Essa é uma imitação muito boa...
 
 #v1541A battle against oneself, is it? Very well then. 
+Uma batalha contra si mesmo, é? Muito bem, então.
 
 #v1542Just how closely do you resemble me? Let us put that to the test. 
+Vamos testar para ver o quão parecida você é comigo.
 
 #v1543How long has it been since we last fought? This takes me back. 
+Quanto tempo faz desde a nossa última luta? Isso me traz lembranças.
 
 #v1544To fight while enjoying the scent of tea. What a fascinating notion... 
+Lutar enquanto aprecia o aroma do chá. Que conceito fascinante...
 
 #v1545With you as my opponent, I need not hold back... 
+Sendo você meu oponente, não preciso me conter...
 
 #v1546I need you to return the title of Endless Witch to me... 
+Preciso que devolva o título de Bruxa do Infinito para mim.
 
 #v1547My one mistake...was my failure to guide you properly. 
+Meu único erro...foi falhar em educá-la corretamente.
 
 #v1548You're too immature to call yourself an Endless Witch. 
+Você é muito imatura para nomear-se como uma Bruxa do Infinito.
 
 #v1549If I cannot leave without fighting you, then very well. Let us begin. 
+Não posso ir sem lutar com você. Então, vamos começar.
 
 #v1550Though this may be my job, I do sympathize with you all... 
+Embora este possa ser meu trabalho, eu simpatizo com vocês...
 
 #v1551Come, try and remember. What form did you have...? 
+Vamos, busque relembrar. Que forma você possuía...?
 
 #v1552If a trial is what you need, allow me to provide you with one. 
+Se um julgamento é o que precisa, permita-me providenciar um.
 
 #v1553Let me test the strength of your resolve. 
+Deixe-me testar a força da sua determinação.
 
 #v1554Are you prepared to pay the price of becoming human? 
+Está preparada para pagar o preço de se tornar humana?
 
 #v1555Calm yourself. Like they say, a weak dog howls the loudest. 
+Acalme-se. Como eu disse, cão que ladra não morde.
 
 #v1556Go ahead, strike at me with the power of your heart. 
+Vá em frente e me acerte com o poder do seu coração.
 
 #v1557Hohoho. I envy those youthful emotions of yours. 
+Hohoho. Eu invejo essas sua emoções joviais.
 
 #v1558Let me teach you of the true endless magic, which Beato never showed to you. 
+Deixe-me lhe ensinar verdadeira magia do infinito, que a Beato nunca mostrou a você.
 
 #v1559I won't accept it. The name of Beatrice is not for you. 
+Eu não aceito isso. O nome BEATRICE não é seu.
 
 #v1560Using magic to bring people happiness is the mark of a true witch. 
+Usar magia para trazer felicidade às pessoas é marca de uma verdadeira bruxa.
 
 #v1561Oh, did you want to play with me? If you insist... 
+Oh, quer brincar comigo? Se insiste...
 
 #v1562Did you forget that I warned you not to play dangerous games? 
+Esqueceu que eu avisei para não jogar jogos perigosos?
 
 #v1563Yes... I would be happy to play with you too, every now and then. 
+Sim... Eu ficaria feliz de jogar com você também.
 
 #v3504Enough of that. Ferocity is not the only way a man can shine. 
+Chega disso. A voracidade não é a única maneira de um homem brilhar.
 
 #v3505You're more vigorous than you appear. ...Allow me to challenge you. 
+Você é mais vigoroso do que aparenta. ...Permita-me desafiá-lo.
 
 #v3506You're starting to lose your composure. The ability to make calm decisions is essential in battle. 
+Está começando a perder a compostura. A capacidade de tomar decisões calmas é essencial em batalha.
 
 #v3501My, my, how frightening. Are you that scared of a fairytale witch...? 
+Nossa, mas que assustador. Está com medo de contos de fadas sobre bruxas...?
 
 #v3502I can hardly call it wise to fill your heart with anger in an attempt to distract from your fear. 
+Dificilmente posso dizer que é sábio preencher seu coração de raiva em uma tentativa de distraí-lo do medo.
 
 #v3503You're putting too much force into it. Come now, let me teach you a thing or two. 
+Está colocando muito esforço nisso. Venha, deixe-me lhe ensinar umas coisinhas.
 
 #v3507Fear and anger are what fill your heart... You poor thing... 
+Medo e raiva preenchem seu coração... Coitado...
 
 #v3508Put down that menacing object. Hostility fuels hostility in those you confront. 
+Coloque no chão este objeto ameaçador. A hostilidade inflama hostilidade naqueles que confronta.
 
 #v3509How wonderful is a mother protecting her child. It seems even I must take this seriously. 
+Como é maravilhoso uma mãe protegendo sua filha. Parece que terei que levar isto a sério.
 
 #v5760Battler-kun's opponent is that child. I will be yours. 
+O oponente do Battler-kun é aquela criança. Eu serei a sua.
 
 #v5761You may be an uninvited guest, but allow me to give you a warm welcome. 
+Você pode ser uma convidada indesejada, mas permita-me dar-lhe às boas-vindas.
 
 #v5762It would seem the best way to welcome you is not with tea, but with a battle. 
+Parece que a melhor formar de recebê-la não é com chá, mas uma luta.
 
 #v5763What a nostalgic feeling. Facing off against you on the game board like this. 
+Que sentimento mais nostálgico é encarar você me um tabuleiro como este.
 
 #v5764May I request a match? I haven't gone senile yet. 
+Eu poderia pedir por um duelo? Ainda não fiquei senil.
 
 #v5765It's good to get some exercise in now and then. Health must come first. 
+É bom se exercitar de vez em quando. Saúde em primeiro lugar.
 
 #v5766I've had intellectual fights like this with Dlanor many a time. There's no need to hold back. 
+Eu já tive batalhas intelectuais como esta contra a Dlanor muitas vezes. Não precisa se conter.
 
 #v5767Van Dine's Twenty Rules... I've always wanted to challenge them.
 As Vinte Regras de Van Dine... Eu sempre quis desafiá-las.
@@ -14558,209 +14660,308 @@ Wizard-Hunting Wright, mostre-me do que é capaz.
 Bom dia para você, Lady BERNKASTEL. Pergunto-me se meu chá será do seu agrado...?
 
 #v5770Welcome to that child's game board. Also, this is not the audience seating area. 
+Bem-vinda ao tabuleiro daquela criança. A propósito, os assentos da plataia ficam do outro lado.
 
 #v5771My, my, you seem to have mistaken your seat. Allow me to guide you to the stands. 
+Francamente, parece que confundiu seu assento. Permita-me guia-la até a tribuna.
 
 #v5772I am honored to be visited by a witch of the Senate. Allow me to greet you, Lady Lambdadelta. 
+Fico honrada em receber uma visita de uma bruxa do Senado. Permita-me cumprimentá-la, Ladu LAMBDADELTA.
 
 #v5773Everywhere past this point is outside the audience seating area. Please return to your seat, Lady Lambdadelta. 
+Qualquer lugar além deste ponto está fora da área designada à audiência. Por favor, retorne ao seu assento, Lady LAMBDADELTA.
 
 #v5774It does get quite lively whenever you drop by. Come now, I'll guide you to your seat. 
+Sempre fica animado quando você aparece. Venha, vou mostrar onde fica seu assento.
 
-#v5775...What a disagreeable creature you are. Leave this world at once...! 
+#v5775...What a disagreeable creature you are. Leave this world at once...!
+...Que criatura mais desagradável é você. Deixe este mundo de uma vez por todas...!
 
 #v5776How ominous... The evil thoughts of the witches who created you are simply terrifying... 
+É mesmo ominoso... Os pensamentos malignos das bruxas que a criaram são simplesmente horríveis...
 
 #v5777What a fearsome form... Your existence is an insult to Battler-kun...! 
+Que forma mais tenebrosa... Sua existência é um insulto ao Battler-kun...!
 
 #v1084Pu ku ku! Forgive my presumption, but I shall be up against you next. 
+Pu ku ku! Perdoe minha presunção, mas devo enfrentá-la agora.
 
 #v1085Ah, to speak with Battler-sama using my body! Excellent. 
+Ah, falando com o Battler-sama usando o meu corpo! Excelente.
 
 #v1086Let us communicate as men without holding back. 
+Vamos nos comunicar como homens, sem se conter.
 
 #v1087Allow me to welcome you to Rokkenjima, Ange-sama. 
+Permita-me recebê-la em Rokkenjima, Ange-sama.
 
 #v1088I am honored by this chance to have a match with Battler-sama's sister... 
+Fico honrado em ter a oportunidade de duelar com a irmã do Battler-sama...
 
 #v1089You've come back after 12 years. We must give you the warmest of welcomes... 
+Você retornou após 12 anos. Precisamos dar a mais calorosa das boas-vindas...
 
 #v1090Are you sure about this? Perhaps you ought to take a bit more care, Madam. 
+Tem certeza disso? Talvez deva ter um pouco mais de cuidado, Madam.
 
 #v1091I seem to remember something of this sort happening long ago. 
+Sinto que lembro disso já ter acontecido há muito tempo.
 
 #v1092I mustn't let my guard down. You are a former Beatrice, after all... 
+Não posso baixar minha guarda. Afinal, trata-se da BEATRICE antecessora...
 
 #v1093That's quite an impressive imitation. It's perfect, even down to the smoothness of the skin. 
+Essa é uma imitação muito boa. É perfeita, até mesmo a macies da pele.
 
 #v1094This won't do. I shudder at the thought of hitting my own face. 
 
 #v1095I mustn't let my guard down. He knows all of my secrets. 
+Não posso baixar minha guarda. Ele conhece todos os meus segredos.
 
 #v1096Pu ku ku! It's quite rare that I have a chance to punch you, Milady. 
+Pu ku ku! É raro eu ter a oportunidade de socá-la, ojou-sama.
 
 #v1097Are you certain? Once we start, I won't be able to hold back... 
+Tem certeza? Quando começarmos, não serei capaz de me conter...
 
 #v1098If I win, I'll have you accept my request for a vacation. Shall we proceed? 
+Se eu vencer, terá que aceitar meu pedido de férias. Podemos continuar?
 
 #v1099Grasping hold of naughty furniture is one of the Head Furniture's jobs. 
+Conter mobílias maliciosa é um dos deveres da Mobília-chefe.
 
 #v1100Are you quite sure about this? If you were somehow to lose, your little sisters would all laugh at you. 
+Tem certeza disso? Se acabar perdendo, suas irmãos vão rir de você.
 
 #v1101That's our Lucifer of Pride. You actually have the conceit to think you can defeat me... 
+Essa é a nossa Lucifer, do Orgulho. Você realmente a presunção de acreditar que pode me derrotar...
 
 #v1102Oh, if it isn't Shannon. Such a scary expression does not suit your face. 
+Ora, se não é a Shannon. Essa expressão assustadora não combina com seu rosto.
 
 #v1103Do you think furniture can become human? Such a dream is unthinkable. 
+Acha que mobílias pode se tornar humanas? Tal sonho é impensável.
 
 #v1104I never imagined that you and I would fight someday. 
+Nunca imaginei que iriamos nos enfrentar algum dia.
 
 #v1105Men grow stronger by overcoming trials. Allow me to be yours. 
+Homens se fortalecem superando provações. Permita que eu seja a sua.
 
 #v1106You've gained quite a bit of power. Let me put it to the test. 
+Você ficou bem mais forte. Vamos colocar isso à prova.
 
 #v1107Stop this at once. You haven't finished caring for the roses, have you? 
+Pare com isso de uma vez. Ainda não terminou de cuidar das rosas, terminou?
 
 #v1108Surely the new Beatrice-sama will not lose to me. 
+Certamente a nova BEATRICE-sama não perderá para mim.
 
 #v1109A brutal master truly does need a brutal butler, is it not so? 
+Uma mestra brutal realmente precisa de um mordomo brutal, não concorda?
 
 #v1110EVA-sama, it's about time you took a break. 
+EVA-sama, está na hora do seu intervalo.
 
 #v1111So, to a weapon, even this is a game. How sinister. 
+Então, para uma arma, até mesmo isso é um jogo. Sinistro.
 
 #v1112If I don't hold back, I fear Lady MARIA will be saddened indeed. 
+Se eu não me conter, temo que a Lady MARIA ficará triste.
 
 #v1113If you're a weapon, shouldn't you pick your opponents more wisely? 
+Se é uma arma, não deveria escolher seus oponentes com mais sabedoria?
 
 #v3174I've also been wanting to have a match against you, George-sama. You have my gratitude... 
+Eu também queria lutar contra você, George-sama. Você tem minha gratidão...
 
 #v3175We're both gentlemen. Let's speak our minds with our fists, up-front and honestly. 
+Somos ambos cavalheiros. Vamos falar o que pensamos, como nossos punhos e honestidade.
 
 #v3176A gentleman must be calm at all times. Pardon me, but I must put you to the test. 
+Um cavalheiro deve permanecer calmo em momentos assim. Perdoe-me, mas devo colocar isso à prova.
 
 #v3171Allow me to grade your punch. Let us see how many points you can get tonight. 
+Permita-me avaliar seu soco. Vamos ver quantos pontos consegue marcar esta noite.
 
 #v3172This is such a rare opportunity. Shall we treat ourselves to another good fight? 
+Esta é uma rara oportunidade. Devemos nos agraciar com mais uma boa luta?
 
 #v3173Come now, let's finish this before the tea gets cold. 
+Ande, vamos terminar isto antes que o chá esfrie.
 
 #v3177Why not start by calming down and having some tea? Allow me to take that gun of yours. 
+Por que não começa se acalmando e tomando um pouco de chá? Deixe que eu cuido da sua arma.
 
 #v3178Me, the culprit? Pu ku ku, ridiculous. I am but humble furniture. 
+Eu, o culpado? Pu ku ku, ridículo. Não sou mais que um humilde mobília.
 
 #v3179My, my, how frightening. Guns are a demon's natural enemy...! 
+Nossa, mas que assustador. Armas são o inimigo natural dos demônios...!
 
-#v5175Welcome to Rokkenjima! Why don't I begin by serving you some tea. 
+#v5175Welcome to Rokkenjima! Why don't I begin by serving you some tea.
+Bem-vinda a Rokkenjima! Devo começar lhe servindo um pouco de chá.
 
 #v5176A detective? How intriguing! Allow me to have a little taste. 
+Uma detetive? Que intrigante! Posso experimentar?
 
 #v5177I must first welcome our guest. Are you prepared? 
+Devo receber nova convidada primeiro. Está preparada?
 
-#v5178Inquisitor VS Demon Butler. Pu ku ku, those cards are not bad. 
+#v5178Inquisitor VS Demon Butler. Pu ku ku, those cards are not bad.
+Inquisidora VS Mordo-demônio. Pu ku ku, não são cartas ruins.
 
 #v5179I am still a demon. Feel free to give it all you have, without holding back. 
+Ainda sou um demônio. Sinta-se livre para partir para cima, com tudo o que tiver.
 
 #v5180How about a little exercise before the elegance of afternoon tea? 
+Que tal um pequeno exercício antes de um elegante chá da tarde?
 
 #v5181Ah, to be retired at that age. I wish I could gracefully slip into semi-retirement too. 
+Ter se aposentado com essa idade... Eu gostaria de graciosamente ser realocado para semiaposentado também.
 
 #v5182Please fight with me. The demon blood that has slept so long within me is beginning to itch. 
+Por favor, lute comigo. O sangue demoníaco que adormeceu em mim está começando a se atiçar.
 
 #v5183My, my, it would seem I must give this my all. Here I come. 
+Francamente, parece que terei que dar tudo de mim. Prepare-se.
 
 #v5184Certainly. In that case, allow me to present you with the ultimate in boredom-defeating stimulation. 
+Certamente. Neste caso, permita que eu presentei você com um estimulo supremo para acabar com o tédio.
 
 #v5185I was ordered to give our guests the warmest of welcomes... 
+Fui ordenado a dar a você a mais calorosa das boas-vindas...
 
 #v5186You appear to have lost your seat. ...Allow me to guide you there. 
+Parece que se perdeu de seu assento. ...Permita-me guia-la até ele.
 
 #v5187Oh, it appears you are not here to ask for more popcorn. 
+Oh, parece que não está aqui para pedir mais pipoca.
 
 #v5188How would you like to be served? I hope to live up to your expectations... 
+Como gostaria que o chá fosse servido? Espero poder atender suas expectativas...
 
 #v5189Your seat is not beyond this point. Please go back. 
+Seu assento não está por aqui. Por favor, retorne.
 
 #v5190How fearsome. ...Yes, how fearsome is the sea of Fragments, which can allow for such a being as you. 
+Que pavoroso. ...Sim, como é pavoroso o Mar de Fragmentos, o qual permite existências como você.
 
 #v5191I believe...I have finally found another opponent who will demand the true limits of my power. 
+Eu acredito...ter finalmente encontrado outro oponente que demandará os limites da minha força.
 
 #v5192Pu ku ku. It would seem that fear makes me lose the ability to stop laughing. 
+Pu ku ku. Parece que o medo fez com que eu perdesse a capacidade de parar de rir.
 
 #v0184Hold nothing back! I don't want you making excuses! 
+Não se contenha! Não quero desculpas!
 
 #v0185*cackle*! My closed room murders aren't so simple that you can expose their secrets! 
+*gargalhada* Meus assassinatos de quarto fechado não são tão simples a ponto de você ser capaz de expor seus segredos!
 
 #v0186Come, Battler. Come and kill me. 
+Anda, Battle. Venha me matar.
 
 #v0187So, you came back 12 years to find Battler! But I'm not giving him back! 
+Então voltou 12 depois para encontrar o Battler?! Mas eu não o darei a você.
 
 #v0188Well now, I don't remember sending you an invitation! 
+Bem, eu não lembro de ter te mandado um convite!
 
 #v0189I am gracious! Allow me to welcome you, uninvited guest! 
+Sou generosa! Permita-me recebê-la, convidada indesejada!
 
 #v0190Give it a rest, Teacher! You aren't young anymore, okay?! 
+Dá um tempo, professora! Você não é mais jovem, sabia?!
 
 #v0191Let me show you. I surpassed you long ago, Teacher! 
+Vou te mostrar que a ultrapassei há muito tempo, professora!
 
 #v0192I'm grateful to you, Teacher. Thanks to you, I'm not bored all the time! 
+Sou grata a você, professora. Graças a você, não passo o tempo todo entediada!
 
 #v0193Ronove, you look like you'll be able to distract me from my boredom! 
+Ronove, você parece capaz de me distrair do meu tédio!
 
 #v0194You are my capable butler. ...You know what I'm getting at, don't you?! 
+Você é meu mordomo capaz. ...Sabe onde quero chegar, né?
 
 #v0195I'll enjoy this brief glimpse of the 'you' who was once feared as a great demon! 
+Aproveitarei os breves lampejos do 'você' que uma vez foi temido como grande demônio!
 
 #v0196I see! Fighting against myself is certainly a new experience! 
+Entendi! Lutar contra mim mesma certamente é uma nova experiência!
 
 #v0197Arise, my double! Allow me to kill time...and you! 
+Apareça, minha dublê! Permita-me matar algum tempo...e você!
 
 #v0198This isn't bad! It's more thrilling than fighting someone else! 
+Isso não é ruim! É mais empolgante que lutar com outra pessoa!
 
 #v0199It's good to play with your furniture now and then. Don't worry, I'll only kill you a few times! 
+É bom brincar com suas mobílias às vezes. Não se preocupe, só vou te matar algumas vezes!
 
 #v0200Hmmm, what's wrong?! Don't tell me you're scared, Lucifer. 
+Hmmm, qual o problema? Não vai dizer que está com medo, Lucifer.
 
 #v0201Show me a power fitting for my furniture! As long as your life holds out! 
+Mostre-me um poder digno de minhas mobílias! Contanto que sua vide suporte!
 
 #v0202You become more boring every time I meet you. Enough! Die!! 
+Você fica mais chato a cada vez que nos encontramos. Chega! Morra!!
 
 #v0203Have I ever broken a promise? I haven't, correct? 
+Eu já quebrei alguma promessa? Não, né?
 
 #v0204I fail to understand why you and I must fight. 
+Falho em entender por que temos que lutar.
 
 #v0205Your howls are pleasant indeed! Come now, let me hear you babble, Kanonnnn!! 
+Seus rugidos são mesmo agradáveis! Vamos, deixe-me ouvi0lo balbuciar, Kanonnnn!!
 
 #v0206You want romance, don't you? You want to become human, right? Hihihihihi! 
+Quer romance, não quer? Quer se tornar humano, não quer? Hihihihihi! 
 
 #v0207You really are cute. I wish I could put a collar on you and place you at my front gate! 
+Você é mesmo adorável. Queria colocar uma coleira em você e deixá-lo na frente do meu portão!
 
 #v0208It looks like I'll need to remind you to respect me every now and then. 
+Parece que preciso lembra-lo de demonstrar respeito por mim.
 
 #v0209To give you ecstasy and the greatest of powers, then make you plummet from that peak straight into the abyss! How splendid! 
+Concedendo a você o êxtase e grandes poderes, e então fazendo-o despencar deste pico em direção ao abismo! Esplêndido!
 
 #v0210Hmph, don't be so full of yourself... You and I are on completely different levels, fool!! 
+Hmmph, não fique se achando... Estamos em níveis completamente diferentes, tolo!!
 
 #v0211Oh, the Chiester Sisters Corps! What an unusual guest. Allow me to welcome you. 
+Oh, a Tropa das Irmãs Chiester! Que visitante incomum. Permitam-me recebê-las.
 
 #v0212I've long since forgotten your strength. Would you mind helping me remember?! 
+Faz tempo que esqueci-me da sua força. Poderia me ajudar a lembrar?!
 
 #v0213A weapon like you should be able to heal me. Free me from the pain of this boredom! 
+Uma arma como você deveria ser capaz de me curar; me libertar da dor deste tédio!
 
 #v2514To think that you possessed such majesty... Interesting! I shall grant you a match! 
+E pensar que possuía tal majestade... Interessante! Lhe concederei uma luta!
 
 #v2515Once I've ground you down, I'll roll up Shannon's hide and make stuffed cabbage out of you two! 
 
 #v2516How overconfident, egghead glasses man! Allow me to show you the difference in our power! 
+Quanta confiança, quatro-olhos espertinho! Vou lhe mostrar a diferença entre nossos poderes!
 
 #v2511You say you intend to punch me? Hyahaha!! Then allow me to tear you apart! 
+Pretende me socar? Hyahaha!! Eu vu lhe partir em dois!
 
 #v2512Back down! I'm still thinking about which twilight to kill you on! 
+Afaste-se! Ainda estou pensando em qual crepúsculo vou matá-lo!
 
 #v2513What's this? You intend to take me on with your bare hands? Enough of this ridiculousness! 
+O que é isso? Pretende me derrotar com as mãos nuas? Chega dessa baboseira!
 
 #v2517*cackle*! And what is this supposed to be?! Do you think you can kill me with lead bullets?! 
-
+*gargalhada* E o que isso deveria ser?! Acha que pode me matar com balas de chumbo?!
 #v2518Natsuhi also pointed a gun at me, and she died. Go ahead, follow her example! 
 
 #v2519Oooh, how frightening! After all, guns are a witch's natural enemy! 
@@ -15564,26 +15765,37 @@ Bom dia para você, Lady BERNKASTEL. Pergunto-me se meu chá será do seu agrado
 #v3044A-A gun? That's cheating! Damn, do I have to do this?! 
 
 #v4665Those clothes you're wearing are mine. You'd better be damn sure you don't get them dirty...! 
+As roupas que está usando são minhas. É melhor não devolvê-las sujas...!
 
 #v4666I've got no interest in complicated stuff like 'reasoning'! Talk with your heart and punch with your fists! 
+Não estou interessada em coisas complicadas como 'raciocinar'! Fale com seu coração e soque com seus punhos!
 
-#v4667A guest? Let me give you an Ushiromiya-style welcome! 
+#v4667A guest? Let me give you an Ushiromiya-style welcome!
+Uma visitante? Vamos recebê-la ao estilo Ushiromiya!
 
 #v4668And here's another weirdo! If you're a servant of the witch, I'm not holding back! 
+E mais uma estranha! Não irei me conter, se for um servente da bruxa!
 
 #v4669Sorry. I may be dumb, but I'm not gonna lose when it comes to strength! 
+Desculpa. Posso ser idiota, mas não perco quando se trata de força!
 
 #v4670You do look like a kid, but I'd better not underestimate you! 
+Você parece uma criança, mas é melhor eu não a subestimar!
 
-#v4671Hey, you're pretty hot. But I'd appreciate it if you'd ring the bell next time! 
+#v4671Hey, you're pretty hot. But I'd appreciate it if you'd ring the bell next time!
+Você é bem gostosinha, mas eu ficaria feliz se tocasse a campainha na próxima!
 
 #v4672I guess people like you can be popular, but you're really not my type...! 
+Acho que pessoas como você pode ser popular, mas não faz o meu tipo...!
 
 #v4673You didn't ring the doorbell. ...I guess that means I'll be the one welcoming you in. 
+Você não tocou acampainha. ...Acho que significa que sou eu quem vai te receber.
 
-#v4674I don't like your attitude. My heart is telling me that you've got to be a villain! 
+#v4674I don't like your attitude. My heart is telling me that you've got to be a villain!
+Não gosto da sua atitude. Meu coração me diz que você deve ser o vilão!
 
 #v4675Who cares about witches? This is our island. We'll blow away any creeps we find around here! 
+Quem se importa com bruxas? Esta ilha é nossa. Vamos acabar com qualquer estranho que encontrarmos aqui!
 
 #v4676Welcome to Rokkenjima! Sorry this is so sudden, but would you mind leaving?
 Bem-vindo a Rokkenjima! Sei que é meio repentino, mas se importaria de ir embora?
