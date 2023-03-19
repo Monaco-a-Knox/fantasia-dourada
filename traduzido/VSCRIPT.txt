@@ -9000,731 +9000,1091 @@ Eu não estava tentando manipular VOCÊ. Eu sempre levo a sério quando se trata
 
 #v3897What a stubborn PERSON. ...Are you still not DONE? Then please continue as much as you LIKE. 
 
+
 #v4547My heart hasn't surrendered. ...But my body...won't do what I tell it to... 
+
 
 #v3901There is no need for a piece to use REASONING. That is our DEPARTMENT. 
 
+
 #v5211By pieces, do you mean us...?! Who on earth are you people...?! 
+
 
 #v5212No way... Guns don't work on you...?! Just what are you...?! 
 
+
 #v3902Perhaps you could call me a RULE. To defeat me, you will need a pen rather than a GUN. 
+
 
 #v3903Is this the power of the Black Witch? ...Don't make me LAUGH. You are no OPPONENT. 
 
+
 #v5213Wh-Who are you calling the Black Witch?! I'm Human! Stop mocking me! 
+
 
 #v3904Erika, you mustn't forget THIS. I went easy on you because I am a FRIEND. 
 
+
 #v4271You were totally serious back there, murder doll...! Nnngg... 
+
 
 #v4272I see you're as ridiculously merciless as ever... Are you trying to turn me into minced meat...?! 
 
+
 #v3905At least that much power is required to correct your ATTITUDE. 
+
 
 #v3906If you can still stand up, ...you should prepare yourself for the next BLOW. 
 
+
 #v4273I hate this, ...but my reasoning is telling me one thing. ...I can't...beat you. 
+
 
 #v3907To think you would switch places with ME. I sympathize with the fact that you were ordered to do SO. 
 
+
 #v3908...As expected from...an INQUISITOR... It couldn't go...that EASILY... 
+
 
 #v3909I have FAILED... As expected...from an INQUISITOR... 
 
+
 #v3910I won't give up the top spot in Eiserne Jungfrau so EASILY. 
+
 
 #v3911Come now, a new, easy job awaits YOU! All you have to do is stamp some DOCUMENTS...! 
 
+
 #v3912STAMPS?!!! NOOO! One more TIME! Fight me one more TIME! 
+
 
 #v3913Let us call it a GAME. Fighting you made for a fun MATCH. 
 
+
 #v5469You saw right through me. ...Don't expect it to go like this next time around. 
+
 
 #v5470What a disgrace to the name of Wright. ...I can't believe I lost so pathetically. 
 
+
 #v3914It isn't about winning and LOSING. We just love mysteries in different WAYS. 
+
 
 #v3915Your movements have DULLED. Do you need some time off to RECOVER? 
 
+
 #v5471I've already retired. ...That was fun. Let's fight again sometime. 
+
 
 #v3916I will show no mercy to evil, even if you are a witch of the SENATE. 
 
+
 #v5821How dare you...do this...to me... Nnggg... 
+
+
 
 #v5822Not bad. It looks like you'll make this game a little more interesting... 
 
+
 #v3917I cannot fulfill your REQUEST. My role is to end this GAME. 
+
 
 #v3918ENOUGH. IT is best if you don't resist so USELESSLY. 
 
+
 #v5823A mere Inquisitor defeated me?! Auau! What kind of plot is this?! 
+
 
 #v3919What sort of scenario is THIS? For Lady Lambdadelta to be defeated by ME... 
 
+
 #v4803O-Of course I lost on purpose, obviously! Tsuuun! 
+
 
 #v4804Time out for a sec...! Come on, let me have at least a little chance to show off! 
 
+
 #v3920When you show off, it is no joke to the rest of US. 
+
 
 #v4805A-And that ends our rehearsal! Next time will be the real thing! 
 
+
 #v3921Oh, is that SO? UNDERSTOOD. Then next time, I will take this SERIOUSLY. 
+
 
 #v5472That's right. Don't neglect the heart. ...Your reasoning isn't flawed. 
 
+
 #v3766I don't have a clue what Beato is thinking...! 
+
 
 #v3767The 'why dunnit'...? Can that really help when building theories...? 
 
+
 #v5473It's just like spinning the chessboard around, isn't it? ...Don't neglect the heart. 
+
 
 #v5474Don't stop thinking. If you stop there, you won't make it any further. 
 
+
 #v3768Dammiiiiit...! What else can I think of?! I don't...understand... 
+
 
 #v5475Don't assume you know the answer. ...The truth usually lies outside your range of vision. 
 
+
 #v4117How am I wrong...?! I'm not wrong...!! 
+
 
 #v4118I've got no interest in the heart! All I want to know is the truth of that day! 
 
+
 #v5476And that's why you can't understand it. ...Not the simple truth before your eyes. 
+
 
 #v4119Why?! If what I need is determination to know the truth, I've had that for a while now! 
 
+
 #v5477The truth? Isn't there something you need to know even more than that? 
+
 
 #v5478You're not bad, even after retirement. I guess it's true that witches never age. 
 
+
 #v5721After all, I'm an eternal 17-year-old. ...Owowowow... 
+
 
 #v5722Splendid. I can see why you inherited the name of Wright. 
 
+
 #v5479Though I've already passed it on. Look forward to the next one. 
+
 
 #v5480Sorry, I put a bit too much force into it. I don't need to go easy on you, right? 
 
+
 #v5723Heheh. Thanks for not underestimating me. 
+
 
 #v5481Sorry, but I only drink black coffee on the job. I reserve tea for when I'm off duty. 
 
+
 #v5136Oh, pardon me. ...It would seem that I still have a long way to go. 
+
 
 #v5137To win with such splendid elegance...! I cannot help but be impressed. 
 
+
 #v5482Whether it comes to reasoning or fighting, you can't forget to follow etiquette and show respect. 
+
 
 #v5483Your tea's not bad. Could I have another cup? 
 
+
 #v5138Certainly. I'll get you one as soon as I see to these wounds. 
+
 
 #v5484This troublesome game of yours has been a real pain for me. 
 
+
 #v3688Battler is my only foe! I don't want someone like you solving my riddles! 
+
 
 #v3689You cannot read my heart...!! 
 
+
 #v5485I know how you feel. That's why I won't expose you. ...Don't be afraid. 
+
 
 #v3690Not bad...! Let's see this next theory you've been talking about...!! 
 
+
 #v5486Your game has a heart. I won't ignore that. 
+
 
 #v5487I know who you all are, but I have no intention of exposing you. Don't worry. 
 
+
 #v5058...T-To think I'd let an enemy comfort me... ...I-I hate this...! 
+
 
 #v5059I-I lost completely... Can't wait to see...what all those Inquisitor torture methods are like... 
 
+
 #v5488You're going to the evidence storage room, not the interrogation room. I'm sorry we won't be living up to your expectations. 
+
 
 #v5489You've got it rough, not being able to choose your superiors or subordinates. I can tell. 
 
+
 #v5060D-Don't act like you understand! It's not rough at all! 
+
 
 #v5490All I'm interested in is the heart. Right now, the 'why dunnit' is my mystery. 
 
+
 #v5292I pray that your task is completed safely... 
+
 
 #v5293Forgive me... It seems you're a person who treasures the heart... 
 
+
 #v5491Because they have hearts, Humans aren't dolls. I won't forget that. 
+
 
 #v5492Sorry about that. I figured I shouldn't go easy on you. 
 
+
 #v5294Thank you very much. I gave it my all as well. 
+
 
 #v5493What are you afraid of? I haven't come here to expose anyone. I'm only here for a funeral. 
 
+
 #v4704...Who are you...? What does it mean to hold a funeral for the riddles of this island...? 
+
 
 #v4705Like hell you can understand how I feel! Dammit, dammit...! 
 
+
 #v5494Live life to the fullest and be honest with your heart. ...That's my answer to your riddle. 
+
 
 #v5495As to how you care for your guests, I'd say that was about average. Throw in some tea, and it would've been perfect. 
 
+
 #v4706Pardon me for not thinking of that... I will go get some now. 
+
 
 #v5496The interpretation that you represent is interesting. But right now, you're getting in the way of my thinking. Stand down. 
 
+
 #v4470How can my magic not work...? Does this guy know about the inside of the cat box...? 
+
 
 #v4471Even if I have to go down with you, ...I won't let anyone peek into the cat box! 
 
+
 #v5497My job is giving all this a funeral. ...I won't make light of it. You have my promise. 
+
 
 #v5498Don't worry. I didn't come here to pry your cat box open. 
 
+
 #v4472I'll protect this cat box even if it kills me! I won't let anyone open it! 
+
 
 #v5499Your job is to play with people, isn't it? Any more, and you'll be overstepping your bounds. 
 
+
 #v5370H-He's treating us like toys... ...Th-This guy's good nyeh... 
+
 
 #v5371Wh-Why don't you land the finishing blow nyeh...? I'm prepared for death nyeh... 
 
+
 #v5500I can know you without exposing you. If you don't understand, stand back. 
+
 
 #v5501You've fought enough, haven't you? Run along home. I told the butler to get you your favorite thing. 
 
+
 #v5372Nyeh nyeh! No one expects the enemy to send them carrots...! I'll head straight home nyeh! 
+
 
 #v5505If you're Lion's little sister, you might want to act a bit more ladylike. You'll get your butt pinched. 
 
+
 #v4626Huh? I'm whose little sister now? ...What the heck is this guy talking about...? 
+
 
 #v4627...I'm not gonna start acting all ladylike now. This is how I live... 
 
+
 #v5506And you kept to that even in Lion's world. That gallantry isn't to be taken lightly. 
+
 
 #v5507The way your hands move faster than your mouth... As I'd expect from that person's little sister. 
 
+
 #v4628Owww...! It's normal to communicate with your fists instead of your mouth, right?! 
+
 
 #v5502Not bad. It seems the way the world remembers you is mistaken. 
 
+
 #v4548...I wonder what the future writes about me. It doesn't sound too pleasing. 
+
 
 #v4549You got me. I thought I'd be able to fight a bit more than that, though... I guess I have a long way to go... 
 
+
 #v5503Keep on training. I've merely done it for longer than you have. You aren't inferior at all. 
+
 
 #v5504Those kicks you learned from Eva weren't bad. If you ever want to train, come and see me. I'll fight you any time. 
 
+
 #v4550So, even that was you going easy on me. I hope you'll let me train with you right away. 
+
 
 #v5508Boorish guns like that don't suit a lady. ...Would you mind handing that over? 
 
+
 #v5214...I lost... ...But thanks for calling me a lady despite that. 
+
 
 #v5215I see that attractive men are strong even when they fight. ...And hopeless women end up like this even when they fight. 
 
+
 #v5509Victory and loss don't determine a person's worth. ...Here, can you stand? 
+
 
 #v5510Looks like a mother protecting her child really can abandon everything else. 
 
+
 #v5216Everyone's like that. I'll protect Maria even if I end up dead! 
+
 
 #v5511Then that settles it. Your cold-blooded reasoning isn't mystery. 
 
+
 #v4274H-How could you...pr-profane my reasoning like that?!! D-Damn you...
+
 
 #v4275The mystery genre doesn't need a 'why dunnit'! History proves that! 
 
+
 #v5512Then what did this fight prove? Even in the mystery genre, don't neglect the heart. 
+
 
 #v5513I'm not so soft that I'd go easy on an intellectual rapist like you. 
 
+
 #v4276<Good!> Those are the highest words of praise I can hear! What do you say?! Let's have another match! 
+
 
 #v5514Are you okay? I won this time, but neither of us is better than the other. 
 
+
 #v3922We are merely guideposts that exist to assist the mystery GENRE. 
+
 
 #v3923I LOST. ...Does this mean that the Decalogue still has many HOLES? 
 
+
 #v5515Those holes give the mystery genre life. It was a good battle. 
+
 
 #v3924So CLOSE. To think that someone with such skill would be RETIRED... 
 
+
 #v5516I'm behind the times. Even the mystery genre changes with the era. 
+
 
 #v5517I'm still a wielder of the Twenty Rules. I know how to slip through them as well. 
 
+
 #v5518...Not bad. I hope the next person with the name of Wright is the same... 
+
 
 #v5519Is this...the strength of a man who takes on the name of Wright...? 
 
+
 #v5520That's right. If you're still like this, it'll be a long time before I give up this name. 
+
 
 #v5521Why did you copy me?@ 
 
+
 #v5522...Don't think too hard on it. You'll just get a headache. 
+
 
 #v5523It looks like your master abandoned you. Otherwise, there's no way I would've won. 
 
+
 #v5824She must have wanted to see me fail... Damn Auaurora... 
+
 
 #v5825Okay, okay, I surrender. I'll be in the stands. 
 
+
 #v5524Damn you, just when it was getting good. ...You're the worst kind of spectator. 
+
 
 #v5525If only you were as cute as Diana... 
 
+
 #v5826Oh? I'm a pedigree, did you know that? Even my fur is top class... 
+
 
 #v5526Is it really okay for me to claim victory? If you want it, I wouldn't mind letting you have it... 
 
+
 #v4806Go ahead and win. It's my reward for that excellent display of fighting you showed me. 
+
 
 #v4807Hmph, I'll let you win this time! But only for today, okay?! 
 
+
 #v5527I'll take you at your word. ...I've got absolutely no confidence in my ability to beat you again. 
+
 
 #v4808Not bad! Even if it was a fluke, you beat me, Lady Lambdadelta! 
 
+
 #v5528It might not go this way next time, right? I'll take a win while I can. 
+
 
 #v5827Don't mistake your opponent, okay? Make Beato suffer more and entertain me. 
 
+
 #v3769...Sh-She's so strong... ...Will we be...her toys forever...? 
+
 
 #v3770This game board...belongs to us... I won't let you...ngg... 
 
+
 #v5828Pieces don't need to talk! Just shut up and kill your opponent's pieces! 
+
 
 #v3771Ngg... Not yet! I've got to protect this game board! 
 
+
 #v5829Protect it? *giggle*giggle*... What are you babbling on about, little piece? 
+
 
 #v5830I'm bored. Turn into minced meat again. That squishy, dirty kind. 
 
+
 #v4120I...am not your toy... ...Nnngg, ...aaaaaaaaah!!
 Eu...não sou seu brinquedo... ...Nnnngg, ...aaaaaaaaah!!
+
 
 #v5831Do you intend to disobey me? Don't you still need the miracle of your family coming home?
 Pretende me desobedecer? Você não precisa de um milagre para sua família voltar para casa?
 
 #v4121...That's... ...Please, ...come home, ...Onii-chan... 
 
+
 #v4122Does this mean I don't have enough resolve to know the truth? What more...can I do...? 
+
 
 #v5832If you don't know that, then maybe the truth is a bit too much for you after all. *giggle*giggle*... 
 
+
 #v5833Why don't you go back to whatever picture book you came from? I'll crush you inside it and use you as a bookmark. 
+
 
 #v5724...Someday, you will be felled in turn, and that will be recorded in a picture book... 
 
+
 #v5725...Is the miracle of defeating you...really an impossible one...? 
+
 
 #v5834Basically, yeah. Miracles are called miracles because they don't happen. *giggle* 
 
+
 #v5835Oh, are you finished? The elderly can be so tiring. 
+
 
 #v5726...You're the one person I don't want calling me elderly... 
 
+
 #v5836I'm sorry. Your tea just doesn't suit my tastes. 
+
 
 #v5139...That...was more painful than any of your attacks... 
 
+
 #v5140Even when he knows he cannot win, ...wanting to try anyway is the sort of romantic idea a man yearns for. 
+
 
 #v5837So, you call a miracle that'll never happen romantic? Out of respect for your good taste, I'll forgive you. 
 
+
 #v5141What a shame that I, Ronove, ...could not adequately entertain our guest. 
+
 
 #v5838*giggle*giggle* ...That was a bit better than your usual tea. 
 
+
 #v5839You're great, Beato. I came all this way just to see you looking so pathetic! 
+
 
 #v3691Then you should be happy now... ...Damn you, ...witch who has tired of boredom... 
 
+
 #v3692So, what is a sacred game to me...is merely a way to kill time to you...? 
+
 
 #v5840But a very good one, okay? Come on, heal my sickness again and again. 
 
+
 #v5841Ahahahah! Just looking at your face gives me shivers...! 
+
 
 #v3693Nngg... I see you have excellent taste yourself, Lady Bernkastel... 
 
+
 #v5842I'll toy with your sisters as I kill them in front of you. What do you think? Doesn't that sound fun? 
+
 
 #v5061M-My little sisters...! I'll suffer any humiliation, just spare my little sisters...! 
 
+
 #v5062F-Forgive me...! I'll do anything, ...just forgive me... 
+
 
 #v5843Really, anything? You won't go back on your word, right? Heheh, heheheheheheheheh...!! 
 
+
 #v5844I'm gonna let your sisters see you looking this pathetic. Oh, or would that actually be a present in your case? 
+
 
 #v5063Eep...! I'm so sorry...! Anything...but that...! 
 
+
 #v5845I've decided. I'm going to have you stuffed. And then I'll spit on you every morning. 
+
 
 #v5295What an evil person... ...To think that a witch like this...controls miracles... 
 
+
 #v5296If your strength represents the heartlessness of miracles, ...God must be so cruel... 
+
 
 #v5846That's right. Making Humans understand that heartlessness is the role of the Witch of Miracles. 
 
+
 #v5847So, you won't even cry or beg for mercy... ...Furniture is so boring. 
+
 
 #v5297I have no reason to beg... Go ahead, ...kill me. 
 
+
 #v5848I'll make you beg for your life while crying! I'm betting that I'll be able to do it within seven days. 
+
 
 #v4707...Go to hell... ...Dammit, ...am I already there...? 
 
+
 #v4708If you're going to kill me, do it all at once...! Do you intend to humiliate me further...?! 
+
 
 #v5849I'm merciless against my enemies, but kind to my toys. Well, I'll play with you again. 
 
+
 #v5850*giggle* Does useless furniture count as burnable trash? Or is it oversized instead? 
+
 
 #v4709...Nng, kill me quickly! ...Don't humiliate me any more...! 
 
+
 #v5851Your brutality matches my tastes. Open up the cat box of your own accord. If you do, I'll forgive you. 
+
 
 #v4473Like hell I'll open it!! If you want to kill me, then kill me! I won't let you reach the truth even if I die! 
 
+
 #v4474Is this a true witch...? ...What terrifying mercilessness...and brutality... 
+
 
 #v5852Do you call it brutal when you take a walk on a lawn, stepping all over the grass? You don't, do you? 
 
+
 #v5853Did you really think you could beat the Great Bernkastel despite being a newbie witch? 
+
 
 #v4475I thought I had the power of witches totally understood... I guess this is the end... 
 
+
 #v5854This was just a sideshow, right? If that was supposed to be a fight, ...someone's in trouble. *giggle* 
+
 
 #v5373N-N-Not at all nyeh...! Th-That was just a little joke nyeh... Nyeh... 
 
+
 #v5374There's no way I could beat a Great Witch of the Senate nyeh... What a horrible battle nyeh... 
+
 
 #v5855You knew that, and you still fought? Every one of you is so fond of miracles. 
 
+
 #v5856I was just thinking of getting a new muffler. ...One made of rabbit fur. 
+
 
 #v5375Eeep...! I-I don't have enough fur on me nyeh! You could get so much more from the goats nyeh! 
 
+
 #v5860No miracle can work against me. After all, I control them. 
+
 
 #v4629...If your heart is blazing hot, ...miracles are a certainty... 
 
+
 #v4630Damn, this is insane... I couldn't find any chances to get ahead... 
+
 
 #v5861Now do you understand? There are no miracles or chances in this world. 
 
+
 #v5862Did you know? The heart doesn't give you anything. It just gets in the way. 
+
 
 #v4631No way that's true...!! A heart that believes gives you strength! 
 
+
 #v5857I've decided to get Shannon stuffed. If you don't want that to happen, try scratching your own throat out. 
+
 
 #v4551...S-Sure... ...If that will set Shannon free, ...I'll do it... 
 
+
 #v4552I resign. ...Fighting you is a waste of time and energy. 
+
 
 #v5858A wise choice. I recommend investing your time and energy in something more profitable. 
 
+
 #v4553You're a coward. ...If only you had a sinister appearance to match how you are on the inside... 
+
 
 #v5859What is it you people are always saying? You shouldn't judge people on their appearances, is it? 
 
+
 #v5863I'll let you get away. I just need to get a gun in your hands, and a tragedy will arise all by itself. 
+
 
 #v5217...A-Am I having a bad dream...? Someone, wake me up from this nightmare! 
 
+
 #v5218What's happening on this island?! Am I Alice? Is this wonderland?! 
+
 
 #v5864No, this is Rokkenjima. An island of dreams, packed full of every nightmare you can think of... 
 
+
 #v5865All that fighting made me hungry. I'd better get that oven-roasted Maria started. 
+
 
 #v5219Noooooooo! Please! Anything but Maria! 
 
+
 #v5866So, this pathetic kid is my piece. Guess I should start looking for a better one... 
+
 
 #v4277I-I'll get stronger, so please don't throw me away... My master... 
 
+
 #v4278That's my master for you! You're so strong, so beautiful, and aaah, I think I'm gonna faint! 
+
 
 #v5867*giggle* If you really feel that way, maybe you'd like to clean my bathtub with your tongue. 
 
+
 #v5868I've got no use for you except as a footrest. ...Along with Battler. 
+
 
 #v4279Ahiiiiii! I'm so grateful for that job, my masteeeeer! 
 
+
 #v5869To me, both mystery and fantasy...are nothing more or less than ways to kill time. 
+
 
 #v3925...Heartless theatergoers like you distort the TALE... 
 
+
 #v3926I don't UNDERSTAND... ...Why does someone as heartless as you control MIRACLES...? 
+
 
 #v5870I control them because I know, better than anyone else, that miracles don't occur. *giggle*... 
 
+
 #v5871I was actually expecting quite a bit from an Inquisitor's power, ...but that was incredibly boring. 
+
 
 #v3927A witch who toys with the fates of others to avoid BOREDOM... ...How FEARSOME... 
 
+
 #v5872I applaud you on holding the name of Wright, but I've got no interest in a retiree. 
+
 
 #v5529...I'm glad to hear it, coming from a witch like you... 
 
+
 #v5530So, unless I bring about the miracle of defeating such a monster, no miracles will occur... 
+
 
 #v5873That's it. Miracles shine and are respected because I block the path to them... 
 
+
 #v5874*giggle*giggle* These kids are saying that one of your arms wasn't enough to fill their stomachs. 
+
 
 #v5531Sorry, but if I cheat on my beloved, things will get nasty. ...Feed them tuna or something. 
 
+
 #v5875I don't know which Fragment's version of me you are, but I'm glad you look so happy over there. 
+
 
 #v5876...So, there exists a 'me' that can surpass myself... This is what makes the sea of Fragments so interesting... 
 
+
 #v5877This is hilarious. So, there exists a 'me' who lives in a world even more horrible than mine. 
+
 
 #v5878It is, isn't it? And no matter what world I'm in, I'm horrible. 
 
+
 #v5879You thought that was a good copy? You must really take me lightly. 
+
 
 #v5880A copy is nothing but a copy. Perhaps it was not fated for me to defeat the original... 
 
+
 #v5881What's wrong, Lambda? Is it my turn to love you today...? 
+
 
 #v4809Ah, you're wonderful, Bern. Tonight, I wanna fall asleep as you hold me brutally. 
 
+
 #v4810My love is as sweet and fluffy as cotton candy. Why are you running away? 
+
 
 #v5882If you make it mustard miso flavored, I might consider it. *giggle*... 
 
+
 #v4811That was mean, Bern. Don't you remember all the times we whispered our love to each other...?! 
+
 
 #v5883What are you talking about, Lambda? I love you so much! So much that I want to kill you... 
 
+
 #v4812You're the main character, right?! If you're this pathetic, I'm gonna take your place! 
+
 
 #v3772...Tch, I give up. Go ahead, change the series title to Magical Girl Lambda-chan from now on... 
 
+
 #v3773Enough, enough! I can sense that I've got no chance of beating you...! 
+
 
 #v4813What?! Don't say that! Play with me! I'll make you think you can beat me! 
 
+
 #v4814Get up, now! Next one, on to the next one! Don't give up after a little thing like that! 
+
 
 #v3774Owwww... I couldn't keep up with a witch at play no matter how many bodies I had... 
 
+
 #v4815I'll take good care of you, okay...? Give me an eternal stalemate. 
+
 
 #v4123...Who...should I listen to...? I don't understand... 
 
+
 #v4124She's totally toying with me. ...This isn't even a fight to her... 
+
 
 #v4817Kyahahahah! How shall we play next, Ange?! Another mock battle?! 
 
+
 #v4818Hey, hey! I wanna try some too! A hamburger made of you!! 
+
 
 #v4125Eep...! ...Aggghh...! Noooooooooo! 
 
+
 #v4819I've gotten bored of this game! Playing with old people really is boring! 
+
 
 #v5727...I-In terms of years, you're older, aren't you...? 
 
+
 #v5728Lady Lambdadelta... I cannot take any more of this. ...Owowow... 
+
 
 #v4820What?! We're just getting started! I'm super partially combusted! Boooo! 
 
+
 #v4821What are you lying there for?! Even if you are old, isn't it a bit early for a nap? 
+
 
 #v5729...If you're going to call me old, at least go easy on me a little... Owowow... 
 
+
 #v4822Hey, Ronove! I'm hungry! Get me some tea and cookies! 
+
 
 #v5142A-As you command... Would you mind if I retrieved a first aid kit first...? 
 
+
 #v5143What a fearsome person. ...I, Ronove, had no chance of winning. 
+
 
 #v4823Duh! Don't you realize what horrible Fragments I've been through? 
 
+
 #v4824You aren't cute enough! Turn your hair pink! 
+
 
 #v5144Y-You mustn't! This isn't funny...! N-Noooooo!! 
 
+
 #v4825Fulfill your wishes with certainty. If you lose that strength, your magic will melt. 
+
 
 #v3694I-I understand... After all, certain willpower is the source of my magic... 
 
+
 #v3695O-Of course I was joking! Did you think I would actually go against you...?! 
+
 
 #v4826Ah, so it really was a joke?! Sorry, sorry, I got a bit serious! 
 
+
 #v4827Ah, that feels great! You've got to get a good workout in every now and then! 
+
 
 #v3696And I've been beaten to a pulp for the sake of that workout... I won't last long like this... 
 
+
 #v4828Playing with furniture is surprisingly boring. Can't you be more interesting? 
+
 
 #v5064F-Forgive me... ...I can do...nothing more... 
 
+
 #v5065P-Please forgive me...! I was a fool for thinking I could beat you! 
 
+
 #v4829Then write a 500-page letter of apology for your foolishness. Filled with 800 characters a page. 
+Então escreva uma carta de desculpas de 500 páginas por sua tolice. Com 800 caracteres por página.
 
 #v4830I've gotten bored with you. Maybe you'd better get back quickly to your job as a paperweight. 
 
+
 #v5066Nng... ...Th-Then allow me to return to my assignment...aaaaah...! 
+
 
 #v4831Not bad! I won't give up my victory, but I do acknowledge your skill. 
 
+
 #v5298Th-Thank you very much... Even I have things I cannot give up on. 
+
 
 #v5299Y-Your body is so sweet and sticky... And it smells wonderful... 
 
+
 #v4832I'm wearing fruit marshmallow perfume today! It's even great for the skin, *giggle*! 
+
 
 #v4833All girls are weak against sweets! Especially limited-edition ones! 
 
+
 #v5300...Th-That's true. ...But I'd rather have a first aid kit...right now. 
+
 
 #v4835That was a good lesson in how not to judge people by their appearances, right? 
 
+
 #v4710...I have...no counter for that... ...I hate this... 
+
 
 #v4711What a witch... To look so young, despite having such terrifying strength... 
 
+
 #v4836That's the trend these days! The sweet loli who's super strong! Awesome, isn't it? 
+
 
 #v4837Hey, hey, aren't you done yet? This anime I wanna watch is about to start! 
 
+
 #v4712...Nng! So, my presence loses even to some anime show...? 
+
 
 #v4838Newbie witches tend to get hooked on that all-powerful feeling. Don't worry, it's a path we all walk down. 
 
+
 #v4476...S-So, even the path of a witch is a long and hard one... Heh, ...heheheheh... 
+
 
 #v4477How can I be so completely ineffective against such a dumb-looking kid...?! 
 
+
 #v4839Are you mocking me? Don't you know what my educational background was when I was Human? 
+
 
 #v4840Do you really keep saying 'if only' because it sounds vaguely like your name? Don't you realize how totally lame-da that sounds? Pfft, *giggle*!! 
 
+
 #v4478Y-You should talk...If only you'd just give up and die! 
+
 
 #v5376Carrots are best raw nyeh! Give those carrots back nyeh! 
 
+
 #v4841No way. I'll cook them all nice and sweet and make a wonderful glace from them! 
+
 
 #v5377While we were fighting, I think I became a candy nyeh... 
 
+
 #v4842I gave you a caramel coating today. Go ahead and enjoy that scent the next time you take a bath! 
+
 
 #v4843Bunny ears and a leotard? I'll bet you're gunning for number one on the character popularity poll. 
 
+
 #v5378You give me too much credit nyeh! I'm certain the strong and cute Lady Lambdadelta will get the top spot this time nyeh. 
+
 
 #v4847I like your guts! Use that passion to blaze through your trials and your youth! 
 
+
 #v4632I can't tell if she's a good person, or an evil witch... 
+
 
 #v4633Wah, my fist's all sticky...! What happened...?! 
 
+
 #v4848I'm going candy bar today! Your passion melted it a bit though. 
+
 
 #v4634Nng...! Not yet, I can still fight...! 
 
-#v4849Hyaa! You said something like an anime character! So cool! 
+
+#v4849Hyaa! You said something like an anime character! So cool!
+Hyaa! Você disse algo que um personagem de anime falaria! Incrível!
+
 
 #v4844Ah, that was fun! You're always such a show-off, so I'm never bored. 
 
+
 #v4554...I see that punch lines just look like showing off unless you have power to go with them... 
+
 
 #v4555It seems...you weren't the sort of opponent who could be defeated by the likes of me... 
 
+
 #v4845Hey, that's a pretty cool loser's line! I can't stop laughing! 
+
 
 #v4846Hey, hey, are you gonna keep going? This TV drama I wanna see is about to start! 
 
+
 #v4556...Nng! So, my presence is even weaker than some TV drama...? Nngg! 
+
 
 #v4850From now on, fill your gun with candies and shoot those. The kids will love it. 
 
+
 #v5220...Y-You're right... ...Guns are...too much for me... 
+
 
 #v5221Tell me! Who are you?! Are you supposed to be a witch?! 
 
+
 #v4851That's right. Before long, the new anime with me as the main character's gonna start, so I'll see you then! 
+
 
 #v4852The Black Witch, Rosa, mother of the Witch of Origins. ...You were surprisingly easy to handle. 
 
+
 #v5222Why are you calling me a witch?! I'm just a woman! And Maria's mother...! 
+
 
 #v4853Okay, that settles it! I'll be taking that 'one bath with Bern' coupon! 
 
+
 #v4280That's horrible! P-Please, fight me agaaaaaain! 
+
 
 #v4854Okay, I'll be taking that. Bern's half-drunk warm milk! 
 
+
 #v4281A-At least share a drop with me! Have mercy, Lady Lambdadelta! 
+
 
 #v4855I just thought of something good... Bern isn't watching, so why don't I bury you forever...? 
 
+
 #v4282...S-Spare me, Lady Lambdadelta!! I don't want to go back to the depths of oblivioooooon!! 
+
 
 #v4856I don't like mysteries, because they're too hard! Manga is better when it's filled with battles! 
 
+
 #v3928...Battles and mystery and FANTASY. I give you: UMINEKO... 
+
 
 #v3929That is as far as I can GO... Being your opponent is TIRING... 
 
+
 #v4857Are you done already?! You heaven people have no guts. Boring! 
+
 
 #v4858You okay? Here, I have some bandages. Cute, aren't they? Let me stick them on! 
 
+
 #v3930I-I appreciate the SENTIMENT... ...However, I will soon be completely covered with BANDAGES... 
+
 
 #v4859So, what do hot guys say when they lose? Come on, let's hear it! 
 
+
 #v5532...Isn't it obvious? ...I'm spent. 
+
 
 #v5533So this is the true power of the great witch Lambdadelta... ...You really are a monster... 
 
+
 #v4860If you say that, Auau will be sad. And hey, don't go calling girls monsters! 
+
 
 #v4861Even though I went out of my way to save you two from that Fragment... Have you forgotten that already? 
 
+
 #v5534...Tch! Do what you want with me... In exchange, leave that person alone! 
+
 
 #v4862I win! Tonight, let's swap nighties when we go to bed, okay?! 
 
+
 #v5884......Sure, if you're okay with me opening a tail hole. 
+
 
 #v5885Huh? ...Do I really have to do that? 
 
+
 #v4863Yep, you do! Kiss me and say 'I wuv you, Lambda!' 
+
 
 #v4864Hey, you lost pathetically in this world, too. No matter how many times you try, nothing's gonna change. 
 
+
 #v5886...Hmph. Let's both stop talking about when we were Human. ...It gives me the shivers... 
+
 
 #v4865Get back to your own Fragment. And be grateful for your own fate. 
 
+
 #v4866I can't believe that my Fragment was a relatively lucky one... Super shock... 
+
 
 #v4867I see you've been through harsh Fragments, too... I'll let you claim the title of Strongest in the Universe... 
 
+
 #v4868Thanks. I guess that means I came from the worst Fragment in the universe. 
+
 
 #v4869Ow, owowow...! I'm the real one! I've gotta win with certaintyyyyy!! 
 
-#v4870Ahahah! I'm sorry, that's just so hilarious! Hey, hey, can you be any funnier than that? 
 
-Fim das linhas perdidas de cada história
+#v4870Ahahah! I'm sorry, that's just so hilarious! Hey, hey, can you be any funnier than that? 
 
 Undefined line - Loser Conversations - First Person
 Linha indefinida - Diálogo do perdedor - Primeira Pessoa
@@ -14964,805 +15324,1202 @@ O que é isso? Pretende me derrotar com as mãos nuas? Chega dessa baboseira!
 *gargalhada* E o que isso deveria ser?! Acha que pode me matar com balas de chumbo?!
 #v2518Natsuhi also pointed a gun at me, and she died. Go ahead, follow her example! 
 
-#v2519Oooh, how frightening! After all, guns are a witch's natural enemy! 
+#v2519Oooh, how frightening! After all, guns are a witch's natural enemy!
 
 #v3727My magical closed rooms aren't so simple that they could be solved by someone like you. Hyahaha! 
 
-#v3728I'm not as soft as Battler... Let me show you what a truly stimulating battle is like... 
+#v3728I'm not as soft as Battler... Let me show you what a truly stimulating battle is like...
+Não sou tão gentil quando o Battler... Vou te mostrar como é uma batalha verdadeiramente estimulante...
 
 #v3729You aren't wanted here! Return to your master! 
+Você não é bem-vinda aqui! Retorne para sua mentora!
 
-#v3730All closed rooms are caused by magic! There's no need for the Knox Decalogue! 
+#v3730All closed rooms are caused by magic! There's no need for the Knox Decalogue!
+Todos os quartos fechados foram criados com magia! O Decálogo de Knox não é necessário!
 
 #v3731My tricks are perfect! And tricks you can't solve become magic! 
+Meus truques são perfeitos! E truques que não podem ser explicados, se tornam magia!
 
 #v3732I'll give you a candy, so go home. I'm not in the mood today! 
+Vou te dar um doce, então vá pra casa. Não estou de bom humor hoje!
 
 #v3733There's no call for mysteries here. Allow me to welcome you in with fantasy! 
 
 #v3734The 'why dunnit'? That has nothing to do with my game. ...Nothing, I say! 
+O 'why dunnit'? Isso não tem nada a ver com o meu jogo. ...Nada, eu repito!
 
 #v3735Wizard-Hunting Wright, is it?! A more than suitable opponent! Come, let us begin! 
+Wizard-Hunting Wright, é? O oponente mais do que adequado! Vamos começar!
 
 #v3736Do you really think you can fight me in my territory and win, Lady Bernkastel...? 
+Acha mesmo que pode lutar no meu território e vencer, Lady BERNKASTEL...?
 
 #v3737If you hate boredom that much, allow me to give you a body that will be incapable of boredom for the rest of your life! 
+Se odeia tanto assim o tédio, deixe-me conceder a você um corpo que será incapaz de sentir tédio pelo resto da sua vida!
 
 #v3738This isn't the audience seating. Allow me to guide you there directly! 
+Este não é o local da plateia. Vou guia-la até o local correto!
 
 #v3739I am no puppet! I am the Golden Witch! I need no guardian! 
+Não sou uma marionete! Sou a Bruxa Dourada! Não preciso de guardiã!
 
 #v3740What strange tastes you have. Very well, I'll go along with this farce. In no small degree... 
+Que gostos estranhos você tem. Muito bem, irei acompanhar a sua farsa, em menor nível...
 
-#v3741I had you come here so that we could drink tea together, ...but this is interesting! Yes, let us enjoy ourselves! 
+#v3741I had you come here so that we could drink tea together, ...but this is interesting! Yes, let us enjoy ourselves!
+Eu a trouxe aqui para que pudéssemos tomar chá juntas, ...mas isso é interessante! Sim, vamos nos divertir!
 
-#v3742Damn witches from the sea of Fragments... ...Did you send in a piece like this to mock us...? 
+#v3742Damn witches from the sea of Fragments... ...Did you send in a piece like this to mock us...?
+Malditas bruxas do Mar de Fragmentos... ...Enviaram uma peça dessas para zombar da gente...?
 
 #v3743I see, I see, how hilarious! To think that a piece would appear to take my place!! 
+Sim, entendi, que hilário! E pensar que uma peça dessas apareceria para tomar meu lugar!!
 
 #v3744My cat box envelops everything. Let us welcome even you, Black Battler. 
+Minha caixa de gato envolve tudo. Ela recebe até mesmo você, Battler da Escuridão.
 
 #v0934Gouging you feels so good! Where do you wanna get pierced? 
+Goivá-lo é tão gostoso! Onde quer ser perfurado?
 
 #v0935Did you think you could win if it was against me alone? Don't be so arrogant!! 
+Achou que poderia me vencer sozinho? Não seja tão arrogante!!
 
 #v0936*giggle*! I'll gouge you to death again, and then my sisters and I will show you a good time! 
+*risos* Irei goivá-lo até a morte de novo, e então minha irmã vai te mostrar o que é bom!
 
 #v0937I don't want to fight you, Ange-sama, but orders are orders! 
+Não quero lutar com você, Ange-sama, mas ordens são ordens!
 
 #v0938I've always wanted to know what it'd feel like to gouge you, Ange-sama! 
+Eu sempre quis saber como era goivá-la, Ange-sama!
 
 #v0939Don't take this personally. Even this is just an order from my master. Heheh! 
+Não leve para o lado pessoa. Mesmo isso é apenas uma ordem da minha mestra. Heheh!
 
 #v0940Virgilia-sama, in accordance with my orders, I come for your life! 
+VIRGILIA-sama, de acordo com minhas ordens, eu vim por sua vida!
 
 #v0941What misfortune...that I would be forced to pierce you! 
+Que azar... ser forçada a perfurar você!
 
 #v0942M-My apologies! Those were my orders, so forgive me...! 
+S-Sinto muito! São minhas ordens, então me perdoe...!
 
 #v0943I never even imagined what it'd be like to gouge Ronove-sama! 
+Eu nunca imaginei que iria goivar você, Ronove-sama!
 
 #v0944Prepare yourself...! I thank my master for this precious opportunity! 
+Prepare-se...! Eu agradeço à minha mestra por esta preciosa oportunidade!
 
 #v0945That's kinda elegant, getting to pierce people while surrounded by the smell of tea. *giggle*! 
+Até que é elegante perfurar pessoas enquanto sou rodeada pelo aroma do chá. *risos*!
 
 #v0946B-Beatrice-sama...?! Wh-Why must I fight you?! 
+B-BEATRICE-sama...?! P-Por que tenho que lutar com você?!
 
 #v0947If that's an order, I must obey... Prepare yourself, my master! 
+Se é uma ordem, então devo obedecê-la... Prepare-se, mestra!
 
 #v0948I can't tell which is stronger, my terror or my desire to pierce you! 
+Não sei o que é mais forte, meu medo ou meu desejo de perfurar você!
 
 #v0949What's this supposed to be? The thought of someone imitating my noble body makes me sick! 
+O que isso deveria ser? Fico com nojo só de pensar em alguém imitando meu nobre corpo!
 
 #v0950You'll understand soon. Which one of us is the real eldest of the Seven Sisters of Purgatory, that is! 
+Entenderá em breve. Qual de nós é a verdadeira irmã mais velha das Sete Estacas do Purgatório!
 
 #v0951I wonder what it'd feel like to pierce myself... I'm getting excited! 
+Pergunto-me como é perfurar a mim mesma... Estou ficando empolgada!
 
 #v0952So it's you and me again. *giggle*! How do you want to flail about this time? 
+Então é você e eu de novo. *risos*! Como quer perder o controle desta vez?
 
 #v0953You'll die here, giving birth to another closed room murder! 
+Você morre aqui, dando vida a mais um assassinato de quarto fechado!
 
 #v0954You want to become human despite being furniture? Talk about pride! 
+Quer se tornar humano, mesmo sendo uma mobília! Quanto orgulho!
 
 #v0955Long time no see, huh? I'll take good care of you, my toy... 
+Há quanto tempo, heim? Cuidarei bem de você, meu brinquedo...
 
 #v0956Gouging you feels as good as I dreamed it would...! 
+Goivar você é tão gostoso quanto imaginei que seria...!
 
 #v0957Heheheh, I'm so glad I get to play with you again...! 
+Heheheh, estou tão feliz em brincar com você de novo...!
 
 #v0958Let me see if you really have what it takes to be the new witch! 
+Vamos ver se você realmente tem o que precisa para ser a nova bruxa!
 
 #v0959It's time for you to see whether we're really just secondhand furniture or not! 
+Está na hora de ver se você é apenas mais uma mobília de segunda categoria ou não!
 
 #v0960What excellent prey! If you lose, it's gonna be horrible. I'm so excited! 
+Que presa excelente! Se perder, será terrível. Estou tão empolgada!
 
 #v0961H-Hey, stop acting so familiar all the time! I'll kill you, I'll kill you, I'll kill you! 
+E-Ei, pare de agir como se fossemos conhecidos o tempo todo! Vou te matar, matar e te matar!
 
 #v0962That pride, that way you always look down on me! I'll make you regret it! 
+Esse orgulho; a maneira como me menospreza! Faire com que se arrependa disso!
 
 #v0963This is a good chance! I'll show you how terrifying the Seven Sisters of Purgatory really are! 
+Essa é uma boa oportunidade! Mostrarei a você o quão terríveis são as Sete Irmãs do Purgatório!
 
 #v3129I-I really don't like...stupid George looking down on me like that! 
+E-Eu não gosto disso...do idiota do George me menosprezando assim!
 
 #v3130Do you really think you can beat me...? Has your mind broken from the terror...? 
+Acha mesmo que pode me derrotar...? O medo fez você enlouquecer...?
 
 #v3131Heheheh! I'll pierce you good. Let's hear you cry, okay?! 
+Heheheh! Irei te perfurar pra valer! Vamos te ouvir chorar!
 
 #v3126Those absurdly large breasts...just feel heavenly to pierce...! 
+Esses peitos gigantes...parecem divinos de serem perfurados...!
 
 #v3127You're scared, so you're pretending to be angry, right? *giggle* How cute... 
+Está com tanto medo que está fingindo estar com raiva, né? *risos* Que adorável...
 
 #v3128Does a mere Human think she can beat me, Lucifer-sama? 
+Um mero humano acha que pode derrotar a mim, a Lucifer-sama?
 
 #v3132Guns really are a problem. They let even a stupid woman act as overbearing as this! 
+Armas são mesmo um problema. Elas permitem até mesmo que uma mulher idiota aja de maneira arrogente!
 
 #v3133Heheheh! I'll pierce you to death, and your little daughter too! 
+Heheheh! Irei perfurar e matar você e sua filhinha!
 
 #v3134You do realize that I'd have to be really stupid to get shot by a gun, right? 
+Você sabe que eu teria que ser muito burra para levar um tiro, né?
 
 #v5097You couldn't break through a single one of my master's closed rooms! Know your limits!! 
+Você não foi capaz de desvendar um único quarto fechado de minha mestra! Conheça seus limites!!
 
 #v5098Who are you calling a detective, lowly Human? There's no need for my master to dirty her hands with you. 
+Que está chamando de detetive, sua relés humana? Minha mestra não tem tempo para ficar sujando as mãos com você.
 
 #v5099I'll wipe you up before my master even arrives! 
+Irei acabar com você antes mesmo que ela chegue!
 
 #v5100An Inquisitor? Sure, go ahead and judge me. If you can catch me, that is! 
+Uma Inquisidora? Tudo bem, vá em frente e me julgue. Se conseguir me pega, é claro!
 
 #v5101*giggle* If you can beat me, I'll let you torture me however you like, be it the whip or the wooden horse. 
+*risos* Se conseguir me derrotar, deixarei que me torture como quiser, seja com um chicote ou um cavalo de madeira.
 
 #v5102The massacre doll is a kid? It's time for children to go home and eat sweets, or something! 
+Aquela boneca assassina é uma criança? Está na hora das crianças irem para caça e comerem doces ou o que quiserem!
 
 #v5103You're blind. You won't be able keep up with our tricks, or with me! 
+Você é cega? Não vai conseguir manter esses seus truques nem me acompanhar!
 
 #v5104Let me give you a Seven Sisters' welcome! It might get so fun that you break, though... 
+Darei a você a recepção das Sete Irmãs! Embora possa ser tão divertida que você acabe quebrando...
 
 #v5105Now there's a man who looks like he'd be great for piercing...! Mine! 
+Agora sim, um homem que parece ser ótimo de perfurar...! Você é meu!
 
 #v5106T-To think that I would fight the Great Lady Bernkastel... Wh-What's gonna happen to me if I lose... 
+E pensar que eu lutaria com a Grande Lady BERNKASTEL... O-O que vai acontecer comigo se eu perder...?
 
 #v5107If I thought she'd forgive me if I apologized, I'd apologize... ...B-But...! 
+Se eu achasse que ela me perdoaria quando pedisse desculpas, eu pediria... ...M-Mas...!
 
 #v5108...Th-Thank you for accepting this match! Please don't be too hard on me! 
+...Obrigada por aceitar esta luta! Por favor, não pegue tão pesado comigo!
 
 #v5109Impossible...! There's no way mere furniture could take on a Great Witch of the Senate...! 
+Impossível...! Não tem como uma mera mobília derrotar uma Grande Bruxa do Senado...!
 
 #v5110Why did I get stuck doing this...?! There's no way...I can beat Lady Lambdadelta...! 
+Por que fiquei presa fazendo isso...?! Não tem como...eu derrotar a Lady LAMBDADELTA...!
 
 #v5111I'm fighting Lady Lambdadelta...?! I wonder if this even counts as a way to kill time for her... 
+Vou lutar com a Lady LAMBDADELTA...?! Será que isso como uma maneira de matar o tempo para ela...?
 
 #v5112Are you...really Battler...?! Something's wrong...! Wh-What is this overwhelming pressure?! 
+Você é...mesmo o Battler...?! Tem algo errado...! O-O que é essa pressão avassaladora?!
 
 #v5113Nnggg... M-My legs...won't stop shaking... How could I...be so... 
+Nnggg... M-Minhas pernas...não param de tremer... Como eu pude...ser tão...
 
 #v5114What are you talking about? Stupid Battler...! Sure, I'll take good care of you again!! 
+Do que está falando? Seu imbecil...! Claro, eu cuidarei bem de você de novo!!
 
 #v1234Battler-sama, ...please allow me to apologize in advance...! 
+Battler-sama, ...por favor permita que eu já peça desculpas adiantadas...!
 
 #v1235Even this is a trial... Forgive me, Battler-sama...! 
+Até mesmo isso é um julgamento... Perdoe-me, Battler-sama...!
 
 #v1236Battler-sama, there are some things I simply cannot back down on. 
+Battler-sama, há certas coisas que eu simplesmente não posso voltar atrás.
 
 #v1237Welcome to the Ushiromiya Family. Let me show you the way...! 
+Bem-vinda à família Ushiromiya. Vou lhe mostrar o caminho...!
 
 #v1238My name is Shannon. It's a pleasure to meet you. I hope we can get along well! 
+Meu nome é Shannon. É um prazer conhecer você. Espero que possamos nos dar bem!
 
 #v1239I won't give up on my feelings, no matter who my opponent is! 
+Não desistirei dos meus sentimentos, não importa quem seja o meu oponente!
 
 #v1240Please watch me...to see whether my feelings reach or not...! 
 
+
 #v1241I'm not furniture. You believe me, don't you...? 
+
 
 #v1242Virgilia-sama, ...please show me the way...! 
 
+
 #v1243Do you understand how I feel, Ronove-sama...?! 
+
 
 #v1244You're saying I'm going to be tested...? Understood... 
 
+
 #v1245Very well. I'll go with everything I've got... Forgive me...! 
+
 
 #v1246I don't understand what you're thinking... 
 
+
 #v1247Beatrice-sama, ...I don't want to fight you. 
+
 
 #v1248As you wish... I'll show you all that I am... 
 
+
 #v1249Right now, you have my pity. You poor thing... 
+
 
 #v1250I won't let someone like you get the better of me. 
 
+
 #v1251Why...? I don't want to fight against furniture. 
+
 
 #v1252Wh-What's going on...? Is this some kind of trial...?! 
 
+
 #v1253Please forgive me. I will fight, even if my opponent is myself. 
+
 
 #v1254Is this another of Beatrice-sama's games...? 
 
+
 #v1255Let's begin, Kanon-kun. The day has finally come. 
+
 
 #v1256We should have done this much sooner. 
 
+
 #v1257Thanks for everything up until today. I've always been grateful to you. 
+
 
 #v1258How ugly. Just how ugly can those who drown in power become... 
 
+
 #v1259This isn't something the Golden Witch would do...! 
+
 
 #v1260Forgive me! EVA-sama, I apologize for the rude acts that are to follow! 
 
+
 #v1261Aren't you Maria-sama's...?! What are you doing here...? 
+
 
 #v1262Forgive me, Maria-sama... I'm going to fight your friend! 
 
+
 #v1263I don't want to fight. We're friends, aren't we...?! 
+
 
 #v3414George-san, show me the strength of your emotions. 
 
+
 #v3415Take this. ...I'm leaving all that I am in your hands... 
+
 
 #v3416I'm going to hit you with my feelings! Please catch them! 
 
+
 #v3411B-But Milady... Surely, this is going a bit too far for a game... 
+
 
 #v3412Milady, it's time for a break. Please go back to your room.
 
+
 #v3413It's good to get some good, hard exercise in every now and then. Allow me to be your partner. 
+
 
 #v3417R-Rosa-sama... Even if you say that, umm, what am I supposed to do...?! 
 
+
 #v3418F-Forgive me, ...but I cannot comply with your request... 
+
 
 #v3419...R-Rosa-sama! Guns are really dangerous! Please calm down! 
 
+
 #v5331A detective who doesn't know the heart... There exists no mystery that you can solve. 
+
 
 #v5332If you're a detective, please try and solve my mystery of love. 
 
+
 #v5333If that is your wish, allow me to welcome you properly. 
+
 
 #v5334The Knox Decalogue. ...One of the major premises of the orthodox mystery genre. That takes me back. 
 
+
 #v5335I'm surprised that one of the premises of the orthodox mystery genre has manifested as someone so adorable... 
+
 
 #v5336I could prepare you some tea reserved for guests, ...but would you prefer this instead? 
 
+
 #v5337Ah, Van Dine's Twenty Rules. But then again, mysteries that violate them can be pretty interesting too. 
+
 
 #v5338Are you here as a guest? Or as a former Inquisitor...? 
 
+
 #v5339If I will do, ...allow me to serve as your opponent. 
+
 
 #v5340To think that a witch existed...superior even to Beatrice-sama... 
 
+
 #v5341This is Beatrice-sama's island. I won't let you do as you please any longer. 
+
 
 #v5342The Witch of Miracles... Is it a miracle that I was granted a meeting with you...? 
 
+
 #v5343So this is Beatrice-sama's guardian... I thought you'd be older... 
+
 
 #v5344This isn't the audience seating. Allow me to guide you to your seat. This way, please. 
 
+
 #v5345You want a refill of popcorn? You know, it isn't good to eat too much. 
+
 
 #v5346...So, you're the embodiment of someone's imagination. ...You're more terrifying than the one from my nightmares. 
 
+
 #v5347Very well then. Kill me. ...I'd have no regrets at being killed by you twice. 
+
 
 #v5348A fitting nightmare for me. ...Please, give me a fitting end as well. 
 
+
 #v0784You can't follow my movements, Battler-sama. 
+
 
 #v0785Pardon me. I may be forced to get rough. 
 
+
 #v0786I'm a man. Don't go easy on me either, Battler-sama. 
+
 
 #v0787Is that you, Ange-sama? You've changed so much... 
 
+
 #v0788Whether you're a woman or six years old, I won't go easy on you. 
+
 
 #v0789I won't underestimate anyone, not even you, Ange-sama! 
 
+
 #v0790Virgilia-sama was also an Endless Witch once... I can't take her lightly. 
+
 
 #v0791Forgive my rudeness. I won't hold back. 
 
+
 #v0792Can't get scared. I won't be a coward, ...not even when fighting a witch! 
+
 
 #v0793C-Can I really surpass Ronove-sama?! 
 
+
 #v0794Don't be afraid, no matter who your opponent is. That is what summons victory... 
+
 
 #v0795To think that Ronove-sama and I would end up fighting... Is this fate...? 
 
+
 #v0796I'm not furniture anymore. I'll become the zero on your roulette! 
+
 
 #v0797Laugh if you want to! I'll definitely defeat you! 
 
+
 #v0798You might think you're just toying with me, ...but I won't go down without a fight! 
+
 
 #v0799You aren't even worth fearing anymore. 
 
+
 #v0800You proud demon. ...I won't be afraid anymore...! 
+
 
 #v0801Who cares about the Seven Sisters of Purgatory? ...I'm not scared anymore! 
 
+
 #v0802I don't want to fight you. But if that's fate, then there's nothing I can do. 
+
 
 #v0803Then let's begin. We knew this day would come eventually. 
 
+
 #v0804You're ready, right? I am. I'm prepared! 
+
 
 #v0805What's going on?! Is this supposed to be some prank of that witch?! 
 
+
 #v0806I'll surpass you... I'll surpass the old me, who was once furniture...! 
+
 
 #v0807Disappear! I can't even stand to look at myself in the mirror! 
 
+
 #v0808So, some people descend to becoming witches of their own choosing. ...How pitiful. 
+
 
 #v0809Forgive me, EVA-sama. I don't go easy on witches. 
 
+
 #v0810I'll end this brutal drama of yours...! 
+
 
 #v0811If you're a rabbit, go away and nibble on a carrot or something. 
 
+
 #v0812What a strange person. Are you trying to make me let my guard down...? 
+
 
 #v0813I don't like it. I don't like that mocking tone of yours...! 
 
+
 #v3084Can you support Nee-san, George-sama? Allow me to test your resolve. 
+
 
 #v3085...You feel completely different from normal, George-sama. ...Is this the power of ambition? 
 
+
 #v3086If you wish, ...I shall be your opponent. 
+
 
 #v3081At times like this, words are never enough to make you understand, Milady... 
 
+
 #v3082...I can't lose. I'm the one who's going to protect you, Milady. So, no matter what...! 
+
 
 #v3083Milady...! Please calm down! You're playing a little too rough! 
 
+
 #v3087...I am not the culprit. And I will now prove my innocence. 
+
 
 #v3088Please forgive me. ...When up against bullets, even I cannot hold back. 
 
+
 #v3089Rosa-sama, ...please calm down! Guns are too dangerous! 
+
 
 #v4743There were no plans to welcome you here today, Furudo Erika-sama. Leave, now. 
 
+
 #v4744You call that reasoning? That's all just twisted logic. ...You don't understand us at all! 
+
 
 #v4745You aren't an appropriate guest for this family. Please leave... 
 
+
 #v4746I can't read her emotions at all... Dammit, I'm not scared...! 
+
 
 #v4747...After demons, we have messengers from heaven? This island is being corroded more and more. 
 
+
 #v4748I mustn't stop here! No matter who my opponent is! 
+
 
 #v4749Someday... Dammit, someday I'm gonna be that tall. 
 
+
 #v4750There is no one named Lion in this family. Perhaps you have made a mistake? 
+
 
 #v4751Are you a guest? I wasn't told anything about that... 
 
+
 #v4752Even if you're a Great Witch, ...I'll show no mercy to someone who steps all over my rose garden! 
+
 
 #v4753This little girl is a witch of an even higher rank than Beatrice-sama? ...Ridiculous! 
 
+
 #v4754Even if I'm up against the Witch of Miracles, I must not lose! 
+
 
 #v4755Even I possess certain willpower. If you're telling me to prove it, ...then that's what I'll do! 
 
+
 #v4756A witch of the Senate...? This silly little girl...? 
+
 
 #v4757You're just like a witch I saw in a book long ago...! I'll show you my power! 
 
+
 #v4758You aren't Battler-sama...! Who are you?! Is this another witch messing with us?! 
+
 
 #v4759I don't understand what you're saying! I won't get killed without a fight! 
 
+
 #v4760Which witch summoned you here? ...If you think I'll be distracted by your appearance, you're making a big mistake! 
+
 
 #v0634*giggle*! So slow, Battler-kun. Took you long enough to notice!! 
 
+
 #v0635Heheheheh! That's right, I killed everyone! Every last one of them!! 
+
 
 #v0636I'm the Ushiromiya Family Head...! I solved the epitaph! 
 
+
 #v0637Haven't you given up yet? There is no truth that you'd be capable of understanding! 
+
 
 #v0638Are you still wandering around 12 years ago? I'll bring you back to reality. 
 
+
 #v0639You really are a stupid kid! Definitely Rudolf's child! 
+
 
 #v0640Oh? Aren't you going to retire yet? Predecessor-sama of my Predecessor-sama?! 
 
+
 #v0641Got a problem with this? If you don't, go away. 
+
 
 #v0642Wow, look at the old person who just wandered in here! Want me to give you your last rites?! 
 
+
 #v0643I don't want to kill you. I like your tea, after all. 
+
 
 #v0644What's wrong? Don't tell me you wanna complain to me about something? 
 
+
 #v0645I'll let you keep that arm... ...so you can keep making tea for me! 
+
 
 #v0646Are you still here? Your turn's already over, Predecessor-sama. 
 
+
 #v0647I am Beatrice. You're just nameless now, aren't you?! 
+
 
 #v0648I've been wanting to test this! To see which of us is more fitting, you or me! 
 
+
 #v0649Useless secondhand furniture! I'll dispose of you myself. 
+
 
 #v0650In that case, why don't you try showing me just how useful you can be? 
 
+
 #v0651I'll test you to see whether you have what it takes to serve me... 
+
 
 #v0652Stop darting about and getting in the way, you thieving cat! 
 
+
 #v0653I won't give George to you!! Furniture should act like furniture! 
+
 
 #v0654Beg for your life. If you never return again, I might just let you go. 
 
+
 #v0655What's with that look? You look like a scared puppy trying to act tough. 
+
 
 #v0656Stop this, Kanon-kun. Your hands are shaking. *giggle*! 
 
+
 #v0657Oh, going through a rebellious phase? George was just like that once! Ahahaha! 
+
 
 #v0658What's this? Which witch tried to pull this one...?! 
 
+
 #v0659Well, here's an interesting sideshow. Is it really okay...for me to kill her? 
+
 
 #v0660I'd better mark you good so that people can tell you're a fake. 
 
+
 #v0661I want to see the power you sisters possess. There's no need to hold back. 
+
 
 #v0662I think I'll pull those stupid bunny ears off! 
 
+
 #v0663Let's have a little test to see if you deserve to be my furniture. 
+
 
 #v2649I won't let you marry that woman. Why can't you listen to what your mother tells you?! 
 
+
 #v2650You're going through a rebellious phase, right? Okay, come on then. I'll wrap you up in a mother's love! 
+
 
 #v2651George, ...you're a good kid, so get out of the way. Can't you do what your mother tells you? 
 
+
 #v2646I'm sorry, Jessica-chan! I've decided to make you the next sacrifice! 
+
 
 #v2647If only you hadn't been born, George might have become the Successor! 
 
+
 #v2648Kids should shut up and get out of the way! This isn't your turn! 
+
 
 #v2652All of the gold belongs to me! I'm not gonna let you keep even a fragment to yourself! 
 
+
 #v2653The power of a witch really is wonderful! I'll let you see just how amazing it is! 
+
 
 #v2654Oh, Rosa, do you want to die again? Okay! I'll kill you as much as you like! 
 
+
 #v4509This is the witch's island, okay? A place of gruesome tragedies and magic! We've got no need for a detective! 
+
 
 #v4510No matter how you try to reason it out, no one will be able to doubt that I'm the Head! 
 
+
 #v4511Why are you getting in the way? Aren't we comrades? 
+
 
 #v4512Oh, this kid is like a doll. Let's see if your head is detachable. 
 
+
 #v4513You intend to deny me? There's no way you can! This is my cat box!! 
+
 
 #v4514I'm too old to play with dolls. So, I've got no use for you! 
 
+
 #v4515What are you talking about? I'm the culprit. I killed everyone with magic! 
+
 
 #v4516I won't let anyone expose my cat box! I'll protect it for all time!! 
 
+
 #v4517What have you come to do?! I won't let you open my cat box, no matter what happens! 
+
 
 #v4518What an uncute girl. I'll give you some candy, so run along home. 
 
+
 #v4519Sorry, but I'm the only witch we need around here. If only you'd just give up and die! 
+
 
 #v4520I won't let anyone continue past this point. The truth that sleeps beyond here belongs to me alone!! 
 
+
 #v4521Go home, girl. If you want to play witches, do it with friends from your neighborhood! 
+
 
 #v4522Crazy people keep appearing one after another. But it's useless. I won't let anyone reach the truth! 
 
+
 #v4523Heheheh. Do you think you can beat me? Me, the guardian of truth, EVA Beatrice?! 
+
 
 #v4524Long time no see. ...Sorry, but I can't let you leave this island. 
 
+
 #v4525I'll kill you. That's my job right now. I won't let you reach Ange. 
+
 
 #v4526I am Beatrice. ...My final role is to seal you up until I die...! 
 
+
 #v1384Gotcha, Battler! Sorry, but it's time to die nyeh! 
+
 
 #v1385Nihihi! I'll bet Battler breaks right away nyeh. 
 
+
 #v1386Get ready nyeh. No one can escape a Golden Bow nyeh! 
+
 
 #v1387It's time for uninvited guests to go home nyeh! 
 
+
 #v1388If you don't wanna die, turn right here nyeh. Nihi! 
+
 
 #v1389What a gloomy-looking woman nyeh! Let me teach you a thing or two nyeh! 
 
+
 #v1390Virgilia-sama, play with me, play with me! Nihihihi! 
+
 
 #v1391Stop resisting nyeh. I won't hold back, even if it's against you nyeh. 
 
+
 #v1392Found you, Virgilia-sama! Nihihihi, prepare yourself nyeh! 
+
 
 #v1393Ronove-sama! Trick or carrots nyeh! 
 
+
 #v1394This is Ronove-sama, who was once feared as a Great Demon. Can't let my guard down nyeh. 
+
 
 #v1395I wanna see if Ronove-sama can escape a Golden Bow nyeh! 
 
+
 #v1396Beatrice-sama, found ya! I've been ordered to fight you nyeh! 
+
 
 #v1397Beatrice-sama! Nihihihi, let's play! 
 
+
 #v1398I've been wanting to have an all-out fight with you nyeh! 
+
 
 #v1399Lucifer-chan! Leeet's plaaay! Nihihihihihihi! 
 
+
 #v1400I wanted to play with you so much, I've been getting so excited nyeh! 
+
 
 #v1401I'll give you a handicap, so let's have fun together nyeh☆
 
+
 #v1402There you go, looking all gloomy again! Lemme rub those cheeks a bit nyeh! 
+
 
 #v1403Gotcha, Shannon-chan! Sorry, but now it's game over nyeh! 
 
+
 #v1404New objective! If you don't surrender in five seconds, I can't guarantee that you'll live nyeh! 
+
 
 #v1405Found you, Kanon-kyun! Play house with me nyeh! 
 
+
 #v1406You're too stressed, Kanon. I'll help you relax nyeh. 
+
 
 #v1407Stop looking so scary and play with me nyeh! 
 
+
 #v1408You've gone to the trouble of summoning me nyeh! I'll go all out and show you my power nyeh! 
+
 
 #v1409Gotcha, EVA-sama! Nihihihi, prepare yourself nyeh! 
 
+
 #v1410I'm a bit interested to see what power the new Endless Witch has nyeh! 
+
 
 #v1411Nihi? It's one of my comrades nyeh! What's your version nyeh? 
 
+
 #v1412It's been a really long time since I've seen a fellow 410 nyeh! How've you been? 
+
 
 #v1413Okay, time for some personal training nyeh. A soldier must never slack off in her training nyeh! 
 
+
 #v3459Time to play dolls with little George-chan nyeh! I'll have lots of fun with you nyeh! 
+
 
 #v3460He's got a good look on his face nyeh. This fight's gonna be a tough one nyeh. 
 
+
 #v3461Eeep! He's looking at me scary nyeh! I'm scared nyeh! I'm scared nyeh! 
+
 
 #v3456That's not good nyeh. My luck must not be so hot, if I'm up against that violent Milady Jessica nyeh. 
 
+
 #v3457Nihihi! That short-tempered, dull-witted Milady will make a perfect target for my Golden Bow nyeh...! 
+
 
 #v3458It's been a long time since I've played with Milady Jessica nyeh. Don't go too hard on me nyeh! 
 
+
 #v3462Your face looks so stressed! Let me help you relax nyeh! 
+
 
 #v3463Guns are scary nyeh. Who's in there nyeh? Is it a shotgun round nyeh? 00 nyeh? 
 
+
 #v3464Today, I'll finally avenge 556 nyeh! 
+
 
 #v5409Even if you can reason out my identity, that won't change the fact that you're gonna die now nyeh! 
 
+
 #v5410By the orders of my master, all uninvited guests will hereby get beaten to a pulp nyeh! 
+
 
 #v5411It looks like you'll be worth playing with nyeh! I'm going all out nyeh! 
 
+
 #v5412I've never been up against an Inquisitor before nyeh. Let's play without doing too much damage nyeh...! 
+
 
 #v5413Are you planning to confiscate me nyeh? Know that it won't go so easy nyeh! 
 
+
 #v5414That's a terrifying armament nyeh... However, dealing with kids is my specialty nyeh! Hahah nyeh! 
+
 
 #v5415It's been a while since I've seen a hot guy nyeh! But, I'm gonna make you hate me right away nyeh! 
 
+
 #v5416You look like you might be pretty good. ...My weapon blood is pounding nyeh! 
+
 
 #v5417Too bad nyeh...! I can't believe I've gotta kill someone this hot nyeh... 
 
+
 #v5418VIP assassination is one of our many jobs! We'll even snipe witches of the Senate nyeh! 
+
 
 #v5419Now here's some more incredibly strong prey nyeh. ...It'd be wasted on me alone nyeh. 
 
+
 #v5420What terrifying prey nyeh! But I'm getting kinda excited nyeh! 
+
 
 #v5421Lady Lambdadelta, you smell nice nyeh. Just like candy nyeh! 
 
+
 #v5422To think I'd get a chance to face that Great Witch, Lady Lambdadelta! I'm honored nyeh. 
+
 
 #v5423So, you like playing with dolls too nyeh... Go easy on me nyeh! 
 
+
 #v5424Nyeh? Battler's saying all kinds of weird stuff nyeh. I'm sure he'll get better if I whack him nyeh! 
+
 
 #v5425...45, keep your eyes open nyeh. There's something wrong with this Battler nyeh. 
 
+
 #v5426What's all that confusing stuff you're saying nyeh?! I'll play with you for a bit nyeh!! 
+
 
 #v2811I learned martial arts after that. I'm not the person I was six years ago. 
 
+
 #v2812I'll show you my moves. Though they aren't polished enough to be worth showing. 
+
 
 #v2813Don't overdo it and get yourself hurt. It's hard to go easy on someone. 
 
+
 #v2814You've become a lovely lady, Ange-chan. You had me stunned for a second there. 
+
 
 #v2815Are you sure you don't have a mistaken impression of me? I'm not as soft as you think I am. 
 
+
 #v2816I hate having to fight against a lady... Could you please step aside? 
+
 
 #v2817My, my. Witches are best encountered in picture books, and nowhere else. 
 
+
 #v2818Let me know as soon as you're done getting in my way. Stopping an inch before the blow is hard, after all. 
+
 
 #v2819I get the feeling you'd understand if we could talk this over... No? Are we doing this after all? 
 
+
 #v2820You're elegant even in battle. ...It seems our artistic takes on life match. 
+
 
 #v2821In a fight, you don't let your guard down until the very, very end. That's what I learned in my last battle. 
 
+
 #v2822Jessica-chan seems to have had a tough fight against you. I'll take this seriously right from the start. 
+
 
 #v2823Thanks for giving us that splendid advance warning. This is my answer to that. 
 
+
 #v2824...I'm not that generous. If you want to apologize, you'd better do it quick. 
+
 
 #v2825No matter who my opponent is, I won't back down. Are you ready? 
 
+
 #v2826You're no opponent to me. ...That aggressive attitude of yours is actually painful to watch. 
+
 
 #v2827I'm only after your leader, the witch. It's time for her followers to stand aside. 
 
+
 #v2828You pitiful thing. It looks like you're maintaining your individuality by bluffing. 
+
 
 #v2829I'm about to show you the strength of my will. Please watch this and make your decision. 
 
+
 #v2830I will make you happy for the rest of your life. I'll prove that I have the strength to do this. 
+
 
 #v2831I'll show you how serious I am. Will you accept that with all of your strength? 
 
+
 #v2832I know how you feel, Kanon-kun. So, let's talk about this as men. 
+
 
 #v2833Even you'll understand eventually. ...Why it is that I was able to become strong, I mean. 
 
+
 #v2834Boys are cooler if they keep their composure all the time. I guess it's a bit early for you. 
+
 
 #v2835You might want to refrain from dressing like that, ...Mother. 
 
+
 #v2836I'm not going to be a kid forever. I guess I'll have to make you understand that. 
+
 
 #v2837It looks like you'll need help to break free from your son, Mother. I'm gonna take this seriously for a bit, okay? 
 
+
 #v2838What a spirited young lady. ...Sure, let's dance a rondo with rabbits. 
+
 
 #v2839Are you mocking me? It looks like this rabbit needs a little punishment. 
 
+
 #v2840I have no interest in playing with dolls. But if you insist, I'll tag along. 
+
 
 #v2844What I hate most...is the me of yesterday. ...I'm going to surpass you. 
 
+
 #v2845Another me? That's fortunate. ...It looks like I'll finally have a decent opponent. 
+
 
 #v2846You look just like me, but can you imitate my heart? Let's see your strength. 
 
+
 #v2841Didn't I tell you, Jessica-chan? I've been learning martial arts. 
+
 
 #v2842...If you insist, I'll show you. Watch the magic of my kicks. 
 
+
 #v2843I guess we cousins should play together every now and then. ...No need to hold back, okay? 
+
 
 #v2847Aunt Rosa, please calm down. There's no way we're culprits. 
 
+
 #v2848...My, my. It looks like you're the kind of person who should never be given a gun. 
+
 
 #v2849Pointing a gun at people like that... It seems this will get dangerous if I don't go all out. 
 
+
 #v4587I'll ask about your wonderful reasoning at a later date. At a shop where we can drink some excellent hot chocolate. 
+
 
 #v4588Tell me your reasoning. In exchange, I'll teach you common courtesy. 
 
+
 #v4589It looks like the Ushiromiya Family doesn't view you as a simple guest. Come on, it's time for you to leave. 
+
 
 #v4590Put no limits on your ideas. That's my creed, so I don't think I'll get along well with your Decalogue. 
 
+
 #v4591Let's fight fair. As long as we keep doing that, there's no need for your Decalogue. 
+
 
 #v4592I see you're no ordinary kid. Allow me to give this all I've got too. 
 
+
 #v4593...Too bad. I guess I still have an inferiority complex against cool guys. 
+
 
 #v4594Welcome to the Ushiromiya Family. Allow me to greet you in Uncle Krauss' place. 
 
+
 #v4595Are you a guest? Let's see if you deserve to visit the Ushiromiya Family. 
+
 
 #v4596Girls are cute because they're innocent. ...Your evil doesn't suit your appearance. 
 
+
 #v4597Oh, did you get separated from your parents? Let me take you to a police station. 
+
 
 #v4598Is something upsetting you? That's not the sort of face a girl should wear. 
 
+
 #v4599What a cute and spirited young lady. You really would be my ideal daughter. 
+
 
 #v4600Very well. Let's play a little. I'll make sure not to go too hard on you. 
 
+
 #v4601My, my, what an adorable little witch. Do you really know how to fight? 
+
 
 #v4602I can't understand it. ...What sort of demon could have whispered into your ear to bring about such barbarism? 
 
+
 #v4603You need to atone for what you've done. ...You can make your confession to my heel. 
+
 
 #v4604Tell me...! Why did you do that to everyone?!! ...Make me understand!! 
 
+
 #v3006I see you're looking as perverted as ever! I'll put some fight into you! 
+
 
 #v3007We got into scuffles like this six years ago, didn't we?! Let's finally do this again! 
 
+
 #v3008So what, is it just your body that's grown? Let me see! 
+
 
 #v3009Are you Ange-chan...?! 12 years, huh...? You've grown so much...! 
 
+
 #v3010To think that Ange-chan would be the same age as me. I guess that means I don't need to hold back! 
+
 
 #v3011What are you looking all scary for? Let's have a bit more fun!
 
+
 #v3012Go back to your house of sweets, you fairy tale witch...! 
+
 
 #v3013If you're really a witch, why don't you show me a thoughtful spell or two?! 
 
+
 #v3014Even mighty witches get hurt when they let their guards down. Think you can dodge my fists? 
+
 
 #v3015You again?! If you hadn't done something weird at the end, I would've won! 
 
+
 #v3016Time for a return match. This time, I'm ripping off that mini-mustache! 
+
 
 #v3017You got a handkerchief ready? Otherwise, we're gonna end up with a sea of roses. 
 
+
 #v3018I'll beat you up and knock a hole through that portrait in the hall!! 
+
 
 #v3019I've had enough of these puzzles and murders! I'll end it all with a one-two punch! 
 
+
 #v3020Did you kill my Mom?! I won't forgive you! Try stopping my fists! 
+
 
 #v3021My heart? Perfect. Just try and pierce it if you can!! 
 
+
 #v3022Sorry, but I seriously don't see myself losing this one! You're just an appetizer before I take on the witch! 
+
 
 #v3023My heart isn't so weak that it can be pierced by something like that! Come on! 
 
+
 #v3024Sorry, but it's time to see if that shield works on my fists! 
+
 
 #v3025I've been wanting to have a round with you. No need to hold back! 
 
+
 #v3026Okay, this time around...you're gonna tell me about that overnight trip! 
+
 
 #v3027Hey, you're a boy, aren't you?! Show me what you've really got...! 
 
+
 #v3028I'll show you how I live. Engrave it in your eyes and your heart! 
+
 
 #v3029Let's see which is stronger, your 'serious' or my 'serious! 
 
+
 #v3030I'm the Successor. ...Sorry, but I'm not letting you take that from me, Aunt Eva! 
+
 
 #v3031I never thought you'd start calling yourself a witch. I'll open your eyes...! 
 
+
 #v3032A-Aunt Eva?! Come to your senses! Why should we have to fight?! 
+
 
 #v3033So, I'm up against a rabbit now! Okay, I'll play with you! I might be a little rough, though! 
 
+
 #v3034Right now, I'd rather play with my fists than play house! 
+
 
 #v3035I'm too old to play with dolls. Well, I guess it wouldn't hurt to play with you a little! 
 
+
 #v3039Heheh! We cousins have got to communicate every now and then! 
+
 
 #v3040Let's see what my fists can do to you, George nii-san! 
 
+
 #v3041If you want to protect Shannon, you've got to be able to defeat me, at least! No need to hold back. 
+
 
 #v3036I-Is this me?! Th-That's creepy! Stop imitating me!! 
 
+
 #v3037You may look like me on the outside, but what about your heart?! 
+
 
 #v3038Is this supposed to be another kind of magic...?! Damn witch, taking me lightly...! 
 
+
 #v3042I'll find the culprit myself and beat the crap out of them myself! Stay out of my way! 
+
 
 #v3043I suspect you too, Aunt Rosa. What do you say to that...?! 
 
+
 #v3044A-A gun? That's cheating! Damn, do I have to do this?! 
+
 
 #v4665Those clothes you're wearing are mine. You'd better be damn sure you don't get them dirty...! 
 As roupas que está usando são minhas. É melhor não devolvê-las sujas...!
