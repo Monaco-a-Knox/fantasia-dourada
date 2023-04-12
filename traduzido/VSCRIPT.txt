@@ -14625,7 +14625,8 @@ Certo, vamos nos divertir um pouco. E sem reclamações quando perder.
 
 #v2559Having an all-out fight with you every now and then doesn't sound half bad! 
 
-#v2560Sorry, Aniki, but I need you to back down this time! 
+#v2560Sorry, Aniki, but I need you to back down this time!
+Desculpa, aniki, mas preciso que desista dassa vez!
 
 #v2561I'll show you how much I've grown these past six years! 
 Mostrarei o quanto cresci nos últimos seis anos!
@@ -15571,334 +15572,333 @@ Não desistirei dos meus sentimentos, não importa quem seja o meu oponente!
 
 
 #v1241I'm not furniture. You believe me, don't you...? 
-
+Não sou uma mobília. Você acredita em mim ou não...?
 
 #v1242Virgilia-sama, ...please show me the way...! 
 
 
 #v1243Do you understand how I feel, Ronove-sama...?! 
-
+Entende como eu me sinto, Ronove-sama...?!
 
 #v1244You're saying I'm going to be tested...? Understood... 
-
+Está dizendo que serei testada...? Certo...
 
 #v1245Very well. I'll go with everything I've got... Forgive me...! 
-
+Muito bem. Irei com tudo que tenho... Perdoe-me...!
 
 #v1246I don't understand what you're thinking... 
-
+Não entendo o que você está pensando...
 
 #v1247Beatrice-sama, ...I don't want to fight you. 
-
+BEATRICE-sama, ...eu não quero lutar com você.
 
 #v1248As you wish... I'll show you all that I am... 
-
+Como desejar... Irei mostrar do que sou capaz...
 
 #v1249Right now, you have my pity. You poor thing... 
-
+Neste momento, você tem minha compaixão. Coitado...
 
 #v1250I won't let someone like you get the better of me. 
-
+Não deixarei que alguém como você se saia melhor que eu.
 
 #v1251Why...? I don't want to fight against furniture. 
-
+Por que...? Não quero lutar contra uma mobília.
 
 #v1252Wh-What's going on...? Is this some kind of trial...?! 
+O-O que está acontecendo...? É algum tipo de provação...?!
 
-
-#v1253Please forgive me. I will fight, even if my opponent is myself. 
-
+#v1253Please forgive me. I will fight, even if my opponent is myself.
+Por favor, me perdoe. Eu irei lutar, mesmo que o oponente seja eu mesmo.
 
 #v1254Is this another of Beatrice-sama's games...? 
-
+Este é outro dos jogos da BEATRICE-sama...?
 
 #v1255Let's begin, Kanon-kun. The day has finally come. 
-
+Vamos começar, Kanon-kun. O dia finalmente chegou.
 
 #v1256We should have done this much sooner. 
-
+Deveríamos ter feito isso há muito tempo.
 
 #v1257Thanks for everything up until today. I've always been grateful to you. 
-
+Obrigado por tudo até hoje. Sempre terá minha gratidão.
 
 #v1258How ugly. Just how ugly can those who drown in power become... 
-
+Que abominável. O quão feito se tornam aqueles que afogam-se no poder...
 
 #v1259This isn't something the Golden Witch would do...! 
-
+Não é algo que a Bruxa Dourada faria...?!
 
 #v1260Forgive me! EVA-sama, I apologize for the rude acts that are to follow! 
-
+Perdoe-me! EVA-sama, eu peço desculpas pelo ato de grosseria que será cometido!
 
 #v1261Aren't you Maria-sama's...?! What are you doing here...? 
-
+Você não é da Maria-sama...?! O que está fazendo aqui...?
 
 #v1262Forgive me, Maria-sama... I'm going to fight your friend! 
-
+Sinto muito, Maria-sama... Lutarei com seu amigo!
 
 #v1263I don't want to fight. We're friends, aren't we...?! 
-
+Não quero lutar. Somos amigos, não somos...?!
 
 #v3414George-san, show me the strength of your emotions. 
-
+George-san, mostre-me a força das suas emoções.
 
 #v3415Take this. ...I'm leaving all that I am in your hands... 
-
+Tome isso. ...Estou deixando tudo que sou em suas mãos...
 
 #v3416I'm going to hit you with my feelings! Please catch them! 
-
+Irei acertá-lo com meus sentimentos! Por favor, me pegue!
 
 #v3411B-But Milady... Surely, this is going a bit too far for a game... 
-
+M-Mas ojou-sama... De fato, está indo um pouco longe de mais para um mero jogo...
 
 #v3412Milady, it's time for a break. Please go back to your room.
-
+Ojou-sama, é hora de fazer um intervalo. Por favor, volte para o seu quarto.
 
 #v3413It's good to get some good, hard exercise in every now and then. Allow me to be your partner. 
-
+É bom fazer alguns exercício de tempos em tempos. Permita-me ser seu parceiro.
 
 #v3417R-Rosa-sama... Even if you say that, umm, what am I supposed to do...?! 
-
+R-Rosa-sama... Mesmo que diga isso, hmm, o que eu deveria fazer...?!
 
 #v3418F-Forgive me, ...but I cannot comply with your request... 
-
+P-Perdoe-me, ...mas eu não posso cumprir seu pedido...
 
 #v3419...R-Rosa-sama! Guns are really dangerous! Please calm down! 
-
+...R-Rosa-sama! Armas são perigosas! Por favor, acalme-se!
 
 #v5331A detective who doesn't know the heart... There exists no mystery that you can solve. 
-
+Um detetive que desconhece o coração... Não há mistério que você possa resolver.
 
 #v5332If you're a detective, please try and solve my mystery of love. 
-
+Se é um detetive, tente resolver meu mistério de amor.
 
 #v5333If that is your wish, allow me to welcome you properly. 
-
+Se é o que deseja, permita-me acompanhá-la.
 
 #v5334The Knox Decalogue. ...One of the major premises of the orthodox mystery genre. That takes me back. 
-
+O Decálogo de Knox. ...Uma das principais premissas de um mistério ortodoxo. Isso me traz lembranças.
 
 #v5335I'm surprised that one of the premises of the orthodox mystery genre has manifested as someone so adorable... 
-
+Estou supresa que uma das premissas do mistério ortodoxo manifestou-se na forma de alguém tão adorável...
 
 #v5336I could prepare you some tea reserved for guests, ...but would you prefer this instead? 
-
+Eu poderia preparar a você um pouco de nosso chá reservado para convidados, ...mas talvez prefira isto?
 
 #v5337Ah, Van Dine's Twenty Rules. But then again, mysteries that violate them can be pretty interesting too. 
-
+Ah, as Vinte Regras de Van Dine. Embora mistérios que o violem também podem ser bem interessantes.
 
 #v5338Are you here as a guest? Or as a former Inquisitor...? 
-
+Está aqui como convidada? Ou como um ex-inquisidor...?
 
 #v5339If I will do, ...allow me to serve as your opponent. 
 
 
 #v5340To think that a witch existed...superior even to Beatrice-sama... 
-
+E pensar que uma bruxa...superior a BEATRICE-sama existe...
 
 #v5341This is Beatrice-sama's island. I won't let you do as you please any longer. 
-
+Esta é a ilha da BEATRICE-sama. Não deixarei que faça o que bem entender.
 
 #v5342The Witch of Miracles... Is it a miracle that I was granted a meeting with you...? 
-
+A Bruxa dos Milagres... É um milagre ter sido concedido a mim um encontro com você...?
 
 #v5343So this is Beatrice-sama's guardian... I thought you'd be older... 
-
+Então essa é a guardiã da BEATRICE-sama... Pensei que fosse mais velha...
 
 #v5344This isn't the audience seating. Allow me to guide you to your seat. This way, please. 
-
+Este é o assento da plateia. Permita que eu a guie para o seu lugar. Venha por aqui.
 
 #v5345You want a refill of popcorn? You know, it isn't good to eat too much. 
-
+Quer mais pipoca? Sabe, não é bom comer demais.
 
 #v5346...So, you're the embodiment of someone's imagination. ...You're more terrifying than the one from my nightmares. 
-
+...Então, você é a personificação da imaginação de alguém. ...Você é mais assustadora que aquela dos meus pesadelos.
 
 #v5347Very well then. Kill me. ...I'd have no regrets at being killed by you twice. 
-
+Muito bem. Mate-me. ...Não me arrependerei de ser morta por você duas vezes.
 
 #v5348A fitting nightmare for me. ...Please, give me a fitting end as well. 
-
+Um pesadelo adequado para mim. ...Por favor, conceda-me um fim adequado também.
 
 #v0784You can't follow my movements, Battler-sama. 
-
+Você não consegue acompanhar meus movimentos, Battler-sama.
 
 #v0785Pardon me. I may be forced to get rough. 
-
+Perdoe-me. Posso ser forçado a ser rude.
 
 #v0786I'm a man. Don't go easy on me either, Battler-sama. 
-
+Sou homem. Não pegue leve comigo, Battler-sama.
 
 #v0787Is that you, Ange-sama? You've changed so much... 
-
+É você, Ange-sama? Não mudou tanto assim...
 
 #v0788Whether you're a woman or six years old, I won't go easy on you. 
-
+Seja você uma mulher ou uma criança de seis anos, não pegarei leve.
 
 #v0789I won't underestimate anyone, not even you, Ange-sama! 
-
+Não irei mais subestimar ninguém, nem mesmo você, Ange-sama!
 
 #v0790Virgilia-sama was also an Endless Witch once... I can't take her lightly. 
-
+A VIRGILIA-sama também foi uma Bruxa do Infinito certa vez... Não posso menosprezá-la.
 
 #v0791Forgive my rudeness. I won't hold back. 
-
+Perdoe minha indelicadeza. Não irei me conter.
 
 #v0792Can't get scared. I won't be a coward, ...not even when fighting a witch! 
-
+Não posso ficar com medo. Não serei um covarde, ...não lutando contra uma bruxa!
 
 #v0793C-Can I really surpass Ronove-sama?! 
-
+E-Eu posso mesmo superar o Ronove-sama?!
 
 #v0794Don't be afraid, no matter who your opponent is. That is what summons victory... 
-
+Não tenha medo, seja lá quem for seu oponente. É assim que se invoca a vitória...
 
 #v0795To think that Ronove-sama and I would end up fighting... Is this fate...? 
-
+E pensar que eu e o Ronove-sama acabaríamos lutando... Seria esse o destino...?
 
 #v0796I'm not furniture anymore. I'll become the zero on your roulette! 
-
+Não sou mais uma mobília. Serei o zero da sua roleta!
 
 #v0797Laugh if you want to! I'll definitely defeat you! 
-
+Ria se quiser! Eu definitivamente irei derrotá-la!
 
 #v0798You might think you're just toying with me, ...but I won't go down without a fight! 
-
+Você pode pensar que está apenas brincando comigo, ...mas não vou cair sem uma luta!
 
 #v0799You aren't even worth fearing anymore. 
 
-
 #v0800You proud demon. ...I won't be afraid anymore...! 
-
+Seu demônio orgulhoso. ...Não terei mais medo...!
 
 #v0801Who cares about the Seven Sisters of Purgatory? ...I'm not scared anymore! 
-
+Quem se importa com as Sete Irmãs do Purgatório? ...Eu não tenho mais medo!
 
 #v0802I don't want to fight you. But if that's fate, then there's nothing I can do. 
-
+Não quero lutar com você. Mas se esse é o destino, não há nada que eu possa fazer.
 
 #v0803Then let's begin. We knew this day would come eventually. 
-
+Então vamos começar. Nós sabíamos que este dia eventualmente chegaria.
 
 #v0804You're ready, right? I am. I'm prepared! 
-
+Está pronto, né? Eu estou. Estou preparado!
 
 #v0805What's going on?! Is this supposed to be some prank of that witch?! 
-
+O que tá acontecendo?! Isso é alguma pegadinha de uma bruxa?!
 
 #v0806I'll surpass you... I'll surpass the old me, who was once furniture...! 
-
+Irei superar você... Irei superar o velho eu, que uma vez foi uma mobília...!
 
 #v0807Disappear! I can't even stand to look at myself in the mirror! 
-
+Desapareça! Não suporto olhar para mim mesmo no espelho!
 
 #v0808So, some people descend to becoming witches of their own choosing. ...How pitiful. 
-
+Então, algumas pessoas descende para se transformarem na bruxa de suas próprias escolhas. ...Deplorável.
 
 #v0809Forgive me, EVA-sama. I don't go easy on witches. 
-
+Perdoe-me, EVA-sama. Eu não pego leve com bruxas.
 
 #v0810I'll end this brutal drama of yours...! 
-
+Irei por um fim nesse seu drama brutal...!
 
 #v0811If you're a rabbit, go away and nibble on a carrot or something. 
-
+Se é um coelho, vá embora comer uma cenoura ou algo assim.
 
 #v0812What a strange person. Are you trying to make me let my guard down...? 
-
+Que pessoa mais estranha. Está tentando fazer com que eu baixe minha guarda...?
 
 #v0813I don't like it. I don't like that mocking tone of yours...! 
-
+Eu não gosto disso. Não gosto desse seu tom debochado...!
 
 #v3084Can you support Nee-san, George-sama? Allow me to test your resolve. 
-
+Você apoiará minha irmã, George-sama? Permita-me testar sua determinação.
 
 #v3085...You feel completely different from normal, George-sama. ...Is this the power of ambition? 
-
+...Você parece completamente diferente do habitual, George-sama. ...Esse é o poder da sua ambição?
 
 #v3086If you wish, ...I shall be your opponent. 
-
+Se é o que deseja, ...eu serei seu oponente.
 
 #v3081At times like this, words are never enough to make you understand, Milady... 
-
+Em horas como essa, palavras nunca são o suficiente para fazê-la entender, ojou-sama...
 
 #v3082...I can't lose. I'm the one who's going to protect you, Milady. So, no matter what...! 
-
+...Não posso perder. Sou eu aquele quem vai protegê-la, ojou-sama. Por isso, não importa o que aconteça...!
 
 #v3083Milady...! Please calm down! You're playing a little too rough! 
-
+Ojou-sama...! Acalme-se! Você está indo um pouco longe demais!
 
 #v3087...I am not the culprit. And I will now prove my innocence. 
-
+...Não sou o culpado. E eu irei provar a minha inocência.
 
 #v3088Please forgive me. ...When up against bullets, even I cannot hold back. 
-
+Por favor, me perdoe. ...Nem mesmo eu sou capaz de me conter quando estou contra projéteis.
 
 #v3089Rosa-sama, ...please calm down! Guns are too dangerous! 
-
+Rosa-ama, ...acalme-se, por favor! Armas são perigosas!
 
 #v4743There were no plans to welcome you here today, Furudo Erika-sama. Leave, now. 
-
+Não há planos para recebê-la aqui hoje, Furudo Erika-sama. Vá embora, agora.
 
 #v4744You call that reasoning? That's all just twisted logic. ...You don't understand us at all! 
-
+Chama isso de raciocínio? Não passa de uma lógica distorcida. ...Você não sabe nada sobre nós!
 
 #v4745You aren't an appropriate guest for this family. Please leave... 
-
+Você não é uma convidada apropriada para esta família. Retire-se...
 
 #v4746I can't read her emotions at all... Dammit, I'm not scared...! 
-
+Não consigo entender as emoções dela... Merda, não estou com medo...!
 
 #v4747...After demons, we have messengers from heaven? This island is being corroded more and more. 
-
+...Depois de demônios, agora temos mensageiros vindos do Céu? Esta ilha está ficando cada vez mais corroída.
 
 #v4748I mustn't stop here! No matter who my opponent is! 
-
+Não posso parar aqui! Não importa quem seja meu oponente!
 
 #v4749Someday... Dammit, someday I'm gonna be that tall. 
-
+Algum dia... Merda, algum dia eu serei alto assim.
 
 #v4750There is no one named Lion in this family. Perhaps you have made a mistake? 
-
+Não há ninguém com o nome Lion nesta família. Talvez tenha cometido um equívoco?
 
 #v4751Are you a guest? I wasn't told anything about that... 
-
+Seria uma convidada? Não fiquei sabendo sobre isso...
 
 #v4752Even if you're a Great Witch, ...I'll show no mercy to someone who steps all over my rose garden! 
-
+Mesmo que seja uma Grande Bruxa, ...eu não demonstrarei pena diante de alguém invadiu meu jardim de rosas!
 
 #v4753This little girl is a witch of an even higher rank than Beatrice-sama? ...Ridiculous! 
-
+Esta garotinha é uma bruxa de nível ainda mais elevado que a BEATRICE-sama? ...Ridículo!
 
 #v4754Even if I'm up against the Witch of Miracles, I must not lose! 
-
+Mesmo contra a Bruxa dos Milagres, eu não posso perder!
 
 #v4755Even I possess certain willpower. If you're telling me to prove it, ...then that's what I'll do! 
-
+Até mesmo eu possuo certa força de vontade. Se está pedindo para que eu prove, ...então é justamente o que farei1!
 
 #v4756A witch of the Senate...? This silly little girl...? 
-
+Uma bruxa do Senado...? Essa garotinha estabanada...?
 
 #v4757You're just like a witch I saw in a book long ago...! I'll show you my power! 
-
+Você é como uma bruxa que vi em um livro há muito tempo...! Mostrarei a você meus poderes!
 
 #v4758You aren't Battler-sama...! Who are you?! Is this another witch messing with us?! 
-
+Você não é o Battler-sama...! Quem é você?! É outra bruxa zombando de nós?!
 
 #v4759I don't understand what you're saying! I won't get killed without a fight! 
-
+Eu não entendo o que está dizendo! Não morrerei sem antes lutar!
 
 #v4760Which witch summoned you here? ...If you think I'll be distracted by your appearance, you're making a big mistake! 
-
+Qual bruxa invocou você aqui? ...Se acha que vou ficar distraído por causa da sua aparência, está mais do que enganado!
 
 #v0634*giggle*! So slow, Battler-kun. Took you long enough to notice!! 
-
+*risos*! Tão lendo, Battler-kun. Demorou demais para perceber!!
 
 #v0635Heheheheh! That's right, I killed everyone! Every last one of them!! 
-
+Heheheheh! Isso mesmo, eu matei todo mundo! Até o último deles!!
 
 #v0636I'm the Ushiromiya Family Head...! I solved the epitaph! 
-
+Eu sou o chefe da família Ushiromiya...! Eu resolvi o epitáfio!
 
 #v0637Haven't you given up yet? There is no truth that you'd be capable of understanding! 
 
