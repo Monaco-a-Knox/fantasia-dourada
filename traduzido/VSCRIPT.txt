@@ -13880,7 +13880,7 @@ Por que está me encarando? ...Nós vencemos. Fique feliz.
 Grrrr! Logo quando a Lambda-chan-sama estava planejando um final magnífico!
 
 #v4918Awesome, awesome! *clap*clap*clap*! You really are strong! 
-Incrível, inscrível! *clap*clap*clap*! Você é mesmo forte!
+Incrível, incrível! *clap*clap*clap*! Você é mesmo forte!
 
 #v5636You're sitting in the audience seating, aren't you? You know, you're technically supposed to be my partner... 
 Você está sentada na plateia, não está? Sabe, tecnicamente você deveria ser minha parceira...
@@ -13973,7 +13973,7 @@ Fico feliz que tenha gostado. Afinal de contas, se deu o trabalho de vir até aq
 Coitadinha. ...Esgotou seus milagres para me encontrar.
 
 #v3723Haven't you done enough, Lady Bern? More importantly, how about some tea? At this rate, you'll dirty your clothes. 
-
+Ainda não teve o bastante, Lady Bern? E mais importante, que tal mais um pouco de chá? Nesse ritmo, vai sujar as suas roupas.
 
 #v5091F-Forgive me... I-I'm so pathetic, I... Aaaah...! 
 P-Perdoe-me... S-Sou patético, eu... Aaaah...!
@@ -14069,7 +14069,7 @@ Nihihihi. A Chiester 410 fará tudo que puder para satisfazê-la, Ladu BERNLASTE
 Não posso ficar em silêncio enquanto vejo você humilhar os derrotados.
 
 #v5965Are you gonna take me on in their place? Well, that should let us kill time for a few seconds. 
-
+Vai me enfrentar no lugar deles? Bom, isso pode nos ajudar a matar mais tempo por alguns segundos.
 
 #v5966It's hilarious when people are so absurdly overconfident that they think they can challenge the great Bernkastel. 
 É hilário quando as pessoas são tão confiantes que pensam que podem desafiar a Grande BERNKASTEL.
@@ -15323,11 +15323,15 @@ O que é isso? Pretende me derrotar com as mãos nuas? Chega dessa baboseira!
 
 #v2517*cackle*! And what is this supposed to be?! Do you think you can kill me with lead bullets?! 
 *gargalhada* E o que isso deveria ser?! Acha que pode me matar com balas de chumbo?!
+
 #v2518Natsuhi also pointed a gun at me, and she died. Go ahead, follow her example! 
+Natsuhi também apontou uma arma para mim e morreu. Vá em frente, siga o exemplo!
 
 #v2519Oooh, how frightening! After all, guns are a witch's natural enemy!
+Oooh, mas que medo! Afinal, armas são o inimigo natural das bruxas!
 
-#v3727My magical closed rooms aren't so simple that they could be solved by someone like you. Hyahaha! 
+#v3727My magical closed rooms aren't so simple that they could be solved by someone like you. Hyahaha!
+Meus quartos fechados mágicos não são tão simples a ponto de serem resolvidos por alguém como você. Hyahaha!
 
 #v3728I'm not as soft as Battler... Let me show you what a truly stimulating battle is like...
 Não sou tão gentil quando o Battler... Vou te mostrar como é uma batalha verdadeiramente estimulante...
@@ -15569,13 +15573,13 @@ Meu nome é Shannon. É um prazer conhecer você. Espero que possamos nos dar be
 Não desistirei dos meus sentimentos, não importa quem seja o meu oponente!
 
 #v1240Please watch me...to see whether my feelings reach or not...! 
-
+Por favor, observe-me...para ver se meus sentimentos alcançarão ou não...!
 
 #v1241I'm not furniture. You believe me, don't you...? 
 Não sou uma mobília. Você acredita em mim ou não...?
 
 #v1242Virgilia-sama, ...please show me the way...! 
-
+VIRGILIA-sama, ...por favor mostre-me o caminho...!
 
 #v1243Do you understand how I feel, Ronove-sama...?! 
 Entende como eu me sinto, Ronove-sama...?!
@@ -15901,325 +15905,325 @@ Heheheheh! Isso mesmo, eu matei todo mundo! Até o último deles!!
 Eu sou o chefe da família Ushiromiya...! Eu resolvi o epitáfio!
 
 #v0637Haven't you given up yet? There is no truth that you'd be capable of understanding! 
-
+Ainda não desistiu? Não há verdade que você seja capaz de entender!
 
 #v0638Are you still wandering around 12 years ago? I'll bring you back to reality. 
-
+Ainda está vagando por aí há 12 anos? Irei trazê-la de volta à realidade.
 
 #v0639You really are a stupid kid! Definitely Rudolf's child! 
-
+Você é mesmo uma criança idiota! Definitivamente filha d rudol!
 
 #v0640Oh? Aren't you going to retire yet? Predecessor-sama of my Predecessor-sama?! 
-
+Não vai se aposentar, não? Antecessora, da minha Antecessora?!
 
 #v0641Got a problem with this? If you don't, go away. 
-
+Algum problema? Se não, vaza.
 
 #v0642Wow, look at the old person who just wandered in here! Want me to give you your last rites?! 
-
+Nossa, vejam só que pessoa mais velha está vagando por aqui! Quer que eu conduza seu último rito?!
 
 #v0643I don't want to kill you. I like your tea, after all. 
-
+Não quero matá-la, afinal gosto do seu chá.
 
 #v0644What's wrong? Don't tell me you wanna complain to me about something? 
-
+Qual o problema? Não vai dizer que quer veio até mim para reclamar, vai?
 
 #v0645I'll let you keep that arm... ...so you can keep making tea for me! 
-
+Deixarei que fique com esse braço......assim poderá continuar a preparar chá para mim!
 
 #v0646Are you still here? Your turn's already over, Predecessor-sama. 
-
+Ainda está aqui? Sua vez já passou, Antecessora.
 
 #v0647I am Beatrice. You're just nameless now, aren't you?! 
-
+Eu sou BEATRICE! Você não passa de um sem nome agora!
 
 #v0648I've been wanting to test this! To see which of us is more fitting, you or me! 
-
+Estive esperando para testar isso! Para ver quem é mais digno, eu ou você!
 
 #v0649Useless secondhand furniture! I'll dispose of you myself. 
-
+Mobílias inúteis de segunda mão! Me livrarei de vocês pessoalmente.
 
 #v0650In that case, why don't you try showing me just how useful you can be? 
-
+Nesse caso, por que não tenta demonstrar para mim o quanto pode ser útil?
 
 #v0651I'll test you to see whether you have what it takes to serve me... 
-
+Irei testá-lo para ver se tem o que é preciso para servir a mim...
 
 #v0652Stop darting about and getting in the way, you thieving cat! 
-
+Pare de ficar aparecendo e se metendo no caminho, sua gata ladra!
 
 #v0653I won't give George to you!! Furniture should act like furniture! 
-
+Não darei o George a você!! Mobílias devem agir como mobílais!
 
 #v0654Beg for your life. If you never return again, I might just let you go. 
-
+Implore por sua vida. Se nunca mais voltar, posso poupá-la.
 
 #v0655What's with that look? You look like a scared puppy trying to act tough. 
-
+Que olhar é esse? Parece um filhotinho assustado tentando ser durão.
 
 #v0656Stop this, Kanon-kun. Your hands are shaking. *giggle*! 
-
+Pare, Kanon-kun. Suas mãos estão tremendo. *risos*!
 
 #v0657Oh, going through a rebellious phase? George was just like that once! Ahahaha! 
-
+Passando por uma fase rebelde, é? O George também já foi assim! Ahahaha!
 
 #v0658What's this? Which witch tried to pull this one...?! 
-
+O que é isso? Que bruxa está tentando forçar isso...?!
 
 #v0659Well, here's an interesting sideshow. Is it really okay...for me to kill her? 
-
+Bom, aqui temos um showzinho interessante. Está tudo bem...eu matá-la?
 
 #v0660I'd better mark you good so that people can tell you're a fake. 
-
+É melhor que marcar você para que as pessoas não digam que é falsificado.
 
 #v0661I want to see the power you sisters possess. There's no need to hold back. 
-
+Quero ver o poder de suas irmãs. Não há porque se conter.
 
 #v0662I think I'll pull those stupid bunny ears off! 
-
+Acho que vou arrancar essas orelhas estúpidas de coelho!
 
 #v0663Let's have a little test to see if you deserve to be my furniture. 
-
+Vamos fazer um teste para ver se você merece ser minha mobília.
 
 #v2649I won't let you marry that woman. Why can't you listen to what your mother tells you?! 
-
+Não deixarei que case com aquela mulher. Por que não pode ouvir o que a sua mãe diz?!
 
 #v2650You're going through a rebellious phase, right? Okay, come on then. I'll wrap you up in a mother's love! 
-
+Está passando por uma fase rebelde, não é? Tudo bem. Vou envolvê-lo com o amor materno!
 
 #v2651George, ...you're a good kid, so get out of the way. Can't you do what your mother tells you? 
-
+George, ...você é uma boa criança, então saia da frente. Por que não faz o que sua mãe está dizendo?
 
 #v2646I'm sorry, Jessica-chan! I've decided to make you the next sacrifice! 
-
+Desculpe, Jessica-chan! Já decidi que você será o próximo sacrifício!
 
 #v2647If only you hadn't been born, George might have become the Successor! 
-
+Se você não tivesse nassido, o George poderia ser o sucessor!
 
 #v2648Kids should shut up and get out of the way! This isn't your turn! 
+Crianças deveriam ficar quietas e saírem do caminho! Não é a sua vez!
 
-
-#v2652All of the gold belongs to me! I'm not gonna let you keep even a fragment to yourself! 
-
+#v2652All of the gold belongs to me! I'm not gonna let you keep even a fragment to yourself!
+Todo o ouro pertence a mim! Não deixarei que fique com uma grama dele para si!
 
 #v2653The power of a witch really is wonderful! I'll let you see just how amazing it is! 
-
+O poder de uma bruxa é mesmo maravilhoso! Deixarei que veja o quão icrível ele é!
 
 #v2654Oh, Rosa, do you want to die again? Okay! I'll kill you as much as you like! 
-
+Oh, Rosa, quer morrer de novo? Certo! Vou te matar quantas vezes quiser!
 
 #v4509This is the witch's island, okay? A place of gruesome tragedies and magic! We've got no need for a detective! 
-
+Esta é a ilha da bruxa, sabia? Um lugar de magia e tragédias horrendas! Não precisamos de detetives!
 
 #v4510No matter how you try to reason it out, no one will be able to doubt that I'm the Head! 
-
+Não importa o quanto tente raciocinar, ninguém será capaz de duvidar que eu sou o chefe!
 
 #v4511Why are you getting in the way? Aren't we comrades? 
-
+Por que está no meu caminho? Não somos confrades?
 
 #v4512Oh, this kid is like a doll. Let's see if your head is detachable. 
-
+Ah, essa criança é como uma boneca. Vamos ver se sua cabeça sai.
 
 #v4513You intend to deny me? There's no way you can! This is my cat box!! 
-
+Pretende me negar? Não tem como fazer isso! Esta é minha caixa de gato!
 
 #v4514I'm too old to play with dolls. So, I've got no use for you! 
+Estou velha demais para brincar com bonecas. Você não me tem serventia!
 
-
-#v4515What are you talking about? I'm the culprit. I killed everyone with magic! 
-
+#v4515What are you talking about? I'm the culprit. I killed everyone with magic!
+Do que está falando? Eu sou o culpado. Eu matei todo mundo com magia!
 
 #v4516I won't let anyone expose my cat box! I'll protect it for all time!! 
-
+Não deixarei que ninguém exponha minha caixa de gato! Irei protegê-la até o fim!!
 
 #v4517What have you come to do?! I won't let you open my cat box, no matter what happens! 
-
+O que veio fazer?! Não deixarei que abra minha caixa de gato, de jeito nenhum!
 
 #v4518What an uncute girl. I'll give you some candy, so run along home. 
-
+Essa garota não é nada adorável. Vou te dar um doce, então corra para casa.
 
 #v4519Sorry, but I'm the only witch we need around here. If only you'd just give up and die! 
-
+Desculpa, mas sou a única bruxa que precisamos aqui. Por que não dessiste e morre bem devagar!
 
 #v4520I won't let anyone continue past this point. The truth that sleeps beyond here belongs to me alone!! 
-
+Não deixarei que ninguém continue a partir daqui. A verdade que descansa além pertence somente a mim!!
 
 #v4521Go home, girl. If you want to play witches, do it with friends from your neighborhood! 
-
+Vá para casa, garota. Se quer brincar de bruxa, faça isso com suas vizinhas!
 
 #v4522Crazy people keep appearing one after another. But it's useless. I won't let anyone reach the truth! 
-
+Malucos continuam aparecendo um depois do outro. Mas tudo isso é inútil. Não deixarei ninguém alcançar a verdade!
 
 #v4523Heheheh. Do you think you can beat me? Me, the guardian of truth, EVA Beatrice?! 
-
+Heheheh. Acha que pode me vencer? Eu, a guardiã da verdade, EVA BEATRICE?!
 
 #v4524Long time no see. ...Sorry, but I can't let you leave this island. 
-
+Há quanto tempo. ...Desculpe, mas não posso permitir que deixe esta ilha.
 
 #v4525I'll kill you. That's my job right now. I won't let you reach Ange. 
-
+Matarei você. Esse é o meu trabalho agora. Não deixarei que chegue à Ange.
 
 #v4526I am Beatrice. ...My final role is to seal you up until I die...! 
-
+Eu sou BEATRICE. ...Meu último papel é selar você até minha morte...!
 
 #v1384Gotcha, Battler! Sorry, but it's time to die nyeh! 
-
+Te peguei, Battler! Desculpa, mas é hora de morrer, nyeh!
 
 #v1385Nihihi! I'll bet Battler breaks right away nyeh. 
-
+Nihihi! Aposto que o Battler vai se partir agora, nyeh.
 
 #v1386Get ready nyeh. No one can escape a Golden Bow nyeh! 
-
+Prepare-se, nyeh. Ninguém pode escapar do meu Arco Dourado, nyeh!
 
 #v1387It's time for uninvited guests to go home nyeh! 
-
+Esta na hora dos visitantes indesejados irem embora, nyeh!
 
 #v1388If you don't wanna die, turn right here nyeh. Nihi! 
-
+Se não quer morrer, vire bem aqui, nyeh. Nihi!
 
 #v1389What a gloomy-looking woman nyeh! Let me teach you a thing or two nyeh! 
-
+Que mulher de aparência mais triste, nyeh! Vou te ensinar umas coisinhas, nyeh!
 
 #v1390Virgilia-sama, play with me, play with me! Nihihihi! 
-
+VIRGILIA-sama, brinque comigo, brinque comigo! Nihihihi!
 
 #v1391Stop resisting nyeh. I won't hold back, even if it's against you nyeh. 
-
+Pare de resistir, nyeh. Não vou me conter, nem mesmo contra você, nyeh.
 
 #v1392Found you, Virgilia-sama! Nihihihi, prepare yourself nyeh! 
-
+Te achei, VIRGILIA-sama! Nihihihi, prepare-se, nyeh!
 
 #v1393Ronove-sama! Trick or carrots nyeh! 
-
+Ronove-sama! Cenouras ou Travessuras, nyeh!
 
 #v1394This is Ronove-sama, who was once feared as a Great Demon. Can't let my guard down nyeh. 
-
+Esse é o Ronove-sama, aquele que uma vez foi temido com Grande Demônio. Não posso me descuidar, nyeh.
 
 #v1395I wanna see if Ronove-sama can escape a Golden Bow nyeh! 
-
+Quero ver se o Ronove-sama conseque escapar do meu Arco Dourado, nyeh!
 
 #v1396Beatrice-sama, found ya! I've been ordered to fight you nyeh! 
-
+BEATRICE-sama, te achei! Fui ordenada para lhe enfrentar, nyeh!
 
 #v1397Beatrice-sama! Nihihihi, let's play! 
-
+BEATRICE-sama! Nihihihi, vamos brincar!
 
 #v1398I've been wanting to have an all-out fight with you nyeh! 
-
+Estive esperando para ter uma luta intensa com você, nyeh!
 
 #v1399Lucifer-chan! Leeet's plaaay! Nihihihihihihi! 
-
+Lucifer-chan! Vaaaaamos brincaaaar! Nihihihihihihi! 
 
 #v1400I wanted to play with you so much, I've been getting so excited nyeh! 
-
+Eu queria tanto brincar tanto com você, que acabei ficando muito empolgada, nyeh!
 
 #v1401I'll give you a handicap, so let's have fun together nyeh☆
-
+Vou te dar uma colher de chá, então vamos nos divertir, nyeh☆
 
 #v1402There you go, looking all gloomy again! Lemme rub those cheeks a bit nyeh! 
-
+Olha só você, toda tristonha de novo! Vou apertar essas suas bochechas, nyeh!
 
 #v1403Gotcha, Shannon-chan! Sorry, but now it's game over nyeh! 
-
+Te peguei, Shannon-chan! Desculpe, mas é game over, nyeh!
 
 #v1404New objective! If you don't surrender in five seconds, I can't guarantee that you'll live nyeh! 
-
+Novo objetivo! Se não se render em cinco segundos, não posso garantir que sairá viva, nyeh!
 
 #v1405Found you, Kanon-kyun! Play house with me nyeh! 
-
+Te achei, Kanon-kun! Vamos brincar de casinha, nyeh!
 
 #v1406You're too stressed, Kanon. I'll help you relax nyeh. 
-
+Você é muito estressado, Kanon. Vou te ajudar a relaxar, nyeh.
 
 #v1407Stop looking so scary and play with me nyeh! 
-
+Chega dessa cara assustadora e brinca comigo, nyeh!
 
 #v1408You've gone to the trouble of summoning me nyeh! I'll go all out and show you my power nyeh! 
-
+Teve todo o trabalho de me invocar, nyeh! Vou aproveitar para mostrar meu poder, nyeh!
 
 #v1409Gotcha, EVA-sama! Nihihihi, prepare yourself nyeh! 
-
+Te peguei, EVA-sama. Nihihihi, prepare-se, nyeh!
 
 #v1410I'm a bit interested to see what power the new Endless Witch has nyeh! 
-
+Estou um pouco interessada no poder da nova Bruxa do Infinito, nyeh!
 
 #v1411Nihi? It's one of my comrades nyeh! What's your version nyeh? 
-
+Nihi? É uma das minhas camaradas, nyeh! Qual a sua versão, nyeh?
 
 #v1412It's been a really long time since I've seen a fellow 410 nyeh! How've you been? 
-
+Faz bastante tempo desde a última vez que vi uma companheira 410, nyeh! Como tem passado?
 
 #v1413Okay, time for some personal training nyeh. A soldier must never slack off in her training nyeh! 
-
+Certo, hora de um treino pessoaal, nyeh. Um soldado jamais deve vadiar durante o treinamento, nyeh!
 
 #v3459Time to play dolls with little George-chan nyeh! I'll have lots of fun with you nyeh! 
-
+Hora de bricar de boneca com o nosso Geroge-chan, nyeh! Vou me divertir muito com você, nyeh!
 
 #v3460He's got a good look on his face nyeh. This fight's gonna be a tough one nyeh. 
-
+Está com um belo olhar em seu rosto, nyeh. Essa será uma luta difícil, nyeh.
 
 #v3461Eeep! He's looking at me scary nyeh! I'm scared nyeh! I'm scared nyeh! 
-
+Eeep! Que olhar mais assustador, nyeh! Que medo, nyeh! Que medo, nyeh!
 
 #v3456That's not good nyeh. My luck must not be so hot, if I'm up against that violent Milady Jessica nyeh. 
-
+Isso não é bom, nyeh. Minha sorte não deve ser das melhores, para ter que enfrentar a violenta Jessica ojou-sama;
 
 #v3457Nihihi! That short-tempered, dull-witted Milady will make a perfect target for my Golden Bow nyeh...! 
-
+Nihihi! Essa pavio-curto e cabeça-dura será o alvo perfeito para o meu Arco Dourado, nyeh...!
 
 #v3458It's been a long time since I've played with Milady Jessica nyeh. Don't go too hard on me nyeh! 
-
+Faz tempo desde a última vez que brinquei com a Jessica ojou-sama, nyeh. Não pegue muito pesado comigo, nyeh!
 
 #v3462Your face looks so stressed! Let me help you relax nyeh! 
-
+Você parece estressada! Vou te ajudar a relaxar, nyeh!
 
 #v3463Guns are scary nyeh. Who's in there nyeh? Is it a shotgun round nyeh? 00 nyeh? 
-
+Armas são assustadoras, nyeh. Quem está aí, nyeh? Foi um tiro de shotgun, nyeh? 00, nye?
 
 #v3464Today, I'll finally avenge 556 nyeh! 
-
+Hoje, finalmente vingarei a 556, nyeh!
 
 #v5409Even if you can reason out my identity, that won't change the fact that you're gonna die now nyeh! 
-
+Mesmo que consiga advinhar minha identidade, não mudará o fato de que vai morrer agora, nyeh!
 
 #v5410By the orders of my master, all uninvited guests will hereby get beaten to a pulp nyeh! 
-
+Sob as ordens de minha mestra, todos os hóspedes não convidados devem apanhar até virar polpa, nyeh!
 
 #v5411It looks like you'll be worth playing with nyeh! I'm going all out nyeh! 
-
+Parece que vai valer a pena brincar com você, nyeh! Irei com tudo, nyeh!
 
 #v5412I've never been up against an Inquisitor before nyeh. Let's play without doing too much damage nyeh...! 
-
+Nunca enfrentei um Inquisidor antes, nyeh. Vamos brincar sem nos machucarmos muito, nyeh...!
 
 #v5413Are you planning to confiscate me nyeh? Know that it won't go so easy nyeh! 
-
+Pretende me confiscar, nyeh? Fique sabendo que não será fácil, nyeh!
 
 #v5414That's a terrifying armament nyeh... However, dealing with kids is my specialty nyeh! Hahah nyeh! 
-
+Que armamento terrível, nyeh... Mas lidar com crianças é minha especialdiade, nyeh! Hahah, nyeh!
 
 #v5415It's been a while since I've seen a hot guy nyeh! But, I'm gonna make you hate me right away nyeh! 
-
+Faz tempo que não vejo um bonitão, nyeh! Mas vou fazer com que me odeie agora mesmo, nyeh!
 
 #v5416You look like you might be pretty good. ...My weapon blood is pounding nyeh! 
 
 
 #v5417Too bad nyeh...! I can't believe I've gotta kill someone this hot nyeh... 
-
+Que pena, nyeh...! Não consigo acreditar que tenho que matar alguém tão bonito, nyeh...
 
 #v5418VIP assassination is one of our many jobs! We'll even snipe witches of the Senate nyeh! 
-
+Assassinato de VIPs é um dos nossos vários trabalhos! Atiramos até em Bruxas do Senado, neyh!
 
 #v5419Now here's some more incredibly strong prey nyeh. ...It'd be wasted on me alone nyeh. 
-
+Temos aqui mais uma presa incrível, nyeh. ...É um disperdicio ser abatida só por mim, nyeh.
 
 #v5420What terrifying prey nyeh! But I'm getting kinda excited nyeh! 
-
+Que presa mais terrível, nyeh! Mas estou ficando empolgada, nyeh!
 
 #v5421Lady Lambdadelta, you smell nice nyeh. Just like candy nyeh! 
-
+Lady LAMBDADELTA, você cheira muito bem, nyeh. Igualzinho a doce, nyeh!
 
 #v5422To think I'd get a chance to face that Great Witch, Lady Lambdadelta! I'm honored nyeh. 
-
+E pensar que eu teria a chance de enfrentar uma Grande Bruxa, a Lady LAMBDADELTA! Estou honrada, nyeh.
 
 #v5423So, you like playing with dolls too nyeh... Go easy on me nyeh! 
 
