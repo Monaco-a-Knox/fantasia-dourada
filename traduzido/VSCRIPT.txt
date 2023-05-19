@@ -10085,615 +10085,919 @@ Linha indefinida - Diálogo do perdedor - Primeira Pessoa
 Undefined line - Loser Conversations - Second Person
 Linha indefinida - Diálogo do perdedor - Segunda pessoa
 
-#v0274Excellent! As I thought, we're perfectly in sync! 
+#v0274Excellent! As I thought, we're perfectly in sync!
+Excelente! Bem como imaginei, estamos em perfeita sincronia!
 
-#v0275If one of me is the strongest, two of me is the ultra strongest! We're the ultimate tag team! 
+#v0275If one of me is the strongest, two of me is the ultra strongest! We're the ultimate tag team!
+Se sozinha já sou a mais forte, duas de mim são superfortes! Somos a dupla suprema!
 
 #v0276Heheh! How'd you like that! No one can defeat Double Battlers! 
+Heheh! Gostou disso?! Ninguém pode derrotar o Duplo Battler!
 
 #v0277Umm, is that really the coolest name you could think of...?! 
+Hmm, esse foi o melhor nome que conseguiu pensar...?!
 
 #v0278Ah, it's useless! It's all useless! 
+AH, isso não está certo! Não está nada certo!
 
 #v0279It sure as hell is useless! Thinking you can win against us, that is! 
+Pode apostar que não está! Acha mesmo que pode nos derrotar?!
 
 #v0424That's my Onii-chan. You're always so cool and reliable. 
+Esse é o meu onii-chan. Sempre descolado e confiável.
 
 #v0280Of course. All brothers want to be like that in front of their little sisters! 
+É claro. Todos os irmãos querem ser assim na frente de suas irmãzinhas!
 
 #v0281I never thought I'd be fighting alongside you, Ange... 
+Nunca pensei que estaria lutando ao seu lado, Ange...
 
 #v0425It's been 12 years since then. I never thought you'd be the same age as me. 
+Já faz 12 anos desde então. Nunca imaginei que fosse ter a mesma idade que eu.
 
 #v0282Too bad! I'm not letting you lay a finger on Ange! 
+Que pena! Não deixarei que encoste um dedo na Ange!
 
 #v0426The same goes for me. I'm not letting you lay a finger on Onii-chan! 
+O mesmo vale para mim. Não deixarei que encoste um dedo no onii-chan!
 
 #v0283Virgilia, ...how's this fighting style? 
+VIRGILIA, ...que tal esse estilo de luta?
 
 #v1474That's our Battler-kun. You've already learned it well... 
+Esse é o nosso Battler-kun. Você aprendeu muito bem...
 
 #v1475Battler-kun, let's leave it at that, shall we...? 
+Battler-kun, podemos deixar como está...?
 
 #v0284Oh, you think so? Then let's call it quits! You'd better thank her! 
+Oh, acha mesmo? Então estamos quites! É melhor agradecê-la!
 
 #v0285How'd you like that?! Fighting isn't about magic...it's about power! 
+Gostou disso?! Lutar não é questão de magia...é sobre poder!
 
 #v1476*giggle* That's true enough. And you have more than enough power, Battler-kun. 
+*risos* É verdade. E você tem poder mais do que o suficiente, Battler-kun.
 	
 #v0286Why is it that you want to eat something sweet after a battle?! 
+Por que quer comer algo doce depois da luta?!
 
 #v1024Understood. I'll prepare some sweet tea and cookies at once. 
+Entendido. Irei preparar um pouco de chá doce e cookies.
 
-#v1025That's game. You were as gorgeous as ever. 
+#v1025That's game. You were as gorgeous as ever.
+Esse é o jogo. Você foi belo como sempre.
 
 #v0287That's my line. A man's gotta fight gorgeously! 
+Essa fala é minha. Um homem precisa lutar de forma bela.
 
 #v1026My, my, well done. I could fall in love with that fighting style. 
+Ora, ora, muito bem. Eu poderia me apaixonar por esse estilo de luta.
 
 #v0288Hey, quit it. Don't fall in love with a guy, you're embarrassing me! 
+Ei, nem vem. Não se apaixone por um cara, está me deixando envergonhado!
 
 #v0124*cackle*cackle* Not bad! That's my rival for you! 
+*gargalhada*gargalhada* Nada mal! Esse é o meu rival!
 
 #v0289I'm the one who's gonna beat the crap out of you. I can't afford to lose here. 
+Eu sou o único que pode acabar com você. Não posso me dar a luxo de perder aqui.
 
 #v0125Well, that was utterly without mercy. What a bloodless, tearless man you are! 
 
-#v0290Hah, you're the one person I don't wanna hear that from! 
+#v0290Hah, you're the one person I don't wanna hear that from!
+Hah, você é a única pessoa de quem não quero ouvir isso!
 
 #v0291I'll admit it. You're both the strongest and worst partner I could ever have! 
+Eu admito. Você é a melhor e pior parceira que eu poderia ter!
 
 #v0126Hehyahahah! You do me too much honor. No praise could be higher than that! 
+Hehyahahah! Mas que honra! Elogio algum seria capaz de superar isso!
 
 #v0874You're not so bad for a Human. Nice going! 
+Para um humano, até que não é tão ruim. Continue assim!
 
 #v0292You too! I see you aren't Beato's furniture for nothing. 
+Você também! Dá pra perceber que não é uma mobíliada Beato à toa.
 
 #v0293That settles it. I sure hope these guys wake up. 
+Tudo definido. Espero que esses caras acordem.
 
 #v0875I'll gouge right into their foreheads to make sure they don't! 
+Eu goivo direto na testa para ter certeza que não vão!
 
 #v0876Hey, little sisters! Gouge these pathetic losers to pieces! 
+Ei, irmãzinha! Goive esses perdedores patéticos até não sobrar nada!
 
 #v0294And wrap them up with bandages! 
+E enrole-os com bandagens!
 
 #v1174Well done, Battler-sama! That was a wonderful victory...! 
+Esplêndido, Battler-sama. Foi uma vitória fabulosa...!
 
 #v0295It's thanks to you, Shannon-chan. Good job! 
+Graças a você, Shannon-chan. Bom trabalho!
 
 #v0296And another one gone. Shannon-chan, please care for their wounds. 
+E mais um se foi. Shannon-chan, cuide dos ferimentos deles.
 
 #v1175A-As you wish! I'll take care of them right away! 
+C-Como desejar! Cuidarei deles agora mesmo!
 
 #v0297How was that?! Did you see me, Shannon-chan?! 
+O que achou? Viu só o que eu fiz, Shannon-chan?!
 
 #v1176Y-Yes! You were so cool! ...My heart was even racing a little. 
+S-Sim! Você é demais! ...Meu coração até acelerou um pouco.
 
 #v0724You look like you're relying on strength, but you manage to win with composure. ...That's Battler-sama for you. 
+Parece que você depende da força, mas consegue vencer com compostura. ...Como esperado do Battler-sama.
 
 #v0298You're being too nice! I was just swinging my fists around randomly. 
+Está sendo gentil demais! Só quero sair socando por aí.
 
 #v0299Fights may be about power, but you can't forget speed either. 
+Lutas podem ser questão de força, mas você não pode esquecer da velocidade.
 
-#v0725But I still...wish I had power like you, Battler-sama. 
+#v0725But I still...wish I had power like you, Battler-sama.
+Mas eu ainda...desejo ser forte como você, Battler-sama.
 
 #v0726Incredible. ...I have a lot to learn from watching you fight. 
+Inacreditável. ...Tenho muito a aprender assistindo você lutar.
 
 #v0300Hey, I'm learning a lot from you too, Kanon-kun. It goes both ways. Hahah! 
+Ei, eu também estou aprendendo muito com você, Kanon-kun. Vale para os dois. Hahah!
 
 #v0574Is that all? Aren't you going to finish them off? 
+Isso é tudo? Não vai terminar o serviço?
 
 #v0301Oh, they know who won this round. There's no need to go further! 
 
+
 #v0302We're the Ushiromiya Family's strongest nephew-aunt combo! Don't you forget us! 
+
 
 #v0575Hey, can't you do something about that name? Sheesh! 
 
+
 #v0576I can't say I dislike that roughness of yours, Battler-kun. 
+
 
 #v0303I feel the same about your mercilessness, Aunt Eva. 
 
+
 #v1324Nice nyeh... I knew that would happen, but I'm still impressed nyeh! 
+
 
 #v0304Hey, don't praise me to death. I was desperately trying to win. 
 
+
 #v0305Whew! That last guy really had me on edge. 
+
 
 #v1325Liar nyeh. You were untouchable from start to finish nyeh! 
 
+
 #v1326Nihihi! You're so strong, I don't have to do any work nyeh! 
+
 
 #v0306You said it! Thanks for giving me some time to shine. 
 
+
 #v2733That's Battler-kun for you. I didn't get to do anything. 
+
 
 #v2541Ihihi. Well said, Aniki! As if you didn't go out of your way to let me show off! 
 
+
 #v2734I guarantee it. You could definitely get stronger if you learned martial arts. 
+
 
 #v2542Y-You think so? I mean, I've always been bad at learning things...! 
 
+
 #v2543Playing with you is fun! I feel like we wouldn't lose to anyone! 
+
 
 #v2735Yeah, it is fun. Just like old times. Let's not waste this chance and keep running wild. 
 
+
 #v2928You were so skinny six years ago, but you changed a lot! 
+
 
 #v2538Ihihi. Yeah, your boobs changed a lot too. 
 
+
 #v2929Could you maybe stop touching other people's chests? 
+
 
 #v2539I'm not trying to touch them! My breast-sommelier blood gives me no choice! 
 
+
 #v2540We really went wild! Man, I feel refreshed! 
+
 
 #v2930Sometimes, you've gotta just let it all out! Let's have a ton of fun today! 
 
+
 #v2544Come on, you two, talk! Let's hear your alibi for the time of the crime! 
+
 
 #v3258There's no need. We just need to keep them tied up until the police come. 
 
+
 #v3259You've been a big help, Battler-kun. Now we should be able to find the culprit quickly. 
+
 
 #v2545I don't want there to be any more victims. I'll fight anyone to make sure of that! 
 
+
 #v2546Aunt Rosa, do you still suspect me after all this...? 
+
 
 #v3260No one can trust anyone but themselves. ...Let's make up tomorrow, okay? 
 
+
 #v3775You reason, and I'll investigate. ...We're not a bad match for each other. 
+
 
 #v4283Are you kidding? It sucks. You keep taking all my good scenes! 
 
+
 #v3776The two of us reasoning things out together isn't so bad, every once in a while. 
+
 
 #v4284I'm not a fan of this, ...but since we're doing it anyway, I might as well enjoy it! 
 
+
 #v4285That wasn't a very formidable opponent. You really are the best rival for me. 
+
 
 #v3777...Yeah. Shall we? It looks like this'll be more interesting with the two of us fighting together...! 
 
+
 #v3931Your reasoning has grown DEEPER. I can sense how much you've GROWN. 
+
 
 #v3778I'm a man who's always growing. I'm not done yet. My reasoning's gonna keep going deeper! 
 
+
 #v3932SNACKS? I love them, ...but how did you KNOW? 
+
 
 #v3779You've got some chocolate stuck to the side of your mouth. Ihihi! 
 
+
 #v3780That sword of yours is so cool! Can I go all 'byooom' and make one of those pop out too?! 
+
 
 #v3933But you already have that massive BEAM! Pew PEW! 
 
+
 #v5535I can see that you've got Ushiromiya Kinzo's blood in you... 
+
 
 #v3781Ihihi. You wouldn't last in the Ushiromiya family if you couldn't do at least this much. 
 
+
 #v3782I want a weapon too. Like, a cool sword or something! 
+
 
 #v5536Your reasoning is your greatest weapon. Cut to the core of all truths. 
 
+
 #v3783Was that...right? I didn't mess anything up, did I? 
+
 
 #v5537You just did what you needed to. Don't think too deeply about it or you'll just get a headache. 
 
+
 #v5887Oh. ...Not bad for someone guaranteed to be incompetent by the red truth. 
+
 
 #v3784I guess that means anyone who loses to me is even more incompetent! 
 
+
 #v3785This is the truth. There's no trick that my reasoning can't get to the bottom of! 
+
 
 #v5888Keep it up. ...Corner Beato and reach into the bottom of her heart. *giggle*... 
 
+
 #v3786...I'll do what you say for now, but I'll definitely settle this sooner or later. 
+
 
 #v5889I look forward to it. ...Though who knows if that will happen a hundred or a thousand years from now. 
 
+
 #v3787Hey, Lambda. I'm done. Are you listening?! 
+
 
 #v4871Ah, good work! Sorry, but could you get me more popcorn? 
 
+
 #v4872That should do it! Let's finish them off with a coat of chocolate! 
+
 
 #v3788That sounds yummy! Ihihi. Let me have a taste too! 
 
+
 #v3789Yeah, I'll keep my promise. I'll show you a happy ending with certainty! 
+
 
 #v4873I'm looking forward to it, okay? And I certainly expect nothing less than a big finale! 
 
+
 #v0307Whew. You're pretty flashy yourself, Ange...! 
+
 
 #v0427You think so? I'd say I'm embarrassingly plain compared to you. 
 
+
 #v0428I'll definitely bring you back. I won't let anyone get in the way! 
+
 
 #v0308Yeah, let's go home. I'll definitely come back to you! 
 
+
 #v0429You're so cool, Onii-chan! Show me that one again! Again! 
+
 
 #v0309Sure! I'll take any requests if my cute little sister's watching! 
 
+
 #v0430You went a bit too far. Did you really need to go that wild? 
+
 
 #v0431Shut up. Do you want me to smash the glass, too? 
 
+
 #v0432Having a double is pretty convenient. ...Go to school for me. 
+
 
 #v0433Are you kidding? You go, stupid. 
 
+
 #v0434Oh? You're pretty good for my double. 
+
 
 #v0435You're the double! Agh, this is so complicated! 
 
+
 #v1477You did well, learning that much magic on your own... 
+
 
 #v0436I had Maria onee-chan. She's my Teacher. 
 
+
 #v0437To defeat witches, I learned about magic and became a witch. 
+
 
 #v1478That was wise. You won't be able to 'see' the truth if you only look with a gaze of denial... 
 
+
 #v1479Do you understand? Magic doesn't exist so that you can achieve victory. 
+
 
 #v0438I know. Magic is only a technique that affects how you achieve it. 
 
+
 #v1027Ange-sama, would you like your tea hot or iced? 
+
 
 #v0439Iced, of course. The snacks are lying over there, so I won't need them. 
 
+
 #v0440Ronove, could you take care of my wounds? I overdid it a bit. 
+
 
 #v1028Pu ku ku, very well.I'll get you a disinfectant that really stings. 
 
+
 #v0441Is this 1986? Everyone's having fun, leaving me behind. 
+
 
 #v1029Know that the Witch of Truth is free to interpret this as she pleases. 
 
+
 #v0127What a wild woman. Clearly, you're wasted as Battler's little sister. 
+
 
 #v0442That's none of your business. Who do you think's making me act so wild?! 
 
+
 #v0443It's useless, it's all useless! <See you again.> 
+
 
 #v0128Ah, Battler's catch phrases. You siblings are so close that it makes me jealous. 
 
+
 #v0129<It's perfect!> Or it would have been, if you'd just torn their corpses to bits! 
+
 
 #v0444Do that yourself. But I'll be tearing you up first. 
 
+
 #v0877That's our Ange-sama! You're strong, ruthless, totally without mercy, and all in all amazing! 
+
 
 #v0445That's not a compliment. That's definitely not a compliment. 
 
+
 #v0446It's useless, it's all useless. <See you again.> 
+
 
 #v0878You're so cool, Ange-sama! I've got shivers just listening to you! 
 
+
 #v0879You fools who disobeyed us and our master! Regret your mistake in a sea of vomited blood! 
+
 
 #v0447That's the Seven Sisters of Purgatory for you. You really are used to fighting. 
 
+
 #v1177You have something that you aren't willing to back down on, Ange-sama... That's what makes you so strong, isn't it? 
+
 
 #v0448Of course. If I was willing to back down, even fighting would be a pain. 
 
+
 #v0449I learned magic from Maria onee-chan. Where on earth did you learn it from? 
+
 
 #v1178...What I do is, umm... ...It's because...I'm furniture. 
 
+
 #v1179What could have happened over 12 years to change that adorable Ange-chan so much...? 
+
 
 #v0450That's what I want to know. What happened 12 years ago that changed everything? 
 
+
 #v0727What on earth made you this strong? 
+
 
 #v0451A crappy aunt and a terrible environment growing up. I can't think of anything else. 
 
+
 #v0452I think you and I are alike somehow. Maybe it's that look in our eyes. 
+
 
 #v0728Not at all. ...The burden I bear is nothing compared to yours. 
 
+
 #v0729I wonder if the weight of a person's attack is equal to the burden that person bears... 
+
 
 #v0453I'm sure it's just the weight of their fat. You're so thin that I'm jealous, even though you're a boy. 
 
+
 #v0577What's this? Why are you so fixated on something that happened twelve whole years ago? 
+
 
 #v0454Isn't it obvious? It's because that's the day Ushiromiya Ange died. 
 
+
 #v0578Ooh, how scary. Is there something in the Ushiromiya blood that makes us fight so wildly? 
+
 
 #v0455It's all because of how you brought me up. I could hardly compare to you though. 
 
+
 #v0579Are you satisfied? Do you feel better? Just forget about it all. 
+
 
 #v0456You can't make me forget about October 5, 1986! 
 
+
 #v1327That was scary nyeh. If you get in Ange-sama's way, you get chopped to pieces nyeh! 
+
 
 #v0457I wouldn't do that. I always stop somewhere between beating people half to death and killing them for real. 
 
+
 #v0458What is it that I lack? Power? Feelings? Room to relax in my heart? 
+
 
 #v1328Well, your acreage is pretty lacking nyeh. In that flowery garden inside your head. Nihi! 
 
+
 #v1329What a waste nyeh. You'd be so cute if you smiled, Ange-sama. 
+
 
 #v0459Oh, I don't forget to smile...when I'm punching someone in the face. 
 
+
 #v2586You really are a gentleman, George onii-chan. I can finally tell, at this age. 
+
 
 #v2736And you've become quite a lady. A strong woman with her own clearly-defined will. 
 
+
 #v2587Do you know what happened on that day, George onii-chan? 
+
 
 #v2737...There isn't much I'd be able to tell you myself. Sorry... 
 
+
 #v273812 years, huh? ...That's more than enough time for a cute girl to be reborn as a strong woman. 
+
 
 #v2588It's just my body that's changed. My time has been stopped for all those years. 
 
+
 #v2583Jessica onee-chan, ...do you always carry those things on your fists around with you? 
+
 
 #v2931Pretty cool, huh? They're a maiden's art, and my lucky item! 
 
+
 #v2584It's okay to rely on me a little. I'm not a six-year-old crybaby anymore. 
+
 
 #v2932True. You're a fully-fledged maiden with a heart of blazing red iron...! 
 
+
 #v2933That's too bad, Ange. With a face as cute as yours, it's such a waste to look so sour all the time. 
+
 
 #v2585Funny to hear that from you. Don't ruin those good looks with the way you talk. 
 
+
 #v2589Every now and then, ...I get the feeling that you and Aunt Eva are really alike. 
+
 
 #v3261Oh, come on, how is that? I'm not short-tempered like she is... 
 
+
 #v2590Those 12 rough years made me strong. They taught me about something more important than makeup. 
+
 
 #v3262...When you say that, you sound just like Kyrie-san. 
 
+
 #v3263The future you should know, right? Who is the culprit in this crime? 
+
 
 #v2591You probably won't want to believe it, ...but it's just as much of a mystery 12 years later. 
 
+
 #v4126You're really going to guide me to the truth, right...? 
+
 
 #v4286But of course. My master has ordered me to do so. 
 
+
 #v4127What do you think? This level of reasoning is possible for Ushiromiya Ange. 
+
 
 #v4287Hey! That's my catch phrase. Don't copy me! 
 
+
 #v4288What do you think? This level of reasoning is possible for Furudo Erika. 
+
 
 #v4128Do you practice that all the time in front of a mirror? ...That's hardcore. 
 
+
 #v4129There's no time to stand around. I'll definitely expose the truth! 
+
 
 #v3934Ange, you mustn't search for the truth so hard that you lose sight of what's IMPORTANT. 
 
+
 #v4130...You're surprisingly good for hugging. ...I never would've guessed. 
+
 
 #v3935That is not a COMPLIMENT. ...That TICKLES. 
 
+
 #v3936You are the second Witch of Truth I have MET. 
+
 
 #v4131Don't lump me in with her. We have different ways of viewing the truth. 
 
+
 #v4132...Butts? No, I don't have a habit of pinching butts. 
+
 
 #v5538Thank God. ...I was worried it might be an Ushiromiya Family tradition. 
 
+
 #v4133The heart...? Can that really give you a clue towards finding the truth? 
+
 
 #v5539It can. ...Or rather, without that, you won't be able to understand the truth even if you do reach it. 
 
+
 #v4134...Only hot guys are allowed to wear white shirts. 
+
 
 #v5540Are you trying to say that I should wear this, or shouldn't? 
 
+
 #v4135I'll break this game board thing and take everyone back...! 
+
 
 #v5890That's right. If you don't break Beato's game board, no one will be able to come home to you... 
 
+
 #v4136How long will this farce continue? ...I've gotten tired of this. 
+
 
 #v5891It'll continue until I get tired of it. I'm gonna have it entertain me for a bit longer... 
 
+
 #v5892To descend to becoming a witch's piece in exchange for the truth. ...What a stupid kid. 
+
 
 #v4137Go ahead and laugh. ...As long as you tell me the truth, I don't care if I die right here and now. 
 
+
 #v4138You always smell so sweet. ...Would you be sweet if I licked you too? 
+
 
 #v4874Who knows? But anyway, only Bern gets to do that. 
 
+
 #v4875The best of happy endings! I'll show you that with certainty! 
+
 
 #v4139Of course. And I'll certainly show you an end that isn't boring. 
 
+
 #v4876Ange, ...you're starting to get a good look on your face. 
+
 
 #v4140Yeah, I'm okay now. I know what I need to do. 
 
+
 #v0310This magic stuff's pretty amazing. I'd like to learn a spell or two! 
+
 
 #v1480It's merely a technique of ostentation... You would have no need of it, Battler-kun. 
 
+
 #v1481Come, try and remember. What form did you have? 
+
 
 #v0311Ihihi! Yeah, remember how we were beating you up and you were crawling on the floor! 
 
+
 #v0312Don't get Virgilia angry. She may not look it, but she can get stuff done when she gets serious. 
+
 
 #v1482My, my. You make it sound like I usually don't get stuff done. Heheheh... 
 
+
 #v0460Not bad. That's my Predecessor's Predecessor's Predecessor for you. 
+
 
 #v1483When you say it like that, umm, ...it makes me feel so very old. 
 
+
 #v1484How can I get them to understand that a fight with an obvious conclusion is pointless...? 
+
 
 #v0461That's easy. One punch to the face. That'll teach them. 
 
+
 #v1485Sometimes, I question myself. What might I have done to avert this profitless battle...? 
+
 
 #v0462You'll be able to avoid the next one. Just make sure they'll never get up again. 
 
+
 #v1486The two bishops control different squares, despite being the same piece. 
+
 
 #v1487That's just like us. That way, there are no squares to escape to, be they white or black. 
 
+
 #v1488Body double magic can be fun every now and then. How about a chess match later? 
+
 
 #v1489Very well. After all, you are my most well-balanced and formidable opponent. 
 
+
 #v1490That's interesting. I've never been able to calmly observe myself fighting. 
+
 
 #v1491A spell for the purpose of reflecting upon oneself. That is what body double magic is. 
 
+
 #v1030As I expected. Holding back within reason allows one to perform more excellently in battle. 
+
 
 #v1492It's just like tea. Making it too hot or too thick merely harms its taste... 
 
+
 #v1493Have we grown old...? I seem to be having a hard time fighting with the young'uns. 
+
 
 #v1031Fear not. Our old selves probably heard the same thing from those who came before us. 
 
+
 #v1494Even this fight is like chess. The one who thinks the hardest will end up cornering their opponent and achieving victory. 
+
 
 #v1032An attack is merely moving a piece. If you do so without thinking, you cannot win. 
 
+
 #v0130I've managed to catch just a glimpse of the old you. How truly terrifying you are...! 
+
 
 #v1495If I had shown you more, perhaps I would have been able to guide you down the proper path... 
 
+
 #v1496Isn't that enough? The loser must be honored. The winner must act in moderation. 
+
 
 #v0131What? The loser must be made naked. And the winner must enjoy humiliating them! 
 
+
 #v0132Pick a number, any number! I'll kill you, bring you back to life, and kill you again! I'll repeat that as much as you want! 
+
 
 #v1497Beato! When will you learn the preciousness of life...? 
 
+
 #v0880What terrifying magical power. Just getting close to you, I feel like I'm gonna turn to ash...! 
+
 
 #v1498Even I still have a long way to go. When a witch terrifies those around her, it means she is still just second rate. 
 
+
 #v1499If you get into fights, that means you're immature. A true victor willingly avoids battle. 
+
 
 #v0881I-I see... Your words are too valuable to waste on immature furniture like me! 
 
+
 #v0882Great job. They were completely defeated. I doubt they'll be getting up again! 
+
 
 #v1500The fact that I was unable to convince them of their defeat before that...is my loss. 
 
+
 #v1180Virgilia-sama, where on earth did you learn that magic...? 
+
 
 #v1501From my mighty ancestors. It was passed down from person to person... 
 
+
 #v1181Fights feel...empty. And so does my inability to avoid them. 
+
 
 #v1502Battles that cannot be avoided are the ones that have meaning. That is what I make myself believe... 
 
+
 #v1503A fight where you have lost your composure is not a challenge, but a gamble. 
+
 
 #v1182You're right. And even when you do gamble, you should accept that challenge with a calm mind. 
 
+
 #v0730I underestimated you... What a terrifying person you are, ...Virgilia-sama. 
+
 
 #v1504All people are terrifying. It's important to remember and respect that. 
 
+
 #v1505Neither the victor nor the defeated will find happiness. That is what battles are meant to teach you... 
+
 
 #v0731...Is that so? ...I don't...understand... 
 
+
 #v0732You should thank Virgilia-sama! You're lucky you ended up with only those injuries! 
+
 
 #v1506No, I must apologize. Forgive me for going so far... 
 
+
 #v0580You're graceful when you use magic and when you fight. Does magic reflect a person's heart, I wonder? 
+
 
 #v1507Not at all. If it did, my magic would have been dirtied by age. 
 
+
 #v1508Won't you resign? EVA-san isn't as forgiving as I am. 
+
 
 #v0581Hey, I can't believe you actually said that. I'm merciful too. Some of the time! 
 
+
 #v0582You're lucky. If I'd taken you down, you'd be a scrap of flesh encased in jelly! 
+
 
 #v1509You don't want that, do you? I don't want that either. Let's put an end to this. 
 
+
 #v1330Nyeeeh, nyeh nyeeeh nyeeeh, nyeh nyeh nyeh nyeh♪ It's our victory song nyeh! 
+
 
 #v1510Well now, doesn't that sound fun? Perhaps I'll sing along with you. *giggle* 
 
+
 #v1511Are you listening? In all things, moderation is the key. Even winning by too much can become toxic. 
 
+
 #v1331I know nyeeeh. Even carrots get too tender if you boil them too much nyeh! 
-	
+
+
 #v1332Ukyuu! Virgilia-sama, you're so strong nyeh, so strong nyeh! 
+
 
 #v1512The Chiester Sisters are very strong too. You've really grown quite resilient. 
 
+
 #v2739That gracefulness of movement... ...I get the feeling that you embody my ideal. 
+
 
 #v3486When it comes down to it, even battles are like chess. You learn to calmly predict the next move. You're not so bad at it yourself. 
 
+
 #v3487My, my, done already? Kids these days... 
+
 
 #v2740That's not the kind of thing you ought to say. The aging process advances the more you admit to it. 
 
+
 #v3488Even you are a magic user, George-kun. You managed to bring about your own rebirth several times, did you not? 
+
 
 #v2741If that's magic, ...I'll become a demon king. Then I'll have everything...both her, and happiness. 
 
+
 #v2934Du-duum! That spear's massive! If that hit you, there wouldn't be anything left! 
+
 
 #v3483A sacred spear pierces all. ...Not unlike your conviction, in fact. 
 
+
 #v2935That got me sweating good! I wonder if that'll help my waistline. 
+
 
 #v3484Hohoho. It'll also increase your metabolism, making your skin all silky smooth. 
 
+
 #v3485I'm so glad you asked. The secret lies in this mackerel drink. 
+
 
 #v2936I-I might want to be a witch, ...b-but I don't wanna drink that! 
 
+
 #v3489Winning with grace is something to aim for. Winning pathetically by overpowering your opponent will gain you nothing. 
+
 
 #v3264...Hearing that hurts. I do have a bad habit of yelling at people... 
 
+
 #v3265Maria often says that she wants to become a witch. Are you her role model? 
+
 
 #v3490If I were, that would be fine, ...but if it's Beato, I fear for her future... 
 
+
 #v3491Heheheh, I've still got plenty of fight left in me. Women grow stronger with every year they age. 
+
 
 #v3266You're right. Men who don't understand that are still children. 
 
+
 #v5730Checkmate. That concludes our explanation of the trick. 
+
 
 #v4289That trick was a cheap one. We'd already solved it five seconds in. 
 
+
 #v4290Witch battles can be fun every now and then. It's much easier if you don't have to use your head. 
+
 
 #v5731Intelligence is vital even in a witch's battle. ...Do you imagine that the goddess of victory smiles on those who do not think? 
 
+
 #v4291<Good.> With my reasoning and your spear, there's nothing we can't pierce. 
+
 
 #v5732I too would like to discuss the mystery genre over tea with you someday. 
 
+
 #v3937I have warm feelings for the days when we fought over countless closed room tricks like THIS. 
+
 
 #v5733That does take me back. Back then, there was no trick we couldn't break down. 
 
+
 #v3938I bought some youkan as a SOUVENIR. Why not switch to green tea and Japanese snacks every now and THEN? 
+
 
 #v5734My, my, isn't that wonderful. Then let me get that Shizuoka green tea I've been saving. 
 
+
 #v5735When you spend time with the young, it starts to feel as though you're growing younger as well. 
+
 
 #v3939I can keep FIGHTING! I am full of SPIRIT! Because I am a KID! 
 
