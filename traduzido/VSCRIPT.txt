@@ -7637,22 +7637,22 @@ Shannon e eu nos tornaremos um. Não deixarei ninguém negar essa certeza.
 Ah, então você sabe como falar. Acompanharei sua força de vontade certeira até o fim.
 
 #v2883Both then and now, it looks like I'm the better one in a fight!
-
+Tanto antes como agora, parece que sou melhor lutando!
 
 #v2532D-Dammiiiiiit! If only your boobs hadn't distracted meee!! 
-
+M-Merdaaaaa! Se ao menos seus peitos não ficassem me distraíndo!
 
 #v2533D-Did you have to hit me that hard?! I-I just tried to touch them a little bit... 
-
+P-Precisava me bater tão forte?! E-Eu só tentei passar a mão neles...
 
 #v2884Don't think you'll be able to defile the purity of a woman's chest so easily! 
-
+Não penseu que será capaz de macular a pureza dos peitos de uma dama tão facilmente! 
 
 #v2885Hey, are you giving up already? You've gotten pretty weak these past six years. 
-
+Ei, já vai desistir? Você ficou bem fraco nesses últimos seis anos.
 
 #v2534Owowow... And it looks like the daughter of the Ushiromiya Family hasn't changed these past six years...! 
-
+Aiaiai... E parece que a filha da família Ushiromiya não mudou nada nos últimos seis anos...!
 
 #v2886Sorry, Ange. We're the same age, so I'm not gonna go easy on you...! 
 
@@ -8837,167 +8837,167 @@ Q-Quem está chamando de Bruxa da Escuridaõ?! Eu sou humana! Pare de zombar de 
 #v3904Erika, you mustn't forget THIS. I went easy on you because I am a FRIEND. 
 Erika, não esqueça DISSO. Eu peguei leve porque sou sua AMIGA.
 
-#v4271You were totally serious back there, murder doll...! Nnngg... 
-
+#v4271You were totally serious back there, murder doll...! Nnngg...
+Você levou mesmo a sério, boneca assassina...! Nnngg...
 
 #v4272I see you're as ridiculously merciless as ever... Are you trying to turn me into minced meat...?! 
-
+Vejo que continua mais impiedosa do que nucna... Está tentando me transformar em guisado...?!
 
 #v3905At least that much power is required to correct your ATTITUDE. 
-
+Esse tanto de força é necessária para corrigiar a sua ATITUDE.
 
 #v3906If you can still stand up, ...you should prepare yourself for the next BLOW. 
-
+Se ainda consegue levantar, ...então prepare-se para o próximo GOLPE.
 
 #v4273I hate this, ...but my reasoning is telling me one thing. ...I can't...beat you. 
-
+Odeio isso, ...mas meu raciocínio me diz uma coisa. ...Que eu não...consigo derrotá-la.
 
 #v3907To think you would switch places with ME. I sympathize with the fact that you were ordered to do SO. 
-
+E imagina que iria trocar de lugar COMIGO. Eu simpatizo com o fato de que foi ordenada a fazer ISSO.
 
 #v3908...As expected from...an INQUISITOR... It couldn't go...that EASILY... 
-
+...Como esperado de uma...IQUISIDORA... Não tinha como...ser tão FÁCIL...
 
 #v3909I have FAILED... As expected...from an INQUISITOR... 
-
+Eu FALHEI.... Como esperado...de uma INQUISIDORA...
 
 #v3910I won't give up the top spot in Eiserne Jungfrau so EASILY. 
-
+Não abrirei mão da primeira posição na Eiserne Jungfrau tão FACILMENTE.
 
 #v3911Come now, a new, easy job awaits YOU! All you have to do is stamp some DOCUMENTS...! 
-
+Vamos, um novo e simples trabalho lhe ESPERA! Tudo o que precisa fazer é carimbar DOCUMENTOS...!
 
 #v3912STAMPS?!!! NOOO! One more TIME! Fight me one more TIME! 
-
+CARIMBAR?!!! NÂOOO! Mais uma VEZ! Lute comigo mais uma VEZ!
 
 #v3913Let us call it a GAME. Fighting you made for a fun MATCH. 
-
+Vamos acabar este jogo AQUI. Lutar com você foi um bom EMBATE.
 
 #v5469You saw right through me. ...Don't expect it to go like this next time around. 
-
+Você viu através de mim. ...Não espere que vai conseguir de novo dessa vez.
 
 #v5470What a disgrace to the name of Wright. ...I can't believe I lost so pathetically. 
-
+Mas que desgraça para o nome Wright. ...Não acredito que perdi de forma tão patética.
 
 #v3914It isn't about winning and LOSING. We just love mysteries in different WAYS. 
-
+Não é sobre vencer ou PERDER. Nós só amamos mistérios de maneiras DIFERENTES.
 
 #v3915Your movements have DULLED. Do you need some time off to RECOVER? 
-
+Seus movimentos ficaram ENFERRUJADOS. Precisa de um tempo para se RECUPERAR?
 
 #v5471I've already retired. ...That was fun. Let's fight again sometime. 
-
+Eu já me aposentei. ...Foi divertido, vamos lutar de novo algum dia.
 
 #v3916I will show no mercy to evil, even if you are a witch of the SENATE. 
-
+Não demonstrarei piedade diante do mal, nem mesmo se for uma bruxa do SENADO.
 
 #v5821How dare you...do this...to me... Nnggg... 
-
+Como ousa...fazer isso...comigo... Nnggg....
 
 #v5822Not bad. It looks like you'll make this game a little more interesting... 
-
+Nada mal. Parece que você deixará este jogo um pouquinho mais interessante...
 
 #v3917I cannot fulfill your REQUEST. My role is to end this GAME. 
-
+Não posso cumprir seu PEDIDO. Meu papel é terminar este JOGO.
 
 #v3918ENOUGH. IT is best if you don't resist so USELESSLY. 
-
+BASTA. Será melhor se não resistir em VÃO.
 
 #v5823A mere Inquisitor defeated me?! Auau! What kind of plot is this?! 
-
+Uma mera Inquisidora me derrotou?! Auau! Que tipo de enrredo é esse?!
 
 #v3919What sort of scenario is THIS? For Lady Lambdadelta to be defeated by ME... 
-
+Que tipo de roteiro é ESTE? Para que a Lady LAMBDADELTA ser capaz de me DERROTAR...
 
 #v4803O-Of course I lost on purpose, obviously! Tsuuun! 
-
+É-É claro que eu perdi de propósito, óbivo! Tsuuun!
 
 #v4804Time out for a sec...! Come on, let me have at least a little chance to show off! 
-
+Vamos fazer uma pausa...! Qual é, ao menos me dê uma chance de me exibir!
 
 #v3920When you show off, it is no joke to the rest of US. 
-
+Quando resolve aparecer, é sempre um problema para NÓS.
 
 #v4805A-And that ends our rehearsal! Next time will be the real thing! 
-
+E-Esse é o fim do nosso ensaio! Da próxima vai ser pra valer!
 
 #v3921Oh, is that SO? UNDERSTOOD. Then next time, I will take this SERIOUSLY. 
-
+Oh, é MESMO? Certo, então da próxima vez, eu irei levar a SÉRIO.
 
 #v5472That's right. Don't neglect the heart. ...Your reasoning isn't flawed. 
-
+Isso mesmo. Não negligencie o coração. ...Seu raciocínio não é falho.
 
 #v3766I don't have a clue what Beato is thinking...! 
-
+Não faço ideia do que a Beato está pensando...!
 
 #v3767The 'why dunnit'...? Can that really help when building theories...? 
-
+O 'why dunnit'...? Ele pode mesmo ajudar a formular teorias...?
 
 #v5473It's just like spinning the chessboard around, isn't it? ...Don't neglect the heart. 
-
+É como virar o tabuleiro, não é? ...Não negligencie o coração.
 
 #v5474Don't stop thinking. If you stop there, you won't make it any further. 
-
+Não pare de pensar. Se parar aqui, não conseguirá mais progredir.
 
 #v3768Dammiiiiit...! What else can I think of?! I don't...understand... 
-
+Merdaaaaaaa....! O que mais posso pensar?! Eu não...entendo...
 
 #v5475Don't assume you know the answer. ...The truth usually lies outside your range of vision. 
-
+Não presuma que sabe a resposta. ...A verdade normalmente reside além do seu campo de visão.
 
 #v4117How am I wrong...?! I'm not wrong...!! 
-
+Como estou errada...?! Eu não estou errada...!
 
 #v4118I've got no interest in the heart! All I want to know is the truth of that day! 
-
+Não tenho interesse no coração! Tudo que quero saber é a verdade sobre aquele dia!
 
 #v5476And that's why you can't understand it. ...Not the simple truth before your eyes. 
-
+E é isso que você não consegue compreender. ...Não é a simples verdade diante dos seus olhos.
 
 #v4119Why?! If what I need is determination to know the truth, I've had that for a while now! 
-
+Quê?! Se o que preciso é determinação para descobrir a resposta, eu já a tenho agora!
 
 #v5477The truth? Isn't there something you need to know even more than that? 
-
+A verdade? Não tem mais nada que precise saber mais do que isso?
 
 #v5478You're not bad, even after retirement. I guess it's true that witches never age. 
-
+Você não é ruim, mesmo depois de se aposentar. Acho que é verdade que bruxas não envelhecem.
 
 #v5721After all, I'm an eternal 17-year-old. ...Owowowow... 
-
+Afinal, sou uma eterna garota de 17 anos. ...Aiaiaiaia...
 
 #v5722Splendid. I can see why you inherited the name of Wright. 
-
+Esplêndido. Consigo entender o motivo pela qual herdou o nome Wright.
 
 #v5479Though I've already passed it on. Look forward to the next one. 
-
+Embora eu já o tenha passado adiante. Aguarde ansiosamente pelo próximo.
 
 #v5480Sorry, I put a bit too much force into it. I don't need to go easy on you, right? 
-
+Desculpe, acabei colocando muita força. Não preciso pegar leve como você, né?
 
 #v5723Heheh. Thanks for not underestimating me. 
-
+Heheh. Obrigado por não me subestimar.
 
 #v5481Sorry, but I only drink black coffee on the job. I reserve tea for when I'm off duty. 
-
+Desculpa, mas só bebo café preto durante o expediente. Guardo o chá para quando estou de folga.
 
 #v5136Oh, pardon me. ...It would seem that I still have a long way to go. 
-
+Ah, mil desculpas. ...Parece que ainda tenho um longo caminho pela frente.
 
 #v5137To win with such splendid elegance...! I cannot help but be impressed. 
-
+Para vencer com tamanha elegância...! Estaria mentindo se dissesse que não estou impressionado.
 
 #v5482Whether it comes to reasoning or fighting, you can't forget to follow etiquette and show respect. 
-
+Seja sobre raciocínio ou luta, você não pode esquecer de seguir as etiquetas e demonstrar respeito.
 
 #v5483Your tea's not bad. Could I have another cup? 
-
+Seu chá não é ruim. Posso tomar mais uma xícara?
 
 #v5138Certainly. I'll get you one as soon as I see to these wounds. 
-
+É claro. Irei preparar uma assim que ver essas feridas.
 
 #v5484This troublesome game of yours has been a real pain for me. 
-
+Esse seu jogo problemático tem sido um problema para mim.
 
 #v3688Battler is my only foe! I don't want someone like you solving my riddles! 
 
