@@ -8009,7 +8009,7 @@ Armas são uma manifestação da toxina antimagia. ...Bruxa alguma pode contra e
 Exatamente. A civilização colocou fim a sua superstição.
 
 #v3224Don't appear in front of Maria again, understand? 
-Não apareça mais na frente da Maria, entendeu/
+Não apareça mais na frente da Maria, entendeu?
 
 #v3482...It's not a question of whether I appear before her or not. If Maria calls for me, I will be there. 
 ...Não é sobre eu aparecer na frente dela ou não. Se a Maria me chamar, eu estarei lá.
@@ -8030,79 +8030,79 @@ E não se esqueça do coração feminino, que quer sempre agir de forma descolad
 Se importari de preparar um chá? Qualquer coisa menos chá de rosas.
 
 #v3152Pu ku ku. What a shame. And I just had some fresh rose petals prepared for you... 
-Pu ku ku. Que pena, eu tinha algums pétalas de rosas frescas preparadas para você....
+Pu ku ku. Que pena, eu tinha algumas pétalas de rosas frescas preparadas para você....
 
 #v3228Thanks for playing with my daughter all the time. But don't you ever speak to her again! 
 Obrigada por brincar com a minha filha o tempo todo. Mas nunca mais fale com ela!
 
 #v2490So, is this what they call a helicopter parent...? I see... Maria must have it rough. 
-Então é isso que chamam de um ???...? Entendi... A Maria deve estar passando por maus bocados.
+Então é isso que chamam de uma mãe superprotetora...? Entendi... A Maria deve estar passando por maus bocados.
 
 #v2491Pr-Projectile weapons aren't fair...!! Enough of that...wh-whoa...! 
-
+P-Projéteis são armas injustas...!! Chega disso...e-ei...!
 
 #v3229As if you weren't throwing stakes all over the place! We're even, understand? Even! 
-
+Como se não estivesse atirando estacas pra todo lado! Estamos quites, entendeu? Quites!
 
 #v2492Hohoh... It seems even Rosa has some fight in her. Allow me to resign this time...! 
-
+Hohoh... Parece que até a Rosa sabe lutar. Permita-me resignar desta vez...!
 
 #v3230I-I won against the witch? Yes! This isn't a dream, right?! 
-
+E-Eu venci as bruxa? Isso! Não é um sonho, né?!
 
 #v3231What a poorly-raised child. I'd like to see your parents' faces...! 
-
+Que criança mal-criada. Eu gostaria de como são seus pais...!
 
 #v3105B-But there's a massive picture of her in the reception hall...! 
-
+M-Mas tem um retrato gigante dela no hall...!
 
 #v3106Nngg. ...If only you didn't have that gun, ...I could've taken out a woman or two like you... 
-
+Nngg. ...Se ao menos não tivesse uma arma, ...eu poderia derrubar uma ou duas mulheres como você...
 
 #v3232As long as they aren't clients, I often find myself thinking the same thing... 
-
+Contanto que não sejam clientes, eu costumo pensar a mesma coisa...
 
 #v3233Still, that certainly is an innovative outfit. ...Perhaps I'll use that motif in my next work. 
-
+Ainda assim, esse visual é mesmo inovador. ...Talvez eu o use como inspiração para o meu próximo trabalho.
 
 #v3107Hey, these are our glorious uniforms! ...What? Me, a model? I-I wouldn't do something like that! 
-
+Ei, esses são os nossos gloriosos uniformes! ...Quê? Eu, uma modelo? E-Eu nunca faria algo assim!
 
 #v3234Sorry, I suspected that you might be the culprit. Let's make up tomorrow, okay? 
-
+Desculpa, mas suspeito que você possa ser o culpado. Vamos nos reconciliar amanhã, tá?
 
 #v3390Y-Yes Ma'am. ...Then allow me to take my leave... 
-
+S-Sim senhora. ...Então permita-me partir...
 
 #v3391Wh-Why would I be a wolf...?! Tell me! 
-
+P-Por que eu seria um lobo...?! Me diga?!
 
 #v3235You can't trust anyone who isn't yourself, or a corpse. Sorry. 
-
+Não podemos confiar em ninguém além de nós mesmos ou um cadáver. Desculpe.
 
 #v3236Tell the other servants too. If you take one step out of the servant room, I shoot to kill. 
-
+Diga isso aos demais serviçais. Se colocarem um pé para fora da sala dos serviçais, eu atiro pra matar.
 
 #v3392Y-Yes Ma'am. As you wish... I will tell Genji-sama... 
-
+S-Sim senhora, às ordens... Direi ao Genji-sama...
 
 #v3237You're the most suspicious. Can you prove your innocence?! 
-
+Você é o mais suspeito. Pode provar a sua inocência?!
 
 #v3060...If that's what you believe, there's no proof I can offer. 
-
+...Se é o que acredita, então não há prova que eu possa oferecer.
 
 #v3061So, even my speed...can't keep up with a bullet... 
-
+Então, nem mesmo minha velocidade...consegue acompanhar uma bala...
 
 #v3238Swords are only better than guns in manga and video games. 
-
+Espadas só são melhores que armas em mangás e video games.
 
 #v3239I'm sorry. I really couldn't care less if you're the real Kanon-kun or not. 
-
+Desculpe-me. Pouco me importa se você é o verdadeiro Kanon-kun ou não.
 
 #v3062Ngg, Black Witch...! I can't lose in a place like this...! 
-
+Ngg, Bruxa da Escuridão...! Não posso perder aqui...!
 
 #v3240Come on, prison isn't so bad. It'll be easy if you think of it as a job with a 500-million-yen salary, right? 
 Qual foi, a prisão não é tão ruim. Fica mais fácil se pensar nela como um emprego com um salário de 500 milhões de ienes, não?
@@ -8302,7 +8302,7 @@ Xeque-mate! É assim que uma dedução de verdade se parece, Battler-saaan!
 Até parece que eu me renderia ao seu raciocínio... Sua dedução...está errada...
 
 #v4217Comrade Ange, you lack the resolve to expose the truth. 
-Confrade Ange, lhe falta determinação para expor a veradade.
+Confrade Ange, lhe falta determinação para expor a verdade.
 
 #v4111Are you saying that I'll never reach the truth without that...? 
 Ainda está dizendo que eu nunca alcançarei a verdade sem ela...?
@@ -9000,278 +9000,277 @@ Seu chá não é ruim. Posso tomar mais uma xícara?
 Esse seu jogo problemático tem sido um problema para mim.
 
 #v3688Battler is my only foe! I don't want someone like you solving my riddles! 
-
+O Battler é meu único inimigo! Não quero alguém como você resolvendo meus enigmas!
 
 #v3689You cannot read my heart...!! 
-
+Você não pode ler meu coração...!
 
 #v5485I know how you feel. That's why I won't expose you. ...Don't be afraid. 
-
+Eu sei como se sente. É por isso que não vou expo-la. ...Não tenha medo.
 
 #v3690Not bad...! Let's see this next theory you've been talking about...!! 
-
+Nada mal...! Vamos ouvir a próxima teoria que você tem comentado...!
 
 #v5486Your game has a heart. I won't ignore that. 
-
+O seu jogo tem coração. Não irei ignorar isso.
 
 #v5487I know who you all are, but I have no intention of exposing you. Don't worry. 
-
+Eu sei quem são vocês, mas não tenho a intenção e expor isso. Não se preocupe.
 
 #v5058...T-To think I'd let an enemy comfort me... ...I-I hate this...! 
-
+...E pensar que eu deixaria um inimigo me confortar... ...E-Eu odeio isso...!
 
 #v5059I-I lost completely... Can't wait to see...what all those Inquisitor torture methods are like... 
-
+P-Perdi por completo... Mal posso esperar parr ver...como são os métodos de tortura dos Inquisidores...
 
 #v5488You're going to the evidence storage room, not the interrogation room. I'm sorry we won't be living up to your expectations. 
-
+Você vai para o depósito de evidências, não para a sala de interrogatório. Sinto muito que não alcançaremos suas expectativas.
 
 #v5489You've got it rough, not being able to choose your superiors or subordinates. I can tell. 
-
+Deve ser difícil não ser capaz de escolher seus subordinados ou superiores. Dá para percer.
 
 #v5060D-Don't act like you understand! It's not rough at all! 
-
+N-Não aja como se entendesse! Não é nada difícil!
 
 #v5490All I'm interested in is the heart. Right now, the 'why dunnit' is my mystery. 
-
+Tudo o que me interessa é o coração. No momento, o 'why dunnit' é o meu mistério.
 
 #v5292I pray that your task is completed safely... 
-
+Rezo para que seu dever seja cumprido em segurança...
 
 #v5293Forgive me... It seems you're a person who treasures the heart... 
-
+Perdoe-me... Parece que você é uma pessoa que valoriza o coração...
 
 #v5491Because they have hearts, Humans aren't dolls. I won't forget that. 
-
+Por terem corações, humanos não são bonecos. Não esquecerei isso.
 
 #v5492Sorry about that. I figured I shouldn't go easy on you. 
-
+Desculpe por aquilo. Percebi que não devo pegar leva com você.
 
 #v5294Thank you very much. I gave it my all as well. 
-
+Muito obrigada. Eu também dei tudo de mim.
 
 #v5493What are you afraid of? I haven't come here to expose anyone. I'm only here for a funeral. 
-
+Do que está com medo? Eu não vim aqui para expor ninguém. Só estou aqui pelo funeral.
 
 #v4704...Who are you...? What does it mean to hold a funeral for the riddles of this island...? 
-
+...Quem é você...? O que significa organizar um funeral para os enigmas desta ilha...?
 
 #v4705Like hell you can understand how I feel! Dammit, dammit...! 
-
+Até parece que você é capaz de entender como me sinto! Merda, merda...!
 
 #v5494Live life to the fullest and be honest with your heart. ...That's my answer to your riddle. 
-
+Viva a vida ao máximo e seja honesta com o seu coração. ...Essa é minha resposta aos seus enigmas.
 
 #v5495As to how you care for your guests, I'd say that was about average. Throw in some tea, and it would've been perfect. 
-
+Quanto à forma como cuida de seus convidados, eu diria que foi mediano. Acrescente um pouco de chá e teria sido perfeito.
 
 #v4706Pardon me for not thinking of that... I will go get some now. 
-
+Sinto muito por não pensar nisso... Vou buscar um pouco agora.
 
 #v5496The interpretation that you represent is interesting. But right now, you're getting in the way of my thinking. Stand down. 
-
+A interpretação que você representa é interessante, mas no momento, está no caminho do meu pensamento. Afaste-se.
 
 #v4470How can my magic not work...? Does this guy know about the inside of the cat box...? 
-
+Como a minha magia pode não funcionar...? Essa cara sabe o que está dentro da caixa de gato...?
 
 #v4471Even if I have to go down with you, ...I won't let anyone peek into the cat box! 
-
+Mesmo se eu tiver que afundar com você, ...não deixarei ninguém olhar espiar dentro da caixa!
 
 #v5497My job is giving all this a funeral. ...I won't make light of it. You have my promise. 
-
+Meu trabalhar é oferecer um funeral a tudo isso. ...Não pegarei leve. Você tem a minha palavra.
 
 #v5498Don't worry. I didn't come here to pry your cat box open. 
-
+Não se preocupe. Eu não vim aqui para abrir a sua caixa.
 
 #v4472I'll protect this cat box even if it kills me! I won't let anyone open it! 
-
+Protegerei esta caixa mesmo que isso me mate! Não deixarei ninguém abri-la!
 
 #v5499Your job is to play with people, isn't it? Any more, and you'll be overstepping your bounds. 
-
+Seu trabalho é brincar com as pessoas, não é? Mais um pouco e estará ultrapassando seus limites.
 
 #v5370H-He's treating us like toys... ...Th-This guy's good nyeh... 
-
+E-Ele está nos tratando como brinquedos... ...E-Esse cara é bom, nyeh...
 
 #v5371Wh-Why don't you land the finishing blow nyeh...? I'm prepared for death nyeh... 
-
+P-Por que não dá o golpe final, nyeh...? Estou preparada para morrer, nyeh...
 
 #v5500I can know you without exposing you. If you don't understand, stand back. 
-
+Eu consigo saber em expor você. Se não entende, afaste-se.
 
 #v5501You've fought enough, haven't you? Run along home. I told the butler to get you your favorite thing. 
-
+Você já lutou o bastante, não? Volte para casa. Eu disse ao mordomo para preparar o seu prato favorito.
 
 #v5372Nyeh nyeh! No one expects the enemy to send them carrots...! I'll head straight home nyeh! 
-
+Nyeh, nyeh! Ninguém espera que o inimigo envie cenouras....! Vou direto para casa, nyeh!
 
 #v5505If you're Lion's little sister, you might want to act a bit more ladylike. You'll get your butt pinched. 
-
+Se é a irmã mais nova de Lion, poderia tentar agir um pouco mais como uma dama. Vai acabar levando um beliscão na bunda.
 
 #v4626Huh? I'm whose little sister now? ...What the heck is this guy talking about...? 
-
+Hã? De quem sou irmã? ...Que droga essa cara tá falando...?
 
 #v4627...I'm not gonna start acting all ladylike now. This is how I live... 
-
+...Não vou começar a agir feito uma dama agora. É assim que eu vivo...
 
 #v5506And you kept to that even in Lion's world. That gallantry isn't to be taken lightly. 
-
+E você continua assim mesmo no mundo de Lion. Essa bravura não pode ser subestimada.
 
 #v5507The way your hands move faster than your mouth... As I'd expect from that person's little sister. 
-
+A maneira como move suas mãos mais rápido que a boca... Como esperado da irmã mais nova daquela pessoa.
 
 #v4628Owww...! It's normal to communicate with your fists instead of your mouth, right?! 
-
+Aiii....! O normal é se comunicar com os punhos ao invés da boca, não é?!
 
 #v5502Not bad. It seems the way the world remembers you is mistaken. 
-
+Nada mal. Parece que a forma como o mundo lembra de você está equivocada.
 
 #v4548...I wonder what the future writes about me. It doesn't sound too pleasing. 
-
+...Eu me pergunto o que o futuro escreve sobre mim. Não parece ser muito agradável.
 
 #v4549You got me. I thought I'd be able to fight a bit more than that, though... I guess I have a long way to go... 
-
+Me pegou. Pensei que conseguiria lutar um pouco mais que isso... Acho que ainda tenho um longo caminho...
 
 #v5503Keep on training. I've merely done it for longer than you have. You aren't inferior at all. 
-
+Continue treinando. Eu simplesmente venho fazer isso a mais tempo. Você não é inferior.
 
 #v5504Those kicks you learned from Eva weren't bad. If you ever want to train, come and see me. I'll fight you any time. 
-
+Esses chutes que aprendeu com a Eva não são ruins. Se quiser treinar, procure por mim. Lutarei quando quiser.
 
 #v4550So, even that was you going easy on me. I hope you'll let me train with you right away. 
-
+Então, mesmo isso foi você pegando leve comigo. Espero que me deixe treinar com você agora mesmo.
 
 #v5508Boorish guns like that don't suit a lady. ...Would you mind handing that over? 
-
+Armas rústicas como essa não combinam com uma dama. ...Se importaria de dar ela para mim?
 
 #v5214...I lost... ...But thanks for calling me a lady despite that. 
-
+...Eu perdi... ...Mas obrigada por me chamar de dama, mesmo assim.
 
 #v5215I see that attractive men are strong even when they fight. ...And hopeless women end up like this even when they fight. 
-
+Vejo que homens atraentes são fortes até quando estão lutando. ...E mulheres desesperançadas acabam assim até mesmo quando lutam.
 
 #v5509Victory and loss don't determine a person's worth. ...Here, can you stand? 
-
+Vitória e derrota não determinam o valor de uma pesso. ...Vamos, consegue levantar?
 
 #v5510Looks like a mother protecting her child really can abandon everything else. 
-
+Parece que uma mãe protegendo sua filha é mesmo capaz de abandonar qualquer outra coisa.
 
 #v5216Everyone's like that. I'll protect Maria even if I end up dead! 
-
+Todos são assim. Eu protegerei a Maria mesmo que posso acabar morrendo!
 
 #v5511Then that settles it. Your cold-blooded reasoning isn't mystery. 
-
+Então está decidido. Seu raciocínio de sangue frio não é um mistério.
 
 #v4274H-How could you...pr-profane my reasoning like that?!! D-Damn you...
-
+C-Como pôde...profanar meu raciocínio assim?! M-Merda...
 
 #v4275The mystery genre doesn't need a 'why dunnit'! History proves that! 
-
+O gênero do mistério não precisa de um 'why dunnit'! A história prova isso!
 
 #v5512Then what did this fight prove? Even in the mystery genre, don't neglect the heart. 
-
+Então o que esta luta prova? Não negligencie o coração, nem mesmo o gênero do mistério.
 
 #v5513I'm not so soft that I'd go easy on an intellectual rapist like you. 
-
+Não sou tão gentil a ponto de pegar leve com uma estupradora intelectual como você.
 
 #v4276<Good!> Those are the highest words of praise I can hear! What do you say?! Let's have another match! 
-
+Good! Esse é o melhor elogia que eu poderia ouvir! O que me diz?! Pronto para mais uma!
 
 #v5514Are you okay? I won this time, but neither of us is better than the other. 
-
+Tudo bem? Eu venci dessa vez, mas nenhum de nós é melhor que o outro.
 
 #v3922We are merely guideposts that exist to assist the mystery GENRE. 
-
+Somos meros faróis que existem para fornecer apoio ao gênero do MISTÉRIO.
 
 #v3923I LOST. ...Does this mean that the Decalogue still has many HOLES? 
-
+Eu PERDI. ...Isso quer dizer que ainda há furos no meu DECÁLOGO?
 
 #v5515Those holes give the mystery genre life. It was a good battle. 
-
+São esses furos que dão vida ao gênero do mistério. Foi uma boa batalha.
 
 #v3924So CLOSE. To think that someone with such skill would be RETIRED... 
-
+Tão PERTO. E pensar que alguém tão habilidoso iria se APOSENTAR...
 
 #v5516I'm behind the times. Even the mystery genre changes with the era. 
-
+Eu estou ultrapassado. Até mesmo o gênero do mistério muda de acordo com a era.
 
 #v5517I'm still a wielder of the Twenty Rules. I know how to slip through them as well. 
-
+Ainda sou o portador das Vinte Regras. Eu sei como escapar delas muito bem.
 
 #v5518...Not bad. I hope the next person with the name of Wright is the same... 
-
+...Nada mal. Espero que a próximo pessoa com o nome Wright seja igual....
 
 #v5519Is this...the strength of a man who takes on the name of Wright...? 
-
+Essa é...a força do homem que assumiu o nome Wright...?
 
 #v5520That's right. If you're still like this, it'll be a long time before I give up this name. 
+Isso mesmo. Se você continuar assim, vai demorar muito tempo antes que eu abra mão desse nome.
 
-
-#v5521Why did you copy me?@ 
-
+#v5521Why did you copy me? 
+Por que me copiou?
 
 #v5522...Don't think too hard on it. You'll just get a headache. 
-
+...Não tente pensar muito. Só vai ficar com dor de cabeça.
 
 #v5523It looks like your master abandoned you. Otherwise, there's no way I would've won. 
-
+Parece que sua mestra a abandonou. Caso contrário, não teria como eu ter vencido.
 
 #v5824She must have wanted to see me fail... Damn Auaurora... 
-
+Ela devia querer me ver fracassando... Maldita Auaurora...
 
 #v5825Okay, okay, I surrender. I'll be in the stands. 
-
+Tá, tá, eu me rendo. Ficarei ??? verificar jp
 
 #v5524Damn you, just when it was getting good. ...You're the worst kind of spectator. 
-
+Maldito, logo quando estava ficando bom. ...Você é o pior tipo de espectador.
 
 #v5525If only you were as cute as Diana... 
-
+Se ao menos fosse fofac como a Diana...
 
 #v5826Oh? I'm a pedigree, did you know that? Even my fur is top class... 
-
+Oh? Eu tenho pedigree, sabia disso? Até meu pelo é de alta qualidade...
 
 #v5526Is it really okay for me to claim victory? If you want it, I wouldn't mind letting you have it... 
-
+Tudo bem mesmo eu revindicar a vitória? Se a quer, eu não me importaria de deixá-la para você...
 
 #v4806Go ahead and win. It's my reward for that excellent display of fighting you showed me. 
-
+Vá em frente e vença. É a minha recompensa pela excelente postura de demonstrou.
 
 #v4807Hmph, I'll let you win this time! But only for today, okay?! 
-
+Hmph, deixarei que vença desta vez! Mas só por hoje, ouviu?!
 
 #v5527I'll take you at your word. ...I've got absolutely no confidence in my ability to beat you again. 
-
+Aceitarei sua proposta. ...Eu não tenho confiança o suficiente nas minhas hanilidade para derrotá-la de novo.
 
 #v4808Not bad! Even if it was a fluke, you beat me, Lady Lambdadelta! 
-
+Nada mal! Mesmo que tenha sido por acaso, você me derrotou, Lady LAMBDADELTA!
 
 #v5528It might not go this way next time, right? I'll take a win while I can. 
-
+Pode ser que não acabe assim da próxima vez, né? Vou aproveitar a vitória enquanto posso.
 
 #v5827Don't mistake your opponent, okay? Make Beato suffer more and entertain me. 
-
+Não confunda sua oponente, tá? Faça a Beato sofrer mais e entretenha-me.
 
 #v3769...Sh-She's so strong... ...Will we be...her toys forever...? 
-
+...E-Ela é muito forte... ...Nós vamos ser...seus brinquedos para sempre?
 
 #v3770This game board...belongs to us... I won't let you...ngg... 
-
+Este tabuleiro...pertence a nós... Não deixarei que...ngg...
 
 #v5828Pieces don't need to talk! Just shut up and kill your opponent's pieces! 
-
+Peças não precisam falar! Cale a boca e mate a peça do seu oponente!
 
 #v3771Ngg... Not yet! I've got to protect this game board! 
-
+Ngg... Ainda não! Eu preciso proteger este tabuleiro!
 
 #v5829Protect it? *giggle*giggle*... What are you babbling on about, little piece? 
-
+Proteger? *risos*risos*... O que está balbuciando, pecinha?
 
 #v5830I'm bored. Turn into minced meat again. That squishy, dirty kind. 
-
+Estou entediada. Vire guisado de novo. Daqueles molengas e asquerosos.
 
 #v4120I...am not your toy... ...Nnngg, ...aaaaaaaaah!!
 Eu...não sou seu brinquedo... ...Nnnngg, ...aaaaaaaaah!!
-
 
 #v5831Do you intend to disobey me? Don't you still need the miracle of your family coming home?
 Pretende me desobedecer? Você não precisa de um milagre para sua família voltar para casa?
