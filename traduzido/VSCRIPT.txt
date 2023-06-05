@@ -9219,7 +9219,7 @@ Parece que sua mestra a abandonou. Caso contrário, não teria como eu ter venci
 Ela devia querer me ver fracassando... Maldita Auaurora...
 
 #v5825Okay, okay, I surrender. I'll be in the stands. 
-Tá, tá, eu me rendo. Ficarei ??? verificar jp
+Tá, tá, eu me rendo. Ficarei assistindo.
 
 #v5524Damn you, just when it was getting good. ...You're the worst kind of spectator. 
 Maldito, logo quando estava ficando bom. ...Você é o pior tipo de espectador.
@@ -9276,496 +9276,496 @@ Eu...não sou seu brinquedo... ...Nnnngg, ...aaaaaaaaah!!
 Pretende me desobedecer? Você não precisa de um milagre para sua família voltar para casa?
 
 #v4121...That's... ...Please, ...come home, ...Onii-chan... 
-
+...Isso é... ...Por favor, ...volte pra casa, ...onii-chan...
 
 #v4122Does this mean I don't have enough resolve to know the truth? What more...can I do...? 
-
+Quer dizer que eu não tenho determinação suficiente para saber a verdade? O que mais...eu posso fazer...?
 
 #v5832If you don't know that, then maybe the truth is a bit too much for you after all. *giggle*giggle*... 
-
+Se não sabe, talvez a verdade seja um pouco demais para você. *risos*risos*...
 
 #v5833Why don't you go back to whatever picture book you came from? I'll crush you inside it and use you as a bookmark. 
-
+Por que não volte para o livro ilustrado de onde saiu? Vou esmagá-la dentro dele e usá-la como marcador de página.
 
 #v5724...Someday, you will be felled in turn, and that will be recorded in a picture book... 
-
+...Algum dia, você será derrotada, e isso ficará registrado em um livro ilustrado...
 
 #v5725...Is the miracle of defeating you...really an impossible one...? 
-
+...O milagre de derrotá-la...é realmente impossível...?
 
 #v5834Basically, yeah. Miracles are called miracles because they don't happen. *giggle* 
-
+Basicamente, sim. Milagres são milagres porque não ocorrem. *risos*
 
 #v5835Oh, are you finished? The elderly can be so tiring. 
-
+Oh, acabou? Os idosos podem ser cansativos.
 
 #v5726...You're the one person I don't want calling me elderly... 
-
+...Você é a única pessoa que não quero me chamando de idosa...
 
 #v5836I'm sorry. Your tea just doesn't suit my tastes. 
-
+Desculpe. Seu chá não é do meu agrado.
 
 #v5139...That...was more painful than any of your attacks... 
-
+...Isso foi...mais doloroso que qualquer um de seus ataques...
 
 #v5140Even when he knows he cannot win, ...wanting to try anyway is the sort of romantic idea a man yearns for. 
-
+Mesmo quando sabe que não pode vencer, ...tentar mesmo assim é meio que o ideal romântico que um homem almeja.
 
 #v5837So, you call a miracle that'll never happen romantic? Out of respect for your good taste, I'll forgive you. 
-
+Então para você um milagre que nunca acontece é romântico? Em respeito ao seu bom gosto, vou perdoá-lo.
 
 #v5141What a shame that I, Ronove, ...could not adequately entertain our guest. 
-
+Quer vergonha que eu, Ronove, ...não ser capaz de entreter adequadamente nossa visitante.
 
 #v5838*giggle*giggle* ...That was a bit better than your usual tea. 
-
+*risos*risos* ...Foi um pouco melhor que o chá que costuma servir.
 
 #v5839You're great, Beato. I came all this way just to see you looking so pathetic! 
-
+Você é ótima, Beato. Vim até aqui só para ver essa sua forma patética!
 
 #v3691Then you should be happy now... ...Damn you, ...witch who has tired of boredom... 
-
+Então deve estar feliz agora... ...Droga, ...bruxa que cansou do tédio...
 
 #v3692So, what is a sacred game to me...is merely a way to kill time to you...? 
-
+Então, o que para mim é um jogo sagrado...para você é meramente uma forma de matar tempo...?
 
 #v5840But a very good one, okay? Come on, heal my sickness again and again. 
-
+Uma forma bem boa, sabia? Anda, continue a curar a minha doença.
 
 #v5841Ahahahah! Just looking at your face gives me shivers...! 
-
+Ahahahah! Me dá calafrios só de olhar pra sua cara...!
 
 #v3693Nngg... I see you have excellent taste yourself, Lady Bernkastel... 
-
+Nngg... Vejo que tem um excelente gosto, lady BERNKASTEL...
 
 #v5842I'll toy with your sisters as I kill them in front of you. What do you think? Doesn't that sound fun? 
-
+Vou brincar com suas irmãs enquanto as mato na sua frente. O que acha disso? Não soa divertido?
 
 #v5061M-My little sisters...! I'll suffer any humiliation, just spare my little sisters...! 
-
+M-Minhas irmãzinhas...! Eu aceitarei qualquer tipo de humilhação, só poupe as minhas irmãs...!
 
 #v5062F-Forgive me...! I'll do anything, ...just forgive me... 
-
+P-Perdoe-me...! Eu farei qualquer coisa, ...apenas me perdoe...
 
 #v5843Really, anything? You won't go back on your word, right? Heheh, heheheheheheheheh...!! 
-
+Qualquer coisa, mesmo? Não vai voltar atrás com a sua palavra, né? Heheh, heheheheheheheheh...!!
 
 #v5844I'm gonna let your sisters see you looking this pathetic. Oh, or would that actually be a present in your case? 
-
+Deixarei que suas irmas vejam o quão patética você é. Ou quem sabe, no seu caso, isso poderia ser um presente?
 
 #v5063Eep...! I'm so sorry...! Anything...but that...! 
-
+Eep...! Me desculpe...! Qualquer coisa...menos isso...!
 
 #v5845I've decided. I'm going to have you stuffed. And then I'll spit on you every morning. 
-
+Já decidi. Vou mandar empalhar você, e então irei cuspir em você todas as manhãs.
 
 #v5295What an evil person... ...To think that a witch like this...controls miracles... 
-
+Que pessoa mais maligna... ...E pensar que uma bruxa como essa...controla os milagres...
 
 #v5296If your strength represents the heartlessness of miracles, ...God must be so cruel... 
-
+Se sua força representa milagres impiedosos, ...Deus deve ser bem cruel mesmo...
 
 #v5846That's right. Making Humans understand that heartlessness is the role of the Witch of Miracles. 
-
+Isso mesmo. Fazer os humanos entenderem essa impiedade é o papel da Bruxa dos Milagres.
 
 #v5847So, you won't even cry or beg for mercy... ...Furniture is so boring. 
-
+Não vai chorar nem implorar por misericórdia... ...Mobílias são tão chatas.
 
 #v5297I have no reason to beg... Go ahead, ...kill me. 
-
+Não tenho motivos para implorar... Vá em frente, ...me mate.
 
 #v5848I'll make you beg for your life while crying! I'm betting that I'll be able to do it within seven days. 
-
+Farei você implorar por sua vida enquanto chora! Aposto que conseguirei fazer isso dentro de sete dias.
 
 #v4707...Go to hell... ...Dammit, ...am I already there...? 
-
+...Vai pro inferno... ...Merda, ....já estou nele...?
 
 #v4708If you're going to kill me, do it all at once...! Do you intend to humiliate me further...?! 
-
+Se vai me matar, faça de uma vez...! Pretende me humilhar ainda mais...?!
 
 #v5849I'm merciless against my enemies, but kind to my toys. Well, I'll play with you again. 
-
+Sou impiedosa perante meus inimigos, mas gentil com meus brinquedos. Vou brincar com você de novo.
 
 #v5850*giggle* Does useless furniture count as burnable trash? Or is it oversized instead? 
-
+*risos* Mobílias inúteis contam como lixo incinerável? Ou excede o tamanho máximo?
 
 #v4709...Nng, kill me quickly! ...Don't humiliate me any more...! 
-
+...Nng, me mate rápido! ...Não me humilhe ainda mais...!
 
 #v5851Your brutality matches my tastes. Open up the cat box of your own accord. If you do, I'll forgive you. 
-
+Sua brutalidade combina com meu gosto. Abra a caixa por vontade própria. Se fizer isso, irei perdoá-la.
 
 #v4473Like hell I'll open it!! If you want to kill me, then kill me! I won't let you reach the truth even if I die! 
-
+Até parece que vou abrir!! Se quer me matar, então me mate! Não deixarei que alcance a verdade, mesmo que eu morra!
 
 #v4474Is this a true witch...? ...What terrifying mercilessness...and brutality... 
-
+Isso é uma bruxa de verdade...? ...É assombrosa essa impenitência...e brutalidade....
 
 #v5852Do you call it brutal when you take a walk on a lawn, stepping all over the grass? You don't, do you? 
-
+Chama de brutal quando caminha no parque, pisoteando a grama? Não chama, né?
 
 #v5853Did you really think you could beat the Great Bernkastel despite being a newbie witch? 
-
+Achou mesmo que poderia derrotar a Grande BERNKASTEL, sendo uma bruxa novata?
 
 #v4475I thought I had the power of witches totally understood... I guess this is the end... 
-
+Pensei que tivesse compreendido por completo o poder das bruxas... Parece que é o fim da linha...
 
 #v5854This was just a sideshow, right? If that was supposed to be a fight, ...someone's in trouble. *giggle* 
-
+Esse foi apenas uma prévia, né? Se era para ser uma luta, ...então alguém está em apuros. *risos* 
 
 #v5373N-N-Not at all nyeh...! Th-That was just a little joke nyeh... Nyeh... 
-
+N-N-Nada disso, nyeh...! A-Aquilo foi só uma piada, nyeh... Nyeh...
 
 #v5374There's no way I could beat a Great Witch of the Senate nyeh... What a horrible battle nyeh... 
-
+Não tem como eu derrotar uma Grande Bruxa do Senado, nyeh... Que luta horrível, nyeh...
 
 #v5855You knew that, and you still fought? Every one of you is so fond of miracles. 
-
+Sabia disso e mesmo assim lutou? Vocês adoram mesmo um milagre.
 
 #v5856I was just thinking of getting a new muffler. ...One made of rabbit fur. 
-
+Eu estava mesmo precisando de um cachecol novo. ...Um feito de pele de coelho.
 
 #v5375Eeep...! I-I don't have enough fur on me nyeh! You could get so much more from the goats nyeh! 
-
+Eeep...! N-Não tenho pelo o suficiente, nyeh! Você pode conseguir o quanto quiser das cabras, nyeh!
 
 #v5860No miracle can work against me. After all, I control them. 
-
+Milagre algum funciona contra mim, afinal eu os controlo.
 
 #v4629...If your heart is blazing hot, ...miracles are a certainty... 
-
+...Se o seu coração for flamejante, ...milagres são uma certeza...
 
 #v4630Damn, this is insane... I couldn't find any chances to get ahead... 
-
+Merda, isso é loucura... Não encontrei uma oportunidade de avançar...
 
 #v5861Now do you understand? There are no miracles or chances in this world. 
-
+Entendeu agora? Não há milagres ou oportunidades neste mundo.
 
 #v5862Did you know? The heart doesn't give you anything. It just gets in the way. 
-
+Sabia disso? O coração não serve pra nada. Ele só atrapalha.
 
 #v4631No way that's true...!! A heart that believes gives you strength! 
-
+Isso não é verdade...!! Um coração crente te dá forças!
 
 #v5857I've decided to get Shannon stuffed. If you don't want that to happen, try scratching your own throat out. 
-
+Decidi empalhar a Shannon. Se não quiser que isso aconteça, experimente arranhar a própria garganta.
 
 #v4551...S-Sure... ...If that will set Shannon free, ...I'll do it... 
-
+...C-Claro... ...Se isso libertar a Shannon, ...eu farei...
 
 #v4552I resign. ...Fighting you is a waste of time and energy. 
-
+Eu resigno. ...Lutar com você é perda de tempo e energia.
 
 #v5858A wise choice. I recommend investing your time and energy in something more profitable. 
-
+Sábia escolha. Recomendo investir seu tempo e energia em algo que dê mais lucro.
 
 #v4553You're a coward. ...If only you had a sinister appearance to match how you are on the inside... 
-
+Sua covarde ...Se ao menos tivesse uma aparência sinistra para combinar com o seu interior...
 
 #v5859What is it you people are always saying? You shouldn't judge people on their appearances, is it? 
-
+Como é mesmo que as pessoas dize? Não julgue alguém pela aparência, né?
 
 #v5863I'll let you get away. I just need to get a gun in your hands, and a tragedy will arise all by itself. 
-
+Deixarei que se safe. Só precisa colocar uma arma na sua mão, e a tragédia vai acontecer naturalmente.
 
 #v5217...A-Am I having a bad dream...? Someone, wake me up from this nightmare! 
-
+...E-Estou tendo um pesadelo...? Alguém me acorde!
 
 #v5218What's happening on this island?! Am I Alice? Is this wonderland?! 
-
+O que está acontecendo nesta ilha?! Eu sou a Alice? Esse é o País das Maravilhas?!
 
 #v5864No, this is Rokkenjima. An island of dreams, packed full of every nightmare you can think of... 
-
+Não, estamos em Rokkenjima. Uma ilha de sonhos, repleta de todos os pesadelos imagináveis...
 
 #v5865All that fighting made me hungry. I'd better get that oven-roasted Maria started. 
-
+Toda essa luta me deixou faminta. Hora de preparar uma assado de Maria.
 
 #v5219Noooooooo! Please! Anything but Maria! 
-
+Nãooooooo! Por favor! Tudo menos a Maria!
 
 #v5866So, this pathetic kid is my piece. Guess I should start looking for a better one... 
-
+Então, essa criança patética é a minha peça. Acho que preciso começar a procurar por uma melhor...
 
 #v4277I-I'll get stronger, so please don't throw me away... My master... 
-
+F-Ficarei mais forte, então não me descarte... Minha mentora..
 
 #v4278That's my master for you! You're so strong, so beautiful, and aaah, I think I'm gonna faint! 
-
+Como esperado da minha mentora! Você é tão forte, bela e ahh, acho que vou desmaiar!
 
 #v5867*giggle* If you really feel that way, maybe you'd like to clean my bathtub with your tongue. 
-
+*risos* Se realmente se sente assim, talvez goste de limpar a minha banheira com a sua língua.
 
 #v5868I've got no use for you except as a footrest. ...Along with Battler. 
-
+Não tenho uso para você além de ser um apoio para os pés. ...Junto com o Battler.
 
 #v4279Ahiiiiii! I'm so grateful for that job, my masteeeeer! 
-
+Ahiiiiii! Eu sou tão grata por esse trabalho, minha mentoraaaa!
 
 #v5869To me, both mystery and fantasy...are nothing more or less than ways to kill time. 
-
+Para mim, tanto mistério quanto fantasia...não são nada mais do que meios de matar tempo.
 
 #v3925...Heartless theatergoers like you distort the TALE... 
-
+...Espectadores insensíveis como você distorcem o CONTO...
 
 #v3926I don't UNDERSTAND... ...Why does someone as heartless as you control MIRACLES...? 
-
+Eu não ENTENDO... ...Por que alguém tão insensível como você controla os MILAGRES...?
 
 #v5870I control them because I know, better than anyone else, that miracles don't occur. *giggle*... 
-
+Eu os controlo porque sei, melhor do que ninguém, que milagres não existem. *risos*
 
 #v5871I was actually expecting quite a bit from an Inquisitor's power, ...but that was incredibly boring. 
-
+Eu estava esperando um pouco mais do poder de uma Inquisidora, ...mas isso foi incrivelmente chato.
 
 #v3927A witch who toys with the fates of others to avoid BOREDOM... ...How FEARSOME... 
-
+Uma bruxa que brinca com o destino dos outros para evitar o TÉDIO... ...É mesmo TENEBROSO...
 
 #v5872I applaud you on holding the name of Wright, but I've got no interest in a retiree. 
-
+Eu o plaudo por carregar o no Wright, mas não tenho interesse em um aposentado.
 
 #v5529...I'm glad to hear it, coming from a witch like you... 
-
+...Fico feliz em ouvir isso, vindo de uma bruxa como você...
 
 #v5530So, unless I bring about the miracle of defeating such a monster, no miracles will occur... 
-
+Então, a não ser que eu realize o milagre de derrotar tal mostro, nenhum milagre vai acontecer...
 
 #v5873That's it. Miracles shine and are respected because I block the path to them... 
-
+Isso mesmo. Milagres reluzem e são respeitados porque eu bloqueio o caminho até eles...
 
 #v5874*giggle*giggle* These kids are saying that one of your arms wasn't enough to fill their stomachs. 
-
+*risos*risos* Minhas crianças estão dizendo que um dos seus braços não é o suficiente para saciar a fome delas.
 
 #v5531Sorry, but if I cheat on my beloved, things will get nasty. ...Feed them tuna or something. 
-
+Desculpa, mas se eu trair minha amada, as coisas vão ficar feias. ...Alimente-os com atum ou algo parecido.
 
 #v5875I don't know which Fragment's version of me you are, but I'm glad you look so happy over there. 
-
+Não sei de que Fragmento é essa versão de mim, mas fico contente em ver que parece tão feliz nele.
 
 #v5876...So, there exists a 'me' that can surpass myself... This is what makes the sea of Fragments so interesting... 
-
+...Então, existe um 'eu' capaz de me superar... É isso o que faz o mar de fragmentos ser tão interessante...
 
 #v5877This is hilarious. So, there exists a 'me' who lives in a world even more horrible than mine. 
-
+Isso é hilário. Então, existe um 'eu' que vive em um mondo ainda pior do que o meu.
 
 #v5878It is, isn't it? And no matter what world I'm in, I'm horrible. 
-
+Existe, não é? E não importa em que mundo esteja, eu sou horrível.
 
 #v5879You thought that was a good copy? You must really take me lightly. 
-
+Pensou que era uma boa cópia? Você deve estar mesmo me subestimando.
 
 #v5880A copy is nothing but a copy. Perhaps it was not fated for me to defeat the original... 
-
+Uma cópia nada mais é do que uma cópia. Talvez não fosse o meu destino derrotar a original...
 
 #v5881What's wrong, Lambda? Is it my turn to love you today...? 
-
+Qual o problema, Lambda? É a minha vez de te amar hoje...?
 
 #v4809Ah, you're wonderful, Bern. Tonight, I wanna fall asleep as you hold me brutally. 
-
+Ah, você é maravilhosa, Bern. Hoje à noite, eu quero adormecer enquanto você me segura brutalmente.
 
 #v4810My love is as sweet and fluffy as cotton candy. Why are you running away? 
-
+Meu amor é doce e fofo como um algodão doce. Do que está fugindo?
 
 #v5882If you make it mustard miso flavored, I might consider it. *giggle*... 
-
+Eu posso considerar se for sabor missô com mostarda. *risos*
 
 #v4811That was mean, Bern. Don't you remember all the times we whispered our love to each other...?! 
-
+Isso foi rude, Bern. Esquece de todas as vezes que sussurramos nosso amor uma para a outra...?!
 
 #v5883What are you talking about, Lambda? I love you so much! So much that I want to kill you... 
-
+Do que está falando, Lambda? Eu te amo tanto! Tanto que quero te matar...
 
 #v4812You're the main character, right?! If you're this pathetic, I'm gonna take your place! 
-
+VOcê é o personagem principal, né?! Se é tão patético assim, vou tomar o seu lugar!
 
 #v3772...Tch, I give up. Go ahead, change the series title to Magical Girl Lambda-chan from now on... 
-
+...Tch, eu desito. Vá em frente e mude o título para Garota Mágica Lambda-chan...
 
 #v3773Enough, enough! I can sense that I've got no chance of beating you...! 
-
+Chega, já chega! Posso sentir que não tenho chances de te derrotar...!
 
 #v4813What?! Don't say that! Play with me! I'll make you think you can beat me! 
-
+Quê? Não diga isso! Brinque comigo! Farei você achar que pode me derrotar!
 
 #v4814Get up, now! Next one, on to the next one! Don't give up after a little thing like that! 
-
+Levante, agora! Próxima, vamos para a próxima! Não desista depois de uma coisinha dessas!
 
 #v3774Owwww... I couldn't keep up with a witch at play no matter how many bodies I had... 
-
+Aiiii... Não importa quantos corpos eu tenha, não tem como acompanhar a brincadeira de uma bruxa...
 
 #v4815I'll take good care of you, okay...? Give me an eternal stalemate. 
-
+Vou cuidar bem de você, ouviu...? Conceda-me um eterno empate por afogamento.
 
 #v4123...Who...should I listen to...? I don't understand... 
-
+...Quem...eu deveria dar ouvidos...? Eu não entendo...
 
 #v4124She's totally toying with me. ...This isn't even a fight to her... 
-
+Ela está claramente brincando comigo. ...Sequer é uma luta para ela...
 
 #v4817Kyahahahah! How shall we play next, Ange?! Another mock battle?! 
-
+Kyahahahah! Cmoo devemos brincar agora, Ange?! Outra luta simulada?!
 
 #v4818Hey, hey! I wanna try some too! A hamburger made of you!! 
-
+Ei, ei! Eu quero tentar também! Um hambúrguer feito de você!!
 
 #v4125Eep...! ...Aggghh...! Noooooooooo! 
-
+Eep...! ...Aggghh...! Nãooooooooo!
 
 #v4819I've gotten bored of this game! Playing with old people really is boring! 
-
+Já cansei deste jogo! Brincar com gente velha é mesmo chato!
 
 #v5727...I-In terms of years, you're older, aren't you...? 
-
+...E-Em questão de anos, você é mais velha, não é...?
 
 #v5728Lady Lambdadelta... I cannot take any more of this. ...Owowow... 
-
+Lady LAMBDADELTA... Eu não aguento mais isso. ...Aiii...
 
 #v4820What?! We're just getting started! I'm super partially combusted! Boooo! 
-
+Quê?! Só estamos começando! Eu sou súper parcialmente inflamáve! Boooo!
 
 #v4821What are you lying there for?! Even if you are old, isn't it a bit early for a nap? 
-
+O que faz deitado aí? Mesmo sendo velha, não é meio cedo para dormir?
 
 #v5729...If you're going to call me old, at least go easy on me a little... Owowow... 
-
+...Se vai me chamar de velha, poderia pegar um pouco mais leve comigo... Aiiii....
 
 #v4822Hey, Ronove! I'm hungry! Get me some tea and cookies! 
-
+Ei, Ronove! Tô com fome! Traz logo chá e cookies!
 
 #v5142A-As you command... Would you mind if I retrieved a first aid kit first...? 
-
+À-Às ordens... Se importaria se eu buscasse um kit de primeiros socorros antes,,,?
 
 #v5143What a fearsome person. ...I, Ronove, had no chance of winning. 
-
+Que pessoa mais assustadora. ...Eu, Ronove, não tenho chance de vencer.
 
 #v4823Duh! Don't you realize what horrible Fragments I've been through? 
-
+Dã! Não compreende os Fragmentos horríveis pelo qual eu passei?
 
 #v4824You aren't cute enough! Turn your hair pink! 
-
+Você não é fofo o bastante! Pinte seu cabelo de rosa!
 
 #v5144Y-You mustn't! This isn't funny...! N-Noooooo!! 
-
+N-Não faça isso! Não é divertido... N-Nãooooo!
 
 #v4825Fulfill your wishes with certainty. If you lose that strength, your magic will melt. 
-
+Realize-se seus desejos com a certeza. Se perder essa força, sua magia derreterá.
 
 #v3694I-I understand... After all, certain willpower is the source of my magic... 
-
+E-Eu entendi... Afinal, uma força de vontade absoluta é a fonte da minha magia...
 
 #v3695O-Of course I was joking! Did you think I would actually go against you...?! 
-
+É c-claro que eu estava brincando! Achou mesmo que eu iria contra você...?!
 
 #v4826Ah, so it really was a joke?! Sorry, sorry, I got a bit serious! 
-
+Ah, então era mesmo uma piada?! Desculpa, foi mal, eu acabei levando a sério!
 
 #v4827Ah, that feels great! You've got to get a good workout in every now and then! 
-
+Ah, isso é ótimo! É bom se exercitar de vez em quando!
 
 #v3696And I've been beaten to a pulp for the sake of that workout... I won't last long like this... 
-
+E eu virei saco de pancada em prol desse exercício... Não vou aguentar muito assim...
 
 #v4828Playing with furniture is surprisingly boring. Can't you be more interesting? 
-
+Brincar com mobílias é surpreendentemente chato. Não dá pra ser um pouco mais interessante?
 
 #v5064F-Forgive me... ...I can do...nothing more... 
-
+P-Perdoe-me... ...Eu não posso...mais fazer nada...
 
 #v5065P-Please forgive me...! I was a fool for thinking I could beat you! 
-
+P-Por favor, me perdo-e...! Eu fui tolo em achar que poderia derrotá-la!
 
 #v4829Then write a 500-page letter of apology for your foolishness. Filled with 800 characters a page. 
 Então escreva uma carta de desculpas de 500 páginas por sua tolice. Com 800 caracteres por página.
 
 #v4830I've gotten bored with you. Maybe you'd better get back quickly to your job as a paperweight. 
-
+Já me cansei de você. Talvez seja melhor voltar logo para o seu trabalho como peso de papel.
 
 #v5066Nng... ...Th-Then allow me to return to my assignment...aaaaah...! 
-
+Nng... ...E-Então permita-me retornar à minha função...aaaaah...!
 
 #v4831Not bad! I won't give up my victory, but I do acknowledge your skill. 
-
+Nada mal! Não abrirei mão da vitória, mas reconheço suas habilidades.
 
 #v5298Th-Thank you very much... Even I have things I cannot give up on. 
-
+M-Muito obrigada... Até mesmo eu tenhos coisas que não posso abrir mão.
 
 #v5299Y-Your body is so sweet and sticky... And it smells wonderful... 
-
+S-Seu corpo é tão doce e pegajoso... E tem um cheiro maravilhoso...
 
 #v4832I'm wearing fruit marshmallow perfume today! It's even great for the skin, *giggle*! 
-
+Estou usando um perfume cítrico de marshmallow hoje! É ótimo para a pele, *risos*!
 
 #v4833All girls are weak against sweets! Especially limited-edition ones! 
-
+O fraco de qualquer garota são os doces! Especialmente os de edição limitada!
 
 #v5300...Th-That's true. ...But I'd rather have a first aid kit...right now. 
-
+...I-Isso é verdade. ...Mas eu preferia ter um kit de primeiros socorros...pra ontem.
 
 #v4835That was a good lesson in how not to judge people by their appearances, right? 
-
+Foi uma boa lição sobre como não julgar as pessoas pela aparência, não?
 
 #v4710...I have...no counter for that... ...I hate this... 
-
+...Eu não...tenho contra-argumentos... ...Que merda...
 
 #v4711What a witch... To look so young, despite having such terrifying strength... 
-
+Mas que bruxa... Aparenta ser tão jovem, apesar de ter uma força assombrosa...
 
 #v4836That's the trend these days! The sweet loli who's super strong! Awesome, isn't it? 
-
+Essa é a moda hoje em dia! Uma loli doce que é superpoderosa! Maneiro, né?
 
 #v4837Hey, hey, aren't you done yet? This anime I wanna watch is about to start! 
-
+Ei, ei, ainda não terminou? O anime quero assistir já vai começar!
 
 #v4712...Nng! So, my presence loses even to some anime show...? 
-
+...Nng! Então, minha presença perde até para um anime...?
 
 #v4838Newbie witches tend to get hooked on that all-powerful feeling. Don't worry, it's a path we all walk down. 
-
+Bruxas novatas tendem a ficarem fascinadas pelo sentimento de poder. Não se preocupe, é um caminho que todas percorremos.
 
 #v4476...S-So, even the path of a witch is a long and hard one... Heh, ...heheheheh... 
-
+...E-Então, até mesmo o caminho de uma bruxa é longo e árduo... Heh, ...heheheheh...
 
 #v4477How can I be so completely ineffective against such a dumb-looking kid...?! 
-
+Como eu posso ser completamente ineficiente contra uma criança de aparência imbecil...?!
 
 #v4839Are you mocking me? Don't you know what my educational background was when I was Human? 
-
+Tá debochando de mim? Sabe como foi a minha educação quando eu era humana?
 
 #v4840Do you really keep saying 'if only' because it sounds vaguely like your name? Don't you realize how totally lame-da that sounds? Pfft, *giggle*!! 
-
+Você fica repetindo 'devagar' porque lembra levemente o seu nome? Não percebe o quão lame-da isso soa? Pfft, *risos*!
 
 #v4478Y-You should talk...If only you'd just give up and die! 
-
+O-Olha como fala... Por que não desiste e morre bem devagar!
 
 #v5376Carrots are best raw nyeh! Give those carrots back nyeh! 
-
+Cenouras são melhores se forem cruas, nyeh! Devolva essas cenouras, nyeh!
 
 #v4841No way. I'll cook them all nice and sweet and make a wonderful glace from them! 
-
+Sem chance. Vou cozinhar elas com muito cuidado e doçura e fazer um glace maravilhoso!
 
 #v5377While we were fighting, I think I became a candy nyeh... 
-
+Acho que virei um doce enquanto lutávamos, nyeh...
 
 #v4842I gave you a caramel coating today. Go ahead and enjoy that scent the next time you take a bath! 
-
+Vou te dar uma cobertura de caramelho hoje. Aproveite o cheiro na próxima vez que tomar um banho.
 
 #v4843Bunny ears and a leotard? I'll bet you're gunning for number one on the character popularity poll. 
-
+Orelhas de coelhinha e collant? Aposto que está visando ser a número um na pesquisa de popularidade.
 
 #v5378You give me too much credit nyeh! I'm certain the strong and cute Lady Lambdadelta will get the top spot this time nyeh. 
-
+Está me dando muito crédito, nyeh! Tenho certeza que a forte e fofa Lady LAMBDADELTA vai ficar em primeiro dessa vez, nyeh.
 
 #v4847I like your guts! Use that passion to blaze through your trials and your youth! 
-
+Gostei da sua coragem! Use essa paixão para incendiar suas provações e sua juventude!
 
 #v4632I can't tell if she's a good person, or an evil witch... 
-
+Não sei dizer se ela é uma boa pessoa ou uma bruxa maligna...
 
 #v4633Wah, my fist's all sticky...! What happened...?! 
-
+Wah, meus punhos estão pegajosos...! O que aconteceu...?!
 
 #v4848I'm going candy bar today! Your passion melted it a bit though. 
-
+Hoje é barra de chocolate! Só que a sua paixão derreteu um pouco ela.
 
 #v4634Nng...! Not yet, I can still fight...! 
-
+Nng...! Ainda não, ainda posso lutar...!
 
 #v4849Hyaa! You said something like an anime character! So cool!
 Hyaa! Você disse algo que um personagem de anime falaria! Incrível!
