@@ -9770,131 +9770,131 @@ Nng...! Ainda não, ainda posso lutar...!
 #v4849Hyaa! You said something like an anime character! So cool!
 Hyaa! Você disse algo que um personagem de anime falaria! Incrível!
 
-
 #v4844Ah, that was fun! You're always such a show-off, so I'm never bored. 
-
+Ah, foi divertido! Você é mesmo exibida, por isso nunca finco entediada.
 
 #v4554...I see that punch lines just look like showing off unless you have power to go with them... 
-
+...Acho que punchlines não passam de exibição se você não tiver a força para fazer jus...
 
 #v4555It seems...you weren't the sort of opponent who could be defeated by the likes of me... 
-
+Parece que...você não é o tipo de oponente que poderia ser derrotada por alguém como eu...
 
 #v4845Hey, that's a pretty cool loser's line! I can't stop laughing! 
-
+Ei, essa fala de perdedor foi bem legal! Não consigo parar de rir!
 
 #v4846Hey, hey, are you gonna keep going? This TV drama I wanna see is about to start! 
-
+Ei, ei, vai continuar? A série que quero assistir já vai começar!
 
 #v4556...Nng! So, my presence is even weaker than some TV drama...? Nngg! 
-
+...Ngg! Então, minha presença aqui é inferior a uma série de TV...? Nngg!
 
 #v4850From now on, fill your gun with candies and shoot those. The kids will love it. 
-
+De agora em diante, carregue sua arma com doces e dispare eles. As crianças vão amar.
 
 #v5220...Y-You're right... ...Guns are...too much for me... 
-
+...Tem razão... ...Armas são...demais para mim...
 
 #v5221Tell me! Who are you?! Are you supposed to be a witch?! 
-
+Diga-me! Quem é você! Você supostamente é uma bruxa?!
 
 #v4851That's right. Before long, the new anime with me as the main character's gonna start, so I'll see you then! 
-
+Isso mesmo. Logo mais, vai começar o novo anime onde sou a protagonista, então te vejo lá!
 
 #v4852The Black Witch, Rosa, mother of the Witch of Origins. ...You were surprisingly easy to handle. 
-
+A Bruxa da Escuridão, Rosa, mãe da Bruxa das Origens. ...É mais fácil lidar com você do que eu pensei.
 
 #v5222Why are you calling me a witch?! I'm just a woman! And Maria's mother...! 
-
+Por que está me chamando de bruxa?! Sou só uma mulher! E mãe da Maria...!
 
 #v4853Okay, that settles it! I'll be taking that 'one bath with Bern' coupon! 
-
+Certo, isso define tudo! Vou aceitar esse cupom de 'um banho com a Bern'!
 
 #v4280That's horrible! P-Please, fight me agaaaaaain! 
-
+Isso é horrível! P-Por favor, lute comigo!
 
 #v4854Okay, I'll be taking that. Bern's half-drunk warm milk! 
-
+Certo, vou aceitar o leite quente que a Bern bebeu pela metade!
 
 #v4281A-At least share a drop with me! Have mercy, Lady Lambdadelta! 
-
+A-Ao menos divida uma gota comigo! Tenha piedade, Ladu LAMBDADELTA!
 
 #v4855I just thought of something good... Bern isn't watching, so why don't I bury you forever...? 
-
+Acabei de pensar em algo bom... A Bern não tá olhando, então por que não te enterro pra sempre...?
 
 #v4282...S-Spare me, Lady Lambdadelta!! I don't want to go back to the depths of oblivioooooon!! 
-
+...M-Me poupe, Ladu LAMBDADELTA!! Não quero voltar para as profundezas do esquecimentooooo!!
 
 #v4856I don't like mysteries, because they're too hard! Manga is better when it's filled with battles! 
-
+Eu não gosto de mistérios porque são muito difíceis! Mangás repleto de lutas são bem melhores!
 
 #v3928...Battles and mystery and FANTASY. I give you: UMINEKO... 
-
+...Batalhas, mistério e FANTASIA. Eu te apresento: UMINEKO...
 
 #v3929That is as far as I can GO... Being your opponent is TIRING... 
-
+Esse é o máximo que CONSIGO... Ser sua oponente é CANSATIVO...
 
 #v4857Are you done already?! You heaven people have no guts. Boring! 
-
+Já acabou?! Vocês do Céu não tem coragem. Chato!
 
 #v4858You okay? Here, I have some bandages. Cute, aren't they? Let me stick them on! 
-
+Tudo bem? Aqui, pegue uns curativos. São fofos, não? Deixa que eu coloco!
 
 #v3930I-I appreciate the SENTIMENT... ...However, I will soon be completely covered with BANDAGES... 
-
+E-Eu aprecio o SENTIMENTO... ...Entretanto, logo estarei coberta de BANDAGENS...
 
 #v4859So, what do hot guys say when they lose? Come on, let's hear it! 
-
+O que caras bonitões dizem quando perdem? Hein, diz aí!
 
 #v5532...Isn't it obvious? ...I'm spent. 
-
+...Não é óbvio? ...Estou exausto.
 
 #v5533So this is the true power of the great witch Lambdadelta... ...You really are a monster... 
-
+Então esse é o verdadeiro poder da grande bruxa LAMBDADELTA... ...Você é mesmo um monstro...
 
 #v4860If you say that, Auau will be sad. And hey, don't go calling girls monsters! 
-
+Se disser isso, a Auau vai ficar triste. E não fique chamando as garotas de monstro!
 
 #v4861Even though I went out of my way to save you two from that Fragment... Have you forgotten that already? 
-
+Eu até desviei do meu caminho para salvar vocês dois daquele Fragmento... Já se esqueceu disso?
 
 #v5534...Tch! Do what you want with me... In exchange, leave that person alone! 
-
+...Tch! Faça o que quiser comigo... Em troca, deixe aquela pessoa em paz!
 
 #v4862I win! Tonight, let's swap nighties when we go to bed, okay?! 
-
+Venci! Esta noite, vamos trocar nossas camisolas quando formas para cama, tá?!
 
 #v5884......Sure, if you're okay with me opening a tail hole. 
-
+......Claro, se não se importar que eu abra um buraco para a cauda.
 
 #v5885Huh? ...Do I really have to do that? 
-
+Hã? ...Eu preciso fazer isso?
 
 #v4863Yep, you do! Kiss me and say 'I wuv you, Lambda!' 
-
+Sim, precisa! Me beije e diga: te amo, Lambada!
 
 #v4864Hey, you lost pathetically in this world, too. No matter how many times you try, nothing's gonna change. 
-
+Ei, você também perde de forma patética neste mundo. Não importa quantas vezes tente, nada vai mudar.
 
 #v5886...Hmph. Let's both stop talking about when we were Human. ...It gives me the shivers... 
-
+...Hmph. Vamos parar de falar sobre quando éramos humanas. ...Isso me dá calafrios...
 
 #v4865Get back to your own Fragment. And be grateful for your own fate. 
-
+Volte para o seu Fragmento e seja grata pelo seu destino.
 
 #v4866I can't believe that my Fragment was a relatively lucky one... Super shock... 
-
+Não consigo acreditar que meu Fragmento era relativamente sortudo... Superchocante...
 
 #v4867I see you've been through harsh Fragments, too... I'll let you claim the title of Strongest in the Universe... 
-
+Vejo que também passou por Fragmentos difíceis... Deixarei que reivindique o título de Mais Forte do Universo...
 
 #v4868Thanks. I guess that means I came from the worst Fragment in the universe. 
-
+Obrigada. Acho que isso significa que eu vim do pior Fragmento em todo o universo.
 
 #v4869Ow, owowow...! I'm the real one! I've gotta win with certaintyyyyy!! 
-
+Ai, aiaiai...! Eu sou a verdadeira! Tenho que vencer com certezaaaaa!!
 
 #v4870Ahahah! I'm sorry, that's just so hilarious! Hey, hey, can you be any funnier than that? 
+Ahahah! Desculpa, mas isso foi hilário! Ei, ei, consegue ser mais engraçada que isso?
 
 Undefined line - Loser Conversations - First Person
 Linha indefinida - Diálogo do perdedor - Primeira Pessoa
@@ -9982,6 +9982,7 @@ Eu sou o único que pode acabar com você. Não posso me dar a luxo de perder aq
 
 #v0125Well, that was utterly without mercy. What a bloodless, tearless man you are! 
 Bem, isso foi completamente impiedoso. Mas que homem gelado e sangue-frio!
+
 #v0290Hah, you're the one person I don't wanna hear that from!
 Hah, você é a única pessoa de quem não quero ouvir isso!
 
@@ -9995,7 +9996,7 @@ Hehyahahah! Mas que honra! Elogio algum seria capaz de superar isso!
 Para um humano, até que não é tão ruim. Continue assim!
 
 #v0292You too! I see you aren't Beato's furniture for nothing. 
-Você também! Dá pra perceber que não é uma mobíliada Beato à toa.
+Você também! Dá pra perceber que não é uma mobília da Beato à toa.
 
 #v0293That settles it. I sure hope these guys wake up. 
 Tudo definido. Espero que esses caras acordem.
@@ -10049,34 +10050,34 @@ Ei, eu também estou aprendendo muito com você, Kanon-kun. Vale para os dois. H
 Isso é tudo? Não vai terminar o serviço?
 
 #v0301Oh, they know who won this round. There's no need to go further! 
-
+Oh, eles sabem quem venceu dessa vez. Não precisa ir alé!
 
 #v0302We're the Ushiromiya Family's strongest nephew-aunt combo! Don't you forget us! 
-
+Somos a dupla de tia-sobrinho mais forte da família Ushiromiya! Não se esqueça de nós!
 
 #v0575Hey, can't you do something about that name? Sheesh! 
-
+Não pode fazer algo a respeito desse nome? Tch!
 
 #v0576I can't say I dislike that roughness of yours, Battler-kun. 
-
+Não posso dizer que não gosto dessa sua grosseria, Battler-kun.
 
 #v0303I feel the same about your mercilessness, Aunt Eva. 
-
+Eu sinto o mesmo sobre a sua impiedade, tia Eva.
 
 #v1324Nice nyeh... I knew that would happen, but I'm still impressed nyeh! 
-
+Ótimo, nyeh... Eu sabia que isso aconteceria, mas ainda assim estou impressionada, nyeh!
 
 #v0304Hey, don't praise me to death. I was desperately trying to win. 
-
+Ei, não me elogie tanto. Eu estava desesperada tentando vencer.
 
 #v0305Whew! That last guy really had me on edge. 
-
+Nossa, aquele último cara me levou ao limite.
 
 #v1325Liar nyeh. You were untouchable from start to finish nyeh! 
-
+Mentirosa, nyeh. Você permaneceu intocada do início ao fim, nyeh!
 
 #v1326Nihihi! You're so strong, I don't have to do any work nyeh! 
-
+Nihihi! Você é tão forte que eu nem preciso fazer nada, nyah!
 
 #v0306You said it! Thanks for giving me some time to shine. 
 
@@ -14041,8 +14042,8 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 #v5225You really are clever. I imagine you and Maria would make good friends. 
 
 
-#v3967Is this the power of the Black WITCH? How TERRIFYING. 
-
+#v3967Is this the power of the Black WITCH? How TERRIFYING.
+Esse é o poder da Bruxa da ESCURIDÃO? É ASSOMBROSO.
 
 #v5226Witch? What are you talking about? I'm just a clothing designer. 
 Bruxa? Do que está falando? Sou só uma estilista.
@@ -14102,6 +14103,7 @@ Você é mesmo uma pessa interessante. É uma pena que só teve uma chance de br
 Por que eu iria querer uma chance de brilhar?! Alguém me tire desse pesadelos de bruxas!
 
 #v4908Sweets give kids nourishment of the heart! If you don't give them enough, they'll end up going down the wrong path! 
+Doces alimentam o coração das crianças! Se não os oferecer, elas vão acabar indo pelo mal caminho!
 
 #v5236I-Is that so? Maybe...I'll give Maria sweets a bit more often.
 É-É mesmo? Talvez...eu deva dar mais doces à Maria.
@@ -14109,12 +14111,14 @@ Por que eu iria querer uma chance de brilhar?! Alguém me tire desse pesadelos d
 #v5237I'm sorry. I can't let anyone stand in my way, no matter who they are. 
 Me desculpe. Não posso permitir que ninguém fique no meu caminho, independente de quem seja.
 
-#v4909No, you can't. After all, I'm watching you from the stands. *giggle*giggle*! 
+#v4909No, you can't. After all, I'm watching you from the stands. *giggle*giggle*!
+Não, não pode. Afinal, eu estou te assistindo da palteia. *risos*risos*!
 
 #v3790Whew. You're actually pretty reliable as an ally. I'd expect no less from my rival. 
 Nossa, você é bem confiável como aliada. Não poderia esperar menos da minha rival.
 
-#v4322If you want to call yourself that, try getting your act together a little. You're still weighing me down. 
+#v4322If you want to call yourself that, try getting your act together a little. You're still weighing me down.
+Se quer se chamar assim, tente ao menos fazer jus ao nome. Você continua me sobrecarregando.
 
 #v4323Have they surrendered already? Our reasoning is far from over. 
 Eles já desistiram? Nosso raciocínio está muito além.
@@ -14123,13 +14127,16 @@ Eles já desistiram? Nosso raciocínio está muito além.
 Vamos penetrar todos os seus truques e quartos fechados!!
 
 #v4324Oh. It looks like we blasted through all their tricks, and now they don't even have the strength to get up. 
+Oh, parece que arrebentamos todos os truques deles, e agora eles não tem mais força para se levantar.
 
 #v3792Leave them be. They probably put all they had into those tricks. 
+Deixe-os em paz. Eles provavelmente colocaram tudo que tinham naqueles truques.
 
 #v4141That's comrade Erika for you. So this is the power of the witch with the strength to withstand the truth. 
 Como esperado da confrade Erika. Então este é o poder da bruxa com força para suportar a verdade.
 
 #v4325Truth lies within a thorny thicket. You can't grab it if you're afraid of getting hurt. 
+A verdade encontra-se em meio a arbustos espinhosos. Não vai alcança se estiver com medo de se ferir.
 
 #v4326Comrade Ange, ...is the truth you want to know really in a place like this? 
 Confrade Ange, ...a verdade que quer saber está mesmo num lugar desses?
@@ -14164,7 +14171,7 @@ Você já fez mais do que o suficiente sozinha. Minha nossa, coitadinha.
 Você demonstra talento quando está servindo como meu mordomo. Certo, farei de vocÊ meu Watson!
 
 #v5160Pu ku ku. I believe 'Hastings' would be more fitting for a gentleman like myself.
-Pu ku ku.
+Pu ku ku. Creio que 'Hastings' seja mais adequado para um mordomo como eu.
 
 #v5161A Witch of Truth... What does truth mean to you, Erika-sama?
 Uma Bruxa da Verdade... O que a verdade significa para você, Erika-sama?
@@ -14197,7 +14204,7 @@ Essa reação patética das pessoas quando seus segredos são expostos... Presen
 E isso me faz querer expor seus segredos algum dia...
 
 #v5082Gah! ...That's cheap, the way you steal away just the good parts! 
-Gah!
+Gah! ...É covardia a forma como rouba só as partes boas!
 
 #v4337What are you talking about? Haven't you realized that you're here to make me look good? 
 Do que está falando? Não percebeu que está aqui para fazer eu parecer boa?
@@ -14600,7 +14607,7 @@ Não TEMA. Eu não tenho a intenção de expor sua IDENTIDADE. Exceto se for o m
 Obrigada pelo APOIO. ...Como esperado de uma Chiester. Suas habilidades são muito respeitadas, mesmo nos CÉUS.
 
 #v5398We regard you highly too nyeh! Death Sentence Dlanor! You're as talented as the rumors say nyeh! 
-Nós também a respeitamos profundamente, nyeh! Dlaro, a Senteça Mortal! É tão talentosa quanto dizem os rumores, nyeh!
+Nós também a respeitamos profundamente, nyeh! Dlanor, a Sentença Mortal! É tão talentosa quanto dizem os rumores, nyeh!
 
 #v5399Why aren't you delivering the finishing blow nyeh? You could just slice them in half nyeh. 
 Por que não está executando o golpe final, nyeh? Você poderia simplesmente parti-los ao meio, nyeh.
@@ -14750,7 +14757,7 @@ Falamos sobre isso faz cinco segundos! Eu ia terminar um golpe final espetacular
 Lady LAMBDADELTA, a luta TERMINOU. ...Não me OUVISTE?
 
 #v4915Shh! 'Abarenbo Yoshimune' is just getting to the good part, so be quiet! 'Did you forget what my face looked like?!' 
-Shh! 'Abarenbo Yoshimune' está chegando na parte boa, então fica quieta! 'Esqueceste como minha cara se parece?"'
+Shh! 'Abarenbou Yoshimune' está chegando na parte boa, então fica quieta! 'Esqueceste como minha cara se parece?"'
 
 #v3796Whew! Is that sword real? Let me touch it a little! 
 Uau! Essa espada é de verdade? Deixa eu tocar nela?!
@@ -15176,7 +15183,7 @@ Você é mesmo uma mobília tansa, fazendo sua mestra trabalhar assim. É melhor
 Peço que não me faça desperdiçar meu tempo com um oponente desses. ...Precisa que eu aperte seus parafusos de novo?
 
 #v5092N-Not at all! ...Next time, ...I definitely won't embarrass you like this... 
-N-Nada disso! ...Na próxiam, ...eu definitivamente não vou envergonhá-la assim...
+N-Nada disso! ...Na próxima, ...eu definitivamente não vou envergonhá-la assim...
 
 #v5952Apparently, I'm boring when it comes to killing people. That's why I brought you here. 
 Pelo que parece, sou chata quando se trata de matar pessoas. É por isso que a trouxe aqui.
@@ -15678,6 +15685,7 @@ Eu me preocupo com isso todos os dias... Qual será meu próximo lanchinho?!
 O que acha? Maravilhoso, não? O charme da linda Lambda-sama não te deixa estonteado?!
 
 #v5641Please, spare me. My strike zone isn't so low that I'd fall for some brat.
+Por favor, me poupe. Minha zona de ataque não é tão baixa assim a ponto de me apaixonar por uma pirralha.
 
 #v5642As I'd expect. So, that 'Witch of Certainty' title isn't just for show.
 Como esperado. Seu título de 'Bruxa da Certeza' não é só para se exibir.
@@ -15704,7 +15712,7 @@ Viu aquilo? Um final digno da superpapel limitada Lambda!
 Sim, eu vi... Não há dúvida que você é o papel mais limitado daqui.
 
 #v4974As I'd expect from a copy of Super Paper Lambdadelta-sama!
-Como esperado da cópia da superpapel limitdo LAMBDADELTA-sama.
+Como esperado da cópia da superpapel limitado LAMBDADELTA-sama.
 
 #v4975Hey! Don't lump me in with you! I'm super super paper! 
 Ei! Não me confunda com você! Eu sou um súper superpapel limitado!
@@ -15715,7 +15723,8 @@ Kyahaha! Se uma de nós é mais forte, então duas nos torna súper mais forte!
 #v4977It's a million light years too early for you to beat us! 
 Falta um milhão de anos luz para você nos derrotar!
 
-#v4978I don't know which Fragment's 'me' you are, but you sure came in handy! Thanks! 
+#v4978I don't know which Fragment's 'me' you are, but you sure came in handy! Thanks!
+Não sei deu qual Fragmento é essa 'eu', mas você me foi muito útil! Valeu!
 
 #v4979*giggle* I'm doing this for me. Of course I'd come running from anywhere! 
 *risos* Estou fzendo isso por mim. É claro que eu viria correndo de qualquer lugar!
@@ -15784,9 +15793,10 @@ E daí se é uma mobília? É melhor não subestimar os humanos!
 Ihihi, seu peito está mais incrível que nunca! Nem sei para onde olhar...!
 
 #v0353You don't need to go easy on me. Just bounce right on over, okay? 
-Não precisa pegar leve comigo. 
+Não precisa pegar leve comigo. Só salte de um lado pro outro, tá?
 
 #v0354Those breasts are absolutely outrageous. I think I'd better measure them for a bit. Ihihi. 
+Esses peitos são um verdadeiro ultraje. Acho que seria eu conferir o tamanho deles. Ihihi.
 
 #v0355I like your guts! Come at me with all you've got! If you don't, you're gonna get hurt, okay?! 
 Gostei dessa coragem! Venha com tudo que tiver! Senaõ, vai se machucar, ouviu?!
