@@ -10602,403 +10602,403 @@ Muito bem, afinal, você é meu oponente mais equilibrado e formidável.
 Isso é interessante. Eu nunca fui capaz de me observar lutar calmamente.
 
 #v1491A spell for the purpose of reflecting upon oneself. That is what body double magic is. 
-
+Um feitiço com o propósito de refletir a si mesmo. Essa é a magia do corpo duplo.
 
 #v1030As I expected. Holding back within reason allows one to perform more excellently in battle. 
-
+Como esperado, uma razoável contenção permite performar melhor em batalha.
 
 #v1492It's just like tea. Making it too hot or too thick merely harms its taste... 
-
+É como chá; fazer muito quente ou muito espesso afeta negativamente seu sabor...
 
 #v1493Have we grown old...? I seem to be having a hard time fighting with the young'uns. 
-
+Nós ficamos mais velhos...? Sinto que estou tendo dificuldades para lutar com os jovens.
 
 #v1031Fear not. Our old selves probably heard the same thing from those who came before us. 
-
+Não tema, nós mesmos provavelmente ouvimos a mesma coisa no passado daqueles que vieram antes.
 
 #v1494Even this fight is like chess. The one who thinks the hardest will end up cornering their opponent and achieving victory. 
-
+Mesmo essa luta é como xadrez. Aquele que pensar mais vai acabar encurralando seu oponente e conquistando a vitória.
 
 #v1032An attack is merely moving a piece. If you do so without thinking, you cannot win. 
-
+Atacar é puramente mover uma peça. Se o fizer sem pensar, não vencerá.
 
 #v0130I've managed to catch just a glimpse of the old you. How truly terrifying you are...! 
-
+Consegui ter um vislumbre de como você era no passado. Era realmente assustador...!
 
 #v1495If I had shown you more, perhaps I would have been able to guide you down the proper path... 
-
+Se eu tivesse mostrado mais, talvez eu fosse capaz de guiar você pelo caminho certo...
 
 #v1496Isn't that enough? The loser must be honored. The winner must act in moderation. 
-
+Isso não é o bastante? O perdedor deve se sentir honrado. O vencedor deve agir com moderação.
 
 #v0131What? The loser must be made naked. And the winner must enjoy humiliating them! 
-
+Quê? O perdedor deve ficar pelado, e o vencedor deve aproveitar a humilhação!
 
 #v0132Pick a number, any number! I'll kill you, bring you back to life, and kill you again! I'll repeat that as much as you want! 
-
+Escolha um número, qualquer número! Vou te matar, trazer de volta à vida e matar de novo! Vou repetir isso quantas vezes você quiser!
 
 #v1497Beato! When will you learn the preciousness of life...? 
-
+Beato! Quando vai aprender o valor de uma vida...?
 
 #v0880What terrifying magical power. Just getting close to you, I feel like I'm gonna turn to ash...! 
-
+Que poder mágico mais assustador. Sinto que posso ser reduzido a cinzas só de me aproximar de você...!
 
 #v1498Even I still have a long way to go. When a witch terrifies those around her, it means she is still just second rate. 
-
+Até mesmo eu ainda tenho um longo caminho pela frente. Quando uma bruxa apavora aqueles ao seu redor, isso significa que ela ainda é de segunda categoria.
 
 #v1499If you get into fights, that means you're immature. A true victor willingly avoids battle. 
-
+Se você se mete em uma briga, isso significa que ainda é imaturo. Um verdadeiro vitorioso está disposto a evitar confrontos.
 
 #v0881I-I see... Your words are too valuable to waste on immature furniture like me! 
-
+E-Entendi... Suas palavras são valiosas demais para serem desperdiçadas com uma mobília imatura como eu!
 
 #v0882Great job. They were completely defeated. I doubt they'll be getting up again! 
-
+Ótimo trabalho. Eles foram completamente derrotados. Eu duvido que vão se levantar de novo!
 
 #v1500The fact that I was unable to convince them of their defeat before that...is my loss. 
-
+O fato de que fui incapaz de convencê-los de sua derrota antes disso...é uma derrota para mim.
 
 #v1180Virgilia-sama, where on earth did you learn that magic...? 
-
+VIRGILIA-sama, onde diabos você aprendeu aquela magia...?
 
 #v1501From my mighty ancestors. It was passed down from person to person... 
-
+Como a minha poderosa antecessora. Ela tem sido passada de pessoa para pessoa...
 
 #v1181Fights feel...empty. And so does my inability to avoid them. 
-
+Lutar faz eu me sentir...vazio, e também a minha incapacidade de evitar as lutas.
 
 #v1502Battles that cannot be avoided are the ones that have meaning. That is what I make myself believe... 
-
+Confrontos que não podem ser evitados são aqueles que possuem significado. É isso que eu quero acreditar...
 
 #v1503A fight where you have lost your composure is not a challenge, but a gamble. 
-
+Uma luta na qual você perdeu sua compostura não é um desafio, mas uma aposta.
 
 #v1182You're right. And even when you do gamble, you should accept that challenge with a calm mind. 
-
+Você tem razão. E mesmo quando não aposta, você deve aceitar o desafio com uma mente serena.
 
 #v0730I underestimated you... What a terrifying person you are, ...Virgilia-sama. 
-
+Eu a subestimei... Mas que pessoa assustadora é você, ...VIRGILIA-sama.
 
 #v1504All people are terrifying. It's important to remember and respect that. 
-
+Todas as pessoas são assustadoras. É importante lembrar disso e respeitá-las.
 
 #v1505Neither the victor nor the defeated will find happiness. That is what battles are meant to teach you... 
-
+Nem o vencedor ou o perdedor vão encontrar a felicidade. É isso que as batalhas lhe ensinam...
 
 #v0731...Is that so? ...I don't...understand... 
-
+...Então é isso? ...Eu não...compreendo...
 
 #v0732You should thank Virgilia-sama! You're lucky you ended up with only those injuries! 
-
+Você deveria agradecer a VIRGILIA-sama! Teve sorte de acabar só com alguns machucados!
 
 #v1506No, I must apologize. Forgive me for going so far... 
-
+Não, eu devo me desculpar. Perdoe-me por ir tão longe...
 
 #v0580You're graceful when you use magic and when you fight. Does magic reflect a person's heart, I wonder? 
-
+Você é graciosa quando usa magia e quando luta. Por acaso a magia reflete o coração do indivíduo?
 
 #v1507Not at all. If it did, my magic would have been dirtied by age. 
-
+Nada disso. Se fosse assim, minha magia teria apodrecido com a idade.
 
 #v1508Won't you resign? EVA-san isn't as forgiving as I am. 
-
+Não vai desistir? A EVA-san não é tão boazinha como eu.
 
 #v0581Hey, I can't believe you actually said that. I'm merciful too. Some of the time! 
-
+Ei, não acredito que disse isso! Eu sou piedosa também, às vezes!
 
 #v0582You're lucky. If I'd taken you down, you'd be a scrap of flesh encased in jelly! 
-
+Você tem sorte. Se eu tivesse te derrotado, seria apenas um pedaço de carne envolto por gelatina!
 
 #v1509You don't want that, do you? I don't want that either. Let's put an end to this. 
-
+Você não quer isso, né? Nem eu, então vamos colocar um ponto final nisso.
 
 #v1330Nyeeeh, nyeh nyeeeh nyeeeh, nyeh nyeh nyeh nyeh♪ It's our victory song nyeh! 
-
+Nyeeeh, nyeh nyeeeh nyeeeh, nyeh nyeh nyeh nyeh♪ É a nossa canção da vitória, nyeh!
 
 #v1510Well now, doesn't that sound fun? Perhaps I'll sing along with you. *giggle* 
-
+Muito bem, não é que soa divertido? Talvez eu deva cantar junto com você. *risos*
 
 #v1511Are you listening? In all things, moderation is the key. Even winning by too much can become toxic. 
-
+Está me ouvindo? Dentre todas as coisas, a moderação é a chave. Vencer por uma grande margem também pode ser tóxico.
 
 #v1331I know nyeeeh. Even carrots get too tender if you boil them too much nyeh! 
-
+Eu sei, nyeeeh. Até as cenouras ficam macias demais se você ferver muito, nyeh!
 
 #v1332Ukyuu! Virgilia-sama, you're so strong nyeh, so strong nyeh! 
-
+Ukyuu! VIRGILIA-sama, você é tão forte, nyeh, tão forte, nyeh!
 
 #v1512The Chiester Sisters are very strong too. You've really grown quite resilient. 
-
+As Irmãs Chiester também são muito fortes. Vocês se tornaram muito resilientes.
 
 #v2739That gracefulness of movement... ...I get the feeling that you embody my ideal. 
-
+Essa graça nos movimentos... ...Sinto que você é a personificação do meu ideal.
 
 #v3486When it comes down to it, even battles are like chess. You learn to calmly predict the next move. You're not so bad at it yourself. 
-
+Quando se trata disso, até lutas são como xadrez. Você aprende a prever calmamente o próximo movimento. Você não é tão ruim assim.
 
 #v3487My, my, done already? Kids these days... 
-
+Ora, ora, já acabou? Essas crianças de hoje em dia...
 
 #v2740That's not the kind of thing you ought to say. The aging process advances the more you admit to it. 
-
+Esse não é o tipo de coisa que você deveria dizer. Quando mais admite a idade, mais o processo de envelhecimento age.
 
 #v3488Even you are a magic user, George-kun. You managed to bring about your own rebirth several times, did you not? 
-
+Até mesmo você é um usuário de magia, George-kun. Você conseguiu provocar seu renascimento várias vezes, não foi?
 
 #v2741If that's magic, ...I'll become a demon king. Then I'll have everything...both her, and happiness. 
-
+Se aquilo foi magia, ...eu me tornarei o rei demônio. Assim eu terei tudo...ela e a felicidade.
 
 #v2934Du-duum! That spear's massive! If that hit you, there wouldn't be anything left! 
-
+Du-duum! Essa lança é imensa! Se te acertar, não vai sobrar nada!
 
 #v3483A sacred spear pierces all. ...Not unlike your conviction, in fact. 
-
+Uma lança sagrada que a tudo perfura. ...Não muito diferente da sua convicção, na verdade.
 
 #v2935That got me sweating good! I wonder if that'll help my waistline. 
-
+Isso me deixou suando! Me pergunto se vai ajudar na cintura.
 
 #v3484Hohoho. It'll also increase your metabolism, making your skin all silky smooth. 
-
+Hohoho. Também ajuda a aumentar seu metabolismo, deixando a sua pele macia e sedosa.
 
 #v3485I'm so glad you asked. The secret lies in this mackerel drink. 
-
+Fico feliz que perguntou. O segredo é esta bebida de cavalinha.
 
 #v2936I-I might want to be a witch, ...b-but I don't wanna drink that! 
-
+M-Meio que quero ser uma bruxa também, ...m-mas não quero beber isso!
 
 #v3489Winning with grace is something to aim for. Winning pathetically by overpowering your opponent will gain you nothing. 
-
+Vencer com graciosidade é algo que se almeja. Vencer pateticamente dominando seu oponente não recompensa em nada.
 
 #v3264...Hearing that hurts. I do have a bad habit of yelling at people... 
-
+...Ouvir isso dói. Eu tenho o péssimo hábito de gritar com as pessoas...
 
 #v3265Maria often says that she wants to become a witch. Are you her role model? 
-
+A Maria costuma dizer que quer se tornar uma bruxa. Você é o exemplo dela?
 
 #v3490If I were, that would be fine, ...but if it's Beato, I fear for her future... 
-
+Se for eu, está tudo, ...mas se fora Beato, eu temo pelo futuro dela... 
 
 #v3491Heheheh, I've still got plenty of fight left in me. Women grow stronger with every year they age. 
-
+Heheheheh, ainda tenho muito para lutar. Mulheres ficam mais forte a cada ano que passam.
 
 #v3266You're right. Men who don't understand that are still children. 
-
+Você está certa. Homens que não entendem isso ainda são crianças.
 
 #v5730Checkmate. That concludes our explanation of the trick. 
-
+Xeque-mate. Isso conclui nossa explicação do truque.
 
 #v4289That trick was a cheap one. We'd already solved it five seconds in. 
-
+Aquele truque foi barato; nós o resolvemos em cinco segundos.
 
 #v4290Witch battles can be fun every now and then. It's much easier if you don't have to use your head. 
-
+Lutas entre bruxas podem ser bem divertidas. É muito mais fácil quando não precisa usar as mãos.
 
 #v5731Intelligence is vital even in a witch's battle. ...Do you imagine that the goddess of victory smiles on those who do not think? 
-
+Inteligência é vital mesmo em uma batalha entre bruxas. ...Imagina a deus da vitória sorrindo para aqueles que não pensam?
 
 #v4291<Good.> With my reasoning and your spear, there's nothing we can't pierce. 
-
+Good. Com o meu raciocínio e a sua lança, não há nada que não possamos perfurar.
 
 #v5732I too would like to discuss the mystery genre over tea with you someday. 
-
+Eu também gostaria de discutir o gênero do mistério com você e um pouco de chá, algum dia.
 
 #v3937I have warm feelings for the days when we fought over countless closed room tricks like THIS. 
-
+Eu tenho calorosos sentimentos pelos dias em que lutamos por incontáveis truques de quarto fechado como ESTE.
 
 #v5733That does take me back. Back then, there was no trick we couldn't break down. 
-
+Isso me traz lembranças. Naquela época, não tinha truque que não fossemos capazes de desmascarar.
 
 #v3938I bought some youkan as a SOUVENIR. Why not switch to green tea and Japanese snacks every now and THEN? 
-
+Eu trouxe alguns youkan como LEMBRANCINHA. Por que não trocamos para um pouco de chá verde e doces japoneses de vez em QUANDO?
 
 #v5734My, my, isn't that wonderful. Then let me get that Shizuoka green tea I've been saving. 
-
+Ora, ora, mas que maravilha. Então vou pegar aquele chá verde de Shizuoka que eu estive guardando.
 
 #v5735When you spend time with the young, it starts to feel as though you're growing younger as well. 
-
+Quando você passa seu tempo com os jovens, começa a sentir que está ficando mais jovem também.
 
 #v3939I can keep FIGHTING! I am full of SPIRIT! Because I am a KID! 
-
+Ainda posso LUTAR! Estou repleta de DETERMINAÇÃO! Porque sou uma CRIANÇA!
 
 #v5541A thousand-year-old witch, huh? How old are you actually? 
-
+Uma bruxa milenar, é? Quantos anos você realmente tem?
 
 #v5736Hohohohohoh. I am endlessly 17, of course. 
-
+Hohohohohoh. Eu tenho eternos 17 anos, é claro.
 
 #v5737Can you really solve the puzzle of that child's heart...? 
-
+Consegue resolver este enigma com o coração de uma criança...?
 
 #v5542Who knows? ...All I can do is mourn for her. 
-
+Quem sabe? ...Tudo o que posso fazer é lamentar por ela.
 
 #v5543Diana? Yeah, she loves fish. She eats them all the time. 
-
+A Diana? Sim, ela ama peixe. Ela os come o tempo todo.
 
 #v5738Then take this can of mackerel with you as a souvenir. That's what kitties like best. 
-
+Então leve esta cavalinha como lembrancinha. É disso que os gatos gostam.
 
 #v5893Oh? ...So, you haven't lived for ages for nothing. 
-
+Oh? ...Então, você não viveu séculos à toa.
 
 #v5739My, my. I'm endlessly 17, didn't you know? 
-
+Ora, ora, eu tenho eternos 17 anos, não sabia?
 
 #v5740Why not try my black tea every now and then? You like dried plums, don't you? This one's made in Kishuu. 
-
+Por que não aproveita e prova um pouco do meu chá preto? Você gosta de umeboshi, não gosta? Esta foi feita em Kishuu.
 
 #v5894Oh, you know what you're talking about. ...Okay, I'll let you tempt me for just a bit. 
-
+Oh, você sabe do que está falando. ...Certo, vou deixar que me mime só um pouquinho.
 
 #v5895The elderly shouldn't overdo it, right? You're gonna feel it later. ...The muscle pains. 
-
+Os mais velhos não devem exagerar, certo? Vai acabar sentido depois. ...As dores musculares.
 
 #v5741...Did you say something? The signal here is bad, and I didn't quite catch that... 
-
+...Disse algum coisa? O sinal aqui é tão ruim que não deu pra entender...
 
 #v4877You sure fight flashy! I've been itching to get out there! I'm next, I'm next! 
-
+Sua luta é mesmo chamativa! Estou me coçando aqui! Sou a próxima, sou a próxima!
 
 #v5742Hohoho. Then allow me to witness how you fight, Lady Lambda. 
-
+Hohoho. Então permita-me testemunhar como você luta, Ladu Lambda.
 
 #v4878An easy victory! I'm feeling good, so maybe I'll deliver the finishing blow too! 
-
+Vitória fácil! Estou me sentindo bem, então devo dar o golpe final também!
 
 #v5743You mustn't do that to an opponent who has acknowledged their defeat. Instead, let us have some tea. 
-
+Você não deve fazer isso contra um oponente que reconheceu a derrota. Ao invés disso, vamos tomar um pouco de chá.
 
 #v5744If you eat Western sweets all the time, you start getting a craving for Japanese sweets, don't you? 
-
+Se comer só doces ocidentais o tempo todo, vai começar a ficar sedenta por doces orientais, não vai?
 
 #v4879You think so? I hate stuff like anko. Chocolate and marshmallows are cuter, right? 
-
+Acha mesmo? Eu odeio coisas tipo anko. Chocolate e marshmallows são muito mais fofos, não?
 
 #v0313So, you make an art of choosing not to go all out, even when you could. Heheh, that's pretty cool! 
-
+Então, você é adepta da arte de não escolher ir com tudo, mesmo quando pode. Heheh, isso é bem legal!
 
 #v1033Pu ku ku. No, going all out is simply a pain. 
-
+Pu ku ku. Não, ir com tudo é simplesmente desgastante.
 
 #v1034Whew! Not bad. I don't mind having this kind of exercise every once in a while. 
-
+Puxa! Nada mal. Eu não me importaria de me exercitar assim de vez em quando.
 
 #v0314I'd be happy to do it with you every day! If anyone's got a problem with that, let's see them try and stop us! 
-
+Eu ficaria feliz em fazer isso como você todos os dias! Se alguém tiver algum problema com isso, vamos ver se serão capazes de nos parar!
 
 #v0315You're a demon, a butler, and strong to boot! How perfect can you get? 
-
+Você é um demônio, um mordomo e ainda por cima é forte! O quão perfeito consegue ser?
 
 #v1035Maids are clumsy, and butlers are perfect. We must all obey our respective cliches. 
-
+Criadas são desastradas e mordomos são perfeitos. Nós precisamos obedecer os nossos próprios clichés.
 
 #v0463Not bad. I see you don't have that weird mustache for nothing. 
-
+Não foi ruim. Vejo que esse bigode não é só enfeite.
 
 #v1036To me, this is like a cat's whiskers. Terrible things will happen if you shave it off. Pu ku ku. 
-
+Para mim, é como os bigodes de um gato. Coisas horríveis podem acontecer se você arrancar. Pu ku ku.
 
 #v1037I'll protect a lady with my life... That's a gentleman's role... 
-
+Eu protegerei uma dama com a minha vida... Esse é o papel de um cavalheiro...
 
 #v0464If I look like a lady to you, you should get your monocle checked. 
-
+Se eu pareço uma dama para você, é melhor dar uma conferida nesse seu monóculo.
 
 #v1038A true butler is sometimes a shield, sometimes an umbrella, and sometimes a walking stick. 
-
+Há vezes em que um mordomo precisa ser como um escudo, às vezes um guarda-chuva e, em algumas ocasiões, uma bengala.
 
 #v0465You've got this down pat. Can I trade you in for my flippant bodyguard? 
-
+Você entende mesmo do assunto. Posso trocar você pelo meu guarda-costas petulante?
 
 #v1513You scare me sometimes. ...I wonder what I might have to do if you got serious. 
-
+Às vezes você me assusta. ...Eu me pergunto o que eu poderia ter feito para deixá-la séria.
 
 #v1039Fear not. The man you knew is already dead... 
-
+Não tenha medo. O homem que você conhece já está morto...
 
 #v1040Are you okay, Virgilia-sama? There's no need to fear anymore. 
-
+Você está bem, VIRGILIA-sama? Não precisa mais ter medo.
 
 #v1514You really are reliable. I'm jealous that Beato managed to form a contract with you. 
-
+Você é mesmo confiável. Estou com inveja que a Beato conseguiu formar um contrato com você.
 
 #v1041Compared to finding the perfect temperature for tea, finding the perfect temperature for a battle is quite easy... 
-
+Comparado a encontrar a temperatura perfeita para o chá, encontrar a temperatura perfeita para uma luta é moleza...
 
 #v1515I wish Beato could learn a thing or two from you... 
-
+Quem me dera se a Beato pudesse aprender algumas coisas com você...
 
 #v1042A magnificent finish. I think I'm in love... 
-
+Uma finalização magnífica. Acho que estou apaixonada...
 
 #v1043You simply must be magnificent, as the final flower adorning a meaningless battle. 
-
+Você simplesmente precisa ser magnífica, como a última flor adornando uma batalha sem significado.
 
 #v1044Having a copy of yourself is essential for furniture, but it's also essential for fighting. 
 Ter uma cópia de si mesmo e essencial para uma mobília, mas também é essencial para lutar.
 
 #v1045Let us return to the bathtub. We mustn't waste that special soap. 
-
+Vamos voltar para a banheira. Nós podemos desperdiçar aquele sabão especial.
 
 #v1046We could have fought that a little more gracefully. Particularly that bit near the end. 
-
+Nós poderíamos ter lutado com um pouco mais de graciosidade. Especialmente naquela reta final.
 
 #v1047Being criticized by yourself can be quite harsh. Let us make some tea and reflect together. 
-
+Ser criticado por si mesmo pode ser bem duro. Vamos preparar um chá e refletir juntas.
 
 #v0133Hey, that's my prey. You really don't know how to hold back! 
-
+Ei, essa presa é minha. Você não sabe mesmo quando se conter!
 
 #v1048Pardon me. I assumed that it wasn't worth dirtying your hands with this one. 
-
+Perdoe-me. Eu supos que não valia a pena você sujar as mãos desta vez.
 
 #v1049Pardon me for that unsightly display. I will clean it up at once... 
-
+Perdoe-me por essa exibição desagradável. Vou limpar tudo quando acabar...
 
 #v0134I care not. It was quite a sight to see. Though it could have used more blood spatter! 
-
+Eu não me importo. Foi uma visão e tanto. Embora poderia ter respingado mais sangue!
 
 #v0135Ahyahya! There's no way you can wiiiiiiin, not against Ronoveeeeee! 
-
+Ahyahya! Não tem como você venceeeeer, não contra o Ronoveeeeee!
 
 #v1050Not at all. The Ronove you speak of is already dead. 
-
+Nada disso. O Ronove a quem você se refere já está morto.
 
 #v0883Heheheh! Ronove-sama, can I gouge these people all over?! 
-
+Heheheh! Ronove-sama, eu posso goivar aqueles pessoas ali?!
 
 #v1051Only for a bit, okay? My, my, you're just like a puppy with food placed before it. 
-
+Só um pouquinho, tá? Francamente, você é igual a um filhotinho diante de um prato de comida.
 
 #v1052Well done. You worked hard, so we were able to win easily. 
-
+Muito bem. Você trabalhou duro, por isso fomos capazes de vencer facilmente.
 
 #v0884Y-Your words honor me! Being useful is furniture's joy! 
-
+S-Suas palavras são uma honta! Ser útil é a alegria de uma mobília!
 
 #v0885Just how powerful is Ronove-sama, who was once feared as a Great Demon...? 
-
+O quão poderoso é o Ronove-sama, aquele que uma vez foi temido como Grande Demônio...?
 
 #v1053A good question. I fear I've forgotten that distant past. 
-
+Boa pergunta. Temo que tenha me esquecido desse passado distante.
 
 #v1183Th-Thank you very much. You certainly saved me back there... 
-
+M-Muito obrigada. Você certamente me salvou naquela hora...
 
 #v1054Protecting a lady and saying 'that requires no thanks'...are what make a proper butler. 
-
+Proteger uma dema e dizer 'não precisa me agradecer'...é o que o torna um mordome de verdade.
 
 #v1055Protecting a lady is quite an important role for furniture. 
-
+Proteger uma dama é um trabalho muito importante para uma mobília.
 
 #v1184I think you would've done that even if you weren't furniture, Ronove-sama. 
-
+Eu acredito que você teria feito isso mesmo que não fosse uma mobília, Ronove-sama.
 
 #v1185I can't believe that a man of your character is a demon... 
-
+Não acredito que um homem como você é um demônio...
 
 #v1056And I cannot believe that a lady like you is furniture. 
-
+E eu não acredito que uma dama como você é uma mobília.
 
 #v0733Your strength must be in your ability to see through your opponent. I'm sure of it... 
 
