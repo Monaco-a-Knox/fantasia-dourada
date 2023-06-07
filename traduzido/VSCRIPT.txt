@@ -10080,526 +10080,526 @@ Mentirosa, nyeh. Você permaneceu intocada do início ao fim, nyeh!
 Nihihi! Você é tão forte que eu nem preciso fazer nada, nyah!
 
 #v0306You said it! Thanks for giving me some time to shine. 
-
+Você disse! Obrigada por me dar uma oportunidade de brilhar.
 
 #v2733That's Battler-kun for you. I didn't get to do anything. 
-
+Esse é o nosso Battler-kun. Não precisei fazer nada.
 
 #v2541Ihihi. Well said, Aniki! As if you didn't go out of your way to let me show off! 
-
+Ihihi. Isso aí, aniki! Como se não tivesse saído da frente para me deixar aparecer!
 
 #v2734I guarantee it. You could definitely get stronger if you learned martial arts. 
-
+Eu garanto que você definitivamente vai ficar mais forte se aprender artes marciais.
 
 #v2542Y-You think so? I mean, I've always been bad at learning things...! 
-
+A-Acha mesmo? Tipo, eu sempre fui péssimo em aprender coisas...!
 
 #v2543Playing with you is fun! I feel like we wouldn't lose to anyone! 
-
+Brincar com você é divertido! Sinto que não perderemos para ninguém!
 
 #v2735Yeah, it is fun. Just like old times. Let's not waste this chance and keep running wild. 
-
+Sim, foi divertido, bem como nos velhos tempos. Não vamos desperdiçar essa chance e continuar feito loucos.
 
 #v2928You were so skinny six years ago, but you changed a lot! 
-
+Você era tão magra há seis anos, e veja como mudou!
 
 #v2538Ihihi. Yeah, your boobs changed a lot too. 
-
+Ihihi. Sim, seus peitos mudaram muito.
 
 #v2929Could you maybe stop touching other people's chests? 
-
+Poderia parar de tocar peitos alheios?
 
 #v2539I'm not trying to touch them! My breast-sommelier blood gives me no choice! 
-
+Não estou tentando tocá-los! É meu sangue de sommelier de peitos que me força a fazer isso!
 
 #v2540We really went wild! Man, I feel refreshed! 
-
+Nós fomos mesmo com tudo! Cara, eu me sinto ótimo!
 
 #v2930Sometimes, you've gotta just let it all out! Let's have a ton of fun today! 
-
+Às vezes você só precisa extravasar! Vamos nos divertir muito hoje!
 
 #v2544Come on, you two, talk! Let's hear your alibi for the time of the crime! 
-
+Qual foi, falem, vocês dois! Deixem-nos ouvir o álibi de vocês no momento do crime!
 
 #v3258There's no need. We just need to keep them tied up until the police come. 
-
+Não é preciso. Só precisamos mantê-los amarrados até a polícia chegar.
 
 #v3259You've been a big help, Battler-kun. Now we should be able to find the culprit quickly. 
-
+Você tem sido de grande ajuda, Battler-kun, Agora devemos ser capaz de achar o culpado rapidamente.
 
 #v2545I don't want there to be any more victims. I'll fight anyone to make sure of that! 
-
+Não quero que tenha mais vítimas. Lutarei com qualquer um para que isso não aconteça!
 
 #v2546Aunt Rosa, do you still suspect me after all this...? 
-
+Tia Rosa, você ainda suspeita de mim mesmo depois de tudo isso...?
 
 #v3260No one can trust anyone but themselves. ...Let's make up tomorrow, okay? 
-
+Ninguém pode confiar em ninguém além de si mesmo. ...Vamos fazer as pazes amanhã, tá?
 
 #v3775You reason, and I'll investigate. ...We're not a bad match for each other. 
-
+Você raciocina e eu investigo. ...Não somos uma dupla ruim.
 
 #v4283Are you kidding? It sucks. You keep taking all my good scenes! 
-
+Tá brincando? É uma merda. Você não para de falar durante as minhas cenas boas!
 
 #v3776The two of us reasoning things out together isn't so bad, every once in a while. 
-
+Não é ruim raciocinarmos juntos às vezes.
 
 #v4284I'm not a fan of this, ...but since we're doing it anyway, I might as well enjoy it! 
-
+Não sou muito chegado nisso, ...mas já que estamos nessa, vou tentar aproveitar!
 
 #v4285That wasn't a very formidable opponent. You really are the best rival for me. 
-
+Esse não foi um rival muito formidável. Você é mesmo a minha melhor rival.
 
 #v3777...Yeah. Shall we? It looks like this'll be more interesting with the two of us fighting together...! 
-
+...Sim, então vamos? Parece que vai ficar mais interessante se nós lutarmos juntos...!
 
 #v3931Your reasoning has grown DEEPER. I can sense how much you've GROWN. 
-
+Seu raciocínio segue se APROFUNDANDO. Eu posso sentir o quanto você CRESCEU.
 
 #v3778I'm a man who's always growing. I'm not done yet. My reasoning's gonna keep going deeper! 
-
+Sou um homem que está em constante crescimento. Ainda não acabou; meu raciocínio vai seguir se aprofundando!
 
 #v3932SNACKS? I love them, ...but how did you KNOW? 
-
+GULOSEIMAS? Eu amo, ...mas como SABE?
 
 #v3779You've got some chocolate stuck to the side of your mouth. Ihihi! 
-
+Tem um pouco de chocolate no canto da sua boca. Ihihi!
 
 #v3780That sword of yours is so cool! Can I go all 'byooom' and make one of those pop out too?! 
-
+Essa sua espada é muito legal! Posso ir todo 'byooom' e fazer um deses aparecer também?!
 
 #v3933But you already have that massive BEAM! Pew PEW! 
-
+Mas você já tem esse raio GIGANTE! Pew PEW!
 
 #v5535I can see that you've got Ushiromiya Kinzo's blood in you... 
-
+Vejo que o sangue de Ushiromiya Kinzo corre em suas veias...
 
 #v3781Ihihi. You wouldn't last in the Ushiromiya family if you couldn't do at least this much. 
-
+Ihihi. Se não consegue nem fazer isso, não vai durar na família Ushiromiya.
 
 #v3782I want a weapon too. Like, a cool sword or something! 
-
+Eu também quero uma arma, tipo uma espada descolada ou algo assim!
 
 #v5536Your reasoning is your greatest weapon. Cut to the core of all truths. 
-
+Seu raciocínio é a sua maior arma. Corte a raiz de todas as verdades.
 
 #v3783Was that...right? I didn't mess anything up, did I? 
-
+Eu...acertei? Eu não estraguei nada, não?
 
 #v5537You just did what you needed to. Don't think too deeply about it or you'll just get a headache. 
-
+Você só fez o que precisava fazer. Não pense muito sobre isso ou só vai ficar com dor de cabeça.
 
 #v5887Oh. ...Not bad for someone guaranteed to be incompetent by the red truth. 
-
+Oh, ...nada mal para alguém que foi confirmado como incompetente pela verdade vermelha.
 
 #v3784I guess that means anyone who loses to me is even more incompetent! 
-
+Acho que qualquer um que perca para mim é ainda mais incompetente!
 
 #v3785This is the truth. There's no trick that my reasoning can't get to the bottom of! 
-
+Essa é a verdade. Não há truque que meu raciocínio não consiga desvendar!
 
 #v5888Keep it up. ...Corner Beato and reach into the bottom of her heart. *giggle*... 
-
+Continue. ...Encurrale a Beato e chegue ao centro do seu coração. *risos*...
 
 #v3786...I'll do what you say for now, but I'll definitely settle this sooner or later. 
-
+...Farei o que está dizendo, por enquanto, mas definitivamente vou definir isso cedo ou tarde.
 
 #v5889I look forward to it. ...Though who knows if that will happen a hundred or a thousand years from now. 
-
+Estarei ansiosa por isso. ...Embora não tenha como saber se vai acontecer entre cem ou mil anos.
 
 #v3787Hey, Lambda. I'm done. Are you listening?! 
-
+Ei, Lambda. Já terminei. Tá me ouvindo?!
 
 #v4871Ah, good work! Sorry, but could you get me more popcorn? 
-
+Ah, bom trabalho! Foi mal, mas pode buscar mais pipoca?
 
 #v4872That should do it! Let's finish them off with a coat of chocolate! 
-
+Isso deve dar! Vamos finalizar eles com uma cobertura de chocolate!
 
 #v3788That sounds yummy! Ihihi. Let me have a taste too! 
-
+Parece uma delícia! Ihihi. Me deixe provar também!
 
 #v3789Yeah, I'll keep my promise. I'll show you a happy ending with certainty! 
-
+Sim, eu mantenho minhas promessas. Com certeza mostrarei um final feliz a você!
 
 #v4873I'm looking forward to it, okay? And I certainly expect nothing less than a big finale! 
-
+Aguardarei ansioso por ele, ouviu? E eu certamente não espero menos do que um gran finale!
 
 #v0307Whew. You're pretty flashy yourself, Ange...! 
-
+Puxa, você é bem chamativa, Ange...!
 
 #v0427You think so? I'd say I'm embarrassingly plain compared to you. 
-
+Acha mesmo? Eu diria que comparada a você eu sou bem sem graça.
 
 #v0428I'll definitely bring you back. I won't let anyone get in the way! 
-
+Eu definitivamente vou te trazer de volta. Não deixarei que ninguém me atrapalhe.
 
 #v0308Yeah, let's go home. I'll definitely come back to you! 
-
+Sim, vamos para casa. Eu definitivamente voltarei para você!
 
 #v0429You're so cool, Onii-chan! Show me that one again! Again! 
-
+Você é tão legal, onii-chan! Mostre aquilo de novo! De novo!
 
 #v0309Sure! I'll take any requests if my cute little sister's watching! 
-
+Claro! Farei qualquer coisa que a minha adorável irmãzinha pedir!
 
 #v0430You went a bit too far. Did you really need to go that wild? 
-
+Você exagerou nessa. Precisava mesmo ir tão longe assim?
 
 #v0431Shut up. Do you want me to smash the glass, too? 
-
+Cala a boca. Quer que eu quebre esse seu óculos também?
 
 #v0432Having a double is pretty convenient. ...Go to school for me. 
-
+Ter um dublê é bem conveniente. ...Vá para a escola no meu lugar.
 
 #v0433Are you kidding? You go, stupid. 
-
+Tá brincando? Vai você, idiota.
 
 #v0434Oh? You're pretty good for my double. 
-
+Oh? Você é bem boa para minha dublê.
 
 #v0435You're the double! Agh, this is so complicated! 
-
+Você é minha dublê! Agh, que complicado!
 
 #v1477You did well, learning that much magic on your own... 
-
+Você foi bem, aprendendo toda essa magia sozinha...
 
 #v0436I had Maria onee-chan. She's my Teacher. 
-
+Eu tive a Maria onee-chan. Ela foi a minha professora;
 
 #v0437To defeat witches, I learned about magic and became a witch. 
-
+Para derrotar bruxas, eu aprendi sobre magia e me tornei uma bruxa.
 
 #v1478That was wise. You won't be able to 'see' the truth if you only look with a gaze of denial... 
-
+Sábio da sua parte. Você não seria capaz de 'ver' a verdade se olhasse apenas com um olhar de negação...
 
 #v1479Do you understand? Magic doesn't exist so that you can achieve victory. 
-
+Você entendeu? A magia não existe para que se possa alcançar a vitória.
 
 #v0438I know. Magic is only a technique that affects how you achieve it. 
-
+Eu sei. A magia é apenas uma técnica que afeta a maneira como você a alcança.
 
 #v1027Ange-sama, would you like your tea hot or iced? 
-
+Ange-sama, gostaria do seu chá quente ou gelado?
 
 #v0439Iced, of course. The snacks are lying over there, so I won't need them. 
-
+Gelado, é claro. Os aperitivos estão ali, então não precisa trazer.
 
 #v0440Ronove, could you take care of my wounds? I overdid it a bit. 
-
+Ronove, poderia curar as minhas feridas? Eu exagerei um pouco.
 
 #v1028Pu ku ku, very well.I'll get you a disinfectant that really stings. 
-
+Pu ku ku, pois bem. Vou usar um desinfetante que cheira muito mal.
 
 #v0441Is this 1986? Everyone's having fun, leaving me behind. 
-
+Estamos em 1986? Todos estão se divertindo, me deixando para trás.
 
 #v1029Know that the Witch of Truth is free to interpret this as she pleases. 
-
+Fique ciente de que a Bruxa da Verdade é livre para interpretar isso como bem entender.
 
 #v0127What a wild woman. Clearly, you're wasted as Battler's little sister. 
-
+Mas que mulher mais selvagem. Você claramente é um desperdício como irmã mais nova do Battler.
 
 #v0442That's none of your business. Who do you think's making me act so wild?! 
-
+Isso não é da sua conta. Quem você está que está me fazendo agir assim?!
 
 #v0443It's useless, it's all useless! <See you again.> 
-
+Isso não está certo, não está nada certo! See you again.
 
 #v0128Ah, Battler's catch phrases. You siblings are so close that it makes me jealous. 
-
+Ah, a frase de efeito do Battler! Vocês irmãos são tão próximos que eu fico até com inveja.
 
 #v0129<It's perfect!> Or it would have been, if you'd just torn their corpses to bits! 
-
+It's perfect! Ou teria sido, se tivesse dilacerado os corpos deles!
 
 #v0444Do that yourself. But I'll be tearing you up first. 
-
+Faça isso você, mas antes eu vou te dilacerar.
 
 #v0877That's our Ange-sama! You're strong, ruthless, totally without mercy, and all in all amazing! 
-
+Essa é a nossa Ange-sama! Você é forte, cruel e completamente impiedosa, e isso é tudo incrível!
 
 #v0445That's not a compliment. That's definitely not a compliment. 
-
+Isso não foi um elogio. Isso definitivamente não foi um elogio.
 
 #v0446It's useless, it's all useless. <See you again.> 
-
+Isso não está certo, não está nada certo! See you again.
 
 #v0878You're so cool, Ange-sama! I've got shivers just listening to you! 
-
+Você é tão legal, Ange-sama! Fique toda arrepiada só de ouvir!
 
 #v0879You fools who disobeyed us and our master! Regret your mistake in a sea of vomited blood! 
-
+Tolas, que desobedeceram a nós e nossa mestra! Arrependam-se de seus erros no mar de sangue vomitado!
 
 #v0447That's the Seven Sisters of Purgatory for you. You really are used to fighting. 
-
+Como esperado das Sete Irmãs do Purgatório. Vocês estão mesmo acostumadas a lutar.
 
 #v1177You have something that you aren't willing to back down on, Ange-sama... That's what makes you so strong, isn't it? 
-
+Você tem algo da qual não abre mão, Ange-sama... É isso que a faz tão forte, não é?
 
 #v0448Of course. If I was willing to back down, even fighting would be a pain. 
-
+É óbvio. Se eu estivesse disposta a abrir mão, mesmo uma luta seria dolorosa.
 
 #v0449I learned magic from Maria onee-chan. Where on earth did you learn it from? 
-
+Eu aprendi magia com a Maria onee-chan. Onde foi que você aprendeu?
 
 #v1178...What I do is, umm... ...It's because...I'm furniture. 
-
+...O que é faço é, hmm... ...É porque...eu sou uma mobília.
 
 #v1179What could have happened over 12 years to change that adorable Ange-chan so much...? 
-
+O que pode ter acontecido nesses 12 anos para mudar tanto aquela adorável Ange-chan...?
 
 #v0450That's what I want to know. What happened 12 years ago that changed everything? 
-
+É o que eu quero saber. O que aconteceu 12 anos atrás que mudou tudo?
 
 #v0727What on earth made you this strong? 
-
+O que diabos faz com que ficasse tão forte?
 
 #v0451A crappy aunt and a terrible environment growing up. I can't think of anything else. 
-
+Uma tia horrível e um ambiente terrível para crescer. Não consigo imaginar outra coisa.
 
 #v0452I think you and I are alike somehow. Maybe it's that look in our eyes. 
-
+Acha que você e eu somos parecidas de alguma forma? Talvez seja esse olhar em seu rosto.
 
 #v0728Not at all. ...The burden I bear is nothing compared to yours. 
-
+Nada disso. ...O peso que eu carrego não é nada comparado ao seu.
 
 #v0729I wonder if the weight of a person's attack is equal to the burden that person bears... 
-
+Eu me pergunto se o peso do ataque de uma pessoa é igual ao fardo que ela carrega...
 
 #v0453I'm sure it's just the weight of their fat. You're so thin that I'm jealous, even though you're a boy. 
-
+Tenho certeza que é só o peso da gordura delas. Você é tão magro que me dá até inveja, ainda mais sendo um garoto.
 
 #v0577What's this? Why are you so fixated on something that happened twelve whole years ago? 
-
+O que é isso? Por que é tão fixada em algo que aconteceu 12 anos atrás?
 
 #v0454Isn't it obvious? It's because that's the day Ushiromiya Ange died. 
-
+Não é óbvio? É porque Ushiromiya Ange morreu naquele dia.
 
 #v0578Ooh, how scary. Is there something in the Ushiromiya blood that makes us fight so wildly? 
-
+Oooh, que medo. Tem algo no sangue dos Ushiromiya que faz nos faz lutar de forma tão selvagem?
 
 #v0455It's all because of how you brought me up. I could hardly compare to you though. 
-
+É por causa da forma como me criou. Embora eu mal possa me comparar a você.
 
 #v0579Are you satisfied? Do you feel better? Just forget about it all. 
-
+Satisfeita? Se sente melhor? Apenas se esqueça de tudo.
 
 #v0456You can't make me forget about October 5, 1986! 
-
+Você não pode me fazer esquecer o dia 5 de outubro de 1986!
 
 #v1327That was scary nyeh. If you get in Ange-sama's way, you get chopped to pieces nyeh! 
-
+Isso foi assustador, nyeh. Se entrar no caminho da Ange-sama, ela vai te fazer picadinho, nyeh!
 
 #v0457I wouldn't do that. I always stop somewhere between beating people half to death and killing them for real. 
-
+Eu não faria isso. Sempre paro entre arrebentar a pessoa e matá-la.
 
 #v0458What is it that I lack? Power? Feelings? Room to relax in my heart? 
-
+O que é isso que me falta? Poder? Sentimentos? Espaço no coração para relaxar?
 
 #v1328Well, your acreage is pretty lacking nyeh. In that flowery garden inside your head. Nihi! 
-
+Bom, também te falta espaço para plantar, nyeh. Já tem todo um jardim florido nessa sua cabeça. Nihi!
 
 #v1329What a waste nyeh. You'd be so cute if you smiled, Ange-sama. 
-
+Que desperdício, nyeh. Você ficaria linda se sorrise, Ange-sama.
 
 #v0459Oh, I don't forget to smile...when I'm punching someone in the face. 
-
+Ah, eu não me esqueço de sorrir...quando estou socando a cara de alguém.
 
 #v2586You really are a gentleman, George onii-chan. I can finally tell, at this age. 
-
+Você é mesmo um cavalheiro, George onii-chan. Com essa idade, eu finalmente percebi.
 
 #v2736And you've become quite a lady. A strong woman with her own clearly-defined will. 
-
+E você se tornou uma bela dama. Uma mulher forte, com suas vontades muito bem definidas.
 
 #v2587Do you know what happened on that day, George onii-chan? 
-
+Você sabe o que aconteceu naquele dia, George onii-chan?
 
 #v2737...There isn't much I'd be able to tell you myself. Sorry... 
-
+...Não há muito que eu seja capaz de dizer a você. Desculpe...
 
 #v273812 years, huh? ...That's more than enough time for a cute girl to be reborn as a strong woman. 
-
+12 anos, é? ...É tempo o suficiente para uma adorável garota renascer como uma mulher forte.
 
 #v2588It's just my body that's changed. My time has been stopped for all those years. 
-
+Foi só o meu corpo que mudou. O meu tempo está parado todos esses anos.
 
 #v2583Jessica onee-chan, ...do you always carry those things on your fists around with you? 
-
+Jessica onee-chan, ...você sempre carrega essas coisas nos seus punhos por aí?
 
 #v2931Pretty cool, huh? They're a maiden's art, and my lucky item! 
-
+Bem legal, né? São a arte de uma donzela e meu item de sorte!
 
 #v2584It's okay to rely on me a little. I'm not a six-year-old crybaby anymore. 
-
+Tudo bem depender de mim um pouco. Não sou mais uma chorona de seis anos.
 
 #v2932True. You're a fully-fledged maiden with a heart of blazing red iron...! 
-
+Realmente. Você é uma donzela crescida com um coração flamejante de aço...!
 
 #v2933That's too bad, Ange. With a face as cute as yours, it's such a waste to look so sour all the time. 
-
+Que pena, Ange. Com um rostinho lindo desses, é mesmo um desperdício fazer essa cara amargurada o tempo todo.
 
 #v2585Funny to hear that from you. Don't ruin those good looks with the way you talk. 
-
+É engraçado ouvir isso vindo de você. Não arruíne essa boa aparência com a forma como fala.
 
 #v2589Every now and then, ...I get the feeling that you and Aunt Eva are really alike. 
-
+Desde sempre, ...eu tive a impressão de que você e a tia Eva são bem parecidas.
 
 #v3261Oh, come on, how is that? I'm not short-tempered like she is... 
-
+Ah, qual foi? Como? Eu não tenho um pavio curto igual a ela...
 
 #v2590Those 12 rough years made me strong. They taught me about something more important than makeup. 
-
+Esses 12 anos me fizeram mais forte. Eles me ensinaram algo muito mais importante que maquiagem.
 
 #v3262...When you say that, you sound just like Kyrie-san. 
-
+...Quando fala assim, soa igual a Kyrie-san.
 
 #v3263The future you should know, right? Who is the culprit in this crime? 
-
+Você deve saber o futuro, certo? Quem é o culpado deste crime?
 
 #v2591You probably won't want to believe it, ...but it's just as much of a mystery 12 years later. 
-
+Você provavelmente não acreditaria, ...mas continua um mistério mesmo após 12 anos.
 
 #v4126You're really going to guide me to the truth, right...? 
-
+Você vai mesmo me guiar até a verdade, né...?
 
 #v4286But of course. My master has ordered me to do so. 
-
+Mas é claro! Minha mentora me ordenou a fazer isso.
 
 #v4127What do you think? This level of reasoning is possible for Ushiromiya Ange. 
-
+Uma dedução como esta é algo trivial para Ushiromiya Ange. Seus pensamentos?
 
 #v4287Hey! That's my catch phrase. Don't copy me! 
-
+Ei! Essa frase de efeito é minha. Não copie!
 
 #v4288What do you think? This level of reasoning is possible for Furudo Erika. 
-
+Uma dedução como esta é algo trivial para Furudo Erika. Seus pensamentos?
 
 #v4128Do you practice that all the time in front of a mirror? ...That's hardcore. 
-
+Você ensaia isso o tempo todo na frente do espelho? ...Quanta dedicação.
 
 #v4129There's no time to stand around. I'll definitely expose the truth! 
-
+Não há tempo para ficar parada. Eu definitivamente vou expor a verdade!
 
 #v3934Ange, you mustn't search for the truth so hard that you lose sight of what's IMPORTANT. 
-
+Ange, você não deve ficar obcecada em expor a verdade assim ou vai perder de visto o que é mais IMPORTANTE.
 
 #v4130...You're surprisingly good for hugging. ...I never would've guessed. 
-
+...Você é surpreendentemente boa de abraçar. ...Eu nunca teria imaginado.
 
 #v3935That is not a COMPLIMENT. ...That TICKLES. 
-
+Isso não é um ELOGIO. ...Isso faz CÓCEGAS.
 
 #v3936You are the second Witch of Truth I have MET. 
-
+Você é a segunda Bruxa da Verdade que eu ENCONTRO.
 
 #v4131Don't lump me in with her. We have different ways of viewing the truth. 
-
+Não me compare com ela. Nós temos formas diferentes de ver a verdade.
 
 #v4132...Butts? No, I don't have a habit of pinching butts. 
-
+...Bundas? Não, eu não tenho o hábito de beliscar bundas.
 
 #v5538Thank God. ...I was worried it might be an Ushiromiya Family tradition. 
-
+Graças a Deus. ...Eu estava preocupado que pudesse ser uma tradição da família Ushiromiya.
 
 #v4133The heart...? Can that really give you a clue towards finding the truth? 
-
+O coração...? Ele pode mesmo dar pistas que ajudem a encontrar a verdade?
 
 #v5539It can. ...Or rather, without that, you won't be able to understand the truth even if you do reach it. 
-
+Pode sim. ...Ou melhor, sem ele, vocÊ não será capaz de compreender a verdade mesmo que a alcance.
 
 #v4134...Only hot guys are allowed to wear white shirts. 
-
+...Só caras bonitos podem vestir camisas brancas.
 
 #v5540Are you trying to say that I should wear this, or shouldn't? 
-
+Está dizendo que eu não posso vestir isto ou que posso?
 
 #v4135I'll break this game board thing and take everyone back...! 
-
+Eu quebrarei este tabuleiro e levarei todos de volta...!
 
 #v5890That's right. If you don't break Beato's game board, no one will be able to come home to you... 
-
+Isso mesmo. Se não quebrar o tabuleiro da Beato, ninguém poderá voltar com você...
 
 #v4136How long will this farce continue? ...I've gotten tired of this. 
-
+Até quando essa farça vai continuar? ...Já cansei disso.
 
 #v5891It'll continue until I get tired of it. I'm gonna have it entertain me for a bit longer... 
-
+Eu vou continuar até me cansar. Deixarei que ela me entretenha um pouco mais...
 
 #v5892To descend to becoming a witch's piece in exchange for the truth. ...What a stupid kid. 
-
+Você descendeu para virar uma peça da bruxa em troca da verdade... Que criança idiota.
 
 #v4137Go ahead and laugh. ...As long as you tell me the truth, I don't care if I die right here and now. 
-
+Vá em frente e ria. ...Contanto que possa me contar a verdade, não me importo se eu morrer aqui e agora.
 
 #v4138You always smell so sweet. ...Would you be sweet if I licked you too? 
-
+Você sempre tem um cheiro tão doce. ...Se importa se eu te lamber também?
 
 #v4874Who knows? But anyway, only Bern gets to do that. 
-
+Quem sabe? Mas assim, só a Bern pode fazer isso.
 
 #v4875The best of happy endings! I'll show you that with certainty! 
-
+O melhor dos finais felizes! Eu certamente vou te mostrar!
 
 #v4139Of course. And I'll certainly show you an end that isn't boring. 
-
+É claro, e eu certamente mostrarei a você um final que não é entediante.
 
 #v4876Ange, ...you're starting to get a good look on your face. 
-
+Ange, ...você está começando a mostrar uma cara melhor.
 
 #v4140Yeah, I'm okay now. I know what I need to do. 
-
+Sim, eu estou bem agora. Eu sei o que preciso fazer.
 
 #v0310This magic stuff's pretty amazing. I'd like to learn a spell or two! 
-
+Essa coisa de magia é mesmo incrível. Eu gostaria de aprender um feitiço ou dois!
 
 #v1480It's merely a technique of ostentation... You would have no need of it, Battler-kun. 
-
+É meramente uma técnica de ostentação... Você não precisa disso, Battler-kun.
 
 #v1481Come, try and remember. What form did you have? 
-
+Vamos, busque recordar. Que forma você possuía?
 
 #v0311Ihihi! Yeah, remember how we were beating you up and you were crawling on the floor! 
-
+Ihihi! Sim, lembra quando estávamos acabando contigo e você estava rastejando pelo chão!
 
 #v0312Don't get Virgilia angry. She may not look it, but she can get stuff done when she gets serious. 
-
+Não deixe a VIRGILIA zangada. Ela pode não parecer, mas consegue fazer muitas coisas quando fica séria.
 
 #v1482My, my. You make it sound like I usually don't get stuff done. Heheheh... 
-
+Ora, ora, Você faz parecer que normalmente eu não consigo fazer nada. Heheheh...
 
 #v0460Not bad. That's my Predecessor's Predecessor's Predecessor for you. 
-
+Não foi ruim. Como esperado da antecessora da antecessora da minha antecessora.
 
 #v1483When you say it like that, umm, ...it makes me feel so very old. 
-
+Quando fala dessa forma, bem, ...faz eu me sentir muito velha.
 
 #v1484How can I get them to understand that a fight with an obvious conclusion is pointless...? 
-
+Como eu faço para eles entenderem que uma luta com um desfecho óbvio é inútil...?
 
 #v0461That's easy. One punch to the face. That'll teach them. 
-
+Isso é fácil. Um soco na cara. Assim eles aprendem.
 
 #v1485Sometimes, I question myself. What might I have done to avert this profitless battle...? 
-
+Tem vezes que eu fico me questionando. O que eu poderia ter feito para evitar essa vã...?
 
 #v0462You'll be able to avoid the next one. Just make sure they'll never get up again. 
-
+Você pode evitar a próxima. É só ter certeza de que eles nunca mais vão dar as caras.
 
 #v1486The two bishops control different squares, despite being the same piece. 
-
+Os dois bispos controlam casas diferentes, embora sejam a mesma peça.
 
 #v1487That's just like us. That way, there are no squares to escape to, be they white or black. 
-
+É como nós. Dessa forma, não há casas para fugir, sejam elas brancas ou pretas.
 
 #v1488Body double magic can be fun every now and then. How about a chess match later? 
-
+Magia de corpo duplo pode ser divertido de vez em quando. Que tal uma partida de xadrez depois?
 
 #v1489Very well. After all, you are my most well-balanced and formidable opponent. 
-
+Muito bem, afinal, você é meu oponente mais equilibrado e formidável.
 
 #v1490That's interesting. I've never been able to calmly observe myself fighting. 
-
+Isso é interessante. Eu nunca fui capaz de me observar lutar calmamente.
 
 #v1491A spell for the purpose of reflecting upon oneself. That is what body double magic is. 
 
@@ -15796,7 +15796,7 @@ Ihihi, seu peito está mais incrível que nunca! Nem sei para onde olhar...!
 Não precisa pegar leve comigo. Só salte de um lado pro outro, tá?
 
 #v0354Those breasts are absolutely outrageous. I think I'd better measure them for a bit. Ihihi. 
-Esses peitos são um verdadeiro ultraje. Acho que seria eu conferir o tamanho deles. Ihihi.
+Esses peitos são um verdadeiro ultraje. Acho que seria bom eu conferir o tamanho deles. Ihihi.
 
 #v0355I like your guts! Come at me with all you've got! If you don't, you're gonna get hurt, okay?! 
 Gostei dessa coragem! Venha com tudo que tiver! Senaõ, vai se machucar, ouviu?!
