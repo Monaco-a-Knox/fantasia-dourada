@@ -7799,7 +7799,7 @@ Entendeu, tia EVa?! Só porque está na meia-idade, não pode ficar me subestima
 ...Acho que tem razão. E outra coisa, poderia parar de me chamar de 'meia-idade'...?
 
 #v2910What's with those weird clothes...? I-If you have a pattern paper for that, hand it over. 
-Qual é a dessas rouapas estranhas...? S-Se tem o molde delas, me dê.
+Qual é a dessas roupas estranhas...? S-Se tem o molde delas, me dê.
 
 #v3432Nope, don't have one of those nyeh. I'll bet you could find one in an Akiba cosplay shop though nyeh. 
 Sem chance, não tenho nada disso, nyeh. Mas aposto que pode encontrar um em uma loja de cosplay em Akiba, nyeh.
@@ -8278,7 +8278,7 @@ Como esperado da Bruxa da Escuridão. Por que não desiste de ser humana?
 Quem você está chamando de bruxa?! Eu sou humana! Qual é a graça?! Pare de rir!
 
 #v5207That fashion sense... Maybe the thing our brand lacked...was a person like you...! 
-Esse senso de moda... Tavez aquilo que faltasse para nossa marca...fosse uma pessoa como você...!
+Esse senso de moda... Talvez aquilo que faltasse para nossa marca...fosse uma pessoa como você...!
 
 #v4799Maybe you'd better try Gaap first. She knows a lot more about fashion than I do. 
 Talvez devesse tentar a Gaap primeiro. Ela entende muito mais de moda do que eu.
@@ -8332,9 +8332,10 @@ Como poderia seu coração ressecado ser regado novamente...?
 Truques esplêndidos são tudo o que minhas pequenas células cinzentas conseguem ver!
 
 #v4222Now do you see how fragile the frost called witches are against the spring called truth? 
-Consegue ver agora o quão frágil é a geada das bruxas diante da primavera da veradade?
+Consegue ver agora o quão frágil é a geada das bruxas diante da primavera da verdade?
 
 #v5717...So it would seem. I don't appear to have...the strength to resist... 
+...Então é o que aparenta ser. Não parece que eu tenho...força para resistir...
 
 #v4223My reasoning is perfect. There are no gaps in it. 
 Meu raciocínio é perfeito. Ele não possui furos.
@@ -8388,6 +8389,7 @@ Heheh, hahahah! O deleite de expor a verdade! Este é o prazer de ser uma estupr
 Outra treino a essa altura? Me arranje um assassinato de quarto fechado que seja mais divertido!
 
 #v5054Treating me like a common grunt... ...I-I hate this... 
+Me tratando como se fosse um mero animal... ...Mas que merda...
 
 #v4232That entertained me quite a bit. The mystery that you are, that is! 
 Isto me entreteve por um tempo. O mistério que é você!
@@ -8441,6 +8443,7 @@ Ainda não está na hora. Você precisa guardar a sobremesa para o final.
 Confrade EVA, minha mentora está me chamando. Acabarei com você na próxima.
 
 #v4466Y-You're the one getting off easy... ...Remember this, comrade Erika...! 
+É você quem está se safando... ...Lembre-se disso, confrade Erika...!
 
 #v4241According to my reasoning, your true identity is incredibly sad and pathetic. 
 De acordo com meu raciocínio, sua verdadeira identidade é inacreditavelmente triste e patética.
@@ -8642,6 +8645,7 @@ POr que está ficando no meu caminho? ...Por que, ...por que todo mundo faz isso
 Já faz bastante tempo deste que tivemos um EMBATE. Foi PRAZEROSO.
 
 #v5718We were on more of an even footing back in the day. ...It seems I've grown quite old. 
+Nós estávamos em uma situação de maior equilíbrio naquela época. ...Parece que eu evelheci bastante.
 
 #v5719Magnificent, as always. It was a gorgeous and intellectually precise battle. 
 Magnífico, como sempre. Foi uma belo e preciso entrave intelectual.
@@ -8841,10 +8845,10 @@ Erika, não esqueça DISSO. Eu peguei leve porque sou sua AMIGA.
 Você levou mesmo a sério, boneca assassina...! Nnngg...
 
 #v4272I see you're as ridiculously merciless as ever... Are you trying to turn me into minced meat...?! 
-Vejo que continua mais impiedosa do que nucna... Está tentando me transformar em guisado...?!
+Vejo que continua mais impiedosa do que nunca... Está tentando me transformar em guisado...?!
 
 #v3905At least that much power is required to correct your ATTITUDE. 
-Esse tanto de força é necessária para corrigiar a sua ATITUDE.
+Esse tanto de força é necessária para corrigir a sua ATITUDE.
 
 #v3906If you can still stand up, ...you should prepare yourself for the next BLOW. 
 Se ainda consegue levantar, ...então prepare-se para o próximo GOLPE.
@@ -9225,7 +9229,7 @@ Tá, tá, eu me rendo. Ficarei assistindo.
 Maldito, logo quando estava ficando bom. ...Você é o pior tipo de espectador.
 
 #v5525If only you were as cute as Diana... 
-Se ao menos fosse fofac como a Diana...
+Se ao menos fosse fofa como a Diana...
 
 #v5826Oh? I'm a pedigree, did you know that? Even my fur is top class... 
 Oh? Eu tenho pedigree, sabia disso? Até meu pelo é de alta qualidade...
@@ -9240,7 +9244,7 @@ Vá em frente e vença. É a minha recompensa pela excelente postura de demonstr
 Hmph, deixarei que vença desta vez! Mas só por hoje, ouviu?!
 
 #v5527I'll take you at your word. ...I've got absolutely no confidence in my ability to beat you again. 
-Aceitarei sua proposta. ...Eu não tenho confiança o suficiente nas minhas hanilidade para derrotá-la de novo.
+Aceitarei sua proposta. ...Eu não tenho confiança o suficiente nas minhas habilidade para derrotá-la de novo.
 
 #v4808Not bad! Even if it was a fluke, you beat me, Lady Lambdadelta! 
 Nada mal! Mesmo que tenha sido por acaso, você me derrotou, Lady LAMBDADELTA!
@@ -9684,7 +9688,7 @@ Nng... ...E-Então permita-me retornar à minha função...aaaaah...!
 Nada mal! Não abrirei mão da vitória, mas reconheço suas habilidades.
 
 #v5298Th-Thank you very much... Even I have things I cannot give up on. 
-M-Muito obrigada... Até mesmo eu tenhos coisas que não posso abrir mão.
+M-Muito obrigada... Até mesmo eu tenho coisas que não posso abrir mão.
 
 #v5299Y-Your body is so sweet and sticky... And it smells wonderful... 
 S-Seu corpo é tão doce e pegajoso... E tem um cheiro maravilhoso...
@@ -9729,7 +9733,7 @@ Como eu posso ser completamente ineficiente contra uma criança de aparência im
 Tá debochando de mim? Sabe como foi a minha educação quando eu era humana?
 
 #v4840Do you really keep saying 'if only' because it sounds vaguely like your name? Don't you realize how totally lame-da that sounds? Pfft, *giggle*!! 
-Você fica repetindo 'devagar' porque lembra levemente o seu nome? Não percebe o quão lame-da isso soa? Pfft, *risos*!
+Você fica repetindo 'devagar' porque lembra levemente o seu nome? Não percebe o quão lambido isso soa? Pfft, *risos*!
 
 #v4478Y-You should talk...If only you'd just give up and die! 
 O-Olha como fala... Por que não desiste e morre bem devagar!
@@ -15638,6 +15642,7 @@ Mesmo depois de tudo que mostrei? Então tá! Está na hora de sentir isso na pe
 Eu sou a superpoderosa Lambda-sama, logo já está na hora de dar o ponta pé inicial na minha própria linha de produtos, né!
 
 #v5252I can handle that if you really think it has legs... ...Shall we start by discussing royalties? 
+Eu posso lidar com isso se você realmente acha que tem perna... ...Devemos começar discutindo os royalties?
 
 #v4961There! It's done! Take care of the cleanup, will you? Bern's waiting for me! 
 Pronto! Está feito! Cuide da limpeza, pode ser? A Bern está esperando por mim!
@@ -15805,6 +15810,7 @@ Gostei dessa coragem! Venha com tudo que tiver! Senaõ, vai se machucar, ouviu?!
 Oho, interessante. Uma disputa amistosa soa bom para mim. Dê tudo de si!
 
 #v0357A man's got to be able to make it through at least one fight in his life, right? Let's both give it our all. 
+Um homem deve ser capaz de superar ao menos uma luta em sua vida, não é mesmo? Vamos ambos dar o nosso melhor.
 
 #v0358Aunt Eva? Is that you?! Why are you...a witch?! 
 Tia Eva: É você?! Por que você é...uma bruxa?!
@@ -15825,6 +15831,7 @@ Heheh, você é interessante, nee-chan! Garotas animadas não são ruins.
 Certo, vamos nos divertir um pouco. E sem reclamações quando perder.
 
 #v2559Having an all-out fight with you every now and then doesn't sound half bad! 
+Lutar com tudo contra você de vez em quando não soa tão ruim assim!
 
 #v2560Sorry, Aniki, but I need you to back down this time!
 Desculpa, aniki, mas preciso que desista dassa vez!
@@ -16897,7 +16904,7 @@ Ah, as Vinte Regras de Van Dine. Embora mistérios que o violem também podem se
 Está aqui como convidada? Ou como um ex-inquisidor...?
 
 #v5339If I will do, ...allow me to serve as your opponent. 
-
+Se eu puder, ...permita-me servir como seu oponente.
 
 #v5340To think that a witch existed...superior even to Beatrice-sama... 
 E pensar que uma bruxa...superior a BEATRICE-sama existe...
@@ -17301,7 +17308,7 @@ Ronove-sama! Cenouras ou Travessuras, nyeh!
 Esse é o Ronove-sama, aquele que uma vez foi temido com Grande Demônio. Não posso me descuidar, nyeh.
 
 #v1395I wanna see if Ronove-sama can escape a Golden Bow nyeh! 
-Quero ver se o Ronove-sama conseque escapar do meu Arco Dourado, nyeh!
+Quero ver se o Ronove-sama consegue escapar do meu Arco Dourado, nyeh!
 
 #v1396Beatrice-sama, found ya! I've been ordered to fight you nyeh! 
 BEATRICE-sama, te achei! Fui ordenada para lhe enfrentar, nyeh!
@@ -17406,7 +17413,7 @@ Que armamento terrível, nyeh... Mas lidar com crianças é minha especialdiade,
 Faz tempo que não vejo um bonitão, nyeh! Mas vou fazer com que me odeie agora mesmo, nyeh!
 
 #v5416You look like you might be pretty good. ...My weapon blood is pounding nyeh! 
-
+Parece que você pode ser dos bons. ...O sangue da minha arma está palpitando, nyeh!
 
 #v5417Too bad nyeh...! I can't believe I've gotta kill someone this hot nyeh... 
 Que pena, nyeh...! Não consigo acreditar que tenho que matar alguém tão bonito, nyeh...
@@ -17472,7 +17479,6 @@ Você é elegante até mesmo em batalha. ...Parece que nossas interpretações a
 Em uma luta, você não pode baixar a guarda até o último instante. Eu aprendi isso no meu último confronto.
 
 #v2822Jessica-chan seems to have had a tough fight against you. I'll take this seriously right from the start. 
-
 A Jessica-chan parece ter tido uma luta difícil contra você, por isso preciso levar a sério desde o início.
 
 #v2823Thanks for giving us that splendid advance warning. This is my answer to that. 
@@ -17485,7 +17491,7 @@ Obrigado por nos proporcionar este esplêndido alerta antecipado. Esta será a m
 Não importa quem é meu oponente, não irei recuar. Está pronta?
 
 #v2826You're no opponent to me. ...That aggressive attitude of yours is actually painful to watch. 
-
+Não o considero um oponente. ...Essa sua atitude agressiva é dolorosa de se ver.
 
 #v2827I'm only after your leader, the witch. It's time for her followers to stand aside. 
 Estou atrás da sua chefe, a bruxa. Já passou da hora das subordinadas dela recuarem.
@@ -17593,7 +17599,7 @@ Oh, se separou dos seus pais? Vou levá-la até o posto da polícia.
 Tem algo incomodando você? Uma garota não deveria fazer esse tipo de cara.
 
 #v4599What a cute and spirited young lady. You really would be my ideal daughter. 
-Mas que jovemzinha mais adorável e animada. Você seria a minha filha ideal.
+Mas que jovenzinha mais adorável e animada. Você seria a minha filha ideal.
 
 #v4600Very well. Let's play a little. I'll make sure not to go too hard on you. 
 Pois bem, vamos nos divertir um pouco. Vou cuidar para não pegar muito pesado com você.
@@ -17776,16 +17782,19 @@ Você parece como a bruxa que eu vi em um livro há muito tempo! Vamos duelar!
 É mentira. Como poderia ter matado todas essas pessoas? ...Mentirosa...mentirosa...mentirosa!!!
 
 #v4681No buts!! I'll ask your heart the truth with my fists!! 
+Sem intromissão!! Perguntarei a verdade ao seu coração com os meus punhos!
 
 #v4682Wh-Why...? Why did you kill them...? I don't understand...!! 
 P-Por que...? Por que os matou...? Eu não entendo...!!
 
 #v3336Get back. Only you could have committed these crimes. You're the wolf...!! 
+Pra trás! Só você poderia ter cometido esses crimes. Você é o lobo...!
 
 #v3337Can you prove it, Battler-kun? Can you prove that you actually are Ushiromiya Battler?! 
 Pode provar, Battler-kun? Pode provar que você é mesmo Ushiromiya Battler?!
 
-#v3338This is no time for children to butt in! Stand aside! 
+#v3338This is no time for children to butt in! Stand aside!
+Não é hora das crianças se intrometerem! Afaste-se! 
 
 #v3339Are you...really Ange-chan?! Y-Yes, I can see the resemblance, but... 
 Você é mesmo...a Ange-chan?! S-Sim, posso ver a semelhança, mas...
@@ -17935,7 +17944,7 @@ Outr...bruxa? Só pode ser um sonho...! Sim, isso é um sonho!
 A Maria e eu vamos sobreviver! Saia da minha frente! Vamos deixar esta ilha vivas!
 
 #v5267What an adorable young lady. But I'm sorry. I can't afford to hold back. 
-Mas que adorável jovenzinha.
+Mas que adorável jovenzinha, porém eu sinto muito; não posso me dar ao luxo de me conter.
 
 #v5268...Get back, Maria. ...Like you said, ...he isn't Battler-kun.
 ...Afaste-se, Maria. ...Bem como disse, ...ele não é o Battler-kun.
@@ -17975,6 +17984,7 @@ Não tenho prazer em brincr com velhos, ...mas claro, talvez seja uma boa forma 
 #v4401A detective, tea, and an armchair. That's not a bad combination. ...Shall we, then? 
 
 #v4402The butler holds an important key. That's so classic western mansion mystery, it's a bit boring. 
+O mordomo sempre carrega uma chave vital. Esse é um mistério em mansão ocidental tão clássico que chega a ser chato.
 
 #v4403...*giggle*giggle* Are you gonna show me another magic trick? Try to keep me entertained, okay?
 ...*risos*risos* Vai me mostrar outro truque de mágica? Mantenha-me entretida, certo?
@@ -18088,125 +18098,183 @@ O gênero do mistério é uma batalha de inteligência. Se está procurando por 
 Van Dine é datado. Desse jeito, você não será capaz de acompanhar as novas gerações.
 
 #v4440T-To think that you would play with me!! Thank you so much, my masteeeeeeeer! 
+E-E pensar que você iria brincar comigo!! Muitíssimo obrigada, minha mentoraaaaa!
 
 #v4441Leave it to me! I'll see to it that your boredom is neatly crushed! 
+Deixe isso comigo! Vou me certificar que o seu tédio será completamente esmagado!
 
 #v4442The next round's between me and my masteeeeeer?! I'm so happyyyyyyy! 
+O próximo round é entre eu e minha mentoraaaaaa?! Que felicidadeeeeee!
 
 #v4443I'm not gonna let you have my master! I'm gonna beat you up, so prepare yourself! 
+Não deixarei que fique com a minha mentora! Vou acabar com você, então prepare-se!
 
 #v4444You come over to play too much! Don't disrupt my sweet time alone with my master anymore! 
+Você aparece demais para brincar! Não interrompa mais o meu doce momento à sós com a minha mentora!
 
 #v4445I'm not giving up my place at my master's side! Here's some candy, so will you please go home?! 
+Não abrirei mão do meu lugar ao lado da minha mentora! Por que não pega esse doce e vai pra casa?!
 
 #v4446I wonder which witch summoned you. ...Allow me to welcome you in my master's place. 
+Eu me pergunto que bruxa te invocou. ...Permita que eu lhe dê as boas vindas no lugar da minha mentora.
 
 #v4447I wonder how many cuts it'll take to divide you up. Let's find out. 
+Quantos cortes será que vai precisar para dividir você? Vamos descobrir.
 
 #v4448I like your face a lot better than the original Battler. ...This way, I'll be able to go all out. 
+Eu gosto que o seu rosto é muito melhor que o do Battler original. ...Sendo assim, eu poderei ir com tudo.
 
 #v4039Let us fight without holding back, without leniency, ...and without MERCY. That is how we BATTLE. 
+Vamos lutar sem nos contermos, sem leniência...e sem MISERICÓRDIA. É assim que nós LUTAMOS.
 
 #v4040I look forward to your REASONING. I won't let you get away with another logic ERROR. 
+Estou ansiosa pelo seu RACIOCÍNIO. Não deixarei que escape com outro erro de LÓGICA.
 
 #v4041I was looking forward to THIS. ...I'm glad I get to fight you AGAIN...! 
+Eu estava ansiova por ISTO. ...Estou feliz que possamos lutar NOVAMENTE...!
 
 #v4042What you're doing isn't REASONING. Allow me to show YOU. 
+O que você está fazendo não é RACIOCÍNIO. Permita-me que eu lhe MOSTRE.
 
 #v4043You poor THING. With a posture like that, you won't be able to reach any TRUTH. 
+Sua pobre COITADA. Com uma postura dessas, você não será capaz de alcançar a VERDADE.
 
 #v4044So, you're too attached to it to SEE. ...Allow me to help cool your HEAD. 
+Você é muito apegada para VER. ...Deixe-me ajudar a esfriar a sua CABEÇA.
 
 #v4045I want to play with you for a while, like we once DID. I look forward to this intellectual TIME. 
+Eu quero brincar com você por um tempo, igual nós FAZÍAMOS. Estou ansiosa por esse nosso momento INTELECTUAL.
 
 #v4046I have also learned much since THEN. I believe I will be capable of providing some CHALLENGE. 
+Eu também aprendi muito desde ENTÃO. Acredito que serei capaz de proporcionar algum DESAFIO.
 
 #v4047It has been so long since we last faced OFF. There is no need to hold BACK...! 
 
-#v4048It's a shame that you and I must FIGHT. However, this is work, so forgive ME. 
+#v4048It's a shame that you and I must FIGHT. However, this is work, so forgive ME.
+É uma pena que nós tenhamos que LUTAR. Contudo, isso é trabalho, então me PERDOE.
 
 #v4049We specialize in fighting against demons above all ELSE. Your chances of victory are NONEXISTENT. 
+Acima de tudo, nós nos especializamos em lutar contra DEMÔNIOS. Suas chances de vencer são INEXISTENTES.
 
 #v4050What a nice SMELL. ...Are you hiding SOMETHING?
 Sinto um cheiro BOM. ...Está escondendo alguma COISA?
 
 #v4051I will deny everything about your existence and your magic with these ten wedges of MINE. 
+Eu negarei tudo sobre a sua existência e sua magia com as minhas dez CUNHAS.
 
 #v4052I realize that I am being RUDE. However, I will deny every part of you, so prepare YOURSELF. 
+Eu percebo que estou sendo rude, mas negarei cada parte sua, então PREPARE-SE.
 
 #v4053You cannot defeat my ten WEDGES. You must understand that better than ANYONE. 
+Não tem como derrotar as minhas dez CUNHA. Você deve saber disso melhor do que NINGUÉM.
 
 #v4054WARNING. If you continue to resist, I will be forced to deny your EXISTENCE. 
+PERIGO. Se continuar resistindo, eu serei forçada a negar a sua EXISTÊNCIA.
 
 #v4055Furniture, you are a fool not to fear ME. I see, you truly are PROUD. 
+Mobília, és toda em não me TEMER. Posso ver que é mesmo ORGULHOSA.
 
 #v4056Give up and let yourself be CONFISCATED. ...If you resist, I will show no MERCY. 
+Desista de deixe-se ser CONFISCADA. ...Caso resista, não demonstrarei MISERICÓRDIA.
 
 #v4057What are you DOING? If you intend to defend evil, please prepare YOURSELF. 
+O que está FAZENDO? Se pretende defender o mal, eu peço que esteja PREPARADA.
 
 #v4058I don't want to deny YOU. However, those are the orders I was GIVEN. 
+Eu não quero NEGÁ-LA. Entretanto, essa foram as ordens que eu RECEBI.
 
 #v4059Are you defending a WITCH? Then I will deny you as WELL. 
+Você está defendendo uma BRUXA? Então eu terei que negar você TAMBÉM.
 
 #v4060If you intend to fight, I will have to deny YOU. I can show mercy, but I am cold-BLOODED. 
+Se pretende lutar, eu terei que NEGÁ-LA. Posso demonstrar piedade, mas tenho sangue FRIO.
 
 #v4061Do you intend to protect a witch? Then I must defeat you FIRST. 
+Pretende proteger uma bruxa? Então devo derrotá-lo PRIMEIRO.
 
 #v4062Perhaps you should calm DOWN. There are many things that cannot be seen unless you are CALM. 
+Talvez você deva se ACALMAR. Há muitas coisas que não podem ser vistas se não estiver CALMA.
 
 #v4063If I deny you, the cat box will lose its LID. I would prefer not to FIGHT. 
+Se eu nevar você, a caixa de gato perderá a sua TAMPA. Eu preferia não ter que LUTAR.
 
 #v4064Then there is no helping IT. I will deny you and reach the TRUTH. 
+Então não há o que FAZER. Eu irei negá-la e alcançar a VERDADE.
 
 #v4065You are the precious lid of the cat BOX. Please don't RESIST. I don't want to break YOU. 
+Você é a preciosa tampa desta CAIXA. Por favor, não RESISTA. Eu não quero ter que QUEBRÁ-LA.
 
 #v4066Fighting you is POINTLESS. After all, I know your IDENTITY. 
+Lutar com você é INÚTIL. Afinal, eu sei a sua IDENTIDADE.
 
 #v4067Poor THING. ...Then it appears I must expose your true SELF. 
+COITADINHA. ...Parece que eu devo expor o seu verdadeiro EU.
 
 #v4068I will confiscate you too as EVIDENCE... ...Prepare YOURSELF. 
+Irei confiscar como você como EVIDÊNCIA... Esteja PREPARADA.
 
 #v4069I merely said that your reasoning violates the DECALOGUE. 
+Eu meramente disse que o seu raciocínio viola o DECÁLOGO.
 
 #v4070Do you know of the Knox DECALOGUE? It gives you the power to THINK. 
+Você conhece o Decálogo de Knox? Ele fornece a você o poder para PENSAR.
 
 #v4071You've let the blood rush to your HEAD. Perhaps you should calm down a LITTLE... 
+Você deixou o sangue subir à CABEÇA. Talvez seja o momento de nos acalmarmos um POUCO...
 
 #v4072I pity you, but I have been ordered to eliminate you from this GAME. 
+Eu tenho pena de você, mas fui ordenada a eliminá-la deste JOGO.
 
 #v4073Meeting with me is a death SENTENCE. You have my sympathy for your poor luck in this GAME. 
+Um encontro comigo é a sua sentença de MORTE. Você tem a minha simpatia pela sua péssima sorte neste JOGO.
 
 #v4074This is the end of your TURN. Come now, leave the STAGE...! 
+Isso concluí a sua PARTICIPAÇÃO. Vamos, deixe o PALCO...!
 
 #v4075You cannot injure my body with mere BULLETS. It is FUTILE. 
+Você não pode ferir meu corpo com meros projéteis. É FÚTIL.
 
 #v4076Wolves and SHEEP. That is another good reasoning METHOD. However, the way you go about it is too VIOLENT. 
+Lobos e CARNEIROS. Este é outro bom método de RACIOCÍNIO. Entretanto, a maneira como o faz é demasiadamente VIOLENTA.
 
 #v4077Violence cannot resolve ANYTHING. ...You will now back down QUIETLY. 
+Violência não resolve NADA. ...Agora retire-se SILENCIOSAMENTE.
 
 #v4078Erika, ...is it necessary to reason that much OUT? You are too MERCILESS. 
+Erika, ...é mesmo necessário raciocinar tanto ASSIM? Você é muito IMPIEDOSA.
 
 #v4079I warn you as a FRIEND. Stand DOWN. You cannot defeat ME. 
+Eu lhe avisei, como AMIGA. Afaste, você não pode me DERROTAR.
 
 #v4080Long time no SEE. Let us play with all we have TODAY...! 
+Há quanto TEMPO. Vamos nos divetir ao máximo HOJE...!
 
 #v4081...UNDERSTOOD. Let us show them how one fights with the DECALOGUE. 
+...ENTENDIDO. Vamos mostrar para eles como se luta usando o DECÁLOGO.
 
 #v4082This is how a proper mystery ought to APPEAR. ...Go on, have a LOOK. 
+É assim que um mistério de verdade deve SER. ...Dê uma OLHADA.
 
 #v4083The loser is on stamp DUTY...! I must not LOSE!! 
+O perdedor terá que ficar CARIMBANDO...! Eu não PERDEREI!!
 
 #v4084Now this is INTERESTING. To think that Knox and Van Dine would be forced to FIGHT. 
+Isso sim é INTERESSANTE. Quem diria que o Knox e o Van Dine seriam forçados a LUTAR.
 
 #v4085What a precious OPPORTUNITY. Let us have the Decalogue and the Twenty Rules test each other's POWER. 
+Que oportunidade mais PRECIOSA. Vamos colocar o Decálogo e as Vinte Regras para testar um ao OUTRO.
 
 #v4086Thank you for this MATCH. Such a chance doesn't come along OFTEN. Let us both give this all we HAVE...! 
+Obrigada por este EMBATE. Tal oportunidade não aparece com FREQUÊNCIA. Vamos dar o nosso MELHOR...!
 
 #v4087Lady Bernkastel, you have violated Lady Beatrice's TERRITORY. 
+Lady BERNKASTEL, você violou o território da Lady BEATRICE.
 
 #v4088This is not WORK. ...My own personal justice...will not let me forgive YOU. 
+Isto não é TRABALHO. ...Minha justiça pessoal...não permitirá que eu a PERDOE.
 
 #v4089Such an action cannot be permitted, even if you are a witch of the SENATE. ...That is my JUSTICE. 
+Tais atos não serão permitidos, nem mesmo se você for uma bruxa do SENADO. ...Esta é a minha JUSTIÇA.
 
 #v4090Lady Lambdadelta, this is not your PLAYGROUND. Please LEAVE. 
 Lady LAMBDADELTA, este não é o seu PARQUINHO. Por favor, RETIRE-SE.
@@ -18254,6 +18322,7 @@ Eu esperava perguntar a você sobre sua vida de aposentada.
 Não exagere, tá? Vai ficar com dor nas costas depois.
 
 #v5652It seems you've got it rough too. Thanks to both Battler and Beato. You have my sympathy. 
+Parece que você está passando por maus bocados. Graças ao Battler e a Beato. Você tem a minha simpatia.
 
 #v5653I just want some tea. ...Man, you must be bored too. 
 Só quero um pouco de chá. ...Cara, você deve estar entediado também.
@@ -18577,7 +18646,8 @@ Seria chato se você fosse um hambúrguer o tempo todo, então tente virar um ko
 #v4984Dumbass! Did you really think you could beat me, Lady Lambdadelta? 
 Idiota! Achou mesmo que poderia me derrotar, Lady LAMBDADELTA?
 
-#v4985I've seen more than enough ground beef! Next time, I'll practice filleting you! 
+#v4985I've seen more than enough ground beef! Next time, I'll practice filleting you!
+Já vi mais do que o suficiente de carne moída! Na próxima, vou praticar filetando você!
 
 #v4986Old people shouldn't overdo it! You'll feel it in your back later! 
 Velhos não deveria exagerar assim! Depois suas costas vão cobrar!
@@ -18609,12 +18679,14 @@ Já está ficando bem chato, hein? ...Esse tabuleiro de vocês.
 #v4995I'm bored, I'm bored, I'm bored!! Hey, Lucifer! Do something funny! 
 Estou entediada, entediada, entediada!! Ei, Lucifer! Faça algo engraçado!
 
-#v4996I'm fighting furniture? That's so boring, it'll break right away! 
+#v4996I'm fighting furniture? That's so boring, it'll break right away!
+Estou lutando com uma mobília? É tão chato que dá vontade de quebrar agora! 
 
 #v4997You've really got guts to face me, the Great Lambdadelta-sama! 
 Você tem mesmo coragem para me enfrentar, a Grande LAMBDADELTA-SAMA!
 
 #v4998I'm fighting a Human, and furniture no less? There's no point breaking you! 
+Estou lutando com um humano, não uma mobília! Não faz sentido quebrá-la!
 
 #v4999Your certain willpower... It's interesting, so I'll put you to the test! 
 Sua força de vontade absoluta... É interessante, então deixe-me colocá-la à prova!
@@ -18643,7 +18715,8 @@ Como sua superior, darei a você uma gentil e dura lição sobre como usar magia
 #v5007Playing with dolls is boring! They break so easily! 
 Brincar de boneca é chato! Elas quebra muito facilmente!
 
-#v5008Hey, hey! Can I pull on your ears? And can I pull out your ears? 
+#v5008Hey, hey! Can I pull on your ears? And can I pull out your ears?
+Ei, ei! Posso puxar suas orelhas? Eu posso puxar as suas orelhas?
 
 #v5009Did you think that a mere weapon would be able to leave a single scratch on a Great Witch? Moron!
 Achou que uma simples arma poderia deixar um mero arranhão em uma Grande Bruxa? Idiota!
