@@ -10978,7 +10978,7 @@ Só um pouquinho, tá? Francamente, você é igual a um filhotinho diante de um 
 Muito bem. Você trabalhou duro, por isso fomos capazes de vencer facilmente.
 
 #v0884Y-Your words honor me! Being useful is furniture's joy! 
-S-Suas palavras são uma honta! Ser útil é a alegria de uma mobília!
+S-Suas palavras são uma honra! Ser útil é o prazer de uma mobília!
 
 #v0885Just how powerful is Ronove-sama, who was once feared as a Great Demon...? 
 O quão poderoso é o Ronove-sama, aquele que uma vez foi temido como Grande Demônio...?
@@ -10990,7 +10990,7 @@ Boa pergunta. Temo que tenha me esquecido desse passado distante.
 M-Muito obrigada. Você certamente me salvou naquela hora...
 
 #v1054Protecting a lady and saying 'that requires no thanks'...are what make a proper butler. 
-Proteger uma dema e dizer 'não precisa me agradecer'...é o que o torna um mordome de verdade.
+Proteger uma dama e dizer 'não precisa me agradecer'...é o que o torna um mordome de verdade.
 
 #v1055Protecting a lady is quite an important role for furniture. 
 Proteger uma dama é um trabalho muito importante para uma mobília.
@@ -11005,379 +11005,379 @@ Não acredito que um homem como você é um demônio...
 E eu não acredito que uma dama como você é uma mobília.
 
 #v0733Your strength must be in your ability to see through your opponent. I'm sure of it... 
-
+Tenho certeza que a sua força deve estar em sua habilidade de ver através dos seus oponentes...
 
 #v1057Perhaps, but seeing when rose leaves are about to wither would be far more difficult for me. 
-
+É possível, mas ver quando as rosas estão para secar seria muito mais difícil para mim.
 
 #v1058Pu ku ku. True furniture wants to be elegant, even in battle. 
-
+Pu ku ku. Mobílias de verdade almejam ser elegantes, mesmo em batalha.
 
 #v0734Since I'm not elegant, ...does that mean I'm even less than furniture...? ...Ngg... 
-
+Já que não sou elegante, ...isso significa que sou inferior a uma mobília...? ...Ngg...
 
 #v0735Tell me. What can I do to reach your level, Ronove-sama?! 
-
+Me diga! O que eu preciso fazer para chegar no seu nível, Ronove-sama!
 
 #v1059A facial mask and a book of Heine's poems before bed. That's probably the secret. 
-
+Uma máscara facial e um livro de poemas do Heine antes de dormir. Provavelmente é esse o segredo.
 
 #v0583Is that all? I wanted to see a squishy, brutally-murdered corpse! 
-
+Só isso? Eu quero ver cadáveres brutalmente assassinados!
 
 #v1060Pardon me. I assumed that such a thing would not suit the beautiful EVA-sama particularly well. 
-
+Perdoe-me. Eu presumi que tal coisa não combinaria muito bem com a bela EVA-sama.
 
 #v1061If I had let you take the lead, cleaning up the subsequent sea of blood would have been quite a bother. 
-
+Se eu deixasse você assumir a liderança, limpar o subsequente mar de sangue seria bem problemático.
 
 #v0584Not at all. It'd be a wonderful world of guts and candies scattered all over the place. 
-
+Claro que não. Seria um maravilhoso mundo de entranhas e doces espalhados pra todo lado.
 
 #v0585Do you think I'm blind? I can totally tell that you're going easy on them! 
-
+Acha que sou cega? Eu consigo ver claramente que você está pegando leve com eles!
 
 #v1062I'm not going easy on them, I'm taking the easy way out. Please forgive me... Pu ku ku. 
-
+Eu não estou pegando leve, estou optando pelo mais fácil. Por favor, me perdoe... Pu ku ku.
 
 #v1333That was perfect nyeh! A strike that looks elegant, but takes them out, like, boom nyeh! 
-
+Foi perfeito, nyeh! Um strike elegante, mas que acabou com eles, tipo uma explosão, nyeh!
 
 #v1063I thank you for the commentary. Well then, let us watch that finish once more in slow motion. 
-
+Eu agradeço pelo seu comentário. Então, vamos assistir a essa finalização mais uma vez, em câmera lenta.
 
 #v1334Ronove-sama! I wanna have the finishing blow nyeh, I'm jealous nyeh! 
-
+Ronove-sama! Eu quero dar o golpe final, nyeh! Fiquei com inveja, nyeh!
 
 #v1064No. An elegant finish is how an elegant gentleman spends his afternoons... 
-
+Não. Uma elegante finalização é como um elegante cavalheiro passa as suas tardes...
 
 #v1065That settles it. Chiester Sisters, see to the wounded. 
-
+Isso coloca um ponto final. Irmãs Chiester, cuidem dos feridos.
 
 #v1335Requesting Medic! Chiester 911! Get over here nyeh! 
-
+Requisitando Médico! Chiester 911! Venha aqui, nyeh!
 
 #v2742That was unbelievable. So, this is a demon's power... 
-
+Isso é inacreditável. Então esse é o poder de um demônio...
 
 #v3156The source of my power is that I'm early to bed, early to rise. That, and an elegant afternoon teatime. 
-
+A fonte do meu poder vem de dormir cedo e acordar cedo. Isso, e um elegante chá da tarde.
 
 #v3157When I start having fun, I tend to overdo it. It's a bad habit of mine. 
-
+Quando começo a me divertir, tendo a acabar exagerando. É um péssimo hábito meu.
 
 #v2743Sorry, but I doubt anyone's going to get that joke. 
-
+Foi mal, mas duvido que alguém entenda essa piada.
 
 #v3158This isn't the sort of opponent you ought to waste your time on, George-sama. 
-
+Esse não é o tipo de oponente na qual você está disposto a perder seu tempo, George-sama.
 
 #v2744...Thank you. A monarch doesn't fight without reason. It seems you understand. 
-
+...Obrigado. Um monarca não luta sem motivo. Parece que você compreende isso.
 
 #v2937I know because I've been hit by it before, but that barrier of yours is seriously awesome! 
-
+Eu sei porque já apanhei dela antes, mas aquela sua barreira é incrível!
 
 #v3153As is your punch, Milady Jessica. Having felt it myself, I know. 
-
+Bem como os seus socos, Jessica ojou-sama. Por tê-los sentido, eu sei bem.
 
 #v2938It's a million light years too early for you to beat me, the mighty Jessica-sama! 
-
+Falta um milhão de anos-luz para você me derrotar, a toda poderosa Jessica-sama!
 
 #v3154Light years are a measure of distance. Oh, was that rude of me? Pu ku ku! 
-
+Anos-luz é uma medida de distância. Oh, será que fui rude? Pu ku ku! 
 
 #v3155Milady Jessica, are you hurt? 
-
+Está ferida, Jessica ojou-sama?
 
 #v2939...Whoa, my heart thumped for a second there. ...B-But Kanon-kun's the only one for me!! 
-
+...Nossa, meu coração até acelerou por um segundo. ...M-Mas o Kanon-kun é o único para mim!!
 
 #v3159I shall eliminate all enemies that stand in your way, Rosa-sama. 
-
+Eu devo eliminar todos os inimigos que ficarem no seu caminho, Rosa-sama.
 
 #v3267...What would it take to employ you? Do I need one of those demon's contracts? 
-
+...O que eu preciso para contratar você? Tenho que assinar um daqueles contratos demoníacos?
 
 #v3268Are you really going to make tea? In a place like this...? 
-
+Você vai mesmo preparar um chá? Num lugar desses...?
 
 #v3160Teatime must always be protected! One can enjoy tea in any place. 
-
+A hora do chá deve sempre ser protegida! Deve-se poder aproveitar o chá em qualquer lugar.
 
 #v3161Protecting women is a man's job. I may be a butler, but that changes nothing. 
-
+Proteger as mulheres é o trabalho dos homens. Eu posso ser um mordomo, mas isso não muda o fato.
 
 #v3269Thank you. ...I wish I could have met you under different circumstances. 
-
+Obrigada. ...Eu queria ter encontrado você em circunstâncias diferentes.
 
 #v5145Erika-sama, if you take this too far, you'll dirty your garments. 
-
+Erika-sama, se levar muito a sério, vai sujar suas vestimentas.
 
 #v4292You've got a point there. Then I'll fight in a swimsuit! <Good!> 
-
+Você tem um bom ponto. Então vou lutar de maiô! Good!
 
 #v4293Why are you Beatrice-san's butler? You could have chosen a different master, couldn't you? 
-
+Por que você é o mordomo da BEATRICE-san? Você poderia ser escolhido um mestre diferente, não poderia?
 
 #v5146I am like you. We're good furniture who are obedient to our masters. 
-
+Eu sou como você. Somos boas mobílias que obedecem aos seus mestres.
 
 #v4294Is that all? That went too fast. It was a bit boring. 
-
+Só isso? Foi muito rápido. Nem teve graça.
 
 #v5147Oh, was that method of victory not to your liking? Then how about a magic trick to go with it? 
-
+Por acaso esse método de vitória não é do seu agrado? Então que tal executarmos um truque de mágica?
 
 #v3940Oh NO...! The fight ended while I was distracted by those HOTCAKES...! 
-
+Essa NÃO...! A luta acabou enquanto eu estava distraída com estas HOTCAKES...!
 
 #v5148Relax and enjoy your teatime. Have no fear, and leave the fighting to me. 
-
+Relaxe e aproveite o seu chá. Não tema e deixe a luta para mim.
 
 #v3941Why are you a BUTLER? With your power, you could be the ruler of your own CASTLE. 
-
+Por que você é um MORDOMO? Com esse poder, poderia ser o governante do seu próprio CASTELO.
 
 #v5149Because I know the joy of serving. Pu ku ku, perhaps it is a bit too early for you, young miss... 
-
+Porque eu conheço o prazer de servir. Pu ku ku, talvez ainda seja um pouco cedo para você, senhorita...
 
 #v5150That was a truly powerful opponent. Pu ku ku, we were almost in quite a fix. 
-
+Esse foi um oponente e tanto. Pu ku ku, quase entramos em apuros.
 
 #v3942...You pretend the fight was difficult to hide the fact that you were holding BACK. You are quite smooth YOURSELF. 
-
+...Você finge que a luta foi difícil para esconder o fato de que estava se CONTENDO. Você se suaviza BASTANTE.
 
 #v5544...You're a wild beast pretending to be a butler. I can see glimpses of your true nature while you fight. 
-
+...Você é uma besta selvagem fingindo ser um demônio. Eu consigo ver lampejos da sua verdadeira natureza enquanto luta.
 
 #v5151Oh, does it look that way? That's quite a misunderstanding you've made. Pu ku ku... 
-
+Oh, é assim que eu pareço? Esse é um mal-entendido e tanto. Pu ku ku...
 
 #v5152Opponents unfit to challenge Will-sama shall leave. You must at least be able to defeat me. 
-
+Oponentes que não sejam adequados para desafiar o Will-sama devem se retirar. Ao menos você deve ser capaz de me derrotar.
 
 #v5545If we do that, we'll run out of opponents. ...Let me have some of them. 
-
+Se fizermos isso, ficaremos sem oponentes. ...Deixe alguns deles para mim.
 
 #v5546I have no time to spare on you. Allow me to hurry on ahead. 
-
+Não tenho tempo a perder com você. Permita-me me adiantar.
 
 #v5153Pu ku ku. I'm quite jealous of the fact that you have someone waiting for you to return. 
-
+Pu ku ku. Eu estou com certa inveja do fato de você ter alguém esperando pelo seu retorno.
 
 #v5896That was a boring fight. Entertain me a bit more than that. 
-
+Essa foi uma luta chata. Entretenham-me um pouco mais que isso.
 
 #v5154Oh, was that not enough blood sauce? Then let me prepare much, much more for you. 
-
+Ora, não foi o suficiente para um molho de sangue? Então deixe-me preparar muito mais para você.
 
 #v5155If the Great Lady Bernkastel were to be injured, I would lose my head. 
-
+Se a Grande Lady BERNKASTEL se ferisse, eu perderia a cabeça.
 
 #v5897Oh, it looks like you're taking me lightly. Why don't I blow off the whole upper half of your body? 
-
+Parece que está me subestimando. Talvez eu deva explodir seu talhe?
 
 #v5156For Lady Bernkastel's sake, I, Ronove, have used the utmost of my ability to make these dried plums! 
-
+Pelo bem da Ladu BERNKASTEL, eu, Ronove, utilizei do máximo das minhas habilidades para preparar estas umeboshi!
 
 #v5898Oh, that's not bad. Excellent work. Could you float that on milk tea? 
-
+Oh, nada mal. Ótimo trabalho. Poderia colocá-las em um chá com leite?
 
 #v4880I've decided! I'm taking you! From this point forth, you're my butler! 
-
+Decidido! Você é meu! A partir de agora, você é o meu mordomo!
 
 #v5157Ooh, a headhunter! Perhaps you should start by telling me your proposed wage and benefits. 
-
+Ooh, um caça-talentos! Por que não começa me dizendo sua proposta de salário e benefícios?
 
 #v4881This is boring. I didn't get a chance to do anything again! Let me play a bit too! 
-
+Isso é chato. Mais uma vez, eu não tive a chance de fazer nada! Me deixe brincar também!
 
 #v5158You need an opponent worthy of a noble lady. I, Ronove, will choose one most carefully. 
-
+Você precisa de um oponente digno de uma nobre dama. Eu, Ronove, escolherei um a dedo.
 
 #v5159Oh! Your cookies are excellent as well, Lady Lambda! You must give me your recipe! 
-
+Oh! Seus cookies também são excelentes, Ladu Lambda! Você precisa me passar a sua receita!
 
 #v4882It looks like you've got good taste. How about you come over to my place on your next day off? We can have a sweets party! 
-
+Parece que você tem bom gosto. Por que não passa na minha casa na sua próxima folga? Podemos ter um festa dos doces!
 
 #v0316You really do finish with a bang! I'd expect no less from my enemy! 
-
+Você terminou mesmo com um estrondo! Eu não esperaria menos do meu inimigo!
 
 #v0136*cackle*cackle*! I've got magic with an even bigger bang set aside. You'll see that when it's time to make you surrender! 
-
+*gargalhada*gargalhada8! Eu tenho uma magia reservada com um estrondo ainda maior. Você a verá quando estiver na hora de fazê-la se render!
 
 #v0137What will we get to hear from you?! Screams, you begging for your life, or just you thrashing around as you die?! 
-
+O que ganhamos ouvindo você?! Gritos, você implorando por sua vida, ou você apenas se debatendo enquanto morre?!
 
 #v0317Sheesh. Just get rid of your creepy tastes, and you'd be so much better off. 
-
+Tch. Se livre desses seus gostos bizarros e você ficará bem melhor.
 
 #v0318Leave it at that. Otherwise, we won't be able to tell who we just defeated. 
-
+Deixe eles pra lá. Caso contrário, não seremos capazes de reconhecer quem acabamos de derrotar.
 
 #v0138Oh, good point. We might forget whom we defeated if there are only little bits of them left! 
-
+Ah, bem pensado. Podemos acabar esquecendo quem nós derrotamos se tudo o que sobrar forem os restos deles!
 
 #v0466This disgusting magical banquet is the truth of 12 years ago? Did you think I'd believe that? 
-
+Esse banquete mágico horrendo é a verdade de 12 anos atrás? Acha que eu vou acreditar nisso?
 
 #v0139You need not believe it. Simply be swallowed up by it! That is my truth! 
-
+Você não precisa acreditar! Apenas seja consumida por ele! Essa é a minha verdade!
 
 #v0140Allow me to show you. This is what I did to your beloved family! 
-
+Permita-me demonstrar. Foi isso o que eu fiz com a sua amada família!
 
 #v0467Yeah, whatever. Who'd believe in you, or that this was done by a witch?! 
-
+Sim, tanto faz. Quem iria acreditar em você ou que isso é obra de uma bruxa?!
 
 #v0468This isn't magic. This isn't the magic Maria onee-chan taught me! 
-
+Isso não é magia. Não é a magia que a Maria onee-chan me ensinou!
 
 #v0141You talk as if you're an expert, despite being ignorant of black magic, fool? This is what magic looks like! 
-
+Você fala como se fosse especialista, apesar de ser uma ignorante em magia negra. É assim que a magia se parece, sua tola!
 
 #v1516Outrageous. You wield magic ridiculously well, as long as it's the kind that hurts people... 
-
+Ultrajante. Você desempenha a magia ridiculamente bem, desde que seja aquela que fere as pessoas...
 
 #v0142Ahyahya! I'm dumb, so I don't remember things too well. I've forgotten all the boring spells! 
-
+Ahyahya! Eu sou idiota, por isso não lembro bem das coisas. Já esqueci todos aqueles feitiços chatos!
 
 #v0143Well now, how shall I kill you?! You'll die seven times, so prepare yourself! 
-
+Pois bem, como devo te matar/! Você morrerá sete vezes, então prepare-se!
 
 #v1517There she goes, spouting off terrifying things like that again...! Quickly now, run while you still can...! 
-
+Lá vai ela, falando essas coisas horríveis de novo...! Rápido, fuja enquanto ainda há tempo...!
 
 #v1518That was a splendid bit of magic. ...Or it would have been, if you had used it properly to bring happiness to people. 
-
+Foi uma excelente demonstração de magia. ...Ou teria sido, se você a usasse corretamente para trazer felicidade às pessoas.
 
 #v0144But of course, Teacher! I may not look it, but I'm a witch of justice! 
-
+Mas é claro, professora! Eu posso não parecer, mas sou uma Bruxa da Justiça!
 
 #v1066And that settles that. Truly, I can never stop being fascinating by Milady's magic... 
-
+E isso define tudo. Eu nunca deixarei de ficar fascinado pela magia da ojou-sama...
 
 #v0145Ahyahya! You're good at compliments, you know that?! Come on, tell me more. 
-
+Ahyahya! Você é bom de elogios, sabia? Vai, me elogia mais.
 
 #v0146How'd you like the taste of my magic?! I've got seconds if you want some! 
-
+O que achou da minha magia?! Ainda tenho mais sobrando se quiser!
 
 #v1067I imagine they're full already. Your magic always comes in extra large portions, after all. 
-
+Imagino que já esteja cheia. Afinal de contas, a sua magia sempre vem em grandes porções extras.
 
 #v1068Milady, perhaps you had better leave it at that... They seem to be unconscious already. 
-
+Ojou-sama, talvez seja melhor deixar como está... Eles parecem já estarem inconscientes.
 
 #v0147Why should I care?! I'm gonna kill them anyway, then bring them back to life over and over! It's an endless hell! 
-
+E por que eu deveria me importar? Eu vou matá-los e trazê-los de volta a vida de novo e de novo! É um inferno infinito!
 
 #v0148Hahyahya! You're not bad yourself! Naturally, I really am a sight to see! 
-
+Hahyahya! Você não é tão ruim! Naturalmente, eu sou um espetáculo a ser apreciado!
 
 #v0149Next time, you show me. Let us bear witness to all sorts of majestic and brutal magic! 
-
+Da próxima vez, mostre-me. Deixe-nos testemunhar todo tipo de magia majestosa e brutal!
 
 #v0150Two of me, on the same side! So, was that nightmare duet to your liking?! 
-
+Duas de mim do mesmo lado! Então, este dueto kafkiano é do seu agrado?!
 
 #v0151It's time for you to enjoy your double hell until both of us are satisfied! Ahyahyahya! 
-
+Está na hora de você aproveitar do inferno duplo até que ambas estejamos satisfeitas. Ahyahyahya!
 
 #v0152Oh, is it over already?! And I was still waiting for it to be my turn! 
-
+Oh, já acabou?! E eu aqui ainda esperando pela minha vez!
 
 #v0153They were too frail to even be sacrifices. Fear not, I'll let you have the next one! 
-
+Eles eram fracos de mais até para serem sacrifícios. Não se preocupe, vou deixar os próximos para você!
 
 #v0886That's our Beatrice-sama! What a wonderful display of terrifying spells that chill the body to the bone! 
-
+Nossa BEATRICE-sama não decepciona! Que maravilhosa demonstração de terríveis feitiços que arrepiam até a espinha!
 
 #v0154I simply must be capable of a little thing like this if I am to call myself Rokkenjima's master. Hahyahyahya! 
-
+Para me considerar e governante de Rokkenjima, preciso ao menos ser capaz de fazer pequenas coisas como essa. Hahyahyahya!
 
 #v0155Lucifer! I'll let you have that one! Murder it brutally and entertain me! 
-
+Lucifer! Vou deixar aquele para você! Mate-o brutalmente e entretenha-me!
 
 #v0887As you wish! Come, arise, the Seven Sisters of Purgatory! It's time for a fun job! 
-
+Como quiser! Venham, apareçam, as Sete Irmãs do Purgatório! Está na hora de um trabalho divertido!
 
 #v0888This one looks like it's still breathing...! Please, I ask for permission to finish it off...! 
-
+Parece que esse aqui ainda está respirando...! Por favor, peço permissão para dar fim a ele...!
 
 #v0156As if I'd let you, fool. Don't you steal away the fun of pondering what sort of brutal way I might finish it off with! 
-
+Até parece que vou deixar, idiota. Não roube de mim a diversão de ponderar sobre qual meio brutal usarei para acabar com ele!
 
 #v1186What terrifying power... This is...the power of the witch who calls herself Rokkenjima's ruler... 
-
+Que poder mais assustador.... Esse é...o poder da bruxa que chama a si de governante de Rokkenjima...
 
 #v0157Why are you afraid? I'm your ally, am I not? *cackle*cackle*! 
-
+Por que teme? Sou sua aliada ou não? *gargalhada*gargalhada*
 
 #v0158Now do you understand?! Taste to the fullest how foolish it is to stand in our way! 
-
+Entendeu agora?! Saboreie ao máximo o quão tolo é ficar em nosso caminho!
 
 #v1187Beatrice-sama, you're going too far... Please, stop this...! 
-
+BEATRICE-sama, você está exagerando... Por favor, pare...!
 
 #v1188What a terrifying witch... ...But...even if I gain a miracle of magic... 
-
+Que bruxa terrível... ...Mas...mesmo se eu obtiver o milagre da magia...
 
 #v0159Fear not. I shall grant your wish. Know that you're in good hands! 
-
+Não tenha medo. Eu devo conceder seu desejo. Fique sabendo que está em boas mãos!
 
 #v0736There's no way I'll think of her as reliable... She's an evil witch... 
-
+Não tem como eu pensar nela como sendo confiável... Ela é uma bruxa maligna...
 
 #v0160What an unsociable lad you are. Why can't you even rejoice in your partner's victory?! *cackle*cackle*! 
-
+Mas como você é insociável, hein? Por que não pode ficar contente com a vitória da sua parceita?! *gargalhada*gargalhada*!
 
 #v0161I'm not letting you take Kanon! This prey is mine! Ahyahyahya! 
-
+Não deixarei que fique com o Kanon! Essa presa é minha! Ahyahyahya!
 
 #v0737St-Stop that... We've already won, right...?! Don't humiliate the loser! 
-
+P-Pare com isso... Nós já vencemos, certo...?! Não humilhe os perdedores!
 
 #v0738What power... No matter how strong I got, I could never match this...! 
-
+Mas que poder... Não importa o que forte eu fique, nunca sere páreo...!
 
 #v0162So, you desire power as well, Kanon? Then how about becoming my disciple? *cackle*cackle*! 
-
+Então, você também almeja por poder, Kanon? Que tal virar o meu discípulo? *gargalhada*gargalhda*!
 
 #v0586Y-You're not bad yourself, Predecessor-sama... That was overwhelming... 
-
+V-Você não é tão ruim, antecessora... Isso foi avassalador...
 
 #v0163Your experience is no match for mine yet...! Watch me closely and study as hard as you can! *cackle*cackle*! 
+Sua experiência ainda não está a altura da minha...! Observe-me de perto e estude o máximo que puder! *gargalhada*gargalhada*!
 
-
-#v0164Don't go dying yet! I've got to tease you a b# You can pass on when I'm done! Hahyahya! 
-
+#v0164Don't go dying yet! I've got to tease you a bunch! You can pass on when I'm done! Hahyahya! 
+Não vá morrer ainda! Ainda tenho que provocá-la muito! Pode falecer quando eu terminar! Hahyahya!
 
 #v0587Well, even if they do die, you'll just bring them back to life and then torture them to death again, right? *giggle*! 
-
+Bom, mesmo que eles morram, você só precisa trazê-los de vola à vida e então torturá-los até a morte novamente, certo? *risos*!
 
 #v0588Even now, when I've come to understand magic, your power amazes me, Predecessor-sama... 
-
+Até agora, mesmo já tendo compreendido a magia, o seu poder me surpreende, antecessora...
 
 #v0165Don't go comparing a newbie witch to one who has lived a thousand years! It's only natural that you'd feel like that! 
-
+Não compare uma bruxa novada com um que já viveu milhares de anos! É natural que você se sinta assim!
 
 #v1336What a hearty victory nyeh... I wish I could take a video of it and upload it nyeh! 
-
+Mas que vitória emocionante, nyeh... Eu queria poder gravar e postar ela, nyeh!
 
 #v0166Hoh, now there's an idea! I imagine the view count would shoot above a million in a flash! 
-
+Hoh, essa é uma boa ideia! Imagino que a contagem de visualizações ultrapassaria a casa das milhões em instantes!
 
 #v0167Thanks for your support, Chiester Sisters. You really are useful...! 
-
+Eu agradeço o apoio, Irmãs Chiester. Vocês são mesmo úteis...!
 
 #v1337Like garnish on sashimi and green onions in udon, leave the thankless tasks to us nyeh! 
-
+Como guarnição no sashimi e cebolinha no udon, deixe as tarefas ingratas para nós, nyeh!
 
 #v1338That was a wonderful victory nyeh! Let's commemorate it by you giving me delicious carrots nyeh! 
-
+Essa foi uma vitória maravilhosa, nyeh! Vamos comemorar com você me servindo deliciosas cenouras, nyeh!
 
 #v0168*cackle*cackle*! I'll give you as many carrots as you like! Continue to work for my sake, would you? 
 
@@ -11461,7 +11461,7 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v3944SPLENDID. You are even more terrifying than I had HEARD. 
-
+ESPLÊNDIDO. Você é ainda mais terrível do que eu tinha ouvido FALAR.
 
 #v3701You're up next. I'd like to see how terrifying you are too. 
 
@@ -11469,20 +11469,20 @@ E eu não acredito que uma dama como você é uma mobília.
 #v3702Exercise makes you crave a good snack. I believe we had some ice cream left over! 
 
 
-#v3945GOOD! I want to eat ice CREAM! 
-
+#v3945GOOD! I want to eat ice CREAM!
+ÓTIMO. Eu quero comer  SORVETE!
 
 #v5547Not bad. I see why you'd call yourself the ruler of the game board. 
 
 
 #v3703Ahyahya! What sort of fool would lose at her own game?! 
-
+Ahyahya! Que tipo de imebcil perderia no próprio jogo?!
 
 #v3704To think that Wizard-Hunting Wright would join forces with a witch. It appears incredible things do happen in this world. 
-
+Quem imaginaria que o Wizard-Hunting Wright juntaria forças com uma bruxa. Parece que coisas inacreditáveis acontecem neste mundo.
 
 #v5548I only hunt evil witches. ...Oh, right, you were an evil witch too. 
-
+Eu só caço bruxas malignas. ...Ah, é mesmo, você também é uma bruxa maligna.
 
 #v5549How shocking. Are these the limits of their reasoning? 
 
@@ -11503,7 +11503,7 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v3708Aaah, it broke...! And I wasn't done playing with it yet! 
-
+Aaah, quebrou...! E eu não tinha terminado de brincar ainda!
 
 #v5901I've tired of that piece already. ...Let's prepare another one. 
 
@@ -11521,7 +11521,7 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v3711Lady Lambdadelta, the fight is over already! 
-
+Lady LAMBDADELTA, a luta já terminou!
 
 #v4885The show I'm watching's getting to the good bit! Sorry, but take care of the next fight for me too, will you?! 
 
@@ -11635,10 +11635,10 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v1189Y-You're so strong...! As expected from one of the Seven Sisters of Proctology...! 
-
+V-Você é muito forte...! Como esperado de uma das Sete Irmãs do Precatório...!
 
 #v0910It's Purgatory! Pur-ga-to-ry! How many times will I have to tell you before you remember it?! 
-
+É Purgatório! Pur-ga-tó-rio! Quantas vezes preciso dizer até você lembrar?
 
 #v0911Fighting is all about offense, understand? There's no point if you're always on the defensive! 
 
@@ -11674,7 +11674,7 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v0916Heheheheheh! Leave it to me, my master! That's what I'm best at! 
-
+Heheheheheh! Deixe comigo, minha mentora! É o que eu faço de melhor!
 
 #v0917How was that?! If you wish, I can be even more brutal! 
 
@@ -11752,7 +11752,7 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v3274Hey, could you please stop calling me the Black Witch? At least, umm...call me a Black Magical Girl... 
-
+Ei, poderia, por favor, parar de me chamar de Bruxa da Escuridão? Ao menos, hmm, me chame Garota Mágica da Escuridão...
 
 #v3116You really are good with a gun, Rosa-sama. Where did you learn to do that? 
 
@@ -11773,13 +11773,13 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v4300<Good.> I thought you'd be more useless, but you've surprised me. 
-
+Good. Pensei que você fosse ser mais inútil, mas me supreendeu.
 
 #v5069I'm honored to have not met your expectations. After all, I'm the most talented of my sisters. 
 
 
 #v5070I am justice! After all, I've got an Inquisitor on my side! 
-
+Eu sou a justiça! Afinal, tenhho uma Inquisidora do meu lado!
 
 #v3946Please do not overdo IT. ...It increases the number of reports I will have to WRITE. 
 
@@ -11815,7 +11815,7 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v5076Are you hurt anywhere, Lady Bernkastel? 
-
+Está ferida em algum lugar, Lady BERNKASTEL?
 
 #v5902Not at all. You're more considerate than I'd expected. Completely different from someone else I could mention. 
 
@@ -11836,13 +11836,13 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v4886You've got the Witch of Certainty on your side, right? Us losing was 'certainly' impossible! 
-
+Você tem a Bruxa da Certeza ao seu lado, lembra? Perdermos é 'certamente' impossível!
 
 #v4887I never get tired of looking at the furniture Beato made. Keep up that attitude during the next fight! 
 
 
 #v5080Y-Yes, leave it to me...! Hey, ...she's watching TV. ...Nngg! 
-
+S-Sim, deixe isso comigo...! Ei, ...ela está assistindo TV. ...Nngg!
 
 #v4888I was right to join forces with you. ...When I throw a tantrum, terrible things happen. 
 
@@ -11881,7 +11881,7 @@ E eu não acredito que uma dama como você é uma mobília.
 
 
 #v0474...What's your chest size? ...It's not like I'm envious or anything. 
-
+...Qual o tamhho do seu busto? ...Não é como se eu estivesse com inveja ou algo do tipo.
 
 #v1197That's...umm...uhhh...a secret... ...*mumble*mumble* 
 
@@ -18217,7 +18217,7 @@ Irei confiscar como você como EVIDÊNCIA... Esteja PREPARADA.
 Eu meramente disse que o seu raciocínio viola o DECÁLOGO.
 
 #v4070Do you know of the Knox DECALOGUE? It gives you the power to THINK. 
-Você conhece o Decálogo de Knox? Ele fornece a você o poder para PENSAR.
+Você conhece o Decálogo de Knox? Ele lhe fornece o poder para PENSAR.
 
 #v4071You've let the blood rush to your HEAD. Perhaps you should calm down a LITTLE... 
 Você deixou o sangue subir à CABEÇA. Talvez seja o momento de nos acalmarmos um POUCO...
