@@ -11380,100 +11380,100 @@ Como guarnição no sashimi e cebolinha no udon, deixe as tarefas ingratas para 
 Essa foi uma vitória maravilhosa, nyeh! Vamos comemorar com você me servindo deliciosas cenouras, nyeh!
 
 #v0168*cackle*cackle*! I'll give you as many carrots as you like! Continue to work for my sake, would you? 
-
+*gargalhada*gargalhada* Vou te dar quantas cenouras quiser se continuar a trabalhar por mim, certo?
 
 #v2745Couldn't you have fought a bit more efficiently? It felt like you were playing around a little too much. 
-
+Não tinha como lutar de forma um pouco mais eficiente? Pareceu que estava brincando mais do que o necessário.
 
 #v2496But we are playing! I wouldn't turn a fight into work no matter how much you gave me! 
-
+Mas nós estamos brincando! Não importa quanto me pague, não vou transformar uma luta em trabalho!
 
 #v2497Hey, hey... Is that all you've got? Come on, we only just got started! 
-
+Ei, ei... Isso é tudo o que você tem? Qual foi, só estamos começando!
 
 #v2746Would you mind leaving it at that? That was more than enough of a victory, ...excessively so. 
-
+Se importaria de deixar isso pra lá? Já fomos além de uma vitória, muito além.
 
 #v2498Hohoh. Not bad, as I should have expected from one bearing Ushiromiya Kinzo's blood. 
-
+Hohoh. Nada mal, como esperado de alguém que carrega o sangue de Ushiromiya Kinzo.
 
 #v2747I could say the same. It seems your position as the Ushiromiya Family Alchemist isn't just for show. 
-
+Eu poderia dizer o mesmo. Parece que a sua posição de alquimista da família Ushiromiya não é só para se exibir.
 
 #v2940Whoa, that's Beatrice-sama for you! An easy win! 
-
+Nossa, essa é a nossa BEATRICE-sama! Uma vitória fácil!
 
 #v2493Take care not to underestimate witches. A little thing like this is a piece of cake to me! 
-
+Cuidado para não subestimar as bruxas. Uma coisinha dessas é mamão com açúcar para mim!
 
 #v2941Huh? Is it over already?! But I wanted to keep fighting! 
-
+Hã? Já acabou?! Mas eu quero continuar lutando!
 
 #v2494My, my, the young are so energetic! Then why don't we move on to another fight?! 
-
+Francamente, os jovens são tão energéticos! Então por que não partimos para a próxima luta?!
 
 #v2495Ahyahya! To think that you would challenge me with that level of power! I can't stop laughing! 
-
+Ahyahya! Quem imaginaria que você me desafiaria com um poder desses! Não consigo parar de rir!
 
 #v2942Witches really are amazing...! I guess that gigantic portrait wasn't there for nothing! 
-
+Bruxas são mesmo incríveis...! Aquele retrato gigante não existe à toa!
 
 #v2499As I'd expect of Maria's mother! You know, you have plenty of what it takes to become a witch. 
-
+Eu não esperaria menos da mãe da Maria! Sabe, você tem muito do que é preciso para se tornar uma bruxa.
 
 #v3270And what's that supposed to mean? ...I just want to be a normal, human mother. 
-
+E o que isso deveria significar? ...Eu só sou uma mãe humana normal.
 
 #v3271Beatrice! Leave it at that! At this rate, they really will die...! 
-
+BEATRICE! Deixe como está! Nesse ritmo, eles vão mesmo morrer...!
 
 #v2500It matters not! After all, I can control life and death at will. I can kill them over and over, and bring them back over and over again! 
-
+Não importa! Afinal, eu controlo a vida e a morte ao meu bel prazer. Eu posso matá-los incontáveis vezes e trazê-los de volta a vida incontáveis vezes!
 
 #v3272M-Maybe you should leave it at that. They'll truly die at this rate... 
-
+T-Talvez deva deixar as coisas como estão. Eles vão mesmo morrer nesse ritmo...
 
 #v2501Oh? True death, is it? What a philosophical concept! Isn't it something to ponder deeply?! 
-
+Oh? A verdadeira morte, é? QUe conceito mais filosófico! Não é algo para se ponderar profundamente?!
 
 #v3697As I'd expect from Lady Bernkastel's piece. You've worked even more effectively than I'd hoped. 
-
+Como esperado da peça da Lady BERNKASTEL. Você foi ainda mais eficiente do que eu esperava.
 
 #v4295That's my line. I thought you'd be slowing me down much more than this. 
-
+Essa fala é minha. Eu pensei que você iria me atrapalhar muito mais do que isso.
 
 #v4296Well, that foe didn't give us much trouble. Even fighting against you would've been more interesting. 
-
+Bom, aquele adversário não nos deu muito trabalho. Até mesmo lutar contra você seria mais interessante.
 
 #v3698I feel the same. Shall we have a go, Erika? Fight me...! 
-
+Eu sinto o mesmo. Devemos então, Erika? Lute comigo...!
 
 #v4297My, my. How long do you intend to take on small fry like this? 
-
+Francamente. Até quando pretende ficar comprando briga com peixe pequeno?
 
 #v3699Hohoh, I see you know how to be blunt. Well then, let's see how you fight in the next round. 
-
+Hohoh, vejo que sabe como ser direta. Pois bem, vamos ver como você luta no próximo round.
 
 #v3943It would have been extremely hard to imagine the old, empty you fighting like THIS. 
-
+Seria extremamente difícil imaginar a velha e vazia você lutando ASSIM.
 
 #v3700*cackle*cackle*! This is the real me. Burn it into your eyes! 
-
+*gargalhada*gargalhada* Esta é a verdadeira eu. Queime bem em suas retinas!
 
 #v3944SPLENDID. You are even more terrifying than I had HEARD. 
 ESPLÊNDIDO. Você é ainda mais terrível do que eu tinha ouvido FALAR.
 
 #v3701You're up next. I'd like to see how terrifying you are too. 
-
+Você é a próxima. Eu gostaria de ver o quão terrível você é também.
 
 #v3702Exercise makes you crave a good snack. I believe we had some ice cream left over! 
-
+Exercícios te deixam com vontade de comer uma bom doce. Creio que tenhamos um pouco de sorvete sombrando!
 
 #v3945GOOD! I want to eat ice CREAM!
 ÓTIMO. Eu quero comer  SORVETE!
 
 #v5547Not bad. I see why you'd call yourself the ruler of the game board. 
-
+Nada mal. Consigo entender o motivo pelo qual se considera a governante do tabuleiro.
 
 #v3703Ahyahya! What sort of fool would lose at her own game?! 
 Ahyahya! Que tipo de imebcil perderia no próprio jogo?!
@@ -11485,154 +11485,154 @@ Quem imaginaria que o Wizard-Hunting Wright juntaria forças com uma bruxa. Pare
 Eu só caço bruxas malignas. ...Ah, é mesmo, você também é uma bruxa maligna.
 
 #v5549How shocking. Are these the limits of their reasoning? 
-
+Um verdadeiro choque. É esse o limite do raciocínio deles?
 
 #v3705Be shocked. That's exactly why I keep repeating this boring game. 
-
+Chocada? É exatamente por isso que eu continuo repetindo este jogo chato.
 
 #v5899I see you're as flashy as ever. I never get tired of watching that, so keep it up next time, okay? 
-
+Vejo que está mais chamativa do que nunca. Eu jamais me canso de assistir isso, então continue na próxima, tá?
 
 #v3706Don't make me fight all the time! Do some work yourself for once! 
-	
+Não me faça lutar o tempo todo! Trabalhe um pouco você também!
 
 #v3707That's our Great Lady Bernkastel! Having you as an ally is reassuring indeed! 
-
+Essa é a nossa Grande Lady BERNKASTEL! Tê-la como aliada é mesmo reconfortante!
 
 #v5900Oh. When did I ever say I was your ally? 
-
+Oh? Quando foi que eu disse que era a sua aliada?
 
 #v3708Aaah, it broke...! And I wasn't done playing with it yet! 
 Aaah, quebrou...! E eu não tinha terminado de brincar ainda!
 
 #v5901I've tired of that piece already. ...Let's prepare another one. 
-
+Eu já estava cansada dessa peça. ...Vamos procurar outra.
 
 #v4883Hey, hey! You promised you'd let me have a turn!! 
-
+Ei, ei! Você prometeu que eu teria a minha vez!!
 
 #v3709Ah, forgive me, I forgot. I make a habit of clearing my whole plate, you see. 
-
+Ah, perdoe-me, eu esqueci. Eu tenho o péssimo hábito de sempre limpar o prato, como pode ver.
 
 #v4884You're an interesting kid. It looks like making you a witch was the right idea. 
-
+Você é uma criança interessante. Parece que transformá-la numa bruxa foi a ideia certa.
 
 #v3710I'll make sure you never regret becoming my guardian. *cackle*cackle*! 
-
+Farei como que nunca se arrependa de ter se tornada a minha guardiã. *gargalhada*gargalhada*
 
 #v3711Lady Lambdadelta, the fight is over already! 
 Lady LAMBDADELTA, a luta já terminou!
 
 #v4885The show I'm watching's getting to the good bit! Sorry, but take care of the next fight for me too, will you?! 
-
+O programa que estou assistindo está ficando bom! Desculpa, mas poderia cuidar da próxima luta também?!
 
 #v0319Tch. You move well, don't you? I see you aren't exposing those thighs for nothing. 
-
+Tch. Você se move bem, não é? Vejo que não está expondo essas coxas à toa.
 
 #v0889Are you talking about my outfit again?! This is the noble attire of the Seven Stakes of Purgatory! 
-
+Está falando da minha roupa de novo?! Este é o nobre traje das Sete Estacas do Purgatório!
 
 #v0890How do you like that?! See, I'm not as soft as Battler! 
-
+O que achou dessa?! Viu? Eu não sou tão gentil como o Battler!
 
 #v0320Well, you definitely talk big. It's terrifying just having you as an ally! 
-
+Bom, você definitivamente sabe falar. É assombroso só de tê-la como aliada!
 
 #v0321That stake hurts... I've had more than my fill of it, so I know...! 
-
+Aquela estava doeu... Eu sei porque já tive mais do que o suficiente...!
 
 #v0891What's that? You still can't forget the taste of me? Okay then, I'll give it to you as much as you want! 
-
+O que foi aquilo? Ainda não conseguiu esquecer o meu sabor? Certo, vou te dar o quanto quiser, então!
 
 #v0469That's enough. I doubt they'll try to get in our way again. 
-
+Já basta. Eu duvido que eles vão tentar se meter non nosso caminho de novo.
 
 #v0892If you want to get in our way, just you try! Though you'll just end up hurting all over again! 
-
+Se quiser se meter no nosso caminho, pode tentar! Apesar que no fim só vai acabar todo machucado de novo!
 
 #v0893Piercing that felt heavenly...! It's so sad that I can't share this joy with you, Ange-sama! 
-
+Perfurá-los são divino...! Eu fico tão triste de não poder compartilhar essa alegria com você, Ange-sama!
 
 #v0470I wouldn't even want to know. ...Does it...feel good...? 
-
+Eu nem queria saber. ...Então...é prazeroso...?
 
 #v0471I guess you aren't the eldest of the Seven Sisters for nothing. I'm seeing you in a new light now. 
-
+Vejo que não é a mais velha das Sete Irmãs à toa. Estou te vendo com outros olhos agora.
 
 #v0894...A new light? H-How did you usually see me...? 
-
+...Outros olhos? C-Como você costuma me ver...?
 
 #v1519Lucifer, let us leave it at that. The battle is already over. 
-
+Lucifer, vamos terminar por aqui. A luta já acabou.
 
 #v0895My apologies! I usually just keep going until you can't tell what they are anymore, so I got a bit carried away! 
-
+Sinto muito! Eu costumo continuar até não ser capaz mais de dizer quem eles são, então acabei me empolgando um pouco!
 
 #v0896Virgilia-sama, are you okay? You can leave any sort of enemy to me! 
-
+Tudo bem, VIRGILIA-sama? Você pode deixar qualquer inimigo para mim!
 
 #v1520You really are reliable furniture... I'll give you a reward later. 
-
+Você é mesmo uma mobília confiável... Lhe darei uma recompensa depois.
 
 #v1521With all of you as furniture, Beato must also feel quite secure. 
-
+Com todas vocês como mobílias, a Beato também deve se sentir muito segura.
 
 #v0897Right now, I'm your furniture, Virgilia-sama! Give me your orders! That is my pride and joy! 
-
+No momento, eu sou a sua mobília, VIRGILIA-sama! Me dê as ordens! Esse é o meu orgulho e prazer!
 
 #v1069Let us leave it at that. Any more of this, and we won't be able to tell what it is anymore. 
-
+Vamos acabar aqui. Mais do que isso e não seremos capazes de distinguir o que são eles.
 
 #v0898Kyahaha! Oops! Who did I defeat again?! 
-
+Kyahaha! Ops! Quem foi que eu derrotei agora?!
 
 #v0899What, is that it? But it was just about to start feeling good! 
-
+O quê? Acabou? Mas eu estava começando a me sentir bem!
 
 #v1070It seems you look forward to what happens after you defeat your foe more than actually defeating them. 
-
+Parece que você anseia mais para ver o que acontece depois que derrota seu oponente, do que em derrotar ele.
 
 #v1071Oh, that ended quite fast. The tea hasn't even finished boiling yet. 
-
+Oh, acabou bem rápido. Nem deu tempo do chá ferver ainda.
 
 #v0900*giggle*! How are you gonna take responsibility if our tea ends up all watery because you were so weak! 
-
+*risos*! Como vão assumir a responsabilidade se o nosso chá acabar aguado porque vocÊs são fracos demais?!
 
 #v0169There was no need for me to join in. My furniture is more than enough for one as weak as you! 
-
+Não há motivos para eu me juntar. Minha mobília é mais do que suficiente para enfrentar um fracote como você!
 
 #v0901Did you think I'd let Beatrice-sama dirty her hands? *giggle* Ahahaha! 
-
+Achou que eu deixaria a BEATRICE-sama sujar as mãos? *risos* Ahahaha!
 
 #v0902I still haven't played nearly enough! Get back up, quickly! 
-
+Ainda não brinquei o suficiente! Levantem logo!
 
 #v0170Or don't even do that. Though, that means we'll be starting a new game that's even more brutal! 
-
+Ou sequer façam isso. Apesar de que isso significa que começaremos um novo jogo ainda mais brutal!
 
 #v0171Hmm, not bad, for you! You have my praise, Lucifer! 
-
+Hmm, nada mal, para você! Fique com meus elogios, Lucifer!
 
 #v0903Y-You do me too much honor! Heh, heheheh! Now I can brag to my little sisters...! 
-
+S-Seus elogios são uma honra! Heh, heheheh! Agora posso me gabar para as minhas irmãzinhas...!
 
 #v0904What was with that pathetic fight?! I could've done better than that. 
-
+Qual foi a desas luta patética?! Eu poderia ter feito muito melhor.
 
 #v0905I finished it because you were so pathetic! Shut up already! 
-
+Eu finalizei porque você foi muito patética! Cala a boca de uma vez!
 
 #v0906Those are the basics! Well, I doubt someone as pathetic as you could match me! 
-
+Esse é só o básico! Bom, eu duvido que alguém tão patético como você seja páreo para mim!
 
 #v0907Yeah, this really is hard! After all, I'm a copy of you. 
-
+Sim, isso é mesmo difícil! Afinal, sou sua cópia.
 
 #v0908Couldn't you have made that finish a little grander? You're pretty lame, despite being my copy. 
-
+Não dava para finalizar de forma um pouco mais grandiosa? Você é muito sem graça, apesar de ser a minha cópia.
 
 #v0909What's with this person?! She's even more of an asshole than the younger sisters! 
-
+Qual é a dessa pessoa?! Ele é muito mais imbecil que as irmãs mais novas!
 
 #v1189Y-You're so strong...! As expected from one of the Seven Sisters of Proctology...! 
 V-Você é muito forte...! Como esperado de uma das Sete Irmãs do Precatório...!
@@ -11641,193 +11641,193 @@ V-Você é muito forte...! Como esperado de uma das Sete Irmãs do Precatório..
 É Purgatório! Pur-ga-tó-rio! Quantas vezes preciso dizer até você lembrar?
 
 #v0911Fighting is all about offense, understand? There's no point if you're always on the defensive! 
-
+Lutar é sobre ser ofensivo, entendeu? Não faz sentido se ficar sempre na defensiva!
 
 #v1190True... You can't be scared and try to protect yourself all the time... 
-
+Verdade... Você não pode ficar apavorado e passar o tempo todo tentando se defender...
 
 #v1191Lucifer-san, you went too far...! Hey, are you okay? I'll see to your wounds right away...! 
-
+Lucifer-san, você exagerou...! Ei, tudo bem aí? Já vou dar uma olhada nas suas feridas...!
 
 #v0912*giggle* Leave them. Blood makeup suits a loser best! 
-
+*risos* Deixe-os. Uma maquiagem de sangue combina melhor com os perdedores!
 
 #v0739You make a lot of unnecessary movements. We managed to win, but that style of fighting leaves much to be desired. 
-
+Você faz muitos movimentos desnecessários. Nós conseguimos vencer, mas esse seu estilo de luta deixa muito a desejar.
 
 #v0913You sure talk tough, after hanging around in the back watching the whole time! As long as you win, that's all that matters, okay?! 
-
+Você realmente fala grosso, para alguém que só fico atrás olhando o tempo todo! Mas dese que vença, é só isso que importa, tá!?
 
 #v0914What's wrong, Kanon-kuuun? Did a little fight like that wear you out? 
-
+Qual o problema, Kanon-kuuun? Uma lutinha dessas desgastou você?
 
 #v0740You should worry more about yourself first. It feels like you're always a second away from imploding. 
-
+Você deveria se preocupar mais consigo mesma primeira. Parece que está sempre a um segundo de implodir.
 
 #v0741You certainly fight savagely... As I thought, I can't trust you...! 
-
+Você luta mesmo de forma selvagem... Como imaginei, não posso confiar em você...!
 
 #v0915Then why don't we break up this combo right now and settle this amongst ourselves, Kanon-kuuun?! 
-
+Então porque não desfazemos esta dupla e lutamos agora mesmo para definir isso entre nós, Kanon-kuuun?!
 
 #v0589Gouge them more! In the chest, in the stomach, in the head and throat! More, more!! 
-
+Goive-os mais! No peito, no estômago, na cabeça e na gargante! Mais, mais!!
 
 #v0916Heheheheheh! Leave it to me, my master! That's what I'm best at! 
-Heheheheheh! Deixe comigo, minha mentora! É o que eu faço de melhor!
+Heheheheheh! Deixe comigo, mestre! É o que eu faço de melhor!
 
 #v0917How was that?! If you wish, I can be even more brutal! 
-
+O que achou?! Se assim desejar, eu posso ser ainda mais brutal!
 
 #v0590That's still too soft. Give me more! You've gotta at least do that much! 
-
+Ainda está gentil demais. Eu quero mais! Você precisa ao menos fazer esse tanto!
 
 #v0591Not bad, but you've got a long way to go. Be more brutal if you want to serve me. 
-
+Nada mal, mas ainda tem um longo caminho pela frente. Seja mais bruta, se quiser servir a mim.
 
 #v0918As you wish! If you desire it, I'll show you without fail! 
-
+Como desejar! Se é o que quer, eu demonstrarei sem falhas!
 
 #v1339*swoon*! That's our Lucifer-chan nyeh! Nyeh, nyeh, nyeh☆
-
+*desmaia*! Essa é a nossa Lucifer-chan, neyh! Nyeh, nyeh, nyeh☆
 
 #v0919This is nothing! H-Hey, don't cling to me like that, you're suffocating me! 
-
+Isso não é nada! E-Ei não se agarre em mim assim, está me sufocando!
 
 #v0920Hey! Did you see that?! This is what the Seven Sisters of Purgatory can do! 
-
+Ei! Viu só aquilo?! É disso que as Sete Irmãs do Purgatório são capazes!
 
 #v1340Nihihi! You're so frantic. It's cute nyeeeh. 
-
+Nihihi! Você é mesmo frenética. É adorável, nyeeeh.
 
 #v1341You were so cool, Lucifer-chan nyeh! Here, I'll give you a carrot nyeh! 
-
+Você foi tão legal, Lucifer-chan, nyeh! Aqui, vou te dar uma cenoura, nyeh!
 
 #v0921D-Don't mock me! I-I told you, I don't want one! ...Mmff! 
-
+N-Não zombe de mim! E-Eu já te disse que não quero! ...Mmmff!
 
 #v3111So? Now do you understand my true power? You've got no complaints now, I take it? 
-
+Então? Agora compreende o meu verdadeiro poder? Presumo que não tenha nada do que reclamar?
 
 #v2748Not bad at all. Though, you might want to avoid making so many unnecessary movements. 
-
+Não foi ruim, embora você possa querer evitar fazer tantos movimentos desnecessários.
 
 #v3112Compared to other Humans, it looks like you've got some potential. 
-
+Comparado com outros humanos, parece que você tem algum potencial.
 
 #v2749Hahah, thanks. And you move pretty well for someone so young. 
-
+Hahah, obrigado. E você se movimenta muito bem para alguém tão jovem.
 
 #v2750Thanks for protecting me back there. It looks like you've got a kind side to you after all. 
-
+Obrigada por me proteger naquela hora. No final das contas, parece que você tem um lado gentil.
 
 #v3113Wh-What?! I-I'm terrifying furniture, okay?! There's nothing k-kind about me...! 
-
+Q-Quê?! E-Eu sou uma mobília assustadora, ouviu?! Não tem nada de g-gentil em mim...!
 
 #v3108Oh? You're not bad for a human. You can keep going, right? 
-
+Oh? Nada mal para um humano. Continue assim, tá?
 
 #v2943Of course! I'm the one who should be asking you not to slow me down! 
-
+É claro! Sou eu quem deveria estar pedindo para você não me atrapalhar!
 
 #v3109This is what it means to fight gracefully, okay? Try and learn a thing or two from it! 
-
+É isso que significa lutar graciosamente, entendeu? Tente aprender uma ou duas coisas com isso!
 
 #v2944And maybe you should learn something from my power! Fighting is all about the heart, all about the rush! 
-
+E talvez você deva aprender algo com o meu poder! Lutar é tudo uma questão de coração, é sobre adrenalina!
 
 #v2945Whew! That last one finished it! It really was like a beesting! 
-
+Nossa! Esse último acabou com tudo! Foi como uma picada de abelha!
 
 #v3110Float like a butterfly, sting like a bee! That's how we fight! 
-
+Flutue como uma borboleta, pique como uma abelha! É assim que lutamos
 
 #v3114Just what I'd expect from Lady MARIA's mother! You've got no weak points at all! 
-
+Exatamente o que eu esperava da mãe da Ladu MARIA! Você não possui pontos fracos!
 
 #v3273*giggle* You're a good flatterer, aren't you? But women can never be popular unless they've got a few weak points. 
-
+*risos* Você sabe bem como bajular, não sabe? Mas mulheres não serão populares a não ser que tenham alguns pontos fracos.
 
 #v3115Wh-What terrifying power...! Is this the true strength of the Black Witch...? 
-
+Q-Que poder assustador...! Essa é a verdadeira força da Bruxa da Escuridão...?
 
 #v3274Hey, could you please stop calling me the Black Witch? At least, umm...call me a Black Magical Girl... 
 Ei, poderia, por favor, parar de me chamar de Bruxa da Escuridão? Ao menos, hmm, me chame Garota Mágica da Escuridão...
 
 #v3116You really are good with a gun, Rosa-sama. Where did you learn to do that? 
-
+Você é mesmo boa com a arma, Rosa-sama. Onde foi que aprendeu aquilo?
 
 #v3275A true woman needs a deft hand when it comes to both lipstick and guns. *giggle* I sound just like Kyrie-san, don't I...? 
-
+Uma mulher de verdade precisa de uma mão habilidosa quando se trata de batom e armas. *risos* Isso sou como algo que a Kyrie-san falaria, não...?
 
 #v5067So, how did my stake taste? That felt incredibly good, didn't it? 
-
+Então, como é o gosto da minha estaca? Não é uma delícia?
 
 #v4298It looks like it felt so good, they fainted. *giggle* So pathetic. 
-
+Parece que é tão gostosa que eles até desmaiaram. *risos* Que patéticos.
 
 #v5068You don't move like a normal Human... Who are you? 
-
+Você não se movimenta como um humano normal... Quem é você?
 
 #v4299I'm the detective and the Witch of Truth. Furudo Erika is my name. Remember it. 
-
+Eu sou a detetive e Bruxa da Verdade. Furudo Erika é meu nome. Lembre-se disso.
 
 #v4300<Good.> I thought you'd be more useless, but you've surprised me. 
-Good. Pensei que você fosse ser mais inútil, mas me supreendeu.
+Good. Pensei que você fosse ser mais inútil, mas me surpreendeu.
 
 #v5069I'm honored to have not met your expectations. After all, I'm the most talented of my sisters. 
-
+Eu finco honrada de não ter cumprido com suas expectativas. Afinal, eu sou a mais talentosa dentre minhas irmãs.
 
 #v5070I am justice! After all, I've got an Inquisitor on my side! 
 Eu sou a justiça! Afinal, tenhho uma Inquisidora do meu lado!
 
 #v3946Please do not overdo IT. ...It increases the number of reports I will have to WRITE. 
-
+Por favor, não EXAGERE. ...Vai aumentar o número de relatórios que terei que ESCREVER.
 
 #v5071Okay, now's when the fun begins. I'll gouge you all over! 
-
+Certo, é aqui que a diversão começa. Vou te goivar inteiro!
 
 #v3947We have already finished inspecting the SCENE. ...If you actually gouge them, I will be ANGRY. 
-
+Nós já terminamos de inspecionar a CENA. ...Se você os goivar, eu fIcarei FURIOSA.
 
 #v3948It's too bad, but at the moment I was summoned here, your defeat was GUARANTEED. 
-
+É uma pena, mas no momento que em que fui invocada aqui, a sua derrota já estava ASSEGURADA.
 
 #v5072And since I'm gonna carry it out, that makes me the executioner. Heheheh, I love the sound of that...! 
-
+E como sou eu que irei conduzir, isso mas de mim a executora. Heheheh, eu amo como isso soa...!
 
 #v5073Hey, don't get a big head just because you're a little cool and all the girls love you! 
-
+Ei, não fique se achando só porque é um pouco descolado e todas as garotas amam você!
 
 #v5550...Why do I have to put up with this? That's none of your business... 
-
+...Por que eu tenho que aturar isso? Não é da sua conta...
 
 #v5074This is the true power of the eldest of the Seven Stakes: Lucifer of Pride! Now do you understand?! 
-
+Este é o verdadeiro poder da mais velha das Sete Estacas: Lucifer, do Orgulho! Entendeu agora?!
 
 #v5551Too much pride brings about defeat. Let's leave it at that, shall we? 
-
+Orgulho em excesso ocasiona na derrota. Que tal deixarmos tudo como está?
 
 #v5552That's enough. We won't be able to tell who they are at this rate. 
-
+É o bastante. Nesse ritmo, não seremos capazes de dizer quem é quem.
 
 #v5075My job's not done until they're unrecognizable. *giggle*! 
-
+Meu trabalho só termina quando estiverem irreconhecíveis. *risos*!
 
 #v5076Are you hurt anywhere, Lady Bernkastel? 
 Está ferida em algum lugar, Lady BERNKASTEL?
 
 #v5902Not at all. You're more considerate than I'd expected. Completely different from someone else I could mention. 
-
+Nem um pouco. Você é mais considerativa do que imaginei. Completamente diferente de alguém que eu poderia mencionar.
 
 #v5077Kyahaha! Did you think you'd be a match for me and Lady Bernkastel?! How prideful you are! 
-
+Kyahaha! Achou que seria páreo para mim e a Lady BERNKASTEL?! Mas que orgulhoso, hein?!
 
 #v5903Who's prideful now? I'm here, so of course we were going to win. 
-
+Quem é o orgulhoso agora? Eu estou aqui, e é claro que vamos vencer.
 
 #v5904Nicely done. What would you like as a reward? I've got plums pickled in mustard if you want some. 
-
+Esplêndido. O que gostaria como recompensa? Se quiser, tenho umeboshi em conserva com mostarda.
 
 #v5078Huh? Th-Thank you very much...! But the sentiment alone is more than enough! 
 
