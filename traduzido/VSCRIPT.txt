@@ -9820,13 +9820,13 @@ Isso é horrível! P-Por favor, lute comigo!
 Certo, vou aceitar o leite quente que a Bern bebeu pela metade!
 
 #v4281A-At least share a drop with me! Have mercy, Lady Lambdadelta! 
-A-Ao menos divida uma gota comigo! Tenha piedade, Ladu LAMBDADELTA!
+A-Ao menos divida uma gota comigo! Tenha piedade, Lady LAMBDADELTA!
 
 #v4855I just thought of something good... Bern isn't watching, so why don't I bury you forever...? 
 Acabei de pensar em algo bom... A Bern não tá olhando, então por que não te enterro pra sempre...?
 
 #v4282...S-Spare me, Lady Lambdadelta!! I don't want to go back to the depths of oblivioooooon!! 
-...M-Me poupe, Ladu LAMBDADELTA!! Não quero voltar para as profundezas do esquecimentooooo!!
+...M-Me poupe, Lady LAMBDADELTA!! Não quero voltar para as profundezas do esquecimentooooo!!
 
 #v4856I don't like mysteries, because they're too hard! Manga is better when it's filled with battles! 
 Eu não gosto de mistérios porque são muito difíceis! Mangás repleto de lutas são bem melhores!
@@ -10864,7 +10864,7 @@ Os mais velhos não devem exagerar, certo? Vai acabar sentido depois. ...As dore
 Sua luta é mesmo chamativa! Estou me coçando aqui! Sou a próxima, sou a próxima!
 
 #v5742Hohoho. Then allow me to witness how you fight, Lady Lambda. 
-Hohoho. Então permita-me testemunhar como você luta, Ladu Lambda.
+Hohoho. Então permita-me testemunhar como você luta, Lady Lambda.
 
 #v4878An easy victory! I'm feeling good, so maybe I'll deliver the finishing blow too! 
 Vitória fácil! Estou me sentindo bem, então devo dar o golpe final também!
@@ -11179,7 +11179,7 @@ Se a Grande Lady BERNKASTEL se ferisse, eu perderia a cabeça.
 Parece que está me subestimando. Talvez eu deva explodir seu talhe?
 
 #v5156For Lady Bernkastel's sake, I, Ronove, have used the utmost of my ability to make these dried plums! 
-Pelo bem da Ladu BERNKASTEL, eu, Ronove, utilizei do máximo das minhas habilidades para preparar estas umeboshi!
+Pelo bem da Lady BERNKASTEL, eu, Ronove, utilizei do máximo das minhas habilidades para preparar estas umeboshi!
 
 #v5898Oh, that's not bad. Excellent work. Could you float that on milk tea? 
 Oh, nada mal. Ótimo trabalho. Poderia colocá-las em um chá com leite?
@@ -11197,7 +11197,7 @@ Isso é chato. Mais uma vez, eu não tive a chance de fazer nada! Me deixe brinc
 Você precisa de um oponente digno de uma nobre dama. Eu, Ronove, escolherei um a dedo.
 
 #v5159Oh! Your cookies are excellent as well, Lady Lambda! You must give me your recipe! 
-Oh! Seus cookies também são excelentes, Ladu Lambda! Você precisa me passar a sua receita!
+Oh! Seus cookies também são excelentes, Lady Lambda! Você precisa me passar a sua receita!
 
 #v4882It looks like you've got good taste. How about you come over to my place on your next day off? We can have a sweets party! 
 Parece que você tem bom gosto. Por que não passa na minha casa na sua próxima folga? Podemos ter um festa dos doces!
@@ -15265,7 +15265,7 @@ A Tropa das Chiester faz de tudo, desde marchar como uma banda até shows ao viv
 Você não é ruim. Entendi, então o que me falta é um coelho-palhaço.
 
 #v5405Nihihihi. Chiester 410 will do all she can to satisfy you, Lady Bernkastel nyeh! 
-Nihihihi. A Chiester 410 fará tudo que puder para satisfazê-la, Ladu BERNLASTEL, neyh!
+Nihihihi. A Chiester 410 fará tudo que puder para satisfazê-la, Lady BERNLASTEL, neyh!
 
 #v4581I cannot stand silent and watch you humiliate the defeated anymore. 
 Não posso ficar em silêncio enquanto vejo você humilhar os derrotados.
@@ -16235,7 +16235,7 @@ Bem-vinda ao tabuleiro daquela criança. A propósito, os assentos da plataia fi
 Francamente, parece que confundiu seu assento. Permita-me guia-la até a tribuna.
 
 #v5772I am honored to be visited by a witch of the Senate. Allow me to greet you, Lady Lambdadelta. 
-Fico honrada em receber uma visita de uma bruxa do Senado. Permita-me cumprimentá-la, Ladu LAMBDADELTA.
+Fico honrada em receber uma visita de uma bruxa do Senado. Permita-me cumprimentá-la, Lady LAMBDADELTA.
 
 #v5773Everywhere past this point is outside the audience seating area. Please return to your seat, Lady Lambdadelta. 
 Qualquer lugar além deste ponto está fora da área designada à audiência. Por favor, retorne ao seu assento, Lady LAMBDADELTA.
