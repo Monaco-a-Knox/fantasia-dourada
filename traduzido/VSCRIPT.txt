@@ -11830,199 +11830,199 @@ Quem é o orgulhoso agora? Eu estou aqui, e é claro que vamos vencer.
 Esplêndido. O que gostaria como recompensa? Se quiser, tenho umeboshi em conserva com mostarda.
 
 #v5078Huh? Th-Thank you very much...! But the sentiment alone is more than enough! 
-
+Hã? M-Muito obrigada...! Mas o sentimento por si só é mais do que suficiente!
 
 #v5079Incredible... To think we'd win so easily. 
-
+Inacreditável... Quem imaginaria que venceríamos com tanta facilidade.
 
 #v4886You've got the Witch of Certainty on your side, right? Us losing was 'certainly' impossible! 
 Você tem a Bruxa da Certeza ao seu lado, lembra? Perdermos é 'certamente' impossível!
 
 #v4887I never get tired of looking at the furniture Beato made. Keep up that attitude during the next fight! 
-
+Nunca me canso de admirar as mobílias que a Beato fez. Continue com essa atitude na próxima luta!
 
 #v5080Y-Yes, leave it to me...! Hey, ...she's watching TV. ...Nngg! 
 S-Sim, deixe isso comigo...! Ei, ...ela está assistindo TV. ...Nngg!
 
 #v4888I was right to join forces with you. ...When I throw a tantrum, terrible things happen. 
-
+Eu estava certa em me aliar a você. ...Quando faço birra, coisas horríveis acontecem.
 
 #v5081Oh, like one of those characters that used to be popular, those 'evil eye' people who flip out. ...Huh? Owowow! Why are you pinching me?!! 
-
+Oh, tipo aqueles personagens que costumam ser popular, aquela gente com 'mau-olhado'. ...Hã? Aiaiai! Por que tá me beliscando?!
 
 #v0322Whew, that last one really did it! You're pretty good, Shannon-chan! 
-
+Puxa, essa última foi a melhor! Você é muito boa, Shannon-chan!
 
 #v1192I-It was all I could do to protect myself... Umm, I'm sorry... 
-
+E-Era tudo o que eu poderia fazer para me proteger... Hmm, me desculpe...
 
 #v1193I'm not giving up on victory either. I'm desperate...! 
-
+Também não estou abrindo mão da vitória. Estou desesperada...!
 
 #v0323Of course no one wants to give up their victory. It's okay to feel that way. 
-
+É claro que ninguém quer abrir mão da vitória. Tudo bem se sentir asssim.
 
 #v0324Ihihi, not bad. You could've left me some time to shine, you know? 
-
+Ihihi, nada mal, mas poderia ter deixado algum tempo para eu brilhar, sabia?
 
 #v1194M-My apologies...! I'll make sure we switch next time... 
-
+S-Sinto muito...! Tomarei cuidado para trocarmos na próxima...
 
 #v0472Who are you...? I doubt a normal servant would be able to wield power like that. 
-
+Quem é você...? Eu duvido que uma serviçal comum teria um poder como aquele.
 
 #v1195This is the power given to furniture... I apologize for showing you something so unsightly... 
-
+Este é o poder concedido às mobílias... Eu peço desculpas por mostra algo desagradável para você...
 
 #v1196Right now, there's no way to hold to your convictions except by defeating the enemies in front of you. 
-
+Neste momento, não há como mantermos nossa conversa, exceto derrotando os inimigos que estão diante de nós.
 
 #v0473Yeah, I agree. There's no other way. Not for me, and not for you. 
-
+Sim, eu concordo. Não há outra maneira. Nem para mim, nem para você.
 
 #v0474...What's your chest size? ...It's not like I'm envious or anything. 
-...Qual o tamhho do seu busto? ...Não é como se eu estivesse com inveja ou algo do tipo.
+...Qual o tamhaho do seu busto? ...Não é como se eu estivesse com inveja ou algo do tipo.
 
 #v1197That's...umm...uhhh...a secret... ...*mumble*mumble* 
-
+Isso...bem...uhhh...é segredo... ...*murmura*murmura*
 
 #v1522It seems the strength of your heart shows in how you fight. 
-
+Parece que a força do seu coração transparece em como você luta.
 
 #v1198D-Do you think so...? I'm just desperate...because I can't afford to lose. 
-
+V-Você acha mesmo...? Eu só estou desesperada...porque não suporto perder.
 
 #v1199Don't worry. I can at least protect myself... 
-
+Não se preocupe. Ao menos eu posso me proteger...
 
 #v1523Yes, I know. However, if it ever gets dicey, feel free to rely on me. 
-
+Sim, eu si. Contudo, se as coisas ficarem difíceis, fique à vontade para depender de mim.
 
 #v1524Are you okay? Let us take a short break before we go. 
-
+Você está bem? Vamos fazer uma pequena pausa antes de continuarmos.
 
 #v1200No, this is nothing. ...I won't run from a fight. 
-
+Não, não é nada. ...Eu não fujo a luta.
 
 #v1072You really have grown strong... And beautiful as well. 
-
+Você realmente ficou mais forte... E mais bonita também.
 
 #v1201Th-Thank you very much... However, ...I still have a long way to go. 
-
+M-Muito obrigada... Porém, ...eu ainda tenho um longo caminho pela frente.
 
 #v1202H-How was I fighting just now...? I'm still not very confident... 
-
+C-Como eu lutei agora...? Ainda não estou muito confiante...
 
 #v1073If you win, that is enough. Fighting has no meaning beyond that, after all. 
-
+É o suficiente se vencer. Não há outro significado na luta além desse.
 
 #v1074Splendidly done. ...Yes, the power of Goldsmith's furniture is not to be underestimated... 
-
+Esplêndido. ...Sim, o poder das mobílias do GOLDSMITH não devem ser subestimado...
 
 #v1203Yes. I was born to protect the Master... 
-
+Sim. Eu nasci para proteger o Mestre...
 
 #v0172You're not bad for someone who looks like she couldn't kill a fly! Ahyahya! 
-
+Você não é ruim para alguém que aparenta não ser capaz de matar uma mosca! Ahyahya!
 
 #v1204Unlike you, I don't fight so that I can humiliate the defeated. 
-
+Diferente de você, eu não luto para humilhar os derrotados.
 
 #v1205Please, don't stand up again... This is already over... 
-
+Por favor, não se levante de novo... Já terminou...
 
 #v0173Of course, if you want to stand up, feel free! I'm not done playing yet! 
-
+É claro, se quiser levantar, à vontade! Ainda não terminei de brincar!
 
 #v0174You're not bad yourself! If you wish, I wouldn't mind making you my furniture. 
-
+Você não é tão ruim! Se quiser, eu não me importaria de transformá-la em minha mobília.
 
 #v1206Allow me to respectfully decline. I'm not furniture anymore. 
-
+Permita que eu recuse respeitosamente. Não sou mais uma mobília.
 
 #v0922I'm amazed that those boobs don't get in the way when you fight! Want me to chop them off for you? 
-
+Eu fico impressionado que esses peitos não atrapalham quando você luta! Quer que eu os fatie?
 
 #v1207Th-That's none of your business. And maybe you should try wearing pants. 
-
+I-Isso não é da sua conta. E talvez você devesse usar calças.
 
 #v1208Are you satisfied with being furniture? Don't you want to become human? 
-
+Está satisfeita em ser uma mobília? Não quer se tornar humano?
 
 #v0923Of course not! Furniture is furniture! Gouging and killing humans is my role! 
-
+É claro que não! Mobílias são mobílias! Goivar e matar humanos é o meu dever!
 
 #v0924I'm starting to see you in a new light. I figured you were just elegant furniture that couldn't fight at all. 
-
+Estou começando a vê-la com outros olhos. Eu pensei que fosse apenas uma mobília elegante que não soubesse lutar.
 
 #v1209I probably was, when I was furniture. However, I'm not like that now. 
-
+Eu provavelmente era, na minha época de mobília, mas não sou mais assim.
 
 #v1210Enough! This battle is over. We've won...! 
-
+Bast! Esta luta terminou. Nós vencemos...!
 
 #v1211I don't want to hurt you anymore. Please, surrender. 
-
+Eu não quero mais machucá-la. Por favor, renda-se.
 
 #v1212Only I understand how I feel. In other words, only you do... 
-
+Apenas eu entendo como me sinto. Em outras palavras, apenas você...
 
 #v1213Even so, we can talk with each other. So, let us continue forward. 
-
+Mesmo assim, podemos conversas. Então, vamos continuar.
 
 #v1214Please, don't let it get you down. We have to go down this path so that no one will be hurt. 
-
+Por favor, não deixe que isso te abata. Precisamos seguir por esse caminho para que ninguém se machuque.
 
 #v1215...And that's why we'll be hurt more than anyone. Otherwise, we wouldn't be allowed to do this. 
-
+...E é por isso que vamos nos ferir mais do que qualquer um. Caso contrário, não seremos capazes de fazer isso.
 
 #v0742Nee-san, you're moving too far forward. I'll take on the job of getting hurt. 
-
+Nee-san, você está indo muito pra frente. Eu fico com o trabalho de se ferir.
 
 #v1216Thanks. But if we're going to get hurt anyway, let's both get hurt just as much. 
-
+Obrigada. Mas se vamos nos machucar mesmo assim, vamos ambos se machucar o tanto possível.
 
 #v1217How ironic. To think that the power to bring our feelings to fruition...would be the cursed power of furniture. 
-
+Que irônico. E pensar que o poder para trazer frutos aos nossos sentimentos...seria o poder amaldiçoado das mobílias.
 
 #v0743It's a power that's tormented us. Let's have it finally be of some use now, at the end. 
-
+É um poder que nos atormenta. Vão fazer com que ele ao menos tenha alguma utilidade.
 
 #v0744It's a bit early to say this, but I hope we get some paid vacation time when this is over. 
-
+É um pouco cedo para dizer isso, mas espero que possamos receber férias remuneradas quando isso acabar.
 
 #v1218True. Let's sing the praises of the time each of us spends as a human. 
-
+Realmente. Vamos entoar os louvores do tempo em que cada um de nós passou como humano.
 
 #v0592Just when I was thinking you were incapable of being a good waitress for five seconds, you pull something like this. 
-
+Justo quando eu estava pensando que você era incapaz de ser uma boa garçonete por cinco segundos, você faz uma coisa dessas.
 
 #v1219After all, right now, I'm not fighting as furniture, but as a human called Shannon. 
-
+Afinal, neste momento, eu não estou lutando como mobília, mas como o ser humano chamado Shannon.
 
 #v1220Are you okay...? Don't move... I'll care for your wounds... 
-
+Você está bem...? Não se mova... Vou cuidar dos seus ferimentos...
 
 #v0593What are you doing?! The defeated don't need bandages, they need to be finished off. 
-
+O que tá fazendo? Os derrotados não precisam de bandagens, eles precisam ser finalizados.
 
 #v0594I understand why you gained strength. Of course, that's why I can't forgive you. 
-
+Eu entendo porque obteve sua força. É claro, é por isso que eu não posso perdoar você.
 
 #v1221And isn't changing that fact into strength what makes us human...? Isn't that what makes us women...? 
-
+E não é transformar essa fato em força o que nos torna humanos...? Não é isso o que nos faz mulheres...?
 
 #v1342Maids these days are so strong nyeh! I guess klutzes are already out of style, nyeh? 
-
+As empregadas de hoje em dia são tão fortes, nyeh! Acho que as desastradas já saíram de moda, nyeh?
 
 #v1222That was a long time ago! That time I mistook salt for sugar...and made all kinds of other mistakes... 
-
+Isso foi há muito tempo! Na época que eu confundi sal com açúcar...e cometi todo tipo de erro...
 
 #v1223I'm sorry. I simply cannot afford to lose here. 
-
+Me desculpe. Eu simplesmente não posso me dar a luxo de perder aqui.
 
 #v1343If you're so serious all the time, it's gonna wear you out nyeh! Airheads have more fun nyeh. Nihi! 
-
+Se ficar sério o tempo todo, isso vai te desgastar, nyeh! Cabeças-de-vento são bem mais divertidos, nyeh. Nihi!
 
 #v1344Good work nyeeeh! I'll massage your shoulders nyeeh! 
 
@@ -12427,13 +12427,13 @@ S-Sim, deixe isso comigo...! Ei, ...ela está assistindo TV. ...Nngg!
 
 
 #v3952I never resent my HEIGHT. It's what's inside that COUNTS. 
-
+Eu nunca lamentei minha ALTURA. É o que está dentro que IMPORTA.
 
 #v4716I-I know that! As if I care...about my height! 
-
+E-Eu sei disso! Até parece que eu me importo...com a minha altura!
 
 #v3953Why are you so persistent when it comes to defeating your OPPONENT? 
-
+Por que você é tão persistente quando se trata de derrotar seu OPONENTE?
 
 #v4717...Because I'm furniture, born for the sole purpose of defeating my opponents. 
 
@@ -12442,13 +12442,13 @@ S-Sim, deixe isso comigo...! Ei, ...ela está assistindo TV. ...Nngg!
 
 
 #v3954How ADMIRABLE. ...Allow me to do what little I can to aid YOU. 
-
+É ADMIRÁVEL. ...Permita-me fazer o que eu puder para AUXILIÁ-LO.
 
 #v5556Like how a lion uses all of its strength to hunt a rabbit? 
-
+Igual a como um leão usa toda a sua força para caçar um coelho?
 
 #v4719...I'll defeat any opponent with all I've got. That's how I show my sincerity. 
-
+...Derrotarei meu oponente com todas as minhas forças. É assim que demonstro sinceridade.
 
 #v4720I didn't think it was worth wasting your time on this opponent, Willard-sama. Please forgive me. 
 
@@ -12745,7 +12745,7 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v4309Comrade EVA, how long are you going to toy with them? You really never get bored. 
-
+Confrade EVA, até quando vai brincar com eles? Você nunca fica entediada mesmo.
 
 #v4481But this is so much fun! I see your brutality still has a long way to go. 
 
@@ -12760,13 +12760,13 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v3956I may not be of much use, ...but allow me to assist YOU. 
-
+Eu posso não ser de muito uso, ...mas permita-em auxiliar VOCÊ.
 
 #v3957As EXPECTED. The name of the Golden Witch is not just for SHOW. 
-
+Como ESPERADO. O nome de Bruxa Dourada não é apenas para se EXIVBIR.
 
 #v4484Of course not. I am Beatrice! I've only just gotten started! 
-
+É claro que não. Eu sou BEATRICE! Só estou começando!
 
 #v4485By the way, going back to what we were talking about... Do you have any interest in lending your skills to our company?! 
 
@@ -12787,7 +12787,7 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v4488Not yet! It's just starting to get fun! 
-
+Ainda não! Está começando a ficar divertido!
 
 #v5911*giggle* You're right... We'd better turn them into mincemeat bit by bit now. 
 
@@ -12847,22 +12847,22 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v1355A smart rabbit hides her ears nyeh! Nihinihi! 
-
+Um coelho esperto esconde suas orelhas, nyeh! Nihinihi!
 
 #v0482But you aren't. You definitely aren't. 
 
 
 #v0483Isn't that uniform embarrassing? I'd be embarrassed. Yep. 
-
+Esse uniforme não é embaraçosso? Eu ficaria com vergonha. Sem dúvida.
 
 #v1356This is the uniform we're all proud of, proof that we've withstood the strictest training nyeh! Ahem nyeh! 
-
+Este é o uniforme da qual nos orgulhamos, uma prova de que superamos um treinamento rigoroso, nyeh! Ahem, nyeh!
 
 #v1531You weren't this menacing back when you played with Lady MARIA... 
-
+Você não era ameaçadora assim quando brincava com a Lady MARIA...
 
 #v1357When a bunch of rabbits get together, we start pushing for better treatment and the right of collective self-defense nyeh! Nihihi! 
-
+Quando um bando de coelhos se juntam, nós começamos a pressionar por um melhor tratamento e o direito de autodefesa coletivo, nyeh! Nihihi!
 
 #v1358Virgilia-sama, did you see that just now nyeh? Nyeh? Nyeh?! 
 
@@ -12880,7 +12880,7 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v1360I love you Ronove nyeh! And let's have some carrot tea too nyeh! 
-
+Eu te amo, Ronove, nyeh! Vamos tomar um chá de cenoura também, nyeh!
 
 #v1361Mission Complete, Perfect Execution! I request a reward from Ronove-sama nyeh! 
 
@@ -12898,10 +12898,10 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v1363Nihihi! I like stealing people's time to shine more than anything but carrots nyeh! 
-
+Nihihi! Eu gosto de roubar os holofotes das pessoas mais do que tudo, exceto cenouras, nyeh!
 
 #v1364Battle Complete nyeh. Performing Automatic Updates. Please restart me within 3 minutes nyeh. Click click. 
-
+Batalha completa, nyeh. Performando Atualizações Automáticas. Por favor, reinicie-me dentro de 3 minutps, nyeh. Click click.
 
 #v0182You're incredibly reliable as a weapon, but do you really have to automatically update and restart all on your own?! 
 
@@ -13033,16 +13033,16 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v2957A-A-About those clothes. Would you mind telling me what brand they are...? Hahah. 
-
+S-Sobre essas roupas. Poderia me dizer de qual marca elas são...? Hahah.
 
 #v3440This is the noble uniform of the Sisters Imperial Guards nyeh! You couldn't possibly wear it nyeh! 
-
+Este é o nobre uniforme da Guarda Imperial das Irmãs Chiester, nyeh! Você não pode vesti-lo, nyeh!
 
 #v3444We're on a team now, ...but I will avenge 556 someday nyeh. 
-
+Estamos no mesmo time hoje, ...mas um dia eu irei vingar a 556, nyeh.
 
 #v3285Huh? What's wrong? ...I don't think this kid likes me. 
-
+Hã? O que foi? ...Eu não acho que essa criança gosta de mim.
 
 #v3445That's Lady MARIA's mother for you nyeh. I never would've expected such strength from a Human nyeh...! 
 
@@ -13078,7 +13078,7 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v3958Allow me to PASS. ...I don't like CARROTS. NO, NO, NO. 
-
+Permita-me RECUSAR. ...Eu não gosto de CENOURAS. NÃO, NÃO, NÃO.
 
 #v5383When you've got a stiff boss, even giving your 'mission completed' report is a pain nyeh. 
 
@@ -13111,7 +13111,7 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v5388Target Silenced! Great Lady Bernkastel, I'm here to report that our mission has been completed nyeh! 
-
+Alvo Silenciado! Grande Lady BERNKASTEL, eu estou aqui pra informar que a nossa missão foi concluída, nyeh!
 
 #v5914Well done. As promised, let's celebrate with some carrot tea. 
 
@@ -13129,10 +13129,10 @@ Hehehehehhyahyahyah! Ihihihihihihihi!!
 
 
 #v5391Target Silenced! Great Lady Lambdadelta, I'm here to report that our mission has been completed nyeh! 
-
+Alvo Silenciado! Grande Lady LAMBDADELTA, eu estou aqui pra informar que a nossa missão foi concluída,
 
 #v4898Oh, really?! Good work. I got so bored, I was watching TV. 
-
+Ah, é mesmo?! Bom trabalho. Eu fiquei entendiada e comecei a assistir televisão.
 
 #v5392Nice and easy nyeh. There was no need for Lady Lambdadelta to dirty her hands nyeh! 
 
@@ -14101,7 +14101,7 @@ Como se cria uma criança...para ela acabar tão fria quanto você...?
 Pode tentar jogá-la em um quarto escuro por milhares de anos. Pode ser que ela fique um pouco parecida comigo assim.
 
 #v4907You really are an interesting piece. It's a shame that you only really had a chance to shine in the second game. 
-Você é mesmo uma pessa interessante. É uma pena que só teve uma chance de brilhar no segundo jogo.
+Você é mesmo uma pessoa interessante. É uma pena que só teve uma chance de brilhar no segundo jogo.
 
 #v5235Why would I want a chance to shine?! Someone, get me out of this witches' nightmare! 
 Por que eu iria querer uma chance de brilhar?! Alguém me tire desse pesadelos de bruxas!
@@ -14116,7 +14116,7 @@ Doces alimentam o coração das crianças! Se não os oferecer, elas vão acabar
 Me desculpe. Não posso permitir que ninguém fique no meu caminho, independente de quem seja.
 
 #v4909No, you can't. After all, I'm watching you from the stands. *giggle*giggle*!
-Não, não pode. Afinal, eu estou te assistindo da palteia. *risos*risos*!
+Não, não pode. Afinal, eu estou te assistindo da plateia. *risos*risos*!
 
 #v3790Whew. You're actually pretty reliable as an ally. I'd expect no less from my rival. 
 Nossa, você é bem confiável como aliada. Não poderia esperar menos da minha rival.
@@ -14172,10 +14172,10 @@ Isto conclui meu raciocínio. Certo, VIRGILIA, dê o último golpe.
 Você já fez mais do que o suficiente sozinha. Minha nossa, coitadinha.
 
 #v4331You're even talented when serving as my butler. Okay, I'll make you my Watson!
-Você demonstra talento quando está servindo como meu mordomo. Certo, farei de vocÊ meu Watson!
+Você demonstra talento quando está servindo como meu mordomo. Certo, farei de você meu Watson!
 
 #v5160Pu ku ku. I believe 'Hastings' would be more fitting for a gentleman like myself.
-Pu ku ku. Creio que 'Hastings' seja mais adequado para um mordomo como eu.
+Pu ku ku. Creio que ser o 'Hastings' seja mais adequado para um mordomo como eu.
 
 #v5161A Witch of Truth... What does truth mean to you, Erika-sama?
 Uma Bruxa da Verdade... O que a verdade significa para você, Erika-sama?
@@ -14304,7 +14304,7 @@ Ah, claro, como quiser. Se quiser, eu ficarei feliz em enfrentá-la também.
 Essa atitude difícil faz parte de ser uma detetive. Vivemos em uma era onde até mesmo detetives precisam estabelecer seu personagem!
 
 #v4651Hey, you've done enough. They're already out cold.
-Ei, você já fez o bastante. Eles já estão inconsientes.
+Ei, você já fez o bastante. Eles já estão inconscientes.
 
 #v4356That's no good...! I was just about to announce my reasoning...! 
 Isso não é nada bom...! Eu estava prestes a anunciar minha teoria...!
@@ -14391,7 +14391,7 @@ Talvez seja uma problema com seus MÉTODOS? Mas é bom que você compreenda isso
 ...Essa tipo de raciocínio me faz querer vomitar. É isso que o gênero do mistério significa para você?
 
 #v4370What more do you want? As if you didn't specialize in reasoning like this yourself once. 
-O que mais quer? 
+O que mais quer?  Como se você mesma não se especializasse em raciocínios desse tipo.
 
 #v4371What do you think, Lord Wright? This level of reasoning is possible for Furudo Erika.
 O que acha, Lorde Wright? Uma dedução como está é trivial para Furudo Erika.
@@ -14776,7 +14776,7 @@ Seus pensamentos movimentam-se de forma profunda e precisa. ...Entretanto, quand
 ...Tem razão. E poderia dizer o mesmo quando se trata de lutar!
 
 #v5582Sorry. Did I steal the territory lord's show? 
-Desculpe. Roubei a cena do Lorde terrirotial?
+Desculpe. Roubei a cena do Lorde territorial?
 
 #v3798I'll show you. Just watch and see how I fight in the next round...! 
 Fique vendo! Vou mostrar a você como se luta no próximo round...!
@@ -14926,7 +14926,7 @@ Deixar com que a caixa descanse...é meu trabalho.
 ...Se realmente é capaz disso, ...eu deixarei tudo...em suas mãos...
 
 #v5400People from heaven show no mercy nyeh. Even a weapon like me gets the shivers nyeh...! 
-As pessoas do Cúe não demonstram misericórcia, nyeh. Até mesmo uma arma como eu treme, nyeh...!
+As pessoas do Cúe não demonstram misericórdia, nyeh. Até mesmo uma arma como eu treme, nyeh...!
 
 #v5607I don't play when I fight. ...This is just what happens when you try to end it as quickly as possible. 
 Não brinco quando estou lutando. ...É isso que acontece quando você tenta colocar um ponto final o mais rápido possível.
@@ -14935,7 +14935,7 @@ Não brinco quando estou lutando. ...É isso que acontece quando você tenta col
 A Tropa das IrmãsChiester? ...Até que são bem confiáveis.
 
 #v5401Covering fire is our main job nyeh. We're the unseen stage hands in a battle nyeh...! 
-Fogo de cobertura é nossa especialidaed, nyeh. Somos as ajudantes invisíveis da batalha, nyeh...!
+Fogo de cobertura é nossa especialidade, nyeh. Somos as ajudantes invisíveis da batalha, nyeh...!
 
 #v5609...It's such a sad mystery. Both this game...and your story. 
 ...É um mistério muito triste. Tanto este jogo...e a sua história.
@@ -15034,7 +15034,7 @@ Um mistério solucionado...passa uma sensação de vazio.
 É como uma FLOR. É bela por um curto período de tempo porque eventualmente RESSECA.
 
 #v5625A tag team between me and me, huh? A witch's diversion can be interesting every now and then. 
-Uma dupla entre nós dois, é?
+Uma dupla entre eu e eu, é? A diversão de uma bruxa pode ser interessante às vezes.
 
 #v5626True. And now we can get unpleasant jobs done in half the time. 
 Realmente. Agora podemos terminar trabalhos desagradáveis na metade do tempo.
@@ -15358,7 +15358,7 @@ Ainda assim, a Grande Corte deve ter muito tempo livre para mandar você ser min
 SIM. De fato, nós realmente e verdadeiramente tempos muito tempo LIVRE. Eu já chance de carimbar DOCUMENTOS...!
 
 #v5637You keep hitting them with merciless truths. ...Just what makes that so fun? 
-Você continua os atingindo com veradades impiedosas. ...O que tem de tão divertido nisso?
+Você continua os atingindo com verdades impiedosas. ...O que tem de tão divertido nisso?
 
 #v5980Truth is everything, right? That's what Humans live and die for. 
 A verdade é tudo, não é? É por ela que humanos vivem e morrem.
