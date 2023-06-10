@@ -12025,286 +12025,286 @@ Me desculpe. Eu simplesmente não posso me dar a luxo de perder aqui.
 Se ficar sério o tempo todo, isso vai te desgastar, nyeh! Cabeças-de-vento são bem mais divertidos, nyeh. Nihi!
 
 #v1344Good work nyeeeh! I'll massage your shoulders nyeeh! 
-
+Bom trabalho, nyeeeh! Vou fazer uma massagem nos seus ombros, nyeeh!
 
 #v1224N-No, thank you... U-Umm, those are my breasts! Ah! 
-
+N-Não, obrigada... H-Hmm, esses são os meus peitos! Ah!
 
 #v3396I won't slow you down, George-san. That's the kind of person I long to become. 
-
+Eu não irei atrapalhá-lo, George-sana. É esse tipo de pessoa que eu almejo me tornar.
 
 #v2751That's comforting to hear. But, it's fine to rely on me a little, okay? 
-
+É reconfortante ouvir isso, mas não tem problema depender um pouco de mim, tá?
 
 #v3397Was that undignified of me...? When I was fighting, umm, I got a bit frantic... 
-
+Aquilo foi indigno da minha parte...? Quando estava lutando, hmm, eu fiquei um pouco agitada...
 
 #v2752Not at all. You were wonderful, and so much so that I want to see more of that while standing by your side. 
-
+Que nada, você foi incrível, tanto que eu quero ver mais disso enquanto estou ao seu lado.
 
 #v2753It's almost as though that shield of yours is our love made solid. 
-
+É quase como se aquele seu escudo fosse a solidificação do nosso amor.
 
 #v3398...That's right. I won't let anyone get in the way of our love. 
-
+...Isso mesmo. Eu não deixarei que ninguém atrapalhe o nosso amor.
 
 #v3393This power was given to me at birth. ...Just like your fists, Milady. 
-
+Este é o poder que me foi concedido ao nascer. ...Assim como os seus punhos, ojou-sama.
 
 #v2946That's not true. Our greatest weapon is our hearts burning with love! 
-
+Isso não é verdade. Nossa maior arma são nossos corações que queimam com amor!
 
 #v2947Now do you get it?! No one can stop our wild, loving hearts! 
-
+Entendeu agora?! Ninguém pode parar os nossos corações selvagens e apaixonados!
 
 #v3394This is a maiden's power. Please forgive our rudeness! 
-
+Esse é o poder de uma donzela. Peça desculpas pela sua indelicadeza!
 
 #v3395Oh no, Milady! There's a scratch on your face...! 
-
+Essa não, ojou-sama! Tem um arranhão no seu rosto...!
 
 #v2948I'm fine! Even if my face is scratched, nothing can leave a scar on my heart! 
-
+Estou bem! Mesmo que arranhe a minha cara, nada pode arranhar o meu coração!
 
 #v3399Rosa-sama, please don't let your guard down. ...The witch has more minions out there. 
-
+Rosa-sama, por favor não baixe a guarda. ...A bruxa possuí mais subordinados por perto.
 
 #v3276...I don't believe it. ...This island really is being swallowed up in the occult... 
-
+...Eu não acredito nisso. ...Esta ilha está mesmo sendo engolida pelo oculto...
 
 #v3400Please believe me! I'm really not the culprit! 
-
+Por favor, acredite em mim! Eu não sou o culpado!
 
 #v3277...Fine. I'll suspend my suspicion of you. ...For now. 
-
+...Certo. Deixarei minhas suspeitas sobre você de lado, ...por ora.
 
 #v3278Come on, let's tie them up and throw them in there. We'll seal up all of the suspicious ones. 
-
+Ainda, vamos amarrá-los e jogá-los lá dentro. Vamos selar todos os suspeitos.
 
 #v3401A-As you wish. ...This is a locker for cleaning supplies, but please forgive me... 
-
+C-Como desejar. ...Este é um armário para produtos de limpeza, então me perdoe...
 
 #v5301Were you able to understand 'love' a little after that? 
-
+Você foi capaz de compreender um pouco sobre o 'amor' depois de tudo isso?
 
 #v4301How naive. I managed to become a Witch of Truth because I abandoned love. 
-
+Quanta ingenuidade. Eu fui capaz de me tornar uma Bruxa da Verdade justamente porque abandonei o amor.
 
 #v5302If we hadn't met here, I get the feeling we could've become good friends. 
-
+Se não tivéssemos nos encontrado aqui, eu tenho a sensação que poderíamos nos tornar boas amigas.
 
 #v4302*giggle*... Well, that reasoning's full of holes. But even so, umm, ...thanks. 
-
+*risos*... Bom, aquele raciocínio estava repleto de furos. Mas ainda assim, hmm, ...obrigada.
 
 #v4303Is that shield a manifestation of the concept of refusal? ...I see. A perfect attack for a suspect. 
-
+Seria aquele escudo uma manifestação do conceito da recusa? ...Entendi. Um ataque perfeito para um suspeito.
 
 #v5303And just who was it who felt joy at breaking down such things? 
-
+E quem é que sentia alegria em destruir as coisas?
 
 #v5304...That was quite a precise bit of reasoning, both razor-sharp and meticulously planned out. 
-
+...Esse foi um raciocínio bem preciso, tanto afiado como uma lâmina quanto meticulosamente planejado.
 
 #v3949Inquisitors musn't make false ACCUSATIONS. We always take fights SERIOUSLY. 
-
+Inquisidores não deve fazer falsas ACUSAÇÕES. Nós sempre lutamos à SÉRIO.
 
 #v3950Snack time after a job is the BEST! Do you have any more fresh baked COOKIES?! 
-
+Nada melhor do que a hora do lanche depois de um TRABALHO. Você tem mais cookies recém ASSADOS?!
 
 #v5305*giggle* Yes, I do. Of course, we have some more tea as well. 
-
+*risos* Sim, eu tenho. É claro, temos mais chá também.
 
 #v3951I went a bit too FAR. Forgive me, but I ask that you care for their WOUNDS. 
-
+Eu exagerei um POUCO. Eu pelo perdão, mas também que cuide das feridas DELES.
 
 #v5306You're a kind person. As you wish. I'll get a first aid kit right away. 
-
+Você é gentil. Como quiser; buscarei um kit de primeiros socorros agora mesmo.
 
 #v5307Well done. I'll get some hot tea and cookies right away. 
-
+Muito bem. Vou buscar um pouco de chá quente e cookies.
 
 #v5553This isn't over yet. And anyway, I drink coffee when on the job. 
-
+Isso ainda não acabou. E de qualquer forme, eu bebo café quando estou trabalhando.
 
 #v5554Sorry. ...I do that instinctively when someone stands behind me. Don't worry about it. 
-
+Desculpe. ...Eu faço isso instintivamente quando tem alguém atrás de mim. Não se preocupe.
 
 #v5308...You mean, covering your butt? ...You're a strange person, Willard-sama. 
-
+...Fala sobre como cobre a sua bunda? ...Você é uma pessoa estranha, Willard-sama.
 
 #v5555So close. But the 'why dunnit' is the best part of a mystery. 
-
+Tão perto, mas o 'why dunnit' é a melhor parte de um mistério.
 
 #v5309The motive? ...I see. It certainly is the deepest and most important element. 
-
+O motivo? ...Entendi. Certamente é o elemento mais profundo e importante.
 
 #v5310It's over. ...Should I leave them like this? 
-
+É o fim. ...Devemos deixá-los assim mesmo?
 
 #v5905Yes. Let them roll around for a while. ...Losers are the best way to liven up a party. 
-
+Sim. Deixe-os rolando por aí. ...Perdedores são a melhor forma de animar uma festa.
 
 #v5906Who are you? ...I sense something different from Beato in you. 
-
+QUem é você. ...Eu sinto algo diferente da Beato em você.
 
 #v5311I'm just furniture. ...Is there anything else you need, Bernkastel-sama? 
-
+Sou apenas uma mobília. ...Há algo mais que você necessite, BERNKASTEL-sama?
 
 #v5907Dried plums aren't a snack to be eaten with tea. You put them in the black tea. ...Understand? 
-
+Umeboshi não é um aperitivo para se comer acompanhado do chá. Você as coloca dentro do chá. ...Entendeu?
 
 #v5312Y-Yes, pardon me... ...I didn't know you could drink tea like that... 
-
+S-Sim, perdoe-me... ...Eu não sabia que você tomava chá assim...
 
 #v5313I don't understand... ...How does one make a beautiful smile? 
-
+Eu não entendo... ...Como alguém pode exibir um sorriso tão lindo?
 
 #v4889Stupid kid. Just be honest with yourself! Just like me! 
-
+Criança idiota. Apenas seja honesta consigo mesmo! Assim como eu!
 
 #v5314Good work. Our tea snack this time will be popcorn specially made by Kumasawa-san. 
-
+Bom trabalho. Dessa vez, o nosso aperitivo para o chá será uma pipoca feita especialmente pela Kumasawa-san.
 
 #v4890I have a bad feeling about this... Don't make this like a punishment game, even though we won! 
-
+Tenho um mal pressentimento sobre isso... Não faça disso um jogo de punição, mesmo que a gente vença!
 
 #v4891Not bad. It looks like I'd better rethink my opinion of you. 
-
+Não foi ruim. Parece que é melhor eu repensar minha opinião sobre você.
 
 #v5315If you continue to do so, I'll prepare some delicious cake and tea. 
-
+Se continuar a fazer isso, eu irei preparar um delicioso bolo com chá.
 
 #v0325Every one of your moves is so cool, Kanon-kun! I wish I could be like you...! 
-
+Cada um dos seus movimentos é maneiro, Kanon-kun! Eu queria ser como você...!
 
 #v0745It's a cursed power... You can't even use it to care for the roses... 
-
+É um poder amaldiçoado... Você sequer pode usá-lo para cuidar das rosas...
 
 #v0746Why do I have this power...? ...Even though I never wanted it... 
-
+Por que eu tenho este poder...? ...Mesmo eu nunca tendo desejado por ele...
 
 #v0326Sheesh... I hope I get to say a showoff-y line like that someday! 
-
+Tch... Espero que eu consiga dizer uma linha dessas para me exibir algum dia!
 
 #v0327Nice! We win! Sweet, awesome!! 
-
+Beleza! Vencemos! Doce, incrível!!
 
 #v0747...I'm sorry. I have mixed feelings about this, so please give me some space... 
-
+...Sinto muito. Eu tenho sentimentos mistos sobre isso, por isso peço que me dê um pouco de espaço...
 
 #v0475You fight like someone who's got absolutely no room to relax. ...Not that I should talk. 
-
+Você luta como alguém que nunca tem tempo para relaxar. ...Mas quem sou eu para falar isso?
 
 #v0748How am I supposed to relax when I'm in a fight I can't afford to lose? 
-
+Como eu poderia relaxar quando estou em uma luta na qual não posso perder?
 
 #v0749This is the truth. ...Though, even if I say that, I doubt you'll believe me, Ange-sama. 
-
+Essa é a verdade. ...Embora, mesmo que eu diga isso, eu duvido que você acredite, Ange-sama.
 
 #v0476Sorry. I'll understand and interpret the truth on my own. I don't need anyone forcing it on me. 
-
+Desculpa. Eu irei compreender e interpretar a verdade por contra própria. Não preciso de ninguém tentando forçá-la em mim.
 
 #v0477Not bad. Were you basically an Ushiromiya Family bodyguard or something? 
-
+Não foi ruim. Você é o guarda-costas da família Ushiromiya ou algo assim?
 
 #v0750Yes. I am furniture, born for the sole purpose of protecting the Master alone... 
-
+Sim, eu sou uma mobília. Nascido unicamente para proteger o Mestre...
 
 #v1525Kanon-kun, you're strong, so couldn't you hold back just a little...? 
-
+Kanon-kun, você é muito forte, então será que dá para se segurar um pouco...?
 
 #v0751...Holding back is something I do after I've won. I'm still immature, after all. 
-
+...Se segurar é algo que faço depois que venci. No fim, ainda sou imaturo.
 
 #v0752Whenever I fight, it feels like I'm shaving off bits of my life. That's the price of victory. 
-
+Sempre que luto, é como se eu estivesse raspando pedaços da minha vida. Esse é o preço da vitória.
 
 #v1526You should relax a bit more. You fight in a way that relies on your youth. 
-
+Você deveria relaxar um pouco mais. Você luta de forma que depende muito da sua juventude.
 
 #v1527Kanon-kun, you really do give it your all. I can just tell by seeing you fight. 
-
+Kanon-kun, você dá mesmo tudo de si. Dá para perceber vendo a forma como luta.
 
 #v0753...I can't win without giving it my all. That's all there is to it. 
-
+...Eu não consigo vencer sem dar tudo de mim. É tudo o que posso fazer.
 
 #v1075You have both fangs and horns. Your growth is not to be underestimated. 
-
+Você tem tanto persas e chifres. O seu crescimento não pode ser subestimado.
 
 #v0754I'm not furniture anymore. I'm not a kid anymore! I won't let anyone underestimate me! 
-
+Eu não sou mais uma mobília. Eu não sou mais criança! Não deixarei que me subestime!
 
 #v0755I still can't do it... How can I fight like you, Ronove-sama? 
-
+Ainda não sou capaz de fazer isso... Como eu posso lutar igual a você, Ronove-sama?
 
 #v1076Tea and coffee each have their respective charms. That's all there is to it. 
-
+Chá e café possuem os seus respectivos charmes. É tudo o que posso dizer.
 
 #v1077Float like a butterfly, sting like a bee. It's as if those words were made for you. 
-
+Flutue como uma borboleta, pique como uma abelha. É como se essas palavras tivessem sido feitas para você.
 
 #v0756Both butterflies and bees are weak... I want to become a lone wolf or a falcon. 
-
+Tanto borboletas quanto abelhas são fracas... Eu quero me tornar um lobo solitário ou um falcão.
 
 #v0175It looks like you really have been reborn. Now that you know how the fruit of love tastes...! 
-
+Parece que você realmente renasceu. Agora que sabe o sabor da fruta do amor...!
 
 #v0757All I've learned is my own way of living. There's no other reason for how I've changed! 
-
+Tudo o que aprendi é o meu próprio jeito de viver. Não há outro motivo para eu ter mudado!
 
 #v0758Don't get the wrong idea. I'm not fighting for your sake. 
-
+Não confunda as coisas. Eu não estou lutando por você.
 
 #v0176Wrong! You're fighting for the sake of easing my boredom! *cackle*cackle*! 
-
+Errado! Você está lutando para acabar com o meu tédio! *gargalhada*gargalhada*!
 
 #v0177What's wrong? They're still breathing. Keep fighting for my sake! 
-
+Qual o problema? Eles ainda estão respirando. Continuo pelo meu bem!
 
 #v0759I'm fighting for my own goals! I'll never take your orders! 
-
+Estou lutando pelos meus próprios objetivos! Nunca acatarei as suas ordens!
 
 #v0925How much time are you planning to take on a foe like this? This is so boring, you've got me yawning. 
-
+Por quanto tempo mais pretende lutar com inimigos como esse? É tão chato que está me fazendo bocejar.
 
 #v0760Yawning is your only role here. That's all there is to it. 
-
+Bocejar é seu único papel aqui. É tudo o que resta.
 
 #v0761I don't underestimate my opponents. Lucifer of Pride? What a stupid name... 
-
+Eu não subestimo os meus oponentes. Lucifer, do Orgulho? Que nome idiota...
 
 #v0926H-How rude! And this coming from the famously weak Kanon (lol)-kun?! 
-
+I-Isso foi rude! E ainda por cima isso vem do famoso fracote Kanon (lol)-kun?!
 
 #v0927Well, I guess I'd call that a passing score. *giggle*! Would you like a candy as a reward? 
-
+Bem, acho que é uma nota passável. *risos*! Quer um doce como recompensa?
 
 #v0762It's all thanks to you not slowing me down. I'd say you're the one who deserves a candy. 
-
+Foi tudo porque você não me atrapalhou. Eu diria que é você quem merece um doce.
 
 #v1225You've grown strong. I can't believe that, not long ago, you were just a kid who hid behind me all the time... 
-
+Você ficou mais forte. É difícil acreditar que, não muito tempo atrás, você era só uma criança que se escondida atrás de mim o tempo todo...
 
 #v0763I-I don't remember anything that happened that long ago! ...That was a cheap shot, Nee-san! 
-
+E-Eu não lembro de nada que aconteceu há tanto tempo! ...Isso foi golpe baixo, nee-san!
 
 #v0764See, I was more than enough. Don't force yourself to stand out in front anymore, Nee-san. 
-
+Viu? Eu fui mais do que suficiente. Não exija mais tanto de si ficando na minha frente, nee-san.
 
 #v1226*giggle* You're right, Kanon-kun. I wish I could show this to the old Kanon-kun. 
-
+*risos* Você está certo, Kanon-kun. Eu queria poder ter mostrado isso para o velho Kanon-kun.
 
 #v1227Th-Thank you... Don't worry about my wound. It's stopped bleeding. 
-
+O-Obrigada... Não se preocupe com as minhas feridas. Já pararam de sangrar.
 
 #v0765Come on, let me see it. ...You're a klutz, so you've always got me worried, Nee-san. 
-
+Anda, deixa eu ver isso. ...Você é sempre desastrada, por isso acaba me preocupando, nee-san.
 
 #v0766This is unpleasant. Even if we did win. 
-
+É desagradável, mesmo vencendo.
 
 #v0767I imagine that no one can understand this feeling. ...No one, except myself. 
-
+Imagino que ninguém consiga entender esse sentimento. ...Ninguém além de mim.
 
 #v0768Even if I win with this cursed power, ...my heart won't be satisfied. 
 
@@ -12850,10 +12850,10 @@ Ainda não! Está começando a ficar divertido!
 Um coelho esperto esconde suas orelhas, nyeh! Nihinihi!
 
 #v0482But you aren't. You definitely aren't. 
-
+Mas você não é. Definitivamente não é.
 
 #v0483Isn't that uniform embarrassing? I'd be embarrassed. Yep. 
-Esse uniforme não é embaraçosso? Eu ficaria com vergonha. Sem dúvida.
+Esse uniforme não é embaraçosos? Eu ficaria com vergonha. Sem dúvida.
 
 #v1356This is the uniform we're all proud of, proof that we've withstood the strictest training nyeh! Ahem nyeh! 
 Este é o uniforme da qual nos orgulhamos, uma prova de que superamos um treinamento rigoroso, nyeh! Ahem, nyeh!
@@ -12883,25 +12883,25 @@ Quando um bando de coelhos se juntam, nós começamos a pressionar por um melhor
 Eu te amo, Ronove, nyeh! Vamos tomar um chá de cenoura também, nyeh!
 
 #v1361Mission Complete, Perfect Execution! I request a reward from Ronove-sama nyeh! 
-
+Missão Completa, Execução Perfeita! Requisitando uma recompensa do Ronove-sama, nyeh!
 
 #v1082Yes, yes, I understand. Come on, wash your hands. 
-
+Si, sim, eu entendo. Agora anda e lave suas mãos.
 
 #v1083You're quite a convenient partner to have. With both weapons and scissors, it's all in how you handle them. Pu ku ku. 
-
+Você é um parceiro bem conveniente. Sejam armas ou tesouras, tudo depende de como as usas. Pu ku ku.
 
 #v1362Ronove-sama! I fought so hard nyeh! Gimme a reward nyeeh! 
-
+Ronove-sama! Eu dei tudo de mim, nyeh! Me dê uma recompensa, nyeeh!
 
 #v0181That's a soldier from Pendragon's Imperial Guards for you! I can't believe you didn't even give me a chance to get involved! 
-
+Como esperado de um soldado da Guarda Imperial do Pendragon! Nem acredito que você sequer me deu a chance de participar!
 
 #v1363Nihihi! I like stealing people's time to shine more than anything but carrots nyeh! 
 Nihihi! Eu gosto de roubar os holofotes das pessoas mais do que tudo, exceto cenouras, nyeh!
 
 #v1364Battle Complete nyeh. Performing Automatic Updates. Please restart me within 3 minutes nyeh. Click click. 
-Batalha completa, nyeh. Performando Atualizações Automáticas. Por favor, reinicie-me dentro de 3 minutps, nyeh. Click click.
+Batalha completa, nyeh. Performando Atualizações Automáticas. Por favor, reinicie-me dentro de 3 minutos, nyeh. Click click.
 
 #v0182You're incredibly reliable as a weapon, but do you really have to automatically update and restart all on your own?! 
 
