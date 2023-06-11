@@ -12478,7 +12478,7 @@ Milagres nunca acontecem, não importa o quanto deseje por eles. Essa é a bruta
 Se deseja me derrotar enquanto trabalho para a Bruxa dos Milagres, ...é melhor começar a rezar por um.
 
 #v5910As long as I don't feel like watching Kanon die. I'll give you my power. 
-Desde que não
+Desde que não tenha que ver o Kanon morrer. Eu emprestarei meu poder a você.
 
 #v4892You want to become Human? I guess you've got stupid dreams too. 
 Quer se tornar humano? Parece que você também tem sonhos idiotas.
@@ -12601,163 +12601,163 @@ Faça isso aqui! Esmague-os! Dilacere-os! E os traga à vida novamente!
 EVA-sama! Me deixa goivar eles também! Eu implooooro!
 
 #v0930How...brutal... Even one of the Seven Sisters of Purgatory like me...can't stop shivering! 
-
+Quão...brutal... Nem mesmo eu, que sou uma das Sete Irmãs do Purgatório...consigo parar de tremer!
 
 #v0615Come on, don't overreact. It's just starting to get interesting. See?! 
-
+Qual foi, não exagere. Só está começando a ficar interessante. Viu só?!
 
 #v1228Are you saying that brutality is the source of magic...? This...isn't magic. 
-
+Está dizendo que essa brutalidade é a fonte da magia...? Isso...não é magia.
 
 #v0616Did you say something? I was so focused on playing with those corpses, I didn't hear you. 
-
+Disse alguma coisa? Eu estava tão ocupada brincando com esses cadáveres que nem ouvi.
 
 #v0617What do you think you're doing? Don't tell me you plan to get in my way. 
-
+O que acha que está fazendo? Não vai dizer que pretende ficar no meu caminho?
 
 #v1229W-We've already won...! Let's go. Please, spare them! 
-
+N-Nós já vencemos...! Vamos, por favor. Poupe eles!
 
 #v0618Hehehehehhyahyahyah! Ihihihihihihihi!!
 Hehehehehhyahyahyah! Ihihihihihihihi!! 
 
 #v1230...How...gruesome...! Please, ...just...stop...! 
-
+...É tão...grotesco...! Por favor, ...só...pare...!
 
 #v0778Curse the gods...! What am I doing with a witch as brutal as this one...?! 
-
+Meu Deus...! O que estou fazendo com uma bruxa brutal dessas...?!
 
 #v0619Kanon-kuuun? Did you know that the trick to talking behind someone's back is not letting them hear you? 
-
+Kanon-kuuun? Sabia que o truque para falar pelas costas das pessoas e não deixar que elas te ouçam?
 
 #v0620This power is wonderful! Aha, ahahahaha! The whole world looks so different now! 
-
+Esse poder é maravilhoso! Aha, ahahahaha! O mundo parece completamente diferente agora!
 
 #v0779What part of that cursed power seems good to her? I just can't understand...! 
-
+Qual parte deste poder amaldiçoado parece bom pra ela? Eu não consigo entender...!
 
 #v0780We won... So what's with this helpless feeling...? 
-
+Nós vencemos... Mas então o que é esse sentimento de desamparo...?
 
 #v0621What's with that look on your face? You were able to win because I was with you. Thank me! 
-
+Qual é a desse olhar na sua cara? Você venceu porque estava comigo. Me agradeça!
 
 #v0622Come on, let's play! You kill them seven times, I'll kill them seven times, for 14 times total! 
-
+Anda, vamos brincar! Você os mata sete vezes, eu os mato sete vezes, 14 no total!
 
 #v062314 is a pretty half-assed number, isn't it? Let's make it an even 20!! 
-
+14 é um número meia-boca, não acha? Vamos transformar em 20!!
 
 #v0624Go ahead, be scared. We're about to show you the worst possible hell! 
-
+À vontade para ficarem apavorados. Estamos prestes a mostrar a vocês o pior inferno possível!
 
 #v0625Yeah, it must really be scary! To get tortured to death by two of me at once!! 
-
+Sim, deve ser mesmo assustador! Ser torturado até a morte por duas de mim!!
 
 #v0626There's no point biting your tongue now. We can bring you back to life endlessly! 
-
+Não adianta nada morder a língua. Podemos trazê-los de volta à vida infinitamente!
 
 #v0627So, we'll keep killing you endlessly too! That's what an endless hell is!! 
-
+Por isso, vamos continuar matando vocês infinitamente! Esse é o inferno infinito!
 
 #v1348I've seen many witches, ...but it's been a long time since I've seen one this terrifying nyeh. 
-
+Eu já vi muitas bruxas, ...mas é a primeira vez em muito tempo que encontro uma tão terrível, nyeh.
 
 #v0628Doesn't that mean you're seeing a real witch for the first time? 
-
+Será que não seria a primeira vez que encontra uma bruxa de verdade?
 
 #v0629I'll keep on playing for a while, so you look for a new sacrifice, okay? 
-
+Continuarei brincando por ora, então procure por novos sacrifícios, tá?
 
 #v1349Roger that nyeh! ...What a terrifying person nyeh. There's no end to her brutality nyeh...! 
-
+Entendido, nyeh! ...Que pessoa mais terrível, nyeh. A brutalidade dela não tem limites, nyeh...!
 
 #v1350EVA-sama, that's the seventh time nyeh. What should we do now nyeh? 
-
+EVA-sama, com essa foram sete, nyeh. O que devemos fazer agora, nyeh?
 
 #v0630Okay, the next time I kill them, I'll finish this. It's important to have limits on all things, right? 
-
+Certo, na próxima vez que eu os matar, darei o golpe final. É importante ter limites para tudo, não é mesmo?
 
 #v2631George, this is how it's done. I'm still plenty young, after all! 
-
+É assim que se faz, George. Eu ainda sou bem jovem, afinal!
 
 #v2757Incredible... I still don't think I could win in a fight against you, Mother. 
-
+Inacreditável... Eu ainda não acho que seria capaz de derrotá-la, mãe.
 
 #v2632Just you try to lay a finger on George. Next time, ending up as mincemeat will be the least of your problems! 
-
+Experimente colocar um dedo no George. Na próxima, virar guisado vai ser o último dos seus problemas!
 
 #v2758Mother, I'm an adult too. It's embarrassing when you're so overprotective... 
-
+Mãe, eu também sou adulto. Eu fico com vergonha quando você é muito superprotetiva...
 
 #v2759Maybe I shouldn't have joined forces with you, Mother. We're a bit too strong together. 
-
+Talvez eu não devesse ter me aliado a você, mãe. Somo fortes demais juntos.
 
 #v2633We're the best parent-child combo in the family! No one can beat us! 
-
+Somos a melhor dupla mãe e criança da família! Ninguém pode nos derrotar!
 
 #v2628Not bad! You've gotten really resilient yourself, Jessica-chan. 
-
+Nada mal! Você se tornou bem resiliente, Jessica-chan.
 
 #v2952Eheheheh! But please, keep this a secret from Dad and Mom... 
-
+Eheheheh! Mas, por favor, mantenha isso em secrego dos meus pais...
 
 #v2629Ushiromiya women aren't weak! Now do you understand? 
-
+As mulheres da família Ushiromiya não são fracas! Entendeu agora!
 
 #v2953If you haven't had enough, I'll give you a taste of my punch next time! 
-
+Se ainda não teve o bastante, na próxima vou deixar experimentar o gosto do meu soco!
 
 #v2954Your magic's great, Aunt Eva! Do you think I could use it too...?! 
-
+Sua magia é ótima, tia Eva! Acha que eu também consigo usar...?!
 
 #v2630Solve the riddle of the epitaph. If you do, you can be a witch like me, Jessica-chan. 
-
+Resolva o enigma do epitáfio. Se conseguir, poderá ser uma bruxa igual a mim, Jessica-chan.
 
 #v2634It's been so long since we've played, Rosa! Let's run wild for a bit longer! 
-
+Já faz tempo desde a última vez que brincamos, Rosa! Vamos continuar essa selvageria por mais tempo!
 
 #v3282W-Wait, hold on, Nee-san...! Sheesh, even your heart has gotten younger. 
-
+E-Espera, nee-san...! Tch, até o seu coração rejuvenesceu.
 
 #v2635That's a scary thing you've pulled out... Don't point it at me, okay? 
-
+Essa coisa assustadora que você puxou aí... Não aponte ela pra mim, tá?
 
 #v3283I don't want to. So help me out, Nee-san. 
-
+Eu também não quero, então me ajude, nee-san.
 
 #v3284Nee-san, even if you've gotten younger, that dress is...a little... 
-
+Nee-san, mesmo que tinha ficado mais jovem, esse vestido...é um pouco...
 
 #v2636U-Umm...! I'm the Golden Witch, Beatrice! I'm not Eva! 
-
+H-Hmm...! Eu sou a Bruxa Dourada, BEATRICE! Não sou a Eva!
 
 #v4479Is it already over? I haven't played nearly enough. 
-
+Já acabou? Nem deu para brincar direito.
 
 #v4307It's just about to start getting fun. I'll crush you until your heart's been thoroughly ground to dust! 
-
+Só está começando a ficar divertido. Vou te esmagar até que o seu coração seja reduzido à pó!
 
 #v4480But you know, my master does give some whimsical orders. 
-
+Mas sabia que a minha mentora costuma dar algumas ordens por puro capricho?
 
 #v4308Now listen closely, comrade EVA. Only I get to call her 'my master'! 
-
+Agora ouça com atenção, confrade EVA. Apeas eu posso chamá-la de 'minha mentora'!
 
 #v4309Comrade EVA, how long are you going to toy with them? You really never get bored. 
 Confrade EVA, até quando vai brincar com eles? Você nunca fica entediada mesmo.
 
 #v4481But this is so much fun! I see your brutality still has a long way to go. 
-
+Mas isso é muito divertido! Vejo que a sua brutalidade ainda tem muito a se desenvolver.
 
 #v4482What's with that look? Don't tell me you're gonna say I've gone too far. 
-
+Qual é a desse olhar? Não vai me dizer que eu passei dos limites, vai?
 
 #v3955I'm glad we understand each OTHER. In that case, how about leaving it at THAT? 
-
+Eu fico feliz que podemos nos ENTENDER. Neste caso, que tal deixar como ESTÁ?
 
 #v4483I'll protect it until the end! Even if I die, ...I'll defend this cat box! 
-
+Eu irei protegê-la até o fim! Mesmo que eu morra, ...irei defender esta caixa de gato!
 
 #v3956I may not be of much use, ...but allow me to assist YOU. 
 Eu posso não ser de muito uso, ...mas permita-em auxiliar VOCÊ.
@@ -12769,82 +12769,82 @@ Como ESPERADO. O nome de Bruxa Dourada não é apenas para se EXIVBIR.
 É claro que não. Eu sou BEATRICE! Só estou começando!
 
 #v4485By the way, going back to what we were talking about... Do you have any interest in lending your skills to our company?! 
-
+A propósito, voltando para o que estávamos falando antes... Você tem algum interesse em emprestar suas habilidades à nossa companhia?!
 
 #v5559That depends on your conditions. ...I don't come cheap. 
-
+Vai depender das suas condições. ...Eu não sou barata.
 
 #v4486You're a handsome man. I'll bet the ladies can't keep their hands off you. 
-
+Você é bonitão. Aposto que a mulherada não desgruda de você.
 
 #v5560I've got a selfish princess waiting at home. I've got no time to spend on anyone else. 
-
+Eu já tenho uma princesa egoísta esperando por mim em casa. Não tenho tempo para mais ninguém.
 
 #v5561Enough. ...If you haven't had your fill yet, I'll take you on next. 
-
+Basta. ...Se ainda não está satisfeita, eu vou enfrentá-la agora.
 
 #v4487Oh, what a tantalizing proposal. But I think I'll pass today. Heheheh... 
-
+Oh, mas que proposta interessante, mas acho que vou dispensar. Heheheh...
 
 #v4488Not yet! It's just starting to get fun! 
 Ainda não! Está começando a ficar divertido!
 
 #v5911*giggle* You're right... We'd better turn them into mincemeat bit by bit now. 
-
+*risos* Tem razão... É melhor transformá-los em guisado aos poucos.
 
 #v4489That's right, you can't make a delicious hamburger without delicious shredded meat! 
-
+Isso mesmo, não tem como fazer um bom hambúrguer sem deliciosas pedaços de carne!
 
 #v5912We've got fresh ingredients right here. Heheheh, this should be fun. 
-
+Temos ingredientes frescos bem aqui. Heheheh, isso vai ser divertido.
 
 #v5913You really are a hoot. I was right to choose you as my piece. 
-
+Você é mesmo divertida. Eu estava certa em escolhê-la minha peça.
 
 #v4490Isn't that right, my master? I'm much more fun than that Erika person. 
-
+Não é mesmo, minha mentora? Eu sou muito mais divertida que aquela tal de Erika.
 
 #v4491And so, I won't let anyone see the cat box, not even you, so don't take it personally. 
-
+E por isso, eu não deixarei que ninguém veja a caixa, nem mesmo você; não leve para o lado pessoal.
 
 #v4895Don't worry, I won't open it that easily. When I eat cake, I like saving the strawberry for last! 
-
+Não se preocupe, eu não irei abria facilmente. Quando como um bolo, gosto de deixar o morango por último!
 
 #v4492I have the certain willpower to become the Ushiromiya Family Head and obtain the gold! 
-
+Eu tenho a força de vontade absoluta necessária para me tornar a chefe da família Ushiromita e obter o ouro!
 
 #v4896That's not bad for guts. As long as that certain willpower of yours doesn't waver, I'll give you my support. 
-
+Não é uma disposição ruim. Contanto que esse sua força de vontade absoluta não vacile, eu irei emprestar o meu poder.
 
 #v4897You're kind of like how I once was, long, long ago. I'm actually pretty fond of desperate kids like you. 
-
+Você é parecia a como eu era, há muito, muito tempo atrás. Eu tenho muita afeição por crianças desesperadas como você.
 
 #v4493I'm honored. Yes, I'm always desperate. Because I'll certainly make all my dreams come true! 
-
+Eu fico honrada. Sim, estou sempre desesperada porque eu certamente realizarei meus sonhos!
 
 #v0331A Golden Bow that'll certainly never miss the prey you aim it at. That's pretty awesome. 
-
+Um Arco Dourado que certamente nunca era a presa na qual está mirando. Isso é bem incrível.
 
 #v1351It's harder to use than you'd think nyeh! There's no way you'd be able to use it nyeh! 
-
+É mais difícil de usar do que imagina, nyeh! Você nunca conseguira, nyeh!
 
 #v1352Close-range fighting is fun every now and then nyeh! I'm tired of sniping nyeh. 
-
+Combates à curta distância também são bem divertidos, nyeh! Já cansei de ficar mirando, nyeh.
 
 #v0332So, you've got no weak points at long or short range. Dang, you're scary...! 
-
+Então você não tem pontos fracos a curta ou longa distância. Droga, isso é assustador...!
 
 #v0333Hey, are those ears for real? Mind if I touch them a bit? 
-
+Ei, essas orelhas são de verdade? Se importa se eu tocá-las?
 
 #v1353Nyeh?! Not the ears nyeh, don't touch them nyeh, you beast nyeh!! 
-
+Nyeh?! As orelhas não, nyeh; não toque nelas, nyeh, sua besta, nyeh!
 
 #v0481I remember playing with you and the others. But I didn't know you had such power. 
-
+Eu lembro de brincar com você e as outras, mas não sabia que tinha tanto poder.
 
 #v1354There was no need to show this power when on 'playing house' duty nyeh. Nihi! 
-
+Não é necessário mostrar este poder quando estamos encarregadas de 'brincar de casinha', nyeh. Nihi!
 
 #v1355A smart rabbit hides her ears nyeh! Nihinihi! 
 Um coelho esperto esconde suas orelhas, nyeh! Nihinihi!
@@ -12904,133 +12904,133 @@ Nihihi! Eu gosto de roubar os holofotes das pessoas mais do que tudo, exceto cen
 Batalha completa, nyeh. Performando Atualizações Automáticas. Por favor, reinicie-me dentro de 3 minutos, nyeh. Click click.
 
 #v0182You're incredibly reliable as a weapon, but do you really have to automatically update and restart all on your own?! 
-
+Você é incrivelmente confiável como arma, mas precisa mesmo atualizar automaticamente e resetar sozinha?!
 
 #v0183I did tell you I'd give you a carrot! But I didn't tell you when or where! 
-
+Eu disse que te daria uma cenoura! Mas não disse quando ou onde!
 
 #v1365Nyeeh?! That's too cruel nyeeh! Beato-sama, you liaaaar! 
-
+Nyeeh?! Isso é cruel, nyeeh! Beato-sama, sua mentirosaaaa!
 
 #v1366That's enough playing battle nyeh. Now I'm gonna play with Lucifer-chan instead nyeeeh! 
-
+Já chega de brincar de lutar, nyeh. Agora vou brincar com a Lucifer-chan, nyeeeh!
 
 #v0931H-Hey, stop that! Quit messing around...! Ah! 
-
+E-Ei, para com isso! Chega de ficar bagunçando...! Ah!
 
 #v1367When this fight is over, I'm gonna start a carrot farm nyeh! 
-
+Quando essa luta terminar, vou abrir uma fazenda de cenouras, nyeh!
 
 #v0932D-Dumbass, that's what they call a loser flag! Stop it! 
-
+I-Imbecil! Isso é o que chamam de loser flag! Pare com isso!
 
 #v1368Carrots are the secret to strength nyeh! Eating three meals of carrots a day gives you a power up nyeh! 
-
+Cenouras são o segredo da força, neyh! Comer três refeições de cenoura por dia aumenta sua força, nyeh!
 
 #v0933Huh? Really...? M-Maybe I'll give that a try, without telling my sisters... 
-
+Hã? Mesmo...? T-Talvez eu deva experimentar, sem dizer nada para as minhas irmãs...
 
 #v1231There's a strange freshness to the way you fight. 
-
+Há um estranho frescor na maneira como você luta.
 
 #v1369That's what happens when you don't hurt yourself or your opponent. That's what 556 said nyeh. 
-
+É isso o que acontece quando você não se fere nem fere seu adversário. Foi o que a 556 disse, nyeh.
 
 #v1370After running wild for a bit, I'm starving nyeh! Do you wanna eat too, Shannon-kun nyeh? 
-
+Depois de ficar desenfreada por um tempo, comecei a ficar com fome, nyeh! Quer comer também, Shannon-kun, nyeh?
 
 #v1232You mean, whole carrots...? B-But if we don't cook them, that's a bit...! 
-
+Fala de comer cenouras...? M-Mas se não cozinharmos primeiro, elas ficam meio...!
 
 #v1233What a cheery kid. You almost make me feel like we're playing around... 
-
+Mas que criança animada. Você quase faz eu sentir como se estivéssemos brincando...
 
 #v1371Carrots come to those who laugh nyeh! I love that phrase nyeh! Nihi! 
-
+Cenouras vêm para aqueles que riem, nyeh! Eu amo essa frase, nyeh! Nihi!
 
 #v0781That way you move, as if your opponent is your plaything. ...I might be able to make use of that. 
-
+A forma como se move, como se o oponente fosse o seu brinquedo. ...Talvez eu possa fazer uso disso.
 
 #v1372Learning from the strengths of others is a good practice for a warrior to have nyeh! Nyeh! 
-
+Apender com a força dos outros é uma boa prática que um guerreiro precisa ter, nyeh! Nyeh!
 
 #v1373So, that's another way you can fight nyeh. Did you learn anything from that nyeh? 
-
+Então, essa é outra maneira de vencer uma luta, nyeh. Aprendeu algo com isso, nyeh?
 
 #v0782D-Dammit... So, she realized that I was trying to steal her moves...! 
-
+M-Merda... Então, ela percebeu que eu estava tentando roubar seus movimentos...!
 
 #v0783What an agile person... But I'm faster when it comes to pure speed...! 
-
+Que pessoa mais ágil... Mas eu sou mais rápida quando se trata de pura velocidade...!
 
 #v1374Wanna put that to the test nyeh? Let's have a race nyeh! And...start! 
-
+Quer testar então, nyeh? Vamos disputar uma corrida, neyh! E...começou!
 
 #v0631Good work, 410! I'll give you a carrot, so back off! 
-
+Bom trabalho, 410! Vou te dar uma cenoura, então afaste-se!
 
 #v1375It's carrot time for me! And atrocity time for EVA-sama! Nihihihi! 
-
+Hora da minha cenoura! E um momento atroz para a EVA-sama! Nihihihi! 
 
 #v1376There! Sorry to keep you waiting nyeh! Here's some fresh-caught prey nyeeh! 
-
+Toma! Desculpa deixar você esperando, nyeh! Aqui uma presa que acabei de capturar, nyeh!
 
 #v0632*giggle* You really are talented. A hunting rabbit, instead of a hunting dog! 
-
+*risos* Você é mesmo talentosa. Em vez de um cão de caça, um coelho de caça!
 
 #v0633Is everyone in the Chiester Sisters Imperial Guards like you...? 
-
+Todas na Guarda Imperial das Irmãs Chiester são como você...?
 
 #v1377There's all kinds, like cowards, stiff ones with eye patches, and some that beat up nerds nyeh! 
-
+Tem de todo tipo, covardes, duronas com tapa-olho e umas que batem em nerds, nyeh!
 
 #v1378Oooh! We're pretty strong when you use a cheat tool to make duplicate 410s nyeh! 
-
+Oooh! Somos muito fortes quando se usa uma ferramenta de trapaça para fazer cópias da 410, nyeh!
 
 #v1379I'm sure it'll get patched in the next release nyeh! Better enjoy it while we can nyeh...! 
-
+Tenho certeza que será corrigido no próximo lançamento, nyeh! É melhor a aproveitarmos enquanto podemos, nyeh...!
 
 #v1380I struck the final blow nyeh! So the carrots go to me nyeh! 
-
+Acerte o último golpe, nyeh! Logo as cenouras são minhas, nyeh!
 
 #v1381Ukyuu! It's a waste to steal carrots from myself nyeh! 
-
+Ukyuu! É uma pena roubar cenouras de mim mesma, nyeh!
 
 #v1382Chiester 410, right here! I came here from Educational Software nyeh! 
-
+Chiester 410, bem aqui! Eu vi de um Software Educacional, nyeh!
 
 #v1383Chiester 410, right here! I came here bit by bit through a P2P network nyeh! 
-
+Chiester 410, bem aqui! Eu vim pedaço a pedaço através de uma conexão P2P, nyeh!
 
 #v3441Mission Complete! I demand an ultra-grade carrot as a reward nyeh. 
-
+Missão Completa! Eu demando uma cenoura de alta qualidade como recompensa, nyeh.
 
 #v2760To move like that because of a single carrot. What terrifying cost efficiency. 
-
+Ela se move dessa maneira por uma única cenoura. É um baita custo-benefício.
 
 #v2761Good work. What would you like as a reward for working so hard? 
-
+Bom trabalho. O que gostaria de ganhar como recompensa pelo trabalho árduo?
 
 #v3442An ultra-grade carrot, of course nyeh! I can't get enough...of that sweetness and hardness nyeh! 
-
+Uma cenoura de alta qualidade, é claro, nyeh! Nunca me canso...de sua doçura e dureza, nyeh!
 
 #v2762I think maids are great too, but a uniform like yours has its own attractions. 
-
+Eu acho empregadas ótimas, mas um uniforme como o seu tem seu próprio charme.
 
 #v3443As expected nyeh! It's impressive that you understand what makes this uniform so great nyeh! 
-
+Como esperado, nyeh! É impressionante que você compreenda o que faz este uniforme ser tão bom, nyeh!
 
 #v3438I worked hard nyeh! I demand a fitting reward nyeh! 
-
+Eu trabalhei duro, nyeh! Exijo uma recompensa à altura, nyeh!
 
 #v2955Leave it to me! I'll have Gohda-san get you some ultra-grade carrots! 
-
+Deixe comigo! Farei com que o Gohda-san consiga cenouras de alta qualidade!
 
 #v3439Eeep! Your punch looks like it'd hurt a lot, Jessica-chan nyeh...! 
-
+Eeep! Seu soco parece doer bastante, Jessica-chan, nyeh...!
 
 #v2956I'm kind to my friends, but show no mercy to those who stand in my way! 
-
+Eu sou gentil com meus amigos, mas não demonstro pena por aqueles que ficam no meu caminho!
 
 #v2957A-A-About those clothes. Would you mind telling me what brand they are...? Hahah. 
 S-Sobre essas roupas. Poderia me dizer de qual marca elas são...? Hahah.
@@ -13045,70 +13045,70 @@ Estamos no mesmo time hoje, ...mas um dia eu irei vingar a 556, nyeh.
 Hã? O que foi? ...Eu não acho que essa criança gosta de mim.
 
 #v3445That's Lady MARIA's mother for you nyeh. I never would've expected such strength from a Human nyeh...! 
-
+Como esperado da mãe da Lady MARIA, nyeh. Eu nunca esperaria tamanha força vindo de um humano, nyeh...!
 
 #v3286If it'll protect what's important to me, I'll give up on being Human any time you like. 
-
+Protegerei o que me é importante; abrirei mão se ser humana quando você quiser.
 
 #v3287Those ears... I get the feeling I've seen you before somewhere... Hmm, where could it have been? 
-
+Esses orelhas... Tenho a sensação de que já as vi em algum lugar... Hmm, onde será?
 
 #v3446Y-You've got the wrong man...I mean, rabbit nyeh! There's no way we've ever met before nyeh. 
-
+P-Pegou o cara errado...digo, coelho, nyeh! Não tem como termos nos encontrado antes, nyeh.
 
 #v5379Now it's starting to get good nyeh! Let's embroider them up all pretty nyeh! 
-
+Agora está começando a ficar bom, neyh! Vamos bordá-los bem bonitos, nyeh1
 
 #v4310That sounds fun. A deep red fabric with golden stitching...! Just thinking about it excites me. 
-
+Parece divertido. Um tecido de vermelho profundo com costura em ouro...! Fico empolgada só de imaginar.
 
 #v5380I'll sew up the dangerous holes in your reasoning with this Golden Bow nyeh. 
-
+Vou costurar esses furos perigosos em seu raciocínio com este Arco Dourado, nyeh.
 
 #v4311How rude! My reasoning is always perfect!! It has no holes! 
-
+Que rude! Meu raciocínio é sempre perfeito! Não tem furos!
 
 #v4312Good work. You can step back now. I'll give you a carrot-flavored candy later. 
-
+Bom trabalho. Pode recuar agora. Mais tarde de te dou um doce sabor cenoura.
 
 #v5381Only getting a single candy after being worked so hard... It's not worth it nyeeh! 
-
+Um único doce depois de suar tanto... Não vale a pena, nyeeh!
 
 #v5382As a reward for our victory, I'll give you a carrot I've been saving nyeh! 
-
+Como recompensa pela nossa vitória, vou te dar uma cenoura que eu estava guardando, nyeh!
 
 #v3958Allow me to PASS. ...I don't like CARROTS. NO, NO, NO. 
 Permita-me RECUSAR. ...Eu não gosto de CENOURAS. NÃO, NÃO, NÃO.
 
 #v5383When you've got a stiff boss, even giving your 'mission completed' report is a pain nyeh. 
-
+Quando se tem um chefe rígido, até mesmo o relatório de 'missão cumprida' é cansativo, nyeh. 
 
 #v3959I know how you FEEL. It is also a pain when your subordinates are too SERIOUS. 
-
+Eu sei como se SENTE. Também é cansativo quando suas subordinadas são sérias DEMAIS.
 
 #v3960Well DONE. As expected of a weapon in service to Pendragon, the Dragon KING. So, precision sniping is your SPECIALTY. 
-
+Tudo PRONTO. Como esperado de uma arma a serviço do Pendragon, o Rei DRAGÃO. Disparos precisos são a sua ESPECIALIDADE.
 
 #v5384Nihihi! From shooting down a space shuttle, to going on dates, to playing you in an online game, we'll do anything you like! 
-
+Nihihi! Desde abater uma espaço-nave, ir a encontros e jogar jogos online com você, nós faremos qualquer coisa!
 
 #v5562...You've been through some sad and rough times, haven't you? I can tell by how you fight. 
-
+...Você já passou por momentos tristes e difíceis, não passou? É possível ver pela forma como luta.
 
 #v5385I don't know what you're talking about nyeh. If you're sympathizing with me, gimme a carrot nyeh! 
-
+Não sei do que está falando, nyeh. Se vai simpatizar comigo, me dê uma cenoura, nyeh!
 
 #v5563I guess teaming up with a rabbit isn't so bad, now and then. 
-
+Acho que fazer dupla com uma coelha às vezes não é tão ruim.
 
 #v5386Aha! Rabbits are better behaved than cats nyeh! 
-
+Aha! Coelhos são mais comportados do que gatos, nyeh!
 
 #v5564Don't stand up. Haven't you noticed yet that 410 is going easy on you? 
-
+Não se levante. Ainda não percebeu que a 410 está pegando leve com você?
 
 #v5387I'm not going easy on them. I'm just playing nyeh. Nihihihihi! 
-
+Não estou pegando leve com eles. Só estou brincando, nyeh. Nihihihihi!
 
 #v5388Target Silenced! Great Lady Bernkastel, I'm here to report that our mission has been completed nyeh! 
 Alvo Silenciado! Grande Lady BERNKASTEL, eu estou aqui pra informar que a nossa missão foi concluída, nyeh!
@@ -13117,7 +13117,7 @@ Alvo Silenciado! Grande Lady BERNKASTEL, eu estou aqui pra informar que a nossa 
 Muito bem. Como prometido, vamos celebrar com um chá de cenoura.
 
 #v5389From being an ally in battle, to being a cupid of love! I'll do anything for the right reward nyeh! 
-
+Desde um aliado em batalha até ser seu cupido amoroso! Farei qualquer coisa pela recompensa certa, nyeh!
 
 #v5915I see, how comforting. Then, to start with, could you smush the two people lying there together? 
 
