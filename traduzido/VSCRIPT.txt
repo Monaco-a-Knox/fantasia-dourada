@@ -12451,154 +12451,154 @@ Igual a como um leão usa toda a sua força para caçar um coelho?
 ...Derrotarei meu oponente com todas as minhas forças. É assim que demonstro sinceridade.
 
 #v4720I didn't think it was worth wasting your time on this opponent, Willard-sama. Please forgive me. 
-
+Eu não achei que valei a pena perder seu tempo com um oponente desses, Willard-sama. Por favor, me perdoe.
 
 #v5557...Next time, wait until I've finished hearing what they have to say before defeating them. 
-
+...Na próxima, espere até terminar de ouvir o que eles tem a dizer antes do golpe final.
 
 #v5558...By the way, are you a cat person? Or a dog person? 
-
+...A propósito, você é do time dos gatos ou do time dos cachorros?
 
 #v4721D-Don't mock me! I'm furniture! I'm not a dog or a cat! 
-
+N-Não zombe de mim! Sou uma mobília! Eu não sou gato nem cachorro!
 
 #v5908Is that all? ...Your opponents still seem to have their arms and legs. 
-
+Isso é tudo? ...Seus adversários ainda parecem estar com suas pernas e braços.
 
 #v4722...Defeating my opponents is my only job. I won't help you with your brutal hobbies! 
-
+...Derrotar meus adversários é meu único dever. Não irei ajudá-la com seus passatempo brutais!
 
 #v4723So, a witch this brutal controls miracles? It figures that miracles never occur. 
-
+Então, uma bruxa brutal dessas é quem controla os milagres? Isso explica porque milagres nunca acontecem.
 
 #v5909Miracles never happen, no matter how much you wish for them. That's how brutal they are... 
-
+Milagres nunca acontecem, não importa o quanto deseje por eles. Essa é a brutalidade deles...
 
 #v4724If you wish to defeat me when I'm working for the Witch of Miracles, ...you'd better pray for one. 
-
+Se deseja me derrotar enquanto trabalho para a Bruxa dos Milagres, ...é melhor começar a rezar por um.
 
 #v5910As long as I don't feel like watching Kanon die. I'll give you my power. 
-
+Desde que não
 
 #v4892You want to become Human? I guess you've got stupid dreams too. 
-
+Quer se tornar humano? Parece que você também tem sonhos idiotas.
 
 #v4725You wouldn't understand. You don't know what it would mean for the ocean to look blue. 
-
+Você não entenderia. Você não sabe o que significaria para mim o oceano ser azul.
 
 #v4893How about stopping for snacks? I've got chocolate bars and popcorn! 
-
+Que tal uma pausa para comer? Eu tenho barras de chocolate e pipoca!
 
 #v4726...Hmph. That's like something a kid would eat. ...N-No, I don't want any. 
-
+...Hmph. Isso é algo que uma criança comeria. ...E-Eu não quero, mesmo.
 
 #v4727Sleep. ...Stay quiet, and I won't take your life. 
-
+Durma. ...Fique em silêncio, e eu não tomarei sua vida.
 
 #v4894Hey, what are you spouting off cool lines for?! Don't steal my show! 
-
+Ei, porque tá soltando essas frases maneiras?! Não roube o meu show!
 
 #v0328Stop it, Aunt Eva! We've already won! Don't go any further! 
-
+Pare, tia Eva! Nós já vencemos! Não precisa ir além!
 
 #v0598Oh, is that so? Sorry, I didn't even notice! 
-
+Ah, é mesmo? Foi mal, nem tinha percebido!
 
 #v0599See? This is what winning is. Hey, don't look away! 
-
+Viu? É assim que se ganha. Ei, olha pra cá!
 
 #v0329...Y-You're evil... I can't believe it was necessary to go so far...! 
-
+...V-Você é cruel... Não acredito que era necessário ir tão longe...!
 
 #v0330Whew... That's a witch for you. Your power's incredible, Aunt Eva! 
-
+Nossa... Como esperado de uma bruxa. Seu poder é incrível, tia Eva!
 
 #v0600Hey, Battler-kun... ...Umm, uhh, ...could you stop calling me 'aunt'...? 
-
+Ei, Battler-kun... ...Hmm, bem, ...poderia parar de me chamar de 'tia'...?
 
 #v0478I'm amazed you can float around in clothes like that at your age, Aunt Eva. 
-
+Eu fico impressionado que você consiga flutuar por aí com uma roupa dessas na sua idade, tia Eva.
 
 #v0601Hohoho... Ange-chan, can't you show a bit more respect for your elders? 
-
+Hohohoh... Ange-chan, poderia demonstrar um pouco mais de respeito pelos mais velhos?
 
 #v0602This is also part of the truth of October 5, 1986... Can you believe it? 
-
+Isto é parte da verdade do dia 8 de outubro de 1986... Acredita nisso?
 
 #v0479Of course not. Leave the jokes to your outfit. 
-
+É claro que não. Deixe as piadas para as suas roupas.
 
 #v0480What are you scheming, showing me an incomprehensible tale like this? 
-
+O que está tramando, mostrando um conto incompreensível desses?
 
 #v0603It's up to you to decide whether you believe or not. ...By the way, could you stop calling me 'aunt'? 
-
+Cabe a você decidir se acredita ou não. ...A propósito, poderia parar de me chamar de 'tia'?
 
 #v1528Why doesn't anyone use the Endless Magic correctly...? 
-
+Por que ninguém usa a Magia do Infinito da forma correta...?
 
 #v0604Doesn't that mean you're the only one who's wrong? 
-
+Não significa que você é a única que usa errado?
 
 #v0605How was that? Isn't my magic fitting for the Endless Witch? 
-
+O que achou? Minha magina não é apropriada para a Bruxa do Infinito?
 
 #v1529...I don't want to acknowledge it. ...Is this all the result of my sin...? 
-
+...Eu não quero reconhecer isso. ...Tudo isso é resultado do meu pecado...?
 
 #v1530Enough...! An Endless Witch does not hurt the defeated! 
-
+Chega...! Uma Bruxa do Infinito não fere os derrotados!
 
 #v0606Yeah, this has nothing to do with being the Endless Witch. It's to suit my own tastes! Heheheheh! 
-
+Sim, isso não tem nada a ver com ser a Bruxa do Infinito. É para se adequar aos meus gostos! Heheheheh!
 
 #v1078To think that you would wield magic so skillfully... Your talent is fearsome... 
-
+E imaginar que você usaria magia de forma tão habilidosa... Seu talento é assombroso...
 
 #v0607I might already have been a witch while I was in middle school. I'm no amateur. 
-
+Eu já poderia ser uma bruxa desde que estava no fundamental. Não sou amadora.
 
 #v0608Ronove! How is this for a resurrection ceremony? 
-
+Ronove! Está bom para a cerimônia de ressurreição?
 
 #v1079More than enough. ...Or perhaps it would be more accurate to say it's 'too much'... 
-
+É o suficiente. ...Ou talvez seja mais adequado dizer que está 'mais do que'...
 
 #v1080Perhaps you have already done enough. I have some tea ready. 
-
+É possível que já tenha feito o bastante. Eu preparei um chá.
 
 #v0609Ah, that's right! It does get pretty boring when you've already killed the same human seven times! 
-
+Ah, isso mesmo! Fica bem chato quanto você já matou o mesmo humano mais que sete vezes!
 
 #v0178Hohoh, you really do get it! That's what's so great about the Endless Magic! 
-
+Hohoh, você entendeu mesmo! Essa é a melhor parte sobre a Magia do Infinito!
 
 #v0610I never guessed that playing with the boundary between life and death could be so fun! This pleasure is just too much! 
-
+Eu nunca pensei que brincar com os limites da vida e da morte pudesse ser tão divertido! Esse prazer é fenomenal!
 
 #v0611So fun, so fun! I never knew playing with magic could be so fun!! 
-
+É tão divertido, é muito divertido! Nunca pensei que brincar com magia fosse tão divertido!!
 
 #v0179Isn't it? Though, it's not quite so fun for the human sacrifice forced to play along with you! 
-
+Não é? Embora não seja tão divertido para o humano sacrificado que está brincando com você!
 
 #v0180Aah, how terrifying! You do deserve to be welcomed into the family tree of Endless Witches! 
-
+Aah, mas que horror! Você merece ser recebida na família das Bruxas do Infinito!
 
 #v0612Thank you very much, Predecessor-sama! I'll do my best to be more and more brutal! 
-
+Muito obrigada, antecessora! Farei o meu melhor para ser cada vez mais brutal!
 
 #v0928E-EVA-sama...! Please let us gouge the loser too! 
-
+E-EVA-sama...! Por favor, deixe-nos goivar os perdedores!
 
 #v0613Not yet! I'm gonna torture them to death a bunch more first! 
-
+Ainda não! Vou torturá-los até a morte primeiro!
 
 #v0614Do this over here! Crush that! Tear that apart! And bring them back to life again! 
-
+Faça isso aqui! Esmague-os! Dilacere-os! E os traga à vida novamente!
 
 #v0929EVA-sama! Let me gouge them too! I'm begging yoooou! 
-
+EVA-sama! Me deixa goivar eles também! Eu implooooro!
 
 #v0930How...brutal... Even one of the Seven Sisters of Purgatory like me...can't stop shivering! 
 
@@ -12865,19 +12865,19 @@ Você não era ameaçadora assim quando brincava com a Lady MARIA...
 Quando um bando de coelhos se juntam, nós começamos a pressionar por um melhor tratamento e o direito de autodefesa coletivo, nyeh! Nihihi!
 
 #v1358Virgilia-sama, did you see that just now nyeh? Nyeh? Nyeh?! 
-
+VIRGILIA-sama, viu o que eu fiz, nyeh? Nyeh? Nyeh?!
 
 #v1532I saw it. As promised, here are your carrots as a reward... 
-
+Eu vi, sim, E como prometido, aqui estão as suas cenouras...
 
 #v1533A good weapon is able to end a fight without killing. Understand? 
-
+Uma boa arma é capaz de pôr fim a uma luta sem matar? Entendeu?
 
 #v1359I understand nyeh! But you can't tell if a carrot is good without eating it nyeh☆
-
+Eu entendi, nyeh! Mas não tem como dizer se uma cenoura é boma sem prová-la, nyeh☆
 
 #v1081Nicely done. Then, as promised, I'll bake some carrot cookies. 
-
+Muito bem. Então, como prometido, eu irei assar algumas cenouras.
 
 #v1360I love you Ronove nyeh! And let's have some carrot tea too nyeh! 
 Eu te amo, Ronove, nyeh! Vamos tomar um chá de cenoura também, nyeh!
@@ -13114,7 +13114,7 @@ Permita-me RECUSAR. ...Eu não gosto de CENOURAS. NÃO, NÃO, NÃO.
 Alvo Silenciado! Grande Lady BERNKASTEL, eu estou aqui pra informar que a nossa missão foi concluída, nyeh!
 
 #v5914Well done. As promised, let's celebrate with some carrot tea. 
-
+Muito bem. Como prometido, vamos celebrar com um chá de cenoura.
 
 #v5389From being an ally in battle, to being a cupid of love! I'll do anything for the right reward nyeh! 
 
@@ -13126,7 +13126,7 @@ Alvo Silenciado! Grande Lady BERNKASTEL, eu estou aqui pra informar que a nossa 
 
 
 #v5390Nihihi! Unlike dogs, rabbits don't know how to 'stay' nyeh! 
-
+Nihihi! Diferente dos cachorros, coelhos não sabe como 'ficar', nyeh!
 
 #v5391Target Silenced! Great Lady Lambdadelta, I'm here to report that our mission has been completed nyeh! 
 Alvo Silenciado! Grande Lady LAMBDADELTA, eu estou aqui pra informar que a nossa missão foi concluída,
