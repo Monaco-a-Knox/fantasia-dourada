@@ -13120,10 +13120,10 @@ Muito bem. Como prometido, vamos celebrar com um chá de cenoura.
 Desde um aliado em batalha até ser seu cupido amoroso! Farei qualquer coisa pela recompensa certa, nyeh!
 
 #v5915I see, how comforting. Then, to start with, could you smush the two people lying there together? 
-
+Vejo como é confortável. Então, para começar, poderia esmagar os dois que estão caídos ali?
 
 #v5916Oh, my. Someone's snatched away my prey again. You're a bad rabbit, aren't you...? 
-
+Fala sério. Alguém roubou a minha presa de novo. Você é mesmo uma coelha malvada, não é...?
 
 #v5390Nihihi! Unlike dogs, rabbits don't know how to 'stay' nyeh! 
 Nihihi! Diferente dos cachorros, coelhos não sabe como 'ficar', nyeh!
@@ -13135,172 +13135,172 @@ Alvo Silenciado! Grande Lady LAMBDADELTA, eu estou aqui pra informar que a nossa
 Ah, é mesmo?! Bom trabalho. Eu fiquei entendiada e comecei a assistir televisão.
 
 #v5392Nice and easy nyeh. There was no need for Lady Lambdadelta to dirty her hands nyeh! 
-
+Bom e fácil, nyeh. Não é necessário que você suje sua mãos, Lady LAMBDADELTA!
 
 #v4899No kidding. If you want to make me get serious, try a little harder next time, okay? 
-
+Sem brincadeira; se quer me tirar do sério, vai ter que fazer melhor do que isso na próxima, tá?
 
 #v4900After all that exercise, I'm hungry! How about some chocolate fondue? 
-
+Fiquei com fome depois de todo esse exercício! Que tal um fondue de chocolate?
 
 #v5393Sounds good nyeh! Perfect nyeh! I can't get enough of carrots or chocolate nyeh! 
-
+Parece bom, nyeh! Perfeito, neyh! Nunca me canso de cenouras com chocolate, nyeh!
 
 #v2547Like I thought, I can really rely on you...! We're the strongest! 
-
+Bem como pensei, eu posso confiar em você...! Somos as mais fortes!
 
 #v2763Don't get overconfident. It only takes an instant for the strongest to stumble. 
-
+Não fique tão confiante assim. Basta um instante para o mais forte tropeçar.
 
 #v2764Let's leave it at that. If you win too much, no one will gain anything. 
-
+Vamos deixar as coisas assim. Se ganhar demais, ninguém leva nada.
 
 #v2548True. It'd be pathetic to get drunk on victory and go too far, after all! 
-
+É verdade. Seria patético ficar embriagada pela vitória e exagerar!
 
 #v2549Hey Aniki, this is just something I heard Shannon-chan talking about, but what does Geo/Bat mean? 
-
+Ei aniki, eu ouvi pela Shannon-chan e que teria te perguntar: o que GeoBat significa?
 
 #v2765It means you and I are good friends. ...I think. 
-
+Significa que somos bons amigos. ...Eu acho.
 
 #v2592...For someone with such a kind face, your attacks are really cold-blooded. 
-
+...Para alguém com uma cara dessas, seus ataques são de sangue frio.
 
 #v2766Maybe that's why people are so moved when I go easy on them at the end. 
-
+Talvez seja por isso que as pessoas ficam tão comovidas quando pego leve com elas no final.
 
 #v2767What's am I like in your future, Ange-chan? 
-
+Como eu sou no seu futuro, Ange-chan?
 
 #v2593......You're living a life full of joy. ...Obviously. 
-
+......Você vive uma vida repleta de alegria, ...é óbvio.
 
 #v2768So this is that adorable Ange-chan... You look completely different. 
-
+Então essa é a adorável Ange-chan... Você parece outra pessoa.
 
 #v2594Yeah, I've changed. ...So much that there's no trace of the old me. 
-
+Sim, eu mudei. ...Tanto que não restam vestígios da velha eu.
 
 #v2769Nonaggressive defense. No matter how strong I get, I don't intend to give up that policy. 
-
+Defesa não-agressiva. Não importa o quão forte eu fique, eu não pretendo abrir mão dessa política.
 
 #v3492It's a wonderful policy. ...I wish Beato would learn a lesson from you. 
-
+É uma política maravilhosa. ...Eu queria que a Beato aprendesse um pouco com você.
 
 #v3493George-kun, I see that your eyes are filled with resolve and determination. 
-
+Vejo que seus olhos estão repletos de intento e determinação, George-kun.
 
 #v2770Yes. This is how I live. ...No one will ever make me yield. 
-
+Sim. É assim que eu vivo. ...Ninguém jamais fará eu me render.
 
 #v3494I'm impressed that you've trained yourself so well. ...A boy simply must be like that. 
-
+Estou impressionado que se treinou tão bem. ...É assim que um garote tem que ser.
 
 #v2771A man has to be strong. Otherwise, he won't be able to protect the one he loves. 
-
+Um homem tem de ser forte. Caso contrário, ele não será capaz de proteger aqueles que ama.
 
 #v2772I was just wondering where you'd gone. Were you making some tea? 
-
+Eu estava me perguntando aonde você tinha ido. Estava fazendo chá?
 
 #v3162Teatime must be defended, no matter the time or place. That is my motto. 
-
+A hora do chá deve ser defendida, não importa o momento ou o lugal. Esse é o meu lema.
 
 #v3163Love makes people strong. ...You're truly an example of that. 
-
+O amor torna as pessoas mais fortes. ...Você é um verdadeiro exemplo disso.
 
 #v2773If you're going to praise someone, praise the woman who taught me about love. 
-
+Se vai elogiar alguém, elogie a mulher que me ensinou sobre o amor.
 
 #v2774I never go all out. ...Those are the only sort of good manners that matter to the strong. 
-
+Eu nunca vou com tudo. ...Essa é a única boa maneira que importa para os fortes.
 
 #v3164Correct. That is the sole art of our lives, the sole form of good manners we follow. 
-
+Correto. Essa é a única arte de nossas vidas, a única forma de boas maneiras que seguimos.
 
 #v2502Kinzo was blessed with good grandchildren. Deep down, he probably wanted to pass on the Headship to you. 
-
+Kinzo foi abençoado com um bom neto. No fundo, ele provavelmente queria passar a liderança para você.
 
 #v2775I'm not interested in that. I'll build up my Ushiromiya Family from square one. I don't need a huge fortune. 
-
+Não estou interessado nisso. Eu irei construir a minha família Ushiromiya do zero. Não preciso de uma vasta fortuna.
 
 #v2503I thought love was worthless, but when I look at you, it makes me feel like I was wrong. 
-
+Eu pensei que o amor não tivesse valor, mas então eu a encontrei e isso fez com que eu sentisse que estava errado.
 
 #v2776...People live for the sake of love. Love makes people live. In other words, love is life. 
-
+...As pessoas vivem pelo amor. O amor faz as pessoas viverem. Em outras palavras, o amor é vida.
 
 #v2777Did I steal your time to shine? ...Sorry, I'll let you have the next one. 
-
+Por acaso roubei seus holofotes? ...Foi mal, eu deixo você ficar com o próximo.
 
 #v2504I care not. Though I hate to admit it, your performance was quite a sight to see. 
-
+Eu não me importo. Embora odeie admitir, sua performance foi um espetáculo e tanto.
 
 #v3117...To think that that vacant-looking Ushiromiya George would turn into this... I can't believe it! 
-
+...E pensar que aquele Ushiromiya George de aparência vazia iria se transformar nisso... Não consigo acreditar!
 
 #v2778Thanks. Those are the words I love to hear the most. 
-
+Obrigado. Essas são as palavras que eu mais amo ouvir.
 
 #v2779Being magnificent is desirable. ...A magnificent victory forces your foes to surrender from the bottom of their hearts. 
-
+Ser magnífico é desejável. ...Uma vitória magnífica força seus aliados a se renderem do fundo de seus corações.
 
 #v3118...Y-You're right. If you win like that, ...your opponents will s-surrender... 
-
+...T-Tem razão. Se vencer dessa forma, ...seus oponentes vão se r-render...
 
 #v3119Wh-What did you say?! Try saying that again...! 
-
+O-O que disse?! Repete pra ver o que acontece...!
 
 #v2780That was close. You should rely on me a bit more. ...That's an order. 
-
+Foi por pouco. Você deveria depender mais de mim. ...É uma ordem.
 
 #v3402Incredible! You've really gotten strong and reliable, George-san...! 
-
+Incrível! Você realmente ficou mais forte e confiável, George-san...!
 
 #v2781Hahah, for your sake, I'd become a knight or even a king! 
-
+Hahah, por você, eu me tornaria um cavaleiro ou até um rei!
 
 #v2782It's okay. As long as you stay behind me, I won't let anyone lay a finger on you. 
-
+Tudo bem. Contanto que fique atrás de mim, eu não deixarei que encostem um dedo em você.
 
 #v3403Thanks. And as long as I guard your back, I won't let anyone lay a finger on you, either. 
-
+Obrigada. E contanto que eu cuide das suas costas, também não deixarei ninguém encostar um dedo em você.
 
 #v2783This still isn't nearly enough to prove my feelings for you. 
-
+Isso ainda não é o suficiente para provar meus sentimentos por você.
 
 #v3404*giggle* That's right. Keep on showing me how you feel...again and again. 
-
+*risos* Isso mesmo. Continue mostrando como se sente...de novo e de novo.
 
 #v3072...What well-honed kicks. ...That's completely different from me, relying on my cursed power... 
-
+...Que chutes mais bem aprimorados. ...Completamente diferente de mim, que dependo do meu poder amaldiçoado...
 
 #v2784It's not my legs I've trained. It's my drive to win with certainty. 
-
+Não foram as minhas pernas que eu treinei. Foi a minha vontade absoluta de vencer.
 
 #v2785That's good. We're fighting together. We aren't trying to steal the final hit from each other. 
-
+Isso é ótimo. Estamos lutando juntos. Não estamos tentando roubar o golpe final um do outro.
 
 #v3073...Correct. We have two enemies. Why would I start fighting against a third foe...? 
-
+...Correto. Nós temos dois inimigos. Por que eu começaria a brigar com um terceiro...?
 
 #v3074G-George-sama, please tell me! What did you and Nee-san... 
-
+G-George-sama, por favor me diga! O que você e a nee-san...
 
 #v2786Wait. ...It looks like someone else is here. We'll talk about this later. 
-
+Espera. ...Parece que tem mais alguém aqui. Vamos falar sobre isso depois.
 
 #v2787How was that? I think we finished it pretty neatly. 
-
+O que achou? Eu acho que terminamos com eles muito bem.
 
 #v2637Your movements are too shallow. Didn't your teacher always get mad at you for that? Make your kicks bigger! 
-
+Seus movimentos são muito vazios. Por acaso sua professora ficava brava por causa disso? Dê chutes maiores!
 
 #v2788This is kinda embarrassing. It's almost like a parent-teacher conference at school. 
-
+Isso é meio vergonhoso. É quase como um encontro de pais e mestres na escola.
 
 #v2638It feels like an athletic festival to me. A three-legged race with your guardian. ...Let's take first place again, George! 
-
+Pra mim, parece um festival. Uma corrida de três pernas com o seu familiar. ...Vamos chegar em primeiro de novo, George!
 
 #v2639As I expected from my son. And quite fitting for the Head of the Ushiromiya Family too. 
 

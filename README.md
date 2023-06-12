@@ -37,44 +37,44 @@ Ao fim do projeto, será necessário jogar e verificar a fidelidade de cada linh
 
 # Duplas que desbloqueiam CGs.
 
+- Ange / Lucifer
+- Ange / EVA-BEATRICE
+- Ange / VIRGILIA
 - Battler / Ange
 - Battler / Ronove
 - Battler / BEATRICE
 - Battler / Lucifer
 - Battler / Shannon
-- Ange / Lucifer
-- Ange / EVA-BEATRICE
-- VIRGILIA / Ronove
-- VIRGILIA / BEATRICE
-- VIRGILIA / Chiester 410
+- Battler / Kanon
 - Ronove / BEATRICE
 - Ronove / EVA-BEATRICE
-- BEATRICE / Lucifer
-- BEATRICE / EVA-BEATRICE
+- Ronove / George
 - Lucifer / Kanon
 - Lucifer / Chiester 410
 - Shannon / Kanon
-- EVA-BEATRICE / Chiester 410
 - Jessica / George
+- Jessica / Shannon
 - Shannon / George
+- George / BEATRICE
 - Kanon / Jessica
 - Rosa / Battler
 - Rosa / BEATRICE
-- Battler / Kanon
-- Jessica / Shannon
-- Ange / VIRGILIA
-- Ronove / George
-- George / BEATRICE
 - Rosa / EVA-BEATRICE
 - Rosa / Chiester-410
 - Erika / Ange
-- Dlanor / VIRGILIA
-- Battler da Escuridão / Shannon
 - Erika / Dlanor
+- Dlanor / VIRGILIA
 - Willard / Kanon
 - Willard / Dlanor
-- LAMBDADELTA / Jessica
+- BEATRICE / Lucifer
+- BEATRICE / EVA-BEATRICE
+- VIRGILIA / Ronove
+- VIRGILIA / BEATRICE
+- VIRGILIA / Chiester 410
 - BERNKASTEL / Willard
 - BERNKASTEL / Erika
-- LAMBDADELTA / Chiester 410
 - BERNKASTEL / LAMBDADELTA 
+- LAMBDADELTA / Jessica
+- LAMBDADELTA / Chiester 410
+- EVA-BEATRICE / Chiester 410
+- Battler da Escuridão / Shannon
