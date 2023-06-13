@@ -13630,7 +13630,7 @@ Você tem bons olhos, como já era de se esperar. Mas esse é um segredo.
 Então, se eu resolver o enigma do epitáfio, ...eu também posso me tornar uma bruxa?! Vou tentar, então!
 
 #v2642Good luck. That riddle's pretty hard. As a hint, that part about the sweetfish river is... 
-Boa sorte. Aquele enigma é bem difícil. Como dica, sobre aquela parte do rio de ayus...
+Boa sorte. Aquele enigma é bem difícil. Como dica, sobre aquela parte do rio dos ayu...
 
 #v3450Once, long ago, you used me as a punching bag nyeh. I haven't forgotten nyeh. 
 Uma vez, há muito tempo, você me usou como saco de pancada, nyeh. Eu não esqueci daquilo, nyeh.
@@ -13660,67 +13660,67 @@ Heheh! Fique desnorteado por minha causa, e eu dou um tiro direto no seu coraç�
 Eu sou idiota, por isso só sei demonstrar a minha paixão assim.
 
 #v2806I see. So that's why your punches are so genuine and strong. 
-
+Entendi. Então é por isso que seus socos são tão fortes e genuínos.
 
 #v2999While there's still life in us, we won't let you do as you please on Rokkenjima anymore! 
-
+Enquanto ainda tiver vida em nós, não deixaremos mais que faça o que bem entender em Rokkenjima!
 
 #v2807I don't want to hurt you any more than this. So, will you head on home now? 
-
+Não quero te machucar mais do que isso, por isso poderia ir pra casa?
 
 #v2991How was that?! A punch with double Jessicas is double the fun! 
-
+O que achou?! Um soco com duas Jessicas traz diversão em dobro!
 
 #v2992And that's not all! If you act now, we'll give you yet another punch for free! 
-
+E isso não é tudo! Se agir agora, nós daremos a você outro soco de graça!
 
 #v2993Having two of me makes me kinda nervous, hahah... 
-
+Ter duas de mim me deixa um pouco nervosa, hahah...
 
 #v2994...No kidding... Let's get them to turn us back into one person quickly...! 
-
+...Nem brinca... Vamos fazê-los nos transformar de volta em uma pessoa só logo...!
 
 #v2995You go to school on Monday, Tuesday, and Wednesday. I'll go to school on Thursday, Friday, and Saturday. How does that sound?! 
-
+Você vai para escola nas segundas, terças e quartas. Eu vou nas quintas, sextas e sábados. Que tal?!
 
 #v2996Wait, Saturday's a half day, isn't it?! That's cheap, me! 
-
+Espera, sábado é só metade do dia, não é?! Isso é injusto, eu!
 
 #v3000Aunt Rosa, do you really think this person is the culprit...? 
-
+Tia Rosa, você acha mesmo que eles são os culpados...?
 
 #v3291I don't know. We just need to tie them up and lock them away until the police arrive. 
-
+Eu não sei. Nós só precisamos amarrá-los e trancá-los até que a polícia chegue!
 
 #v3292Not bad. It reminds me of when Krauss nii-san was practicing his boxing. 
-
+Nada mal. Isso me lembra da época que o Krauss nii-san treinava boxe.
 
 #v3001This is the only thing I learned from Dad. ...I learned about stocks and stuff too, but none of that made any sense... 
-
+Essa foi a única coisa que aprendi com o meu pai. ...Ele me ensinou sobre ações e outras coisas, mas nada disso fez sentido...
 
 #v3002Come on, surrender already! Or do you prefer bullets to punches?! 
-
+Vamos, se renda logo! O prefere balas a socos?!
 
 #v3293That's a lucky choice to have, isn't it? Let's hear it. Would you prefer a young girl, or an adult woman? 
-
+Essa é uma escolha de sorte, não acha? Deixe-nos ouvir: você prefere jovens garotas ou mulheres mais velhas?
 
 #v4635I don't need reasoning! A single punch can solve anything! 
-
+Não preciso investigar! Um único soco resolve tudo!
 
 #v4316...At times like this, it depresses me to think of how useless intelligence is in the face of violence. 
-
+...Em horas como essa, me deprime pensar o quão inútil é a inteligência diante da violência.
 
 #v4317You really do clash with the character role of the secluded daughter of a rich family. 
-
+Você realmente conflita com o papel da filha isolada de uma família rica.
 
 #v4636And yet, the kindness I show every now and then makes your heart race! Not a bad character, huh? 
-
+E ainda assim, a gentileza que eu demonstro de vez em quando faz seu coração acelerar! Não sou uma personagem ruim, é?
 
 #v4318I guess it's normal for an intellectual detective to have the muscle without a brain as a partner. 
-
+Acho que é normal para uma detetive intelectual ter uma parceira musculosa e sem cérebro.
 
 #v4637Huh? You're our muscle? First I've heard of it. 
-
+Hã? Você é musculosa? Primeira vez que ouço isso.
 
 #v4638Wait, you're an angel?! Th-Then I, umm, have a request...!! 
 Espera, você é um anjo?! E-Então eu, hmm, tenho um pedido...!!
@@ -13732,319 +13732,319 @@ Espera, você é um anjo?! E-Então eu, hmm, tenho um pedido...!!
 CORRETO. 'Dlanor, a Sentença Mortal' é o meu APELIDO.
 
 #v4639That's so cool!! Wow, I wonder if I could get a nickname like that!! 
-
+Que incrível!! Será que eu consigo um apelido como esse!!
 
 #v4640Your hair's really cute. It must be tough every morning, setting that. 
-
+Seu penteado é adorável. Deve dar bastante trabalho todas as manhãs para arrumar ele.
 
 #v3966It is TOUGH. I have no free time between when I sleep and when I go to WORK... 
-
+É DIFÍCIL. Eu não tenho tempo livre entre acordar e ir TRABALHAR...
 
 #v5568As I'd expect from that person's little sister. I pity our foes. 
-
+Como esperado da irmã mais nova daquela pessoa. Tenho pena dos seus inimigos.
 
 #v4641Oh, so I'm someone else's little sister in another world...? ...Other worlds are cool! 
-
+Oh, então eu sou a irmã mais nova de alguém em outro mundo...? ...Outros mundos são demais!
 
 #v4642What are you investigating? Is there anything I can help with? 
-
+O que está investigando? Tem algo que eu possa ajudar?
 
 #v5569The sentiment alone will suffice. ...What I'm investigating...is who killed Beatrice. 
-
+O sentimento por si só já basta. ...O que estou investigando...é que matou BEATRICE.
 
 #v5570No matter the world, your straightforward way of living doesn't change. 
-
+Não importa o mundo, sua maneira simples e direta de viver não muda.
 
 #v4643Of course not! If you took away how straightforward I am, there wouldn't be any good bits left! 
-
+É claro que não! Se tirar de mim a minha simplicidade, não vai sobrar muita coisa de valor!
 
 #v5920Oh, is it over already? Did you keep killing them until they became mincemeat? 
-
+Oh, já terminou? Você continuou matando eles até virarem guisado?
 
 #v4644You're kidding, right? When your opponent admits defeat, the match is over. 
-
+Tá brincando, né? Quando seu oponente admite a derrota, a luta termina.
 
 #v4645With a witch on my side, there's nothing to fear! 
-
+Com uma bruxa ao meu lado, não há nada a temer!
 
 #v5921Am I on your side? I'm sorry. ...I hadn't noticed. 
-
+Eu estou do seu lado? Sinto muito. ...Nem tinha percebido.
 
 #v4646...Why are you and I on a team? ...I can't...remember the reason... 
-
+...Por que estamos no mesmo time? ...Não consigo...lembrar o motivo...
 
 #v5922There is no reason. ...I chose you as a piece. That's all. 
-
+Não há motivo. ...Eu a escolhi como peça. Só isso.
 
 #v4904I underestimated the power of love. I guess it's true that love makes people strong. 
-
+Eu entendo o poder do amor. É verdade que o amor fortalece as pessoas.
 
 #v4647A maiden in love is the strongest thing in this world! Don't they teach that in witch world school? 
-
+Uma donzela apaixonada é mais forte que qualquer coisa neste mundo! Eles não te ensinaram isso na escola?
 
 #v4905Listen up. Chocolate gives you the ability to recover from fatigue! And as for gum- 
-
+Ouça: chocolate te dá a habilidade de se recuperar da fadiga! E o chicle-
 
 #v4648All of that's delicious, ...but thinking about looking at the scale tonight...scares me... 
-
+É tudo uma delícia, ...mas pensar sobre olhar a escala desta noite...me assusta...
 
 #v4649If you keep eating sweet things all the time, you'll get all fat...! 
-
+Vai engordar se continuar comendo doces o tempo todo...!
 
 #v4906I don't get fat. After all, sweets are my main diet...and what I am! 
-
+Eu não engordo, afinal doces são a minha dieta...e o que eu sou!
 
 #v2553Ihihi. You're the one person I don't want as my enemy...! 
-
+Ihihi. Você é a única pessoa que não quero como inimiga...!
 
 #v3294If you do as I say, we won't become enemies. 
-
+Se fizer o que eu digo, não seremos inimigos.
 
 #v3295Long ago, this gun was made famous by a TV drama. 
-
+Há muito tempo atrás. esta arma ficou famosa em um seriado de televisão.
 
 #v2554So I hear. Dad had one exactly like that! 
-
+Eu fiquei sabendo disso. Meu pai tem uma igualzinha!
 
 #v3296...Who on earth is the wolf? I can't trust anyone. ...Not anyone... 
-
+...Quem diabos é o lobo? Não posso mais confiar em ninguém. ...Em ninguém...
 
 #v2555Hey, I'm not a wolf. At least believe that, Aunt Rosa... 
-
+Ei, eu não sou um lobo. Ao menos acredite nisso, tia Rosa...
 
 #v2598I've heard the rumors, ...but you really are incredible, Aunt Rosa. 
-
+Eu ouvi os rumores, ...mas você é mesmo incrível, tia Rosa.
 
 #v3297Oh? What rumors? I'll have to ask you about that in more detail later. 
-
+Oh? Que rumores? Vou te pedir para contar mais sobre isso depois.
 
 #v3298You've grown incredibly since the time you and Maria played together. 
-
+Você cresceu muito desde a época que brincava com a Maria.
 
 #v2599That's not true. My time hasn't advanced at all since 12 years ago... 
-
+Isso não é verdade. O meu tempo não avançou nada nesses últimos 12 anos...
 
 #v2600If I have a child too, ...will I understand someday? 
-
+Se eu tiver filhos algum dia, ...será que irei entender?
 
 #v3299Who knows? ...The strength of a mother isn't something you learn. 
-
+Quem sabe? ...A força materna não é algo que se aprende.
 
 #v3300*giggle* As I'd expect from Beatrice's Teacher. 
-
+*risos* Como esperado da professora da BEATRICE. 
 
 #v3498Even if you feel young, you can't fool the body. Umm, shall we take a short break? 
-
+Mesmo que se sinta jovem, não pode enganar seu corpo. Hmm, que tal um pequeno intervalo?
 
 #v3499That's right. Guns are the natural enemy of witches. Those bullets should pierce through any witch. 
-
+Isso mesmo. Armas são o inimigo natural das bruxas. Estas balas devem penetrá-las.
 
 #v3301Only I...can protect anyone. Only I can protect Maria and this island...from them! 
-
+Somente eu...posso proteger a todos. Somente eu posso proteger a Maria e esta ilha...deles!
 
 #v3302What beautiful hair. Is there a trick to keeping it like that...? 
-
+Que cabelo lindo. Tem algum truque para deixá-lo assim...?
 
 #v3500Special witch treatments have a secret to them. I have a sample, if you'd like to try. 
-
+Os tratamentos especiais de bruxas são um segredo. Se quiser experimentar, eu tenho uma amostra.
 
 #v3303Oh, thank you. ...I guess butlers can be quite considerate. 
-
+Ah, obrigada. ...Acho que mordomos podem ser bem considerativos.
 
 #v3168I would rather have it be so natural that you don't even think about it... That is my ideal. 
-
+Eu preferia tê-lo tão natural que você nem pensaria nisso... Esse é o meu ideal.
 
 #v3169You are strong indeed, Rosa-sama. I, Ronove, was not needed at all. 
-
+Você realmente é forte, Rosa-sama. Eu, Ronove, não me faço necessário.
 
 #v3304That's not true. This is all because you saved me. Thanks. 
-
+Isso não é verdade. É tudo graças a você ter me salvado. Obrigada.
 
 #v3170And the cookies have just finished baking. Would you like to have some with Maria-sama? 
-
+E os cookies acabaram de terminar de assar. Gostaria de comer alguns com a Maria-sama?
 
 #v3305Oh, thanks, as always. Maria! When you wash your hands, it's snack time! 
-
+Ah, obrigada por tudo. Maria! É hora de lanche; lave suas mãos!
 
 #v2508So this is the rumored power of the Black Witch... It's even more terrifying than I imagined. 
-
+Então esse é o poder da Bruxa da Escuridão, que os rumores tanto falam... É ainda mais terrível do que imaginei.
 
 #v3306Hey, why do you keep calling me a witch? ...Oh, are you saying I look bewitchingly youthful? Stop it, you're too kind♪
-
+Ei, por que continua me chamando de bruxca? ...AH, está dizendo que eu pareço encantadoramente jovem? Poxa, você é tão gentil♪
 
 #v2509Now that you've received my divine protection, there's no way you'll lose. Fight however you like. 
-
+Agora que recebeu a minha proteção divina, não há como você perder. Lute como quiser.
 
 #v3307Thanks. This gun that shoots bullets endlessly is really convenient. 
-
+Obrigada.Esta arma disparar balas infinitas é mesmo conveniente.
 
 #v3308I'm grateful, ...but please don't get too friendly with Maria. 
-
+Eu sou grata, ...mas não seja tão amigável com a Maria.
 
 #v2510Now that's harsh... Can't you let me play with her just a little...? 
-
+Ouvir isso é duro... Não poderia deixar eu brincar com ela só um pouco...?
 
 #v3123This power... Is this person really just a human? 
-
+Este poder... Essa pessoa é mesmo um ser humano?
 
 #v3309After the age of 30...is when women really get serious. You'll understand when you grow up. 
-
+Depois que passa dos 30...as mulheres ficam sérias de verdade. Você entenderá quando crescer.
 
 #v3310Are you going to stand up again? If so, I'll show no mercy. 
-
+Vai ficar contra mim? Caso fiquei, não demonstrarei pena.
 
 #v3124Just what I'd expect from Maria-sama's mother! This is so exciting! 
-
+Exatamente o que se espera da mãe da Maria-sama! É mesmo empolgante!
 
 #v3125Are you done already? Boring! I still haven't gouged you enough! 
-
+Já terminou? Que chato! Ainda não os goivei o suficiente!
 
 #v3311Don't do that. Any more gouging, and we won't be able to tell who this is. 
-
+Não diga isso. Se goivar mais, não seremos capazes de dizer que são.
 
 #v3408Rosa-sama, are you hurt?! 
-
+Rosa-sama, está ferida?
 
 #v3312I'm fine, of course. Maybe you should worry about yourself first. 
-
+Estou bem, é claro. Talvez deva se preocupar com sigo mesmo primeiro.
 
 #v3313Tend to their wounds in the servant room please. That was a little childish of me. 
-
+Cuide dos ferimentos deles na sala dos serviçais. Isso foi um pouco infantil da minha parte.
 
 #v3409A-As you wish! I'll guide them there right away! 
-
+À-Às ordens! Irei guiá-los até lá!
 
 #v3314You can't trust anyone except yourself and victims. Sorry, but I can't trust you either. 
-
+Você não pode confiar em ninguém além de si e as vítimas. Desculpa, mas também não posso confiar em você.
 
 #v3410Until you approve of me someday, ...I can only continue to demonstrate my innocence. 
-
+Até o dia em que me aprovar, ...eu continuarei a provar a minha inocência.
 
 #v3078Rosa-sama, are you hurt? 
-
+Rosa-sama, está ferida?
 
 #v3315No need to worry. ...More importantly, ...are you really Kanon-kun? 
-
+Não precisa se preocupar. ...Mais importante que isso, ...você é mesmo o Kanon-kun?
 
 #v3316I'm a bit tired. Would you mind getting me something hot to drink? 
-
+Estou um pouco cansada. Se importaria de buscar uma bebida quente?
 
 #v3079As you wish. I'll have it brought to you immediately. 
-
+Como desejar. Irei trazê-la imediatamente.
 
 #v3080I've tied the two of them up. ...I will now carry them to the shed. 
-
+Já amarrei dois deles. ...Agora vou carregá-los até o depósito.
 
 #v3317Once we lock up all the suspicious people on the island, we'll be able to guarantee our safety! 
-
+Uma vez que todas as pessoas suspeitas na ilha estejam trancadas, seremos capazes de garantir a nossa segurança.
 
 #v2643Isn't this fun, Rosa?! It's such a blast to play together as sisters again! 
-
+Não é divertido, Rosa?! É muito bom podermos brincar juntas de novo como irmã!
 
 #v3318...Make sure you keep your promise about how we'll split up the gold. ...Otherwise, ...I'll be angry. 
-
+...Trate de manter a sua promessa sobre como vamos dividir o ouro. ...Caso contrário, ...vou ficar furiosa.
 
 #v3319Nee-san, are those clothes made to order? Let me have a closer peek! 
-
+Essas roupas são feitas sob encomenda, nee-san? Deixa eu olhar de perto!
 
 #v2644I was given these clothes by magic. They're great, aren't they? You want the pattern paper? It doesn't exist! 
-
+Eu obtive estas roupas com magia. São ótimas, não são? É o molde delas que você quer? Ele não existe?
 
 #v3320We won't show mercy to anyone who gets in our way! 
-
+Não demonstraremos misericórdia por ninguém que entrar no nosso caminho!
 
 #v2645We're gonna get a lot of money and find happiness! Forever on into the future! 
-
+Vamos ganhar muito dinheiro e encontrar a felicidade! Para sempre no futuro!
 
 #v3453I never thought I'd be joining forces with my greatest enemy nyeh... 
-
+Nunca pensei que juntaria forças com a minha maior inimiga, nyeh...
 
 #v3321What are you talking about? It feels strange for me too. I never thought I'd join forces with a rabbit. 
-
+Do que está falando? também é estranho para mim; nunca achei que juntaria forças com uma coelha.
 
 #v3322It's just like how guns ended the era of swords. No one can beat a projectile weapon. 
-
+É como as armas deram fim a era das espadas. Nada é páreo para uma arma de projétil.
 
 #v3454That's right nyeh! Let's aim to be the strongest with our projectile weapon combo nyeh! 
-
+Isso mesmo, nyeh! Vamos almejar sermos as mais fortes com a nossa dupla de armas de projéteis, nyeh!
 
 #v3455I worked so hard, I'm hungry nyeh! Gimme a bonus nyeh! 
-
+Dei duro e agora estou com fome, nyeh1 Me dá um bônus, nyeh!
 
 #v3323What, again? Well, if you insist. ...Here, you get one more. 
-
+O quê? De novo? Bom, se você insiste, ...aqui tem mais uma.
 
 #v2808I'm surprised you know how to handle a gun, Aunt Rosa. 
-
+Estou surpreso que saiba manusear uma arma, tia Rosa.
 
 #v3327Women have all kinds of secrets that they can't tell anyone. You had better remember that. 
-
+Mulheres têm todo tipo de segredo que não podem contar para ninguém. É melhor que não se esqueça disso.
 
 #v3328When I see you, it reminds me of Nee-san. You really are...similar. 
-
+Quando o vejo, eu lembro da nee-san. Vocês realmente são...parecidos.
 
 #v2809I'm not yet capable of becoming like Mother. That's why I work as hard as I can every single day. 
-
+Eu não sou capaz de me tornar igual a minha mãe. É por isso que eu trabalho duro todos os dias.
 
 #v3329Come now, get those two tied up. Until the police come, at least. 
-
+Anda, ao menos amarre esses dois até que a polícia chegue.
 
 #v2810...Is it really necessary to go that far? ...It seems a bit much to me. 
-
+...É mesmo necessário ir tão longe? ...Me parece um pouco exagerado.
 
 #v3003Aunt Rosa, you're so cool! That was so gallant, so bold! 
-
+Tia Rosa, você é tão legal! Foi tão corajosa e ousada!
 
 #v3324The era in which women were nothing but cute is over. Going forward, women will have to be strong too. 
-
+A era em que as mulheres não são nada além de fofas acabou. Daqui pra frente, as mulheres terão que ser fortes também.
 
 #v3004Aunt Rosa, ...do you really think the culprit is someone in the mansion? 
-
+Tia Rosa, ...você acha mesmo que o culpado é alguém que está na mansão?
 
 #v3325By thinking that, I'll be able to avoid getting my throat slit in my sleep. Suspect everyone. 
-
+Ao pensar isso, eu sou capaz de evitar que minha garganta seja aberta enquanto durmo. Suspeite de todos.
 
 #v3326It's over, isn't it? It's dangerous here, so go back to the guesthouse with the kids! 
-
+Acabou, não é? É perigoso aqui, então volte para a casa de hóspedes com as crianças!
 
 #v3005I can't let you fight all on your own! Even I can help! 
-
+Não posso te deixar lutar sozinha! Eu também posso ajudar!
 
 #v3330If there were two of me, could I have been with Maria more often? 
-
+Se houver duas de mim, eu poderia passar mais tempo com a Maria?
 
 #v3331Unless you took the initiative to do so, it wouldn't matter how many of you there were... 
-
+A não ser que tome a iniciativa para isso, não vai fazer diferença quantas de você existam...
 
 #v3332With two of me, ...wouldn't I be able to take care of my job and housework with half the trouble? 
-
+Com duas de mim, ...eu não seria capaz de lidar com meu emprego e cuidar da casa tendo metade do trabalho?
 
 #v3333Too bad you'd only get half as many dates though, right...? 
-
+Pena que você só teria metade dos encontros, não é...?
 
 #v3334Did you really think you'd be a match for two of us? How arrogant can you be? 
-
+Achou mesmo que seriam páreos para duas de nós? O quão arrogantes conseguem ser?
 
 #v3335They probably challenged us because they weren't thinking. 
-
+Eles provavelmente nos desafiaram sem pensar.
 
 #v5223I thought you were a cute young lady, but you're surprisingly good at this. I'm shocked. 
-
+Eu pensei que você fosse uma jovem senhorita, mas é surpreendentemente boa nisso. Estou surpresa.
 
 #v4319That's my line! ...The Ushiromiya Family really is terrifying! 
-
+Essa fala é minha! ...A família Ushiromiya é mesmo assustadora1
 
 #v4320According to my reasoning, restraining those two will cut the suspect list down considerably. 
-
+De acordo com o meu raciocínio, restringir esses dois diminuirá consideravelmente a liste de suspeitos.
 
 #v5224That reasoning of yours has been a great help. Come on, you two! Stand up! 
-
+Seu raciocínio tem sido de grande ajuda. Anda, vocês duas! Levantem-se!
 
 #v4321A wolves and sheep game? That's the kind of puzzle I'm best at! 
-
+Um jogo do lobo e os carneiros? Esse tipo de enigma é a minha especialidade!
 
 #v5225You really are clever. I imagine you and Maria would make good friends. 
-
+Você é mesmo esperta. Imagino que você e a Maria sejam boas amigas.
 
 #v3967Is this the power of the Black WITCH? How TERRIFYING.
 Esse é o poder da Bruxa da ESCURIDÃO? É ASSOMBROSO.
