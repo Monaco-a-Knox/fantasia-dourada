@@ -1,4 +1,3 @@
-BATTLER X ANGE INÍCIO
 #v1681I won't get lost again. It's clear where we need to return to. 
 Não vou mais hesitar. Está claro para onde devo retornar.
 
@@ -109,9 +108,7 @@ Sim... Eu estarei esperando... Então garanta que voltará, ...onii-chan...
 
 #v1785Father, Mother, Onii-chan... I'm coming to you now, so catch me... 
 Pai, mãe, onii-chan... Eu estou indo, então me peguem...
-BATTLER X ANGE FINAL
 
-BATTLER X RONOVE INÍCIO
 #v1977Good morning, Battler-sama. So, have you decided on a plan for today's game?
 Bom dia, Battler-sama. Então, decidiu qual seu plano para o jogo de hoje?
 
@@ -222,9 +219,7 @@ Se não tiver pensando em outro enredo, eu também não serei forçado a um fina
 
 #v1703C-Cut it out, Ronove... You are joking, right? Right...? G-G-Gyaaaaaaaaaaaaaaaaaahh!! 
 P-Para com isso, Ronove... Tá brincando, né? Né...? G-G-Gyaaaaaaaaaaaaaaaaaahh!!
-BATTLER X RONOVE FINAL
 
-BATTLER X BEATRICE INÍCIO
 #v1704What's going on? Aren't you the Golden Witch? How the heck did your game board get taken over? 
 O que está acontecendo. Você não é a Bruxa Dourada? Como deixou que seu tabuleiro fosse tomado?
 
@@ -326,9 +321,7 @@ Vamos fazer assim. Eu irei explicar sua mágica com truques humanos.
 
 #v1584*cackle* Very well! If you think you can explain my magical closed room murders, then explain away! Come, Ushiromiya Battleeeeeeeeeeeeer!! 
 *gargalhada* Muito bem! Se acha que consegue explicar meus quartos fechados por magia, então explique! Venha, Ushiromiya Battleeeeeeeeeeeeer!!
-BATTLER X BEATRICE FINAL
 
-BATTLER X LUCIFER INÍCIO
 #v1716'Come, arise. The eldest of the Seven Sisters of Purgatory, Lucifer.' 
 'Venha e apareça! A mais velha das Sete Irmãs do Purgatório, Lucifer.'
 
@@ -422,7 +415,8 @@ Sim. Desculpe deixá-la esperando. 'O rio dos ayus passa pela minha amada cidade
 #v1932Have you finished with your theories about the epitaph?
 Terminou de teorizar sobre o epitáfio?
 
-#v1726...Yeah. The match between me and Beato...has been settled. I'm grateful for your help. ...Sim. A disputa entre a Beato e eu...chegou ao fim. Eu sou grato pela sua ajuda.
+#v1726...Yeah. The match between me and Beato...has been settled. I'm grateful for your help.
+...Sim. A lutra entre eu e a Beato...foi liquidada. Eu sou grato pela sua ajuda.
 
 #v1933I'm Beatrice-sama's furniture. For the sake of my master, I'd become even a chair or a rug. When I lent you my power, it wasn't because I acknowledged you as my master.
 Eu sou uma mobília da BEATRICE-sama. Pelo bem da minha mestra, eu me tornaria até mesmo uma cadeira ou um tapete. Quando emprestei meu poder a você, não foi porque o reconheci como meu mestre.
@@ -447,9 +441,7 @@ Se conseguir me fazer rastejar, eu irei jurar lealdade e implorar por minha vida
 
 #v1937Here I come, Battleeeeeeeeeeer!! 
 Estou indo, Battleeeeeeeeeeer!!
-BATTLER X LUCIFER FINAL
 
-BATTLER X SHANNON INÍCIO
 #v2040Please...! You're the only one I can turn to, Battler-sama...! 
 Por favor...! Você é o único para quem eu posso recorrer, Battler-sama...!
 
@@ -557,9 +549,7 @@ E o que...seria?
 
 #v1742Shannon-chan, ...congratulations on getting engaged. 
 Shannon-chan, ...parabéns pelo seu noivado.
-BATTLER X SHANNON FINAL
 
-ANGE X LUCIFER INÍCIO
 #v1938The Seven Sisters of Purgatory are right here! Did you call for us, Ange-sama?
 As Sete Irmãs do Purgatório estão aqui! Você nos chamou, Ange-sama?
 
@@ -661,9 +651,7 @@ Vamos, Battler. É hora de se prostar pateticamente no chão enquanto eu o espan
 
 #v1748I-I'm so sorry, Ange-samaaaaaa! Eeeep! Eeeeep!! 
 M-Me desculpe, Ange-samaaaaa! Eeeep!Eeeeep!!
-ANGE X LUCIFER FINAL
 
-ANGE X EVA BEATRICE INÍCIO
 #v1800Tell me, Aunt Eva. Just what happened on Rokkenjima that day? 
 Diga-me, tia Eva. O que aconteceu em Rokkenjima naquele dia?
 
@@ -760,9 +748,7 @@ Ele jurou que voltaria para casa, custe o que custar.
 
 #v1812True. I'll always be 6 years old. ...Endlessly. 
 Verdade. Eu sempre terei seis anos. ...Eternamente.
-ANGE X EVA BEATRICE FINAL
 
-VIRGILIA X RONOVE INÍCIO
 #v2001Indeed. They have been at it for quite some time now, and the battle has been quite fierce.
 De fato. Eles estão nisso já faz um bom tempo, e a batalha segue bem fervorosa.
 
@@ -852,9 +838,7 @@ Mesmo depois de ganhar uma dica, você não consegue resolver um truque simples,
 
 #v1756Shut up, and repeat it! You giant-boobed brainless witch! 
 Cale a boca e repita isso! Sua bruxa peituda sem cérebro!
-VIRGILIA X RONOVE FINAL
 
-VIRGILIA X BEATRICE INÍCIO
 #v1605Waaaaaaah, Teacher! Everyone's being mean to me for some reason!! 
 Waaaaaaah, professora. Todo mundo está sendo cruel comigo por algum motivo!!
 
@@ -956,9 +940,7 @@ Hã? Não faça isso, é um desperdiço com o seu lindo rosto... Desculpe, o Bat
 
 #v1616N-No, not that, please stop, not a mackereeeeeel, it's too biiiiiiiiig!! 
 N-Não, isso não, por favor, pare, tudo menos a cavalinhaaaa, é grande demaaaaaaais!!
-VIRGILIA X BEATRICE FINAL
 
-VIRGILIA X CHIESTER 410 INÍCIO
 #v2080Waaah, Virgilia-sama! Someone stole our fresh, sweet, yummy carrots nyeeeh!!
 Waaah, VIRGILIA-sama! Alguém roubou nossas doces, frescas e deliciosas cenouras, nyeeeh!!
 
@@ -1048,9 +1030,7 @@ Vamos lá, vamos todos comer juntos. Temos o suficiente até para repetir. É o 
 
 #v2092I knew it! I just wanted to nibble on them raw nyeh, that's mean nyeh, waaaaah...! 
 Eu sabia! Eu só queria beliscar elas cruas, nyeh! Isso é horrível, nyeh! Waaaah...!
-VIRGILIA X CHIESTER 410 FINAL
 
-RONOVE X BEATRICE INÍCIO
 #v2012Good morning, Milady. What sort of plot will you choose for today?
 Bom dia, ojou-sama. Que tipo de enredo escolheste para o dia de hoje?
 
@@ -1091,7 +1071,7 @@ Quantas vezes tenho que repetir que essa cerimonia é necessária para a minha r
 Hmph... Este é apenas um ato de piedade. Se a cerimonia for interrompida, vocês serão salvos. Ou talvez...seja orgulho?
 
 #v2015Let us proceed, Milady. Along with a letter announcing the closed room murders to follow... 
-Vamnos prosseguir, ojou-sama. Junto com a carta que anuncia os assassinatos de quarto fechado, segue-se...
+Vamos prosseguir, ojou-sama. Junto com a carta que anuncia os assassinatos de quarto fechado, segue-se...
 
 #v1758Beato, I finally found you! This is the end of your weird murder ceremony! 
 Beato, eu finalmente te encontrei! Este é o fim dessa sua estranha cerimonia de assassinato!
@@ -1143,9 +1123,7 @@ Eu sou a Bruxa Dourada, BEATRICE. Tentem resolver meus enigmas. Se conseguirem, 
 
 #v1631Try and kill me! Ihihyahyahyaaah!!
 Tentem me matar! Ihihyahyahyaaah!!
-RONOVE X BEATRICE FINAL
 
-RONOVE X EVA BEATRICE INÍCIO
 #v2019Congratulations. Now that you have solved the riddle of the epitaph, you are the new Golden Witch.
 Parabéns. Agora que você resolveu o epitáfio, você é a nova Bruxa Dourada.
 
@@ -1244,9 +1222,7 @@ Não foi por muito tempo, mas foi uma honra servi-la, EVA-sama.
 
 #v1862Thanks. And so long... I am EVA, the Golden Witch. The only witch who knows what really happened on October 4 and 5, 1986... 
 Obrigada. E até mais. Eu sou EVA, a Bruxa Dourada. A única bruxa que sabe o que realmente aconteceu nos dias 4 e 5 de outubro de 1986...
-RONOVE X EVA BEATRICE FINAL
 
-BEATRICE X LUCIFER INÍCIO
 #v1634Come, arise. The eldest of the Seven Sisters of Purgatory, Lucifer. 
 Apareça! A mais velha das Sete Irmãs do Purgatório, Lucifer.
 
@@ -1342,9 +1318,7 @@ Somos fantasmas vivendo dentro da caixa de gato. ...Até que seja aberta, mesmo 
 
 #v1953...Beatrice-sama, may you live forever...
 Espero que você viva para sempre, BEATRICE-sama...
-BEATRICE X LUCIFER FINAL
 
-BEATRICE X EVA BEATRICE INÍCIO
 #v1863Have I...become a witch now?! The Golden Witch, Beatrice?! 
 Eu me tornei...uma bruxa agora? A Bruxa Dourada, BEATRICE?!
 
@@ -1448,9 +1422,7 @@ Eu sou o deus desta ilha! Como se eu tivesse escrito até mesmo sobre você...! 
 
 #v1878If only you'd just give up and die!
 Por que não desiste e morre bem devagar!
-BEATRICE X EVA BEATRICE FINAL
 
-LUCIFER X KANON INÍCIO
 #v1906Wh-What are you doing here...?! What do you want with me...?!!
 O-O que está fazendo aqui...?! O que quer comigo?! 
 
@@ -1540,9 +1512,7 @@ Não pode deixar as coisas assim!! Lute de novo e preste atenção desta vez!!
 
 #v1663A-A-Again?! B-But I couldn't! Please, stooop!!
 D-D-Denovo? M-Mas eu não posso! Por favor, pareeee!
-LUCIFER X KANON FINAL
 
-LUCIFER X CHIESTER 410 INÍCIO
 #v2098We need better treatment nyeh! I say that laborers and furniture should rise up nyeh!
 Precisamos de um treinamento melhor, nyeh! Digo que trabalhadores e mobílias deveriam se rebelar, nyeh!
 
@@ -1574,7 +1544,7 @@ E-Eu nunca disse nada sobre cochilar...! 410...!!
 Hmm, parece que elas serão bem inflexíveis em relação aos seus desejos por um melhor tratamento... O que devemos fazer?
 
 #v2160U-Understood. I'll propose to Beato that we get you good carrots, snacks, and time for a nap...
-E-Entendido. Irei propoar à Beato para que tenhamos suas boas cenouras, lanche e horário de sesta...
+E-Entendido. Irei propor à Beato para que tenhamos suas boas cenouras, lanche e horário de sesta...
 
 #v2101That's not enough nyeh! We're gonna deal with Beatrice-sama directly, winning ourselves more and more favorable terms nyeh!
 Não é o suficiente, nyeh! Vamos lidar diretamente com a BEATRICE-sama, vencer e chegar a condições cada vez mais favoráveis, nyeh!
@@ -1632,9 +1602,7 @@ Espera, as cenouras claramente não foram ideia minha, certo?! BEATRICE-sama, me
 
 #v1976And now we're eating three meals of carrots a day!! My sisters all call me a moron and do horrible things to me...!! Stupid 410, waaaaaaaaah! 
 E agora comemos três refeições de cenouras ao dia!! Minhas irmãs estão me chamando de idiota e fazendo coisas horríveis comigo...!! 410, sua imbecil, waaaaaaaaah!
-LUCIFER X CHIESTER 410 FINAL
 
-SHANNON X KANON INÍCIO
 #v1914That's an easy trial. If passing through it means I'll know that the ocean is blue... 
 Essa é uma provação fácil. Se passar significa saber que o oceano é azul...
 
@@ -1727,9 +1695,7 @@ Nee-san, o que diabos é essa última provação que a bruxa mencionou em sua de
 
 #v1922...Nee-san?
 Nee-san?
-SHANNON X KANON FINAL
 
-EVA BEATRICE X CHIESTER 410 INÍCIO
 #v2107Chiester 410, right here. Did you need me for something nyeh?
 Chiester 410, está aqui. Precisa de mim para algo, nyeh?
 
@@ -1791,7 +1757,7 @@ Ela certamente vai ser a número 1 na próxima pesquisa de popularidade, nyeh. O
 Não é óbvio?! Vou acabar com qualquer um que seja mais popular do que eu!! Desista e passe para mim a sua colocação!!
 
 #v1679Hyahyahya! How pleasurable are the howls of low-ranked, stagnant characters!? I'll put up with your pathetic challenge, defeat you, and leave me looking even better!!
-Hyahyahya! Como são agardáveis os berros daquelas personagens estagnadas e mal ranqueadas! Aceitarei seu desafio patético, a derrotarei e isso fará eu parecer ainda melhor!!
+Hyahyahya! Como são agradáveis os berros daquelas personagens estagnadas e mal ranqueadas! Aceitarei seu desafio patético, a derrotarei e isso fará eu parecer ainda melhor!!
 
 #v1680Th-There's hardly any point to having a character poll if I'm not in it, right?! That'd be like having coffee without cream...! 
 B-Basicamente não tem sentido ter uma pesquisa de popularidade se eu não estou nela, né?! É como ter café sem creme...!
@@ -1809,7 +1775,7 @@ Apenas para ter certeza, não estou prestes a descobrir que você tem uma coloca
 Sou apenas uma atriz coadjuvante, nyeh. Parabéns por se tornar a número um, EVA-sama, nyeeeh!!
 
 #v1892Th-There's really no plot twist...? I can actually celebrate? Aha, ahahahahah...! I'm number one in the character popularity poll!
-Não vai ter nenhhuma reviravolta...? Eu posso mesmo celebrar? Aha, ahahahahah...! Eu sou a número um da pesquisa de popularidade!
+Não vai ter nenhuma reviravolta...? Eu posso mesmo celebrar? Aha, ahahahahah...! Eu sou a número um da pesquisa de popularidade!
 
 #v2115And I'm number two nyeh! Wohooo! Nyeh nyeh nyeh!
 E eu sou a número dois, nyeh! Ebaaaa! Nyeh nyeh nyeh!
@@ -1822,9 +1788,7 @@ Não tem ninguém, nyeh. Derrotamos todas elas, nyeh.
 
 #v1894Huh? What the heck? ...Does that mean... 
 Hã? O quê? ...Isso quer dizer que...
-EVA BEATRICE X CHIESTER 410 FINAL
 
-JESSICA X GEORGE INÍCIO
 #v2328I'm tired of this! I hate having my role be 'the kid who gets killed' all the time!
 Estou cansada disso! Odeio que meu papel seja sempre da criança que é morta!
 
@@ -1918,11 +1882,9 @@ Acha mesmo...que vou te contar...?
 #v2308...No. I think...I know. 
 ...Não. Eu acho...que sei.
 
-JESSICA X GEORGE FINAL
 #v2214I suppose this is also one of the endings I hoped for. ...Victory is yours, Ushiromiya...George... 
 Suponho que este também seja um dois finais pelo qual ansiei. ...A vitória é sua, Ushiromiya...George...
 
-GEORGE X SHANNON INÍCIO
 #v2440Yes. ...I'll accept this engagement ring.
 Sim. ...Aceitarei este anel de noivado.
 
@@ -2013,9 +1975,7 @@ Não irei, não importa o que aconteça. ...Por favor, olhe por nos por toda a e
 
 #v2318Yes, Sayo. ...I won't ever let go of you...
 Sim, Sayo. ...Jamais deixarei que vá...
-GEORGE X SHANNON FINAL
 
-KANON X JESSICA INÍCIO
 #v2340You're a guy, aren't you?! Then be a man and spit it out! 
 Você é um cara, não é? Então seja homem e diga de uma vez!
 
@@ -2111,9 +2071,7 @@ Certo, vou compor uma música! Mantenha essa atitude e comece com a letra, Kanon
 
 #v2379Also, ...umm... This outfit is...a little embarrassing... 
 Bem, ...hmm... esta roupa é...um pouco vergonhosa...
-KANON X JESSICA FINAL
 
-ROSA X BATTLER INÍCIO
 #v2401There's no way for the culprit to escape Rokkenjima. They must be on this island. 
 Não gá como o culpado escapar de Rokkenjima. Ele deve estar nesta ilha.
 
@@ -2227,9 +2185,7 @@ Maria, fuja daqui, rápido! Vá para o oceano e nade, nade e nade!! Vá para o m
 
 #v2421Ahahahahahaha, Beatriiiiiiiiiice!!! 
 Ahahahahahaha, Beatriiiiiiiiiice!!! 
-ROSA X BATTLER FINAL
 
-ROSA X BEATRICE INÍCIO
 #v2422If you solve the riddle of the epitaph, ...you get the gold, right? 
 Se resolver o enigma do epitáfio, ...fica com o ouro para si, certo?
 
@@ -2337,9 +2293,7 @@ Ei, Maria, pare de ficar pulando! Está incomodando as outras clientes!
 
 #v2438Aaaah! I love open air baths. I love crab and sea urchin☆ It feels like my skin's getting younger. Heheh, and who knows, maybe there's a new love waiting for me...☆ 
 Aaaah! Eu amo banhos ao ar livre. Amo caranguejo e ouriço-do-mar☆ É como se a minha pele ficasse cada vez mais jovem. Heheh, e quem sabe, talvez tenha um novo amor esperando por mim...☆
-ROSA X BEATRICE FINAL
 
-BATTLER X KANON INÍCIO
 #v2381...So this is where you were, Battler-sama.
 ...Então é aqui que você estava, Battler-sama.
 
@@ -2438,9 +2392,7 @@ Aguardarei sua invocação no próximo jogo...
 
 #v2230...Battler. When will you come back to me...?
 ...Battler, quando você voltará para mim...?
-BATTLER X KANON FINAL
 
-JESSICA X SHANNON INÍCIO
 #v2451Romance is what being a girl is all about. It would be wonderful if there were a ritual that could bring you love. 
 Romance é tudo sobre uma garota. Seria maravilhoso se tivesse um ritual para poder trazer seu amado.
 
@@ -2539,9 +2491,7 @@ Hohohoh.... ...A propósito, se não se importar, eu gostaria de uma para mim...
 
 #v2397...I-It would seem all women are without mercy... I, Ronove, h-have been utterly defeated... 
 ...Parece que as mulheres não tem misericórdia... Eu, Ronove, fui completamente derrotado...
-JESSICA X SHANNON FINAL
 
-ANGE X VIRGILIA INÍCIO
 #v2275What, are you blind? Anyone could tell by looking! 
 Você é cega? Qualquer um pode dizer só de olhar!
 
@@ -2631,11 +2581,9 @@ A-Ange, o que são esses livros finos?! Sou eu na capa de cada um deles?! Que ti
 #v2286It's a world you don't need to know about, Onii-chan. ...Or maybe you want to know? ...That could be fun. Virgilia, if you would. 
 É um mundo que você não precisa conhecer, onii-chan. ...Ou talvez queira conhecer? ...Seria divertido. VIRGILIA, se não se importar.
 
-ANGE X VIRGILIA FINAL
 #v2474Now, Battler-kun, we will begin your education on the deeeep world of slash fiction. Heheheheheheheheheheh...!! 
 Certo, Battler-kun, vamos começar sua educação no profuuundo mundo da ficção de formar casais. Heheheheheheheheheheh...!!
 
-RONOVE X GEORGE INÍCIO
 #v6344You certainly do exhibit excellent conduct, have a superb academic background, and possess great skill in the martial arts, George-sama. 
 Você certamente exibe uma excelente conduta, tem um registo acadêmico esplêndido e possui ótimas habilidades nas artes marciais, George-sama.
 
@@ -2727,11 +2675,9 @@ Há um último passo para se tornar um homem verdadeiramente sexy. Eu me pergunt
 #v6351Brawn, muscle, and a smile! That's the ticket! Life as a hunk is now within your grasp!! 
 Músculos, força e sorriso! É isto! Você alcançou o status de um garanhão!
 
-RONOVE X GEORGE FINAL
 #v6241Yes, now I'm a real man! Say goodbye to that sniveling wuss who had no confidence in himself!! I'm the sexiest! Wahahahahahahah!!
 Sim, agora sou um homem de verdade! Diga adeus para aquele marica que não tinha confiança em si mesmo!! Eu sou o mais sexy! Wahahahahahahah!!
 
-GEORGE X BEATRICE INÍCIO
 #v6242Hey, if it isn't Beato. Why did you call me to a place like this? 
 Ei, se não é a Beato. Por que me chamou para um lugar desses?
 
@@ -2830,9 +2776,7 @@ Não deixarei que fique com o meu mundo. ...Vamos ver do que é capaz, Battler-k
 
 #v6391I-I'd say it was a healthy sort of dr-dream for a boy... Please stop crying, George-san... ...*giggle* 
 E-Eu diria que foi um s-sonho saudável de um garoto... Por favor, pare de chorar, George-san... ...*risos*
-GEORGE X BEATRICE FINAL
 
-ROSA X EVA INÍCIO
 #v6361I solved the epitaph too, right? Don't you think it's only fair that I also become a witch? 
 Eu também resolvi o epitáfio, certo? Não acha que é justo que eu me torne uma bruxa também?
 
@@ -2903,7 +2847,7 @@ Nnngg... Disculpa, Garota Mágica Rosa-sam...
 Vocês tem sorte da Rosa ser boazinha. Ambas ainda estão reconhecíveis.
 
 #v6368Beatrice! I won three times! Grant me my wish!!
-BEATRICE! Eu venci três venzes! Conceda meu desejo!!
+BEATRICE! Eu venci três vezes! Conceda meu desejo!!
 
 #v6076Indeed, indeed! Well then, I shall grant your magical girl wish!
 Sim, de fato! Pois bem, eu devo conceder seu desejo de garota mágica! 
@@ -2929,9 +2873,6 @@ Eh? Que inveja! São tão fofas! Eu também quero agora!!
 #v6471...P-Perhaps it wouldn't be so bad...if I joined in... *blush*... 
 ...Talvez não seja tão ruim...se eu me juntar... *corada*...
 
-ROSA X EVA FINAL
-
-ROSA X CHIESTER 410 INÍCIO
 #v6418...Did you call for me nyeh, Black Witch Rosa-sama?
 ...Chamaste por mim, nyeh? Bruxa da Escuridão, Rosa-sama?
 
@@ -2948,6 +2889,7 @@ Anda, é hora de arrumar as coisas. Tudo, tudo, tudinho...
 T-Tia Rosa?! O que está tentando fazer?!
 
 #v6374It looks like you've been playing a bit too roughly. ......It's time to tidy up, Ange-chan. 
+Parece que você tem brincado de forma meio bruta. ......Está na hora de arrumcar as coisas, Ange-chan.
 
 #v6420You can't disobey the Black Witch nyeh! Stop struggling and let yourself get tidied up nyeh!
 Você não pode desobedecer a Bruxa da Escuridão, nyeh! Pare de resistir e deixe ser arrumada, nyeh!
@@ -2964,9 +2906,11 @@ Vamos começar!! Não deixarei um fragmento de ninguém para trás!!!
 #v6145Stop, don't destroy our dreams...!! Nooooooooo!!
 Pare, não destrua nossos sonhos...! Nãooooooooo......!!
 
-#v6376Forgive me, Ange-chan, but all dreams must end. 
+#v6376Forgive me, Ange-chan, but all dreams must end.
+Perdoe-me, Ange-chan, mas todos os sonhos devem chegar ao fim.
 
 #v6421The Black Witch has no mercy nyeh... Ange, you should give up too, nyeh... 
+A Bruxa da Escuridão não demonstra pena, nyeh... É melhor desistir também, nyeh...
 
 #v6377Get it absolutely clean, without a smidgen of dirt. *giggle*giggle*giggle*!
 Fiquem completamente limpa, sem um traço de sujeira. *risos*risos*risos*!
@@ -3021,9 +2965,7 @@ O quê?! Tudo menos a caixa de brinquedos escura, nyeeeh!!
 
 #v6384Come now, tidy up, tidy up! Maria! It's time for a lecture, so get over here! But wash your hands and rinse your mouth first! 
 Anda, vamos arrumar as coisas! Maria! Está na hora do seu sermão, então venha aqui! Mas lave suas mãos e escove seus dentes primeiro!
-ROSA X CHIESTER 410 FINAL
 
-ERIKA X ANGE INÍCIO
 #v6164Amakusa was planning to kill you. It's an easy bit of reasoning that anyone could reach. 
 O Amakusa estava planejando matá-la. É um raciocínio simples que qualquer um poderia concluir.
 
@@ -3113,9 +3055,7 @@ Então, para onde devemos ir? Se voltarmos para o porto, eles provavelmente esta
 
 #v6176Isn't it obvious? We'll take a boat to the horizon. Beyond that lies the place we truly seek. 
 Não é óbvio? Vamos pegar o barco em direção ao horizonte. Além de onde reside o lugar pelo qual realmente almejamos.
-ERIKA X ANGE FINAL
 
-DIANOR X VIRGILIA INÍCIO
 #v6107It has been too LONG. I have come for some TEA. 
 Há quanto TEMPO. Vim para bebermos um CHÁ.
 
@@ -3204,11 +3144,9 @@ Oooh, então você compreende a beleza deste mundo também! Vamos esmiuçar o g�
 #v6118A new kind of mystery with two men locked in a closed ROOM! I think I'm awakening to SOMETHING...!!
 Um novo tipo de mistério com dois homens em um quarto FECHADO! Sinto que estou despertando alguma COISA...!! 
 
-DIANOR X VIRGILIA FINAL
 #v6479St-Stop it, you two!! And Beato, don't turn the pages so fast! I can't read the words!! 
 P-Parem, vocês duas!! Não vire as páginas tão rápido, Beato! Não consigo ler assim!!
 
-BLACK BATTLER X SHANNON INÍCIO
 #v6053...Oh, it's you. ...Are you still here? 
 ...Oh, é você. ...Ainda por aqui?
 
@@ -3307,9 +3245,7 @@ Neste caso, devo oferecer também o meu coração. ...Por favor, arranque-o do m
 
 #v6066Everyone's...dead. ...That's right. I killed them. ...Do you get it now? I...am the culprit of these crimes. ...Heheheh, hahahahahahahahahah... 
 Todos estão...mortos. ...Isso mesmo. Eu os matei. ...Entendeu agora? Eu...sou o culpado de todos esses crimes....Heheheh, hahahahahahahahahah...
-BLACK BATTLER X SHANNON FINAL
 
-ERIKA X DIANOR INÍCIO
 #v6121With that, we have completely proven alibis for everyone but the SUSPECT. 
 Com isso, nós provamos os álibis de todos exceto o SUSPEITO.
 
@@ -3405,9 +3341,7 @@ I-Isso está errado, está tudo errado! Esse raciocínio é exagerado demais, mi
 
 #v6265<Come on baby, come on baby, yeeeeeeeah!!> 
 Come on baby, come on baby, yeeeeeeeah!!
-ERIKA X DIANOR FINAL
 
-WILLARD X KANON INÍCIO
 #v6283There's only one thing I want! Strength, and nothing more...! 
 Há apenas uma coisa que eu quero! Força, e nada mais...!
 
@@ -3458,7 +3392,9 @@ Algo na qual você não pode vencê-los... Seria a sua altura?
 
 #v6179You're short, pale, weak, and you wear shooooooooorts! How could you not be embarrassed as a man, Kyaannon-saaaaaaaaaan?!?! 
 Você é baixo, pálido e usa um shoooooooort! Como homem, como não fica envergonhado disso, Kyaannon-saaaaaaaaaan?!?! 
+
 #v6439Overcome it, Kanon...!! Let out all of that inner rage...!! 
+Supere, Kanon...!! Libere toda a sua raiva interior...!!
 
 #v6440Kanon, why are you hanging your head? You've shown your strength as a man...!
 Por que está baixando a cabeça, Kanon? Você demonstrou sua força como homem...!
@@ -3492,9 +3428,7 @@ Shh! ...Não ignore o coração.
 
 #v6294I'm...not short anymore... Hahahah, ahahahahahah...!! 
 Eu...não sou mais pequeno... Hahahah, ahahahahahah...!!
-WILLARD X KANON FINAL
 
-WILLARD X DIANOR INÍCIO
 #v6445To think that you and I would join forces. ...How gracious of the Great Court. 
 Quem imaginaria que nós iríamos juntar nossas forças. ...Quanta generosidade vinda da Grande Corte.
 
@@ -3587,9 +3521,7 @@ As bruxas assustadoras não vão mais aparecer nos meus sonhos...?
 
 #v6411That's right, they won't. ...So sleep peacefully, Ange-sama... 
 Isso mesmo, elas não vão. ...Por isso, durma tranquila, Ange-sama...
-WILLARD X DIANOR FINAL
 
-LAMBDADELTA X JESSICA INÍCIO
 #v6313So basically, George and Shannon's Okinawa vacation made you so jealous that you two want to go on a vacation too? 
 Resumindo, o George e a Shannon foram tirar férias em Okinawa e você ficou com inveja e quer viajar também?
 
@@ -3624,6 +3556,7 @@ Como desejar... Irei falar com o Genji sobre conceder férias ao Kanon-kun.
 O-Obrigada, Ronove! Desculpa, Shannon! Mas não tem nada de errado em irmos tirar férias em Okinawa, né? Né?!
 
 #v6316That puts Kanon's vacation in the bank. Next up is actually asking him out! Do you have the resolve... the certain willpower to do that? 
+Isso coloca as férias do Kanon na linha. O próximo passo é convidá-lo para ir! Você tem a determinação... a força de vontade absoluta para fazer isso?
 
 #v6272Y-Yes, I do...!! I-I'll definitely ask Kanon-kun to go on a vacation with me!! 
 S-Sim, eu farei...!! E-Eu definitivamente vou convidar o Kanon-kun para tirar férias comigo!!
@@ -3678,9 +3611,7 @@ O quê? Você planejava ir sem a Lambda-chan-sama?
 
 #v6323Don't worry, I'm not such a boor that I'd get in the way of two lovers. Aaah, blue seas, beautiful coral reefs. Nothing to worry about except not putting on enough sunscreen. I guess some kokuto candies should do as a souvenir for Bern.
 Não se preocupe, não sou do tipo de mete a colher no amor dos outros. Aah, o céu azul, os lindos recifes de coral. Nada para se preocupar além de não usar protetor solar o bastante. Acho que uns doces kokuto devem ser um bom souvenir para a Bern.
-LAMBDADELTA X JESSICA FINAL
 
-BERNKASTEL X WILLARD INÍCIO
 #v6454What do you want? ...If you're gonna tear me up, make it quick. 
 O que quer? ...Se vai me dilacerar, seja rápida.
 
@@ -3771,11 +3702,9 @@ Dando um passeio. ...Melhor, num encontro. Eu estava vagando por aí com um boni
 #v6193A-A-A date?! Even though you have me, my masteeeeeeer?!!
 E-E-Encontro?! Mesmo tendo a mim, minha mentoraaaaaa?!
 
-BERNKASTEL X WILLARD FINAL
 #v6495...Cats really are fickle, aren't they? *giggle* ...Hahahahah.
 ...Gatos são mesmo caprichosos, não são? *risos* ......Hahahahah.
 
-BERNKASTEL X ERIKA INÍCIO
 #v6194My master, we've finished preparations for our attack on the Golden Land. We can destroy it whenever you please. 
 Minha mentora, nós terminamos os preparativos para nosso ataque à Terra Dourada. POdemos destruir tudo assim que desejar.
 
@@ -3868,9 +3797,7 @@ Vamos, minha mentora. Tenho certeza que encontraremos outro tabuleiro que irá c
 
 #v6507You're right. ...Then let's sleep, like a bottle amidst the waves. ...We'll sleep for a thousand years...until we run across a beach sometime, somewhere... 
 Você está certa. ...Então vamos dormir, como uma garrafa em meio às ondas. ...Vamos dormir por milhares de anos...até encalharmos em alguma praia, em algum lugar...
-BERNKASTEL X ERIKA FINAL
 
-LAMBDADELTA X CHIESTER 410 INÍCIO
 #v6425Tadaaa! This pink arrow here is today's prize nyeh! 
 Tadããã! Este arco rosa é o prêmio do dia, nyeh!
 
@@ -3889,7 +3816,8 @@ Venham por aqui para lutarem pela Casamenteira, nyeh! Venham um, venham todos, n
 #v6267If we're talking about a magical item that can make romance come true, I can't just sit around!!
 Se estamos falando de um item mágico que pode concretizar o romance, não posso só ficar sentada olhando!!
 
-#v6412I-If we'll do, let us challenge you too...! 
+#v6412I-If we'll do, let us challenge you too...!
+S-Se vamos fazer isso, nos deixe desafiar você também...!
 
 #v6302Sure! We'll happily take all comers! Come on, let's see what you've got! 
 Claro! Aceitarei com muito prazer todos que vierem! Vamos, deixem-me ver qual é a de vocês!
@@ -3901,7 +3829,7 @@ Bem-vindas, Jessica-chan, Shannon-chan! Aguarde ansiosas pelo nosso excelente se
 Puxa, que pena! Boa sorte na próxima!!
 
 #v6429Nihihihi! Now to suck up the romantic energy from the two losers nyeh!
-Nihihihi!
+Nihihihi! Agora sugue a energia romântica desses perdedores, nyeh!
 
 #v6304Just as you'd expect from a pair of maidens starving for love. The pink energy just keeps charging up higher and higher. 
 O esperado de um par de donzelas sedentas pelo amor. A energia rosa continua carregando e aumentando cada vez mais.
@@ -3966,9 +3894,6 @@ Não vou devolver esse arco do amor! Ele será o meu arco...e meu amor com minha
 #v6312Let go, Erika!! This arrow is mine!! ...Wha, aaah! It hit Erika's chest?!?! 
 Solte-o, Erika!! Esse arco é meu!! ...Wha, aaah! Ele acertou o peito da Erika?!?!
 
-LAMBDADELTA X CHIESTER 410 FINAL
-
-BERNKASTEL X LAMBDADELTA INÍCIO
 #v6324Hey, Bern. How do you want to play today? I mean, we've played almost everything, and I'm getting bored. 
 Ei, Bern. Como quer brincar hoje? Afinal, já jogamos praticamente tudo e estou ficando entediada.
 
@@ -4067,9 +3992,6 @@ Pergunto-me se algum dia alguém fará outro jogo interessante. Será muito dive
 
 #v6527...*giggle* ...*giggle*giggle*. It's really not so bad to talk philosophy every now and then. 
 ...*risos* ...risos*risos*. Não é tão ruim falar filosoficamente de vez em quando.
-BERNKASTEL X LAMBDADELTA FINAL
-
-------------LINHAS PERDIDAS DE CADA HISTÓRIA------------
 
 #v0214Dammit, and I was so close to becoming the real Battler...!
 Merda, eu estava tão próximo de me tornar o verdadeiro Battler...!
@@ -4448,7 +4370,6 @@ O que são bruxas? O que é magia? ...Estou ficando com dor de cabeça.
 
 #v1419I've been hit all over. Both my head and my body ache... 
 Fui golpeada por todo corpo. Minha cabeça e meu corpo doem...
-
 
 #v0379Shave off that mustache. And enough with that hair, and the monocle too! 
 Barbeie esse bigode. E já deu desse cabelo, e desse monóculo também!
@@ -13603,7 +13524,7 @@ Eu fui capaz de ser útil, ojou-sama...?
 É claro! Só de ter você ao meu lado é como ter um exército dando cobertura!
 
 #v2983Kanon-kun! You weren't injured, were you? Does it hurt anywhere? 
-Kanon0kun! Você não se machucou, né? Tá doendo em algum lugar?
+Kanon-kun! Você não se machucou, né? Tá doendo em algum lugar?
 
 #v3076...That should be my line... ...How...pathetic I am... 
 ...Essa fala deveria ser minha... ...Como...eu sou patético...
