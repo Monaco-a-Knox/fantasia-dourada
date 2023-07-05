@@ -1,0 +1,19 @@
+Esse arquivo é feito para decodificar as letras que foram adicionadas ao ASCII do jogo. É um guia para as modificações feita na fonte Arno para a criação da ArnoKastel.
+
+&=á
+'=í
+<=ô
+{=ã
+}=ç
+*=à
++=é
+#=ê
+$=ó
+%=ú
+[=Á
+=À
+]=É
+^=Ê
+_=Ó
+`=Ã
+|=Ç
