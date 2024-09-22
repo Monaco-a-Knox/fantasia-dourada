@@ -25492,7 +25492,7 @@
 
 #v3635「お前と戦うのは楽しいなぁ。#r　……楽し過ぎて楽し過ぎて、つい壊しそうになっちまう」
 #v3635Fighting you is fun. ...It's so, so fun, that not breaking you is hard.
-#v3635Lutar com você é divertido. ...É tão, tão divertido que não destroçar você é difícil.
+#v3635Lutar com você é divertido, sabia? ...É tão divertido que fica até difícil não destroçá-lo.
 
 #v3636「いいぜ。……許してやるよ。#r　……お前のその涙でぐちゃぐちゃの顔が愛しいから」
 #v3636Sure. ...I'll spare you. ...I just love that warped, tear-stained face, after all.
@@ -25504,7 +25504,7 @@
 
 #v3638「俺の靴の裏を、丹念に舐めて綺麗にしろ。#r　……嫌なら、好きな前歯を選ぶんだな」
 #v3638Lick the soles of my shoes carefully and get them clean. ...If you don't want to, pick a front tooth of your choice.
-#v3638Lamba a sola dos meus sapatos gentilmente e deixe-os limpos. ...Se não quiser, pode começar escolhendo um dente da frente.
+#v3638Lamba minusciosamente a sola dos meus sapatos e deixe-os limpos. ...Se não quiser, pode começar escolhendo um dente da frente.
 
 #v3639「ノックス十戒？#r　……お前の唇は、これからは別のものを囁くのに使え…」
 #v3639The Knox Decalogue? ...Use those lips of yours to whisper something else to me from now on...
@@ -25528,11 +25528,11 @@
 
 #v3644「魔術師狩りのライト？#r　……違うね。俺がお前を狩ってやった。#r　くっくくくく…」
 #v3644Wizard-Hunting Wright? ...Wrong. I just hunted you. *cackle*cackle*...
-#v3644Wizard-Hunting Wright? ...Errado. Eu que cacei você. *gargalhada*gargalhada*
+#v3644Wizard-Hunting Wright? ...Errado. Eu que a caçei. *gargalhada*gargalhada*
 
 #v3645「ヴァンダイン二十則？#r　……そんなのに縛られてちゃ窮屈だろ。#r　ほら、これで楽になった…」
 #v3645Van Dine's Twenty Rules? ...Being bound by those is too constraining. See, now you can rest...
-#v3645As Vinte Regras de Van Dine? ...Começar restringindo por elas é tão constrangedor. Viu só, agora você pode descansar...
+#v3645As Vinte Regras de Van Dine? ...Começar restringindo por elas é tão constrangedor. Viu só? Assim fica mais fácil...
 
 #v3646「……悲しいよ。#r　だんだんお前の体が冷えてくる。#r　……俺は壊してしか、愛せない」
 #v3646...How sad. Your body's getting colder and colder. ...I can't love what I can't break.
@@ -25544,7 +25544,7 @@
 
 #v3648「……泣いてもいいんだぜ。#r　……お前の泣き声が聞きたい。………聞かせてくれ」
 #v3648...Go ahead and cry. ...I want to hear you sob. ...Let me hear it.
-#v3648...Vá em frente e chore. ...Quero ouvir você soluçar. ...Deixe-me ouvir.
+#v3648...Vá em frente e chore. ...Quero ouvi-la soluçar. ...Deixe-me ouvir.
 
 #v3649「よくぞ、俺を呼び出してくれた。#r　……だからお前には特別に、やさしくしてやるよ…」
 #v3649Congratulations on summoning me here. ...That's why I'll be extra nice to you...
@@ -25560,7 +25560,7 @@
 
 #v3652「もう一度喚いたら、その小枝みたいな指を折ってやるよ。#r　………そうだ、いい子だな」
 #v3652If you cry out again, I'll break one of those twig-like fingers. ......Yes, that's a good girl.
-#v3652Se chorar de novo, irei quebrar um desses seus dedos velhos. ......Isso mesmo, boa garota.
+#v3652Se chorar de novo, quebrarei um desses seus dedinhos. ......Isso mesmo, boa garota.
 
 #v3653「いい表情だ。#r　……追い詰められた小動物のそれ。#r　……最高にいい表情だぜ…」
 #v3653Nice expression. ...Just like a small, cornered animal. ...Simply excellent...
@@ -25580,11 +25580,11 @@
 
 #v3659「いい顔してるぜ、夢の続きは向こうで見るんだな」
 #v3659That's a good expression. Watch the rest of your dream on the other side.
-#v3659Essa é uma ótima expressão. Presencie o resto do seu sonho do outro lado.
+#v3659Que expressão incrível. Presencie o resto do seu sonho do outro lado.
 
 #v6531「フッハハハ……。俺と一つになるか？」
 #v6531Hehahahah... Wanna become one with me?
-#v6531Hehahahah... Quer se juntar a mim?
+#v6531Hehahahah... Quer se tornar um comigo?
 
 #v3657「お前は俺に勝てないよ」
 #v3657You cannot defeat me.
@@ -25604,7 +25604,7 @@
 
 #v6549「こいつは見モノだぜ」
 #v6549This'll be a sight to see.
-#v6549Essa será uma visão e tanto.
+#v6549Vale a pena apreciá-lo.
 
 #v6550「暴力と快楽、お前は両方欲しいんだろォ？」
 #v6550Violence and pleasure. You want both, don't you?
@@ -25680,7 +25680,7 @@
 
 #v6536「楽しかったぜ…。#r　おい、聞いてんのかァ？　アアン？」
 #v6536That was fun... Hey, are you listening to me? Huuh?
-#v6536Foi divertido... Ei, está ouvindo? Hããã?
+#v6536Foi divertido... Ei, tá ouvindo? Hããã?
 
 #v3657「お前は俺に勝てないよ」
 #v3657You can't defeat me.
@@ -25696,7 +25696,7 @@
 
 #v3665「今日じゃねぇ。#r　……お前を本当に美味しくいただくなら、#r　それは今夜じゃねぇ…」
 #v3665Not today. ...If I really want to eat you up, it won't be tonight...
-#v3665Hoje não. ...Se eu realmente quiser devorar você, não será esta noite...
+#v3665Hoje não. ...Se eu realmente quisesse devorá-lo, não seria esta noite...
 
 #v3659「いい顔してるぜ、夢の続きは向こうで見るんだな」
 #v3659I like that look on your face. Keep dreaming like that on the other side.
@@ -25716,7 +25716,7 @@
 
 #v3664「嫌われちまったな。……だが、また来るぜ。#r　……また、次の悪夢でな」
 #v3664It looks like you hate me. ...But I'll see you again. ...Again, in your next nightmare.
-#v3664Parece que você me odeia. ...Mas nós nos veremos de novo. ...Novamente, em seu próximo pesadelo.
+#v3664Parece que me odeia. ...Mas nós nos veremos de novo. ...Novamente, em seu próximo pesadelo.
 
 #v6537「いっひひひひ、ひっははっはっはっはっはッ！！」
 #v6537Ihihihihihi, hyahahahahahah!!
