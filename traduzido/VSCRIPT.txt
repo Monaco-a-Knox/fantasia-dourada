@@ -1052,7 +1052,7 @@
 
 #v2005「やれやれ。飽きない二人ですな。#r　ですがそろそろ、お茶の時間が良いでしょう」
 #v2005My, my. Boredom certainly isn't a problem with those two around. However, it is about time for some tea.
-#v2005Ora, ora. O tédio certamente não é um problema com aqueles dois por perto. Contudo, está na hora de um pouco de chá.
+#v2005Francamente. O tédio certamente não é um problema com aqueles dois por perto. Contudo, está na hora de um pouco de chá.
 
 #v1600「お前のかーちゃん、デーベソー！#r　アンポンタンのオタンコナース！」
 #v1600Because yo mama's so fat, you pea-brained dingbat!
@@ -2012,7 +2012,7 @@
 
 #v1662「いやその、……二人とも素早いからその、よくわからなかった☆#r　　わははは…」
 #v1662Well, umm... Both of you are so fast, I couldn't tell�� Wahahaha...
-#v1662Bem, hmm... Ambossão rápidos, então não sou capaz de dizer☆ Wahahaha...
+#v1662Bem, hmm... Ambos são rápidos, então não sou capaz de dizer☆ Wahahaha...
 
 #v2165「「それじゃ困る！！#r　もう一回戦って、よく比較して下さい！！」」
 #v2165You can't leave it at that!! Fight us again, and pay attention this time!!
@@ -2292,7 +2292,7 @@
 
 #v1883「私より人気あるキャラは、ここで消えてもらうわぁ、#r　覚悟なさいッ！」
 #v1883I need all the characters more popular than me to disappear, so prepare yourself!
-#v1883Eu preciso que todos os personagens mais populares que eu desapareçam, então preparem-se!
+#v1883Preciso fazer com que todas as personagens mais populares que eu desapareçam, então preparem-se!
 
 #v1821「いい年して、若い子と人気投票で張り合うなんてやめなさいよ。#r　年甲斐もなく」
 #v1821At your age, you'd be better off not trying to take on kids in a popularity poll. And speaking of age, it's about time you started acting yours.
@@ -2308,11 +2308,11 @@
 
 #v2110「世紀末が終わっても、力こそが正義にぇ。にぇにぇ！」
 #v2110And in this century, power is still justice nyeh. Nyeh nyeh!
-#v2110E neste século, poder ainda é justiça, nyeh. Nyeh nyeh!
+#v2110Mesmo ao fim deste século, poder ainda será justiça, nyeh. Nyeh nyeh!
 
 #v1886「これで私たちは人気投票の１位を奪えたかしら？」
 #v1886Did that grab us the top spot yet?
-#v1886Isso já nos levou para o topo?
+#v1886Com isso nós chegamos ao topo das pesquisas?
 
 #v2111「ネットで見る限り、まだまだライバルが多いですにぇ」
 #v2111Checking the web, and it looks like we've still got plenty of rivals left nyeh.
@@ -2768,7 +2768,7 @@
 
 #v2401「この六軒島から犯人が逃れる方法はない。#r　犯人は必ずこの島にいるわ」
 #v2401There's no way for the culprit to escape Rokkenjima. They must be on this island.
-#v2401Não gá como o culpado escapar de Rokkenjima. Ele deve estar nesta ilha.
+#v2401Não tem como o culpado escapar de Rokkenjima. Ele deve estar nesta ilha.
 
 #v2240「……叔母さんはまさか、#r　……俺たちの誰かが犯人とは思ってないよな…？」
 #v2240...Aunt Rosa, don't tell me...that you think one of us is behind it...
@@ -3056,11 +3056,11 @@
 
 #v2437「ほらッ、真里亞、はしゃがないの！#r　他のお客さんに迷惑でしょ！」
 #v2437Hey, Maria, stop jumping around! You're bothering the other patrons!
-#v2437Ei, Maria, pare de ficar pulando! Está incomodando as outras clientes!
+#v2437Ei, Maria, se aquieta! Está incomodando as outras clientes!
 
 #v2438「はーーッ！　露天で一杯は最高ね。#r　カニもウニも最高だわ☆　お肌も若返っちゃいそう。#r　ウッフフ、新しい恋が、また始まっちゃったりしてね…☆」
 #v2438Aaaah! I love open air baths. I love crab and sea urchin�� It feels like my skin's getting younger. Heheh, and who knows, maybe there's a new love waiting for me...��
-#v2438Aaaah! Eu amo banhos ao ar livre. Amo caranguejo e ouriço-do-mar☆ É como se a minha pele ficasse cada vez mais jovem. Heheh, e quem sabe, talvez tenha um novo amor esperando por mim...☆
+#v2438Aaaah! Nada melhor que beber em um banhos ao ar livre. Melhor ainda com caranguejos e ouriços-do-mar☆ É como se a minha pele ficasse cada vez mais jovem. Heheh, e quem sabe, talvez tenha um novo amor esperando por mim...☆
 
 #v2381「……戦人さま。#r　こちらにいらっしゃいましたか」
 #v2381...So this is where you were, Battler-sama.
@@ -3076,15 +3076,15 @@
 
 #v2256「退屈だな」
 #v2256This is boring.
-#v2256Isso é chato.
+#v2256Que tédio.
 
 #v2383「……退屈、とは…？」
 #v2383...Boring...?
-#v2383...Chato...?
+#v2383...Tédio...?
 
 #v2257「俺の事件に抗えるチャンスを、与えてやろうじゃねぇか。#r　……くっくくくくくくく！」
 #v2257How about I give them a chance to fight back against my crimes? ...Heheheheheheheh!
-#v2257Que tal dar a eles uma chance de lutar contra os meus crimes? ...Heheheheheheheh!
+#v2257Que tal dar a eles uma chance de revidar contra os meus crimes? ...Heheheheheheheh!
 
 #v2353「戦人ッ？！#r　こ、これはどういう冗談だよ？！」
 #v2353Battler?! Wh-What kind of joke is this?!
@@ -3144,7 +3144,7 @@
 
 #v2323「お互い、もう茶番はやめようじゃないか。#r　……君の処遇を、警察に委ねたりはしないよ」
 #v2323How about we both stop pretending? I won't wait for the police to decide what to do with you.
-#v2323Que tal ambos pararem de fingir? Não vou esperar até que a polícia decida o que fazer com você.
+#v2323Que tal ambos pararem de fingir? ...Não vou esperar até que a polícia decida o que fazer com você.
 
 #v2265「いい表情だぜ。#r　……へ、…はっはははははははは！　ようやく笑えて来たぜ！#r　これでお開きにしようぜ、この退屈なパーティーをよ！」
 #v2265I like that look on your face. ...Heh, ...hahahahahahahaha! I'm finally starting to laugh! Let's put an end to this boring party!
@@ -3152,7 +3152,7 @@
 
 #v2324「……わからない…。#r　どうして、君がこんなことを……、#r　しなくちゃならないんだ……」
 #v2324...I don't get it... Why would you...have to do something like that...?
-#v2324...Eu não entendo... Por que você...fari algo assim...?
+#v2324...Eu não entendo... Por que você...faria algo assim...?
 
 #v2266「へっ。俺に犯行が可能だった。#r　ただそれだけの物語だぜ」
 #v2266Heh. The crime was possible for me. That's all this tale is about.
@@ -3196,23 +3196,23 @@
 
 #v2451「恋をしてこそ女の子ですもの。#r　恋を叶えるおまじないがあれば素敵ですよね」
 #v2451Romance is what being a girl is all about. It would be wonderful if there were a ritual that could bring you love.
-#v2451Romance é tudo sobre uma garota. Seria maravilhoso se tivesse um ritual para poder trazer seu amado.
+#v2451Romance é tudo para uma garota. Seria maravilhoso se tivesse um feitiço para encontrar meu amor.
 
 #v2356「意中の人の心をズバッと射止めるような、#r　うまい話はないかな～！」
 #v2356Yeah, could there be something really convenient, like shooting an arrow through the heart of the person you're after?!
-#v2356Sim, pode ser que tenha algo bem conveniente, tipo atirar através do coração da pessoa que você gosta com um arco?!
+#v2356Será que não tem nada conveniente, tipo atirar com um arco no coração da pessoa que você gosta!
 
 #v2452「ベアトリーチェさま。#r　異性の心を射止めるような、#r　そんな魔法のアイテムはないんですか…？」
 #v2452Beatrice-sama, don't you have any magical items that could shoot an arrow through the heart of the opposite sex...?
-#v2452BEATRICE-sama, você não tem nenhum item que possa atirar com um arco através do coração do sexo oposto...?
+#v2452BEATRICE-sama, você não tem nenhum item mágico que possa enfeitiçar o coração do sexo oposto...?
 
 #v2231「魔界の薔薇には異性の心を奪う魔力があるぞ。#r　もっとも、滅多に咲いてはおらぬのだが」
 #v2231Roses of the demon world do have the power to steal hearts. However, they only bloom rarely.
-#v2231Rosas do mundo dos demônios têm o poder de roubar corações. Contudo, sua floração é muito ocasional. 
+#v2231Rosas do mundo dos demônios têm o poder de enfeitiçar corações do sexo oposto. Contudo, sua floração é muito ocasional. 
 
 #v2357「異性を射止める魔界の薔薇…。#r　……探してみようぜ！　そして私たちの恋を叶えよう！」
 #v2357A demon rose that can strike at the heart of the opposite sex... ...Let's look for it! And make our love come true!
-#v2357Uma rosa demoníaca que pode acertar o coração do sexo oposto... ...Vamos procurá-la! E tornar nosso amor realidade! 
+#v2357Uma rosa demoníaca que pode acertar o enfeitiçar o coração do sexo oposto... ...Vamos procurá-la! E tornar nosso amor realidade! 
 
 #v2461「魔界の薔薇？#r　つい最近、見たにぇ」
 #v2461A rose of the demon world? I saw some just the other day nyeh.
@@ -3252,7 +3252,7 @@
 
 #v2389「これは一体、何なのよー！#r　私は居合わせただけなのに巻き込まれてボロボロよー！#r　あーん！！」
 #v2389What the hell is going on here?! I was just standing next to her, and then I got beat up! Waaaah!!
-#v2389Que merda está acontecendo aqui?! Eu só fiquei próxima dela e fui derrotada! Waaaah!!
+#v2389Que merda está acontecendo aqui?! Eu levei uma surra só por ficar próxima dela! Waaaah!!
 
 #v2392「魔界の薔薇…？#r　はて。私には心当たりがありませんが」
 #v2392Roses of the demon world...? Well now, I'm afraid I haven't the slightest idea.
@@ -3356,7 +3356,7 @@
 
 #v2278「あんたの意見も聞かせてちょうだい。#r　もちろん、私と同じ意見よね？！」
 #v2278Give us your take on this too. Of course, you agree with me, right?!
-#v2278Nos dê sua opinião sobre isso também. É claro, desde que concorde comigo, certo?!
+#v2278Nos dê sua opinião sobre isso também. É claro, desde que concorda comigo, né?!
 
 #v2232「はぁ？　寝言は寝て言えぃ！#r　そもそも妾のであろうが！#r　どちらの意見も却下だ、却下！」
 #v2232Huh? What is this drivel?! And anyway, 'that' belongs to me! Both of your opinions are rejected!
@@ -3596,19 +3596,19 @@
 
 #v6069「出でよエヴァ！#r　譲治の愚かな婚約を打ち砕いてしまえぃ！」
 #v6069Arise, EVA! Destroy George's foolish engagement!
-#v6069Venha, EVA! Destrua o tolo noivado do George
+#v6069Venha, EVA! Destrua o tolo noivado do George!
 
 #v6212「あぁ、馬鹿な譲治！#r　母さんがあなた好みの婚約者を用意してあげたのに！」
 #v6212Aaah, stupid George! I even found you a fiancee who was your type!
-#v6212Aaah, George, seu idiota! Eu até mesmo encontrei uma noiva que era o seu tipo!
+#v6212Aaah, George, seu idiota! Sua mãe chegou até a encontrar uma noiva que fazia seu tipo!
 
 #v6352「黒髪長髪、色白巨乳！#r　貞淑で何でも尽くしてくれちゃう、それはそれは素敵な婚約者#r　でしたのにッ、ん～～～、残念ッ！！」
 #v6352Dark hair, pale skin, and massive breasts! She would have been a wonderful fiancee, both faithful and willing to devote herself to you entirely, but...ooooooh, too bad!!
-#v6352Cabelos negros, pele clara e seios enormes! Ela teria sido uma noiva maravilhosa,  leal e disposta a se devotar inteiramente a você, mas...oooooh que peba!
+#v6352Longos cabelos negros, uma pele imaculada e seios enormes! Poderia ter sido uma noiva maravilhosa, pura e devotada inteiramente a você, mas... ahhhh... que pena!
 
 #v6244「く、黒髪長髪、……色白、きょ、巨乳……！#r　ぐ、……ぅぐぐ………！」
 #v6244L-Long, dark hair...with fair skin and massive b-breasts...! Hnng...nnnggg...!
-#v6244C-Cabelos negos...com uma bela pele e s-seis enormes...!Hnng...nnnggg...!
+#v6244L-Longos cabelos negos...com uma pele imaculada e s-seis enormes...!Hnng...nnnggg...!
 
 #v6070「くっくくく！　どうだ、譲治よ！#r　これでもまだ紗音だけを愛せるかぁ？　んん～？！」
 #v6070*cackle*cackle*! What do you say, George?! Can you still love Shannon after that? Huuuuh?!
@@ -3620,11 +3620,11 @@
 
 #v6213「譲治ぃ、騙されないで～！#r　あの子の胸はどうせ寄せて上げてるのよー！」
 #v6213George, don't be fooled! I'm sure she's just pushing them up anyway!
-#v6213Não seja enganado, George!
+#v6213Não seja enganado, George! Os seis dela claramente tem enchimento!
 
 #v6246「僕は紗音の胸だけに惹かれたわけじゃない！#r　胸だけじゃないんだ！！」
 #v6246I wasn't attracted to Shannon just because of her breasts! Not just because of her breasts!!
-#v6246Eu não me atraí pela Shannon só por causa dos seus seios! Não foi só por causa disso!
+#v6246Eu não me atraí pela Shannon só por causa dos seus seios! Não foi só por causa deles!
 
 #v6353「ぷっくっく！　胸は男のロマン！#r　それは膨らめば膨らむほどに夢膨らむ！」
 #v6353Pu ku ku! Nothing triggers a man's desire more than that part of the body! The greater the size, the greater the spirit!
@@ -3632,7 +3632,7 @@
 
 #v6071「なるほどぉ、譲治は巨乳に弱いと。#r　なるほどなるほど、くっくくくく…！」
 #v6071I see, George is weak against large breasts. I see, I see... *cackle*cackle*...!
-#v6071Entendi, o George é fraco contra peitos pequenos. Entendi, entendi... *gargalhada*gargalhada*
+#v6071Entendi, o George tem um fraco por peitos pequenos. Entendi, entendi... *gargalhada*gargalhada*
 
 #v6415「にっひひひ！#r　譲治さまァん♪　私たちといちゃいちゃするにぇ～♪」
 #v6415Nihihihi! George-sama�� Play with us nyeh��
@@ -3932,7 +3932,7 @@
 
 #v6423「黒き魔女には誰も逆らえないにぇ…。#r　みんな、お片付けにぇ……」
 #v6423None can oppose the Black Witch nyeh... Everyone, tidy up nyeh...
-#v6423Ninguém pode contra a Bruxa da Escuridão, nyeh... Pessoa, limpando, nyeh...
+#v6423Ninguém pode contra a Bruxa da Escuridão, nyeh... Pessoal, comecem a limpar tudo, nyeh...
 
 #v6381「さぁ、お片付けの時間よ！！#r　くすくす、あはははははははははは！！！」
 #v6381Come, it's time to tidy up!! *giggle* Ahahahahahahah!!!
@@ -3940,15 +3940,15 @@
 
 #v6382「もう、真里亞ったら！#r　遊びに行く前に必ずお片付けしなさいって言ったのに、もー！！」
 #v6382Maria! Didn't I tell you to always tidy up before going out to play?!!
-#v6382Maria! Eu já não disse para arrumar as coisas antes de sair para brincar?!!
+#v6382Poxa, Maria! Eu já não disse para arrumar as coisas antes de sair para brincar?!!
 
 #v6395「せっかく、積み木で素敵なお城を作ったのに……。#r　くすん」
 #v6395And we made such a wonderful building block castle... *sob*
-#v6395Fizemos um castelo de blocos tão lindo... *sob*
+#v6395Logo agora que fizemos um lindo castelo com blocos de montar... *sob*
 
 #v6080「仕方あるまい。#r　遊びに行く前にはお片付けをするルールだからなぁ」
 #v6080There's no helping it. The rules do say that you have to tidy up before going out to play.
-#v6080Não há o que fazer. As regras dizem quem você precisa arrumar tudo antes de sair para brincar.
+#v6080Fazer o quê? As regras mandam arrumar tudo antes de sair para brincar.
 
 #v6383「森の音楽隊もこんなところに散らかして！#r　元の場所はどこだったかしら」
 #v6383And you've even left the forest band scattered about in a place like this! Now, where were they supposed to go...?
@@ -6660,15 +6660,15 @@
 
 #v0403「嫌いじゃないわ。#r　でも今は救急箱の方が嫌いじゃないわ」
 #v0403I wouldn't mind them. But right now, I'd mind a first aid kit even less.
-#v0403Não me incomodaria com isso. Mas neste momento, me incomodaria ainda menos com um kit de primeiros socorros.
+#v0403Não me incomodaria com isso. Mas, neste momento, me incomodaria ainda menos um kit de primeiros socorros.
 
 #v0977「血は争えませんな。#r　戦人さまに、実によく似ておいでだ」
 #v0977It seems one cannot fight their blood. You truly do resemble Battler-sama.
-#v0977Parece que não se pode resistir ao seu próprio sangue. Você realmente parece com o Battler-sama.
+#v0977Parece que não consegue lutar contra o próprio sangue. Você realmente se parece com o Battler-sama.
 
 #v0404「似てないわよ…！#r　似てたらまっすぐ家へ帰ってくるわ…！」
 #v0404No, I don't...! If I did, he'd come right home...!
-#v0404Não, não pareço...! Se parecesse, ele voltaria para casa...!
+#v0404Não, não pareço...! Se ele fosse como eu, voltaria direto para casa...!
 
 #v0978「独学でそこまで魔法を使われるとは…。#r　感服ですよ」
 #v0978To think that you managed to learn magic so well through self-study... Quite impressive.
@@ -7384,11 +7384,11 @@
 
 #v4187「魔女という名のトリックの分際で…。#r　よくも私をコケに……！！」
 #v4187How could you humiliate me like that...despite being a mere trick, one that people call a witch...!!
-#v4187Como pôde me humilhar dessa forma...apesar de ser um mero truque, um truque que chamam de bruxaria...!!
+#v4187Como pôde me humilhar dessa forma... Apesar de ser um mero truque... que chamam de bruxaria...!!
 
 #v3668「解けぬトリックは魔法に昇華する。#r　下がるが良い、無能探偵めッ！！」
 #v3668A trick you can't solve is elevated to the level of magic. Stand down, incompetent detective!!
-#v3668Um truque que não pode ser resolvido é elevado ao nível de mágica. Sente-se, detetive incompetente!!
+#v3668Um truque que não pode ser resolvido é elevado ao nível da magia. Afaste-se, detetive incompetente!!
 
 #v3669「ちょっとやりすぎちまったかァ？#r　顔の形、変わってなくて良かったなァ？」
 #v3669Did I go a bit too far? It's a good thing your face is still the same shape.
@@ -7664,7 +7664,7 @@
 
 #v0853「あんたの胸、えぐるとすっごく気持ちいいのよ…。#r　うっふふふふ…」
 #v0853Gouging your chest feels so good... Heheheheheh...
-#v0853Perfurar seu peito é ótimo... Heheheheheh... 
+#v0853Perfurar seu peito é uma delícia... Ufufufufufu... 
 
 #v0679「僕はもうこいつの、慰み者なのか…？#r　そんなの、……嫌だ……」
 #v0679Am I just...her plaything now...? No......
@@ -24592,11 +24592,11 @@
 
 #v6009「あんたの代わりに、#r　このつまんないゲーム盤も片付けてあげるわ！」
 #v6009I'll clean up this boring game board in your place!
-#v6009Limparei este tabuleiro sem graça no seu lugar!
+#v6009Arrumarei este tabuleiro sem graça no seu lugar!
 
 #v6010「ベアトの家具が何しに来たの？#r　まさか、私の相手？」
 #v6010What's Beato's furniture doing here? Don't tell me you intend to take me on.
-#v6010O que uma mobília da Beato está fazendo aqui. Não diga que pretende me enfrentar.
+#v6010O que uma mobília da Beato veio fazer aqui. Não diga que pretende me enfrentar.
 
 #v6011「あんたをギリギリまで殺して、#r　その後妹たちから順番に殺すところを見せてあげるわ」
 #v6011I'll take you to the brink of death, then kill all your sisters in order right in front of you.
@@ -24604,11 +24604,11 @@
 
 #v6012「妹より先に殺されるのと、後に殺されるの…どっちがいい？」
 #v6012Would you rather be killed before your sisters, ...or after?
-#v6012Prefere ser morte antes de suas irmãs, ...ou depois?
+#v6012Prefere ser morte antes de suas irmãs... ou depois?
 
 #v6013「安心しなさい？#r　あんたの目の前でゆっくり譲治を殺してあげるから」
 #v6013Don't worry. I'll make sure to kill George nice and slow in front of you.
-#v6013Não se preocupe. Terei certeza e matar o George lenta e gentilmente diante dos seus olhos.
+#v6013Não se preocupe. Terei certeza de matar o George lenta e gentilmente diante dos seus olhos.
 
 #v6014「少しは楽しませなさいよね。#r　わざわざ遊びに来てやったんだから」
 #v6014Try and entertain me a little. I came all this way to play, after all.
@@ -24728,7 +24728,7 @@
 
 #v6043「どこのカケラの私か知らないけれど、怪我するわよ？」
 #v6043I don't know which Fragment's version of me you are, but this is gonna hurt.
-#v6043Não sei qual versão de Fragmento minha é você, mas isso vai doer.
+#v6043Não sei qual Fragmento saiu, mas isso vai doer bastante, ouviu?
 
 #v6044「どちらが本物か、おのずとわかるわね。#r　偽者は消えればいいのよ」
 #v6044It'll soon be obvious which one of us is real. We just need the fake to disappear.
@@ -24736,7 +24736,7 @@
 
 #v6045「めんどくさいわね！#r　あんた、代わりにアウアウの所にいきなさいよ！」
 #v6045What a pain! You go deal with Auau in my place!
-#v6045Mas que saco. Vai lá você lidar com a Auau!
+#v6045Mas que saco. Vai lá você aturar a Auau!
 
 #v6046「あぁ、ラムダ。#r　沢山愛してあげるからこっちにいらっしゃいよ」
 #v6046Aah, Lambda. I'll love you a lot, so get over here.
@@ -24820,7 +24820,7 @@
 
 #v4994「もう飽きたのよね。#r　…あんたのゲーム盤」
 #v4994It's already gotten really boring, huh? ...This game board of yours.
-#v4994Já está ficando bem chato, hein? ...Esse tabuleiro de vocês.
+#v4994Já estou de saco cheio... desse seu tabuleiro.
 
 #v4995「ヒマヒマヒマー！！#r　ちょっとルシファー！　楽しいことして頂戴よ！」
 #v4995I'm bored, I'm bored, I'm bored!! Hey, Lucifer! Do something funny!
@@ -24872,7 +24872,7 @@
 
 #v5007「人形遊びなんかつまんないわー！#r　すぐ壊れちゃうんだもん！」
 #v5007Playing with dolls is boring! They break so easily!
-#v5007Brincar de boneca é chato! Elas quebra muito facilmente!
+#v5007Brincar de boneca é chato! Elas quebra muito facil!
 
 #v5008「ねぇねぇ！　その耳引っ張って良い？#r　ついでに引っこ抜いて良い？」
 #v5008Hey, hey! Can I pull on your ears? And can I pull out your ears?
@@ -24888,7 +24888,7 @@
 
 #v5011「へぇー！#r　朱志香のくせにエンチャントとは、おもしろいじゃない！」
 #v5011Oooh! So, you're using enchantments, despite being Jessica! Interesting!
-#v5011Oooh! Então, está usando encantamentos, apesar de ser a Jessica! Interessante!
+#v5011Oooh! É interessante ser a Jessia e estar usando encantamentos, sbaia?!
 
 #v5012「退屈な試合なんてやーよ？#r　やるからには楽しませてよねッ！」
 #v5012I don't want a boring match. If we're doing this, keep me entertained!
@@ -25096,7 +25096,7 @@
 
 #v3536「俺たちはみんな、黄金の魔女の手の平で踊ったのさ。#r　俺も、あんたもな」
 #v3536We were all dancing on the palm of the Golden Witch. Both me...and you.
-#v3536Estamos todos dançando na palma da Bruxa ourada. Tanto eu...e você.
+#v3536Estamos todos dançando na palma da Bruxa Dourada. Tanto eu... quanto você.
 
 #v3537「いよぅ、４１０。#r　……無駄だぜ。#r　いくら探したって、お前の友達は見つからねぇ」
 #v3537Hey, 410. ...It's useless. No matter how much you search, you will never, ever find your friend.
