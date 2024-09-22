@@ -864,7 +864,7 @@
 
 #v1945「ほらほら、戦人っ。無様に土下座して、私にお尻を引っ叩かれ#r　ながら、“あひぃ、縁寿さまごめんなさいぃ”って、言ってご#r　覧なさいっ！」
 #v1945Let's go, Battler. It's time to prostrate yourself pathetically on the floor while I spank you and you say 'eeeep, I'm so sorry Ange-samaaaaa.'
-#v1945Vamos, Battler. É hora de se prostar pateticamente no chão enquanto eu o espanco e você grita, pedindo perdão a Ange-samaaaa.
+#v1945Vamos, Battler. É hora de se prostar pateticamente no chão enquanto eu o espanco sua bunda e você grita: Ahiii sinto muito a Ange-samaaaa.
 
 #v1748「え、縁寿さま、ごめんなさいぃいいぃ！#r　あひぃ！　あひぃッ！！」
 #v1748I-I'm so sorry, Ange-samaaaaaa! Eeeep! Eeeeep!!
@@ -980,7 +980,7 @@
 
 #v1810「いいえ。一つだけ、信じられることがあったわ」
 #v1810No. There's one thing I can believe.
-#v1810
+#v1810Não. Há uma coisa na qual posso acreditar.
 
 #v1842「意外ね。何よ」
 #v1842Now there's a surprise. What is it?
@@ -1880,7 +1880,7 @@
 
 #v1874「はあ…？　何を仰ってるんです？#r　戦人じゃあるまいしぃ」
 #v1874Huh...? What are you talking about? It's not like you're Battler or something.
-#v1874##MISSING##
+#v1874Hã...? O que se refere? Até parece que você é o Battler.
 
 #v1658「と、とにかく先代の命令だ。#r　残忍な振る舞いは以後は慎めっ…」
 #v1658A-Anyway, this is an order from your Predecessor. Refrain from excess brutality from this point forth...
@@ -6768,7 +6768,7 @@
 
 #v0825「も、申し訳ございません、ベアトリーチェさま…。#r　お役目を…果たせず…」
 #v0825M-My apologies, Beatrice-sama... I couldn't...fulfill my purpose...
-#v0825M-Meus perdões, BEATRICE-sama... Não pude...cumprir meu dever...
+#v0825M-Mil perdões, BEATRICE-sama... Não pude...cumprir meu dever...
 
 #v0993「お嬢様の家具は有能ですが、#r　少しやんちゃが過ぎますな」
 #v0993Milady's furniture is quite talented, but rather naughty as well.
@@ -7064,7 +7064,7 @@
 
 #v0076「はっはは！　赤き真実で語ろうッ！#r　#cFFFF2020そなたは無能だ！#cFFFFFFFF」
 #v0076Hahahah! Let me speak with the red truth! #cFFFF2020You are incompetent#cFFFFFFFF!
-#v0076##MISSING##
+#v0076Hahahah! Direi em vermelho! #cFFFF2020Você é incompetente#cFFFFFFFF!
 
 #v0256「い、…言い返せねぇ…。#r　勝てねぇ俺は…、やっぱり無能なのか…！」
 #v0256...I-I can't counter that... If I can't win, ...am I incompetent after all...?!
@@ -8336,7 +8336,7 @@
 
 #v5283「お客様、お召し物が汚れておいでです。#r　さ、どうぞ此方に…！」
 #v5283Guest, your garments are dirty. Please, come this way...!
-#v5283##MISSING##
+#v5283Senhor, suas veste estão sujas. Por favor, venha por aqui...!
 
 #v4779「気が利くわね～！#r　って！　汚したのはあんたなんだからねッ？！」
 #v4779Aw, how nice of you! Hey! You're the one who got them dirty!
@@ -16312,163 +16312,163 @@
 
 #v0768「こんな呪われた力で勝っても。#r　……僕の心は満たされやしない」
 #v0768Even if I win with this cursed power, ...my heart won't be satisfied.
-#v0768
+#v0768Mesmo que eu vença com este poder amaldiçoado, ...meu coração não ficará satisfeito.
 
 #v0769「割れた器は満たされることなどない。#r　……僕たちは、壊れているんだ」
 #v0769A broken container can never be filled. ...We are...broken.
-#v0769
+#v0769Receptáuclos rachados jamais serão preenchidos. ...Nós estamos...quebrados.
 
 #v0770「風の音が聞こえる。#r　……これは誰の心に吹き荒ぶ風なんだ…」
 #v0770I hear the sound of the wind. ...Whose heart is this wind blowing through...?
-#v0770
+#v0770Consigo ouvir o som do vento. ...A quem pertence o coração que ele atravessa...?
 
 #v0771「知ってるくせに。#r　……僕たちはその風に舞う、千切れた鷲の羽なんだ」
 #v0771As if you didn't know. ...We're the torn wing of an eagle floating in that wind.
-#v0771
+#v0771Até parece que não sabe. ...Somos asas de águias arrancadas flutuando ao vento.
 
 #v0595「あらあら。#r　薔薇の手入れと人を斬るの、どっちが得意なのかしらぁ？」
 #v0595My, my. So, which is your specialty, taking care of roses or taking out people?
-#v0595
+#v0595Ora, ora. Qual a sua especialidade? Aparar rosas ou pessoas?
 
 #v0772「もっと得意なことがある。#r　……お前を斬ることだ！#r　それを忘れるなっ」
 #v0772There's something else I'm even better at. ...Taking out you! Don't forget it!
-#v0772
+#v0772Sou melhor ainda em outra coisa. ...Aparar você! Jamais se esqueça disso!
 
 #v0773「無駄は嫌いだ。#r　勝った戦いに、さらに残酷さを求めるのは特にね」
 #v0773I hate doing pointless things. Especially when I'm asked to be even more brutal in a fight I've already won.
-#v0773
+#v0773Odeio coisas sem sentido. Especial quando pedem para eu ser ainda mais cruel em uma batalha que já vendi.
 
 #v0596「だからトドメを刺さずにそこでおしまい？#r　ふふ、甘い子ね、あんたは」
 #v0596So, you're gonna stop there, without landing the finishing blow? Heheh, you're a naive kid, aren't you?
-#v0596
+#v0596Por isso vai parar antes de deferir o golpe final? Heheh, você é mesmo uma criança ingênua, sabia?
 
 #v0597「あんたの戦いは綺麗事ね。#r　自ら目を逸らす、子供みたいな戦い方…！」
 #v0597The way you fight is all about these cheap ideals. You're like a kid averting his eyes from the truth...!
-#v0597
+#v0597Sua luta é baseada em ideias baratos. Parece mais criança que fecha os olhos para a verdade...!
 
 #v0774「なら、お前の戦いはまるで掃き溜めだ。#r　目も背けたくなるさ…！」
 #v0774In that case, the way you fight is like a garbage dump. Of course I'd want to look away...!
-#v0774
+#v0774Se é assim, sua luta reflete a escória. Ninguém quer ver isso...!
 
 #v1345「嘉音きゅんはどうして、そんなに必死にぇ？#r　必死過ぎて笑えるにぇ」
 #v1345Why are you so frantic, Kanon-kyun nyeh? You're so desperate, it's funny nyeh.
-#v1345
+#v1345Por que está tão desesperando, Kanon-kyun, nyeh? Seu desespero é hilário, nyeh.
 
 #v0775「……笑いたくば笑え。#r　これが僕の戦い方なんだっ」
 #v0775...Laugh if you want. This is how I fight!
-#v0775
+#v0775...Pode rir se quiser. É assim que eu luto!
 
 #v0776「僕には真似できないね。#r　お前みたいに、ふざけながら戦うなんて」
 #v0776I could never do that. That thing where you fight as if this was all a joke.
-#v0776
+#v0776Eu jamais conseguiria fazer isso. Debochar enquanto luto feito você.
 
 #v1346「にっひひ！#r　やってみると案外面白いにぇ！#r　嘉音きゅんもやってみるにぇ！」
 #v1346Nihihi! It can actually be pretty fun if you give it a try nyeh! Why not have a go nyeh?!
-#v1346
+#v1346Nihihi! É bem divertido depois que se acostuma, nyeh! Por que não tenta também, nyeh?!
 
 #v1347「にぇ？#r　ニンジンかじってたら、もう決着がついてたにぇ！」
 #v1347Nyeh? While I was nibbling on a carrot, the battle ended nyeh!
-#v1347
+#v1347Nyeh? Acabou enquanto eu mordiscava minha cenoura, nyeh!
 
 #v0777「お前は頼りにならないからな。#r　僕だけで充分さ…！」
 #v0777After all, I don't rely on you. I'm more than enough on my own...!
-#v0777
+#v0777Você não é confiável. Sou mais do que capaz de cuidar disso sozinho...!
 
 #v2754「少し力み過ぎじゃないかい？#r　力や若さに頼り過ぎな気がするね」
 #v2754Are you sure you're not using up too much of your strength? I get the feeling that you rely too much on youth and power.
-#v2754
+#v2754Tem certeza que não tá exagerando na força? Sinto que está dependendo demais da juventude e vigor.
 
 #v3066「僕は常に全力なだけです。#r　……絶対に、誰にも負けたくない」
 #v3066I always use everything I have, that's all. ...And I certainly don't want to lose to anyone.
-#v3066
+#v3066Eu sempre dou tudo de mim. ...Jamais quero perder para ninguém.
 
 #v3067「失礼致しました。#r　無様なところをお見せしました」
 #v3067Forgive me for letting you see something so unsightly.
-#v3067
+#v3067Perdoe-me por fazê-la presenciar algo tão vergonhoso.
 
 #v2755「無様どころか、華麗じゃないか。#r　僕も見せ場が欲しくて疼いてきたよ」
 #v2755Far from unsightly, that was magnificent. Now I'm itching for a chance to shine too.
-#v2755
+#v2755Vergonhoso? Foi magnífico!  Estou me coçando por uma chance de brilhar também.
 
 #v3068「僕など、呪われた力に頼っているだけ。#r　真の強さではありません…」
 #v3068I'm just relying on a cursed power. This isn't true strength...
-#v3068
+#v3068Só estou dependendo de um poder amaldiçoado. Essa não é a minha verdadeira força...
 
 #v2756「違うよ。強さとは、勝ちを譲れない心の強さなんだ。#r　君にはそれがある」
 #v2756You're wrong. Strength comes from a heart that's unwilling to give up on victory. That's something you do possess.
-#v2756
+#v2756Nada disso! A verdadeira força vem de um coração disposto a nunca desistir. E isso você tem de sobra.
 
 #v2949「嘉音くん、今の超スゲェぜ！！#r　私たち、最強のコンビだぜ…！！」
 #v2949Kanon-kun, that was so cool!! We make the ultimate team...!
-#v2949
+#v2949Isso foi demais, Kanon-kun!! Somos a melhor dupla de todas...!!
 
 #v3063「……はい。#r　お嬢様と二人なら、誰が相手でも負けません」
 #v3063...Yes. Together, we won't lose against anyone.
-#v3063
+#v3063...Sim. Juntos, não perderemos para ninguém.
 
 #v2950「嘉音くん、お疲れっ。はい、タオル…！」#r　（うひゃー、一度やってみたかった！）
 #v2950Nice work, Kanon-kun! Here's a towel...! (Aah, I've always wanted to do that!)
-#v2950
+#v2950Bom trabalho, Kanon-kun! Pega uma tolaha...! (Uhyaa! Sempre quis fazer isso!)
 
 #v3064「あ、ありがとうございます。#r　………………いい匂いだ」
 #v3064Th-Thank you very much. .........It smells nice.
-#v3064
+#v3064M-Muito obrigado. .........Que cheiro bom.
 
 #v3065「お嬢様、大丈夫ですか！#r　お怪我はございませんか？！」
 #v3065Milady, are you okay?! You aren't hurt, are you?!
-#v3065
+#v3065Tudo bem, ojou-sama?! Não se machucou?!
 
 #v2951「お…おう！　もちろんだぜ！」#r　（ひゃー嘉音くん、王子様みたいー！）
 #v2951...N-No, of course not! (Aaah, Kanon-kun's just like a prince!)
-#v2951
+#v2951...N-Não... Claro que não! (Hyaa! O Kanon-kun parece até um príncipe)
 
 #v3069「これで、僕が犯人でないと、信じていただけますか…」
 #v3069Now do you believe that I'm not the culprit...?
-#v3069
+#v3069Agora acredita que eu não sou o culpado...?
 
 #v3279「………そうね。#r　……明日の朝になったら、仲直りしましょ。ね？」
 #v3279...Good point. ...Let's make up when tomorrow morning comes, shall we?
-#v3279
+#v3279...Pois é. ...Vamos fazer as pazes amanhã de manhã. Pode ser?
 
 #v3280「そっちを持ってくれる？#r　こいつを倉庫に放り込んでおくわ」
 #v3280Would you mind carrying that? Let's toss it into the storage shed.
-#v3280
+#v3280Poderia carregá-los? Vamos jogá-los num depósito.
 
 #v3070「なるほど。#r　……疑わしい人間は、みんな閉じ込めてしまえばいいわけだ」
 #v3070I see. ...So, all we have to do is lock up all the suspicious people.
-#v3070
+#v3070Entendi. ...Então só precisamos trancar todos os suspeitos.
 
 #v3071「寝ていろ。命までは奪わない」
 #v3071Sleep. I won't go as far as taking your life.
-#v3071
+#v3071Vá dormir. Não tomarei sua vida.
 
 #v3281「後ろ手に縛りましょう。#r　……狼は誰一人野放しに出来ないわ」
 #v3281Let's tie their hands behind their backs. ...We can't let even a single wolf run wild.
-#v3281
+#v3281Vamos amarrar as mãos nas costas. ...Não podemos deixar um único lobo livre.
 
 #v4713「推理なんか必要ない。#r　こうして全員倒せばいいだけの話さ」
 #v4713There's no need to reason it out. All we have to do is defeat everyone, like this.
-#v4713
+#v4713Não precisamos raciocinar sobre isso. É só derrotarmos todos dessa forma.
 
 #v4304「そして誰もいなくなっても。#r　推理は存在しますので悪しからずっ」
 #v4304And then when there are none left, there will still be room for reasoning, so no hard feelings, everyone!
-#v4304
+#v4304E mesmo quando todos se forem, ainda teremos o raciocínio, então sem recentimentos. 
 
 #v4305「あんたの戦いを、どんなトリックで再現できるか#r　推理してみましょう」
 #v4305Let's reason out what sort of trick could be used to reproduce the way you fight.
-#v4305
+#v4305Vamos investigar que tipo de truque poderia ser usado para reproduzir seu estilo de luta.
 
 #v4714「……僕の呪われた力に、トリックなどない。#r　あるなら聞きたいね」
 #v4714...There is no trick to my cursed power. If there was, I'd like to hear about it.
-#v4714
+#v4714...Não há nenhum truque no meu poder amaldiçoado. Se houvesse, adoraria ouvir.
 
 #v4306「右代宮家の御持て成しって、つくづく物騒ですね」
 #v4306The way the Ushiromiya Family welcomes their guests is quite horrifying.
-#v4306
+#v4306A maneira como a família Ushiromiya recepciona seus hóspedes é medonha.
 
 #v4715「相手によります。#r　あなた様も、同じ御持て成しになりますが…？」
 #v4715It depends on the person. ...I should mention that you'll be getting the same treatment...
-#v4715
+#v4715Depende da pessoa. ...Está ciente que será tratada da mesma maneira, certo...?
 
 #v3952「背の低さを嘆くことはありマセン。#r　中身が大切なのデス」
 #v3952I never resent my HEIGHT. It's what's inside that COUNTS.
@@ -16484,11 +16484,11 @@
 
 #v4717「……僕は、相手を倒す為だけに生み出された、家具だからさ」
 #v4717...Because I'm furniture, born for the sole purpose of defeating my opponents.
-#v4717
+#v4717...Porque sou uma mobília nascida com o único propósito derrotar meus adversários.
 
 #v4718「こんなところで負けるわけにはいかないッ！#r　勝って恋を知るんだ！」
 #v4718I mustn't lose in a place like this! I'll win and learn about love!
-#v4718
+#v4718Não posso perder em um lugar desses! Eu vencerei e aprenderei sobre o amor!
 
 #v3954「健気なことデス。#r　……微力ながら、お手伝いさせていただきマス」
 #v3954How ADMIRABLE. ...Allow me to do what little I can to aid YOU.
@@ -18768,7 +18768,7 @@
 
 #v4327「さぁて！#r　あなたという真実を暴いて、徹底的に辱めてあげましょう！」
 #v4327Okay! Now I'll expose the truth that you are and humiliate you thoroughly!
-#v4327
+#v4327Certo! Vou expor sua dita verdade e humilhá-la por completo!
 
 #v4143「私には敗者をいたぶる趣味はないわ。#r　あんたひとりでやってて」
 #v4143I don't make a habit of toying with the defeated. Do that on your own.
@@ -19100,7 +19100,7 @@
 
 #v5575「その推理でどれほど人を傷つけるか。#r　そこまで推理できりゃ満点だったな」
 #v5575You would've gotten full marks if you'd managed to reason out how many people that reasoning would hurt.
-#v5575
+#v5575Sabe dizer quantas pessoas esse raciocíno feriu? Levaria um 10 se fosse capaz de deduzir.
 
 #v5576「どうして俺はお前と組まなきゃならねぇんだ。#r　……悩むと頭痛にならァ」
 #v5576Why should you and I have to join forces? ...Just thinking about it gives me a headache.
@@ -19368,7 +19368,7 @@
 
 #v4499「綺麗さっぱり、一刀両断ねぇ？#r　もっと残酷に虐めて遊ぶことも出来たのに」
 #v4499You just cleanly, neatly cut them in half? But you could've played around and tortured them much more brutally.
-#v4499
+#v4499Por que fazer um corte limpo? Poderia ter brincado e torturado eles com muito mais brutalidade.
 
 #v3999「時間が余ったら、それも考えまショウ。#r　我らの激務に、その暇はないのデス」
 #v3999Perhaps when I have some spare TIME. Our heavy workload will not allow for IT.
@@ -20500,7 +20500,7 @@
 
 #v4155「……あんたが戦った後は、本当に甘ったるい匂いになるわね。#r　……お腹いっぱいよ」
 #v4155...You really do smell sickly-sweet after a battle. ...I've had my fill already.
-#v4155
+#v4155...Você fica com um cheiro tão doce depois que luta. ...Já estou satisfeita.
 
 #v5757「お菓子いっぱい、夢いっぱい。#r　あなたの戦いはとても楽しいですね」
 #v5757How full of sweets and dreams. The way you fight is a lot of fun.
@@ -21044,7 +21044,7 @@
 
 #v3805「もはや聞き捨てならねぇ。#r　お前の心無い推理、俺がへし折ってやる！」
 #v3805I can't let you get away with saying that. I'll smash that heartless reasoning of yours!
-#v3805
+#v3805Não posso deixar que passe batido. Esmagarei esse seu raciocínio impiedoso!
 
 #v3806「今度こそ、決着をつけようぜ。#r　どちらの推理が正しいか！」
 #v3806This time around, let's settle this. Whose reasoning is correct?!
@@ -21612,7 +21612,7 @@
 
 #v1094「これは困った。#r　自分の顔を殴るのは気が引けますねぇ」
 #v1094This won't do. I shudder at the thought of hitting my own face.
-#v1094
+#v1094Assim me complica. É tanta vergonha que dá vontade de socar minha própria cara.
 
 #v1095「油断できませんねぇ。#r　手の内は全て知られています」
 #v1095I mustn't let my guard down. He knows all of my secrets.
@@ -21924,7 +21924,7 @@
 
 #v2515「お前をすり潰したら！#r　紗音の生皮巻いてロールキャベツにしてやるぜぇ！」
 #v2515Once I've ground you down, I'll roll up Shannon's hide and make stuffed cabbage out of you two!
-#v2515
+#v2515Quando me cansar de você, vou pegar a pele da Shannon e transformá-los em repolho recheado!
 
 #v2516「インテリ眼鏡が調子に乗りおって！#r　力の差、見せてやろう！」
 #v2516How overconfident, egghead glasses man! Allow me to show you the difference in our power!
@@ -21980,7 +21980,7 @@
 
 #v3733「ミステリーなぞに出番はない。#r　妾がファンタジーで歓迎してくれようぞ！」
 #v3733There's no call for mysteries here. Allow me to welcome you in with fantasy!
-#v3733
+#v3733Não há espaço para mistérios aqui. Permita-me apresentá-lo à fantasia!
 
 #v3734「ハウダニット？#r　妾のゲームには関係ない。#r　……関係ないと言っている！」
 #v3734The 'why dunnit'? That has nothing to do with my game. ...Nothing, I say!
@@ -22544,7 +22544,7 @@
 
 #v0799「お前などもう、恐れるにも値しない」
 #v0799You aren't even worth fearing anymore.
-#v0799
+#v0799Você sequer é digna de medo agora.
 
 #v0800「傲慢なる悪魔め。#r　それを後悔させてやる…！」
 #v0800You proud demon. ...I won't be afraid anymore...!
@@ -22732,7 +22732,7 @@
 
 #v0639「本当にあんたは愚かな子！#r　つくづく留弗夫の子よねぇ？！」
 #v0639You really are a stupid kid! Definitely Rudolf's child!
-#v0639Você é mesmo uma criança idiota! Definitivamente filha d rudol!
+#v0639Você é mesmo uma criança idiota! Claramente é filha do Rudolf!
 
 #v0640「へぇ？#r　まだご引退なされないんですか？#r　先代の先代さまっ！」
 #v0640Oh? Aren't you going to retire yet? Predecessor-sama of my Predecessor-sama?!
@@ -23660,7 +23660,7 @@
 
 #v3345「あら、ダンディな方ね。#r　もしこの銃が見えているなら、お引取り願えるかしら？」
 #v3345Oh, what a dandy. If you can see this gun, maybe we can make a deal.
-#v3345
+#v3345Nossa, mas que dândi. Se estiver vendo esta arma, talvez possamos fechar um acordo?
 
 #v3346「紳士の前では、淑女でいたいの。#r　……だからこれ以上、私をイラつかせないで！」
 #v3346I want to be a lady when in front of a gentleman. ...So, stop pissing me off!
@@ -23696,7 +23696,7 @@
 
 #v3354「紗音ちゃんのアリバイは？#r　証明できないなら、狼だと断定させてもらうわ！」
 #v3354Shannon-chan, if you can't provide an alibi, I'll have to conclude that you're a wolf!
-#v3354
+#v3354E quanto ao seu álibi, Shannon-chan? Se não tiver como confirmá-lo, serei obrigado a concluir que é um lobo!
 
 #v3355「犯行時刻にはどこにいたの？　何をしてたの？#r　教えてちょうだい」
 #v3355Where were you at the time of the crime? What were you doing? Answer me.
@@ -23884,11 +23884,11 @@
 
 #v4400「お年寄りと遊ぶ趣味は無いんですが…#r　まぁ、暇潰しくらいにはなると良いですね」
 #v4400I get no pleasure from playing with old people, ...but sure, maybe this is an okay way to kill time.
-#v4400Não tenho prazer em brincr com velhos, ...mas claro, talvez seja uma boa forma de matar tempo.
+#v4400Não tenho prazer em brincar com velhos, ...mas, claro, talvez seja uma boa forma de matar tempo.
 
 #v4401「探偵に紅茶に安楽椅子。#r　悪くない組み合わせです。……お相手しましょうか？」
 #v4401A detective, tea, and an armchair. That's not a bad combination. ...Shall we, then?
-#v4401
+#v4401UDetetive, chá preto e poltrona. Não é uma combinação ruim. ...Posso lhe acompanhar se preferir.
 
 #v4402「執事が重要な鍵を握る。#r　洋館ミステリーのお約束過ぎて、ちょっと退屈です」
 #v4402The butler holds an important key. That's so classic western mansion mystery, it's a bit boring.
@@ -24112,7 +24112,7 @@
 
 #v4047「あなたと対峙するのは、久しぶりデスネ。#r　手加減は不要デス…！」
 #v4047It has been so long since we last faced OFF. There is no need to hold BACK...!
-#v4047
+#v4047Faz muito tempo que não nos ENFRENTAMOS. Não há razão para CONTER-SE...!
 
 #v4048「あなたと戦わねばならぬのは残念デス。#r　しかし、これも仕事ですのでご容赦ヲ」
 #v4048It's a shame that you and I must FIGHT. However, this is work, so forgive ME.
@@ -24360,7 +24360,7 @@
 
 #v5656「お前の謎は俺が弔う。#r　……だから安心しろ」
 #v5656I'll lay your riddles to rest. ...So, don't you worry.
-#v5656
+#v5656Eu sepultarei seu enigma. ...Não precisa se preocupar.
 
 #v5657「大丈夫だ。#r　……誰の邪魔もしねぇ。安心して休めよ」
 #v5657It'll be okay. ...No one will get in the way. Rest in peace.
@@ -24400,7 +24400,7 @@
 
 #v5666「感情が剥き出しだな。#r　そんなんじゃ太刀筋を読まれるぞ？」
 #v5666You wear your emotions on your sleeve. At this rate, your opponents will be able to predict every strike you make.
-#v5666
+#v5666Está expondo suas emoções. Assim qualquer um será capaz de prever seus golpes, sabia?
 
 #v5667「……猫箱の番人か。#r　あんたも因果な役割だな」
 #v5667...The guardian of the cat box, huh? I see you've got a karmic role too.
@@ -25524,7 +25524,7 @@
 
 #v3643「堪えるなよ。#r　……お前の声が聞きたいんだ。#r　……くっくくくく！」
 #v3643Don't hold back. ...I wanna hear you speak. ...*cackle*cackle*!
-#v3643Não se contenha. ...Quero ouvir você falar. ...*gargalhada*gargalhada*
+#v3643Não se contenha. ...Quero ouvir sua voz. ...*gargalhada*gargalhada*
 
 #v3644「魔術師狩りのライト？#r　……違うね。俺がお前を狩ってやった。#r　くっくくくく…」
 #v3644Wizard-Hunting Wright? ...Wrong. I just hunted you. *cackle*cackle*...
@@ -25640,7 +25640,7 @@
 
 #v6558「チンタラしてんじゃねぇ！　食い殺すぞ？」
 #v6558Stop wasting my time! I'll eat you to death.
-#v6558Pare de desperdiçar meu tempo! Eu irei devorar você.
+#v6558Não disperdice meu tempo! Vou te devorar assim.
 
 #v6559「お前は何を見せてくれるんだ？　俺を笑わせてくれよ……」
 #v6559What are you gonna show me? Come on, make me laugh...
