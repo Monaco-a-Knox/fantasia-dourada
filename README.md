@@ -1,8 +1,9 @@
 # Fantasia Dourada
 
 41/41 histórias traduzidas + interações (Total: 6431 linhas)
-Projeto interrompido por tempo indeterminado. Totalmente traduzido, mas não é possível dar continuidade devido a limitações que impede a inserção da tradução.
-—————————————————————————————————————————————————————————————————————————————————
+----
+Retomado (?)
+----
 
 Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢想曲†CROSS), abreviado oficialmente para "Fantasia Dourada".
 
