@@ -12,43 +12,43 @@
 
 #v1773「魔女の茶番は飽き飽きだわ。#r　お兄ちゃんを１９９８年に連れ戻す！」
 #v1773I've had more than enough of this witches' farce. I'll take Onii-chan back with me to 1998!
-#v1773Já tive o suficiente dessa farsa da bruxa. Levarei o onii-chan comigo para 1998!
+#v1773Estou farta da farsa da bruxa. Levarei o onii-chan comigo para 1998!
 
 #v1823「あら、縁寿じゃない。#r　帰らぬ兄を探して、１２年も遡ったのかしらぁ？」
 #v1823Oh, if it isn't Ange. So, you went back a full 12 years, searching for the brother who never came home?
-#v1823Oh, se não é a Ange. Então, você retornou doze anos, em busca do seu irmão que nunca retornou?
+#v1823Ora, se não é a Ange. Então, você retornou 12 anos para procurar pelo seu irmão que nunca retornou?
 
 #v1774「えぇ、そうよ。#r　そして１２年前にしちゃ若返り過ぎだわ、絵羽オバサン」
 #v1774Yeah, that's right. And you're looking way too young for just 12 years ago, Aunt Eva.
-#v1774Sim, isso mesmo. E você parece jovem demais para apenas doze anos atrás, tia Eva.
+#v1774Sim, isso mesmo. E você parece jovem demais para apenas 12 anos atrás, tia Eva.
 
 #v2070「にっひひひ。#r　女はいくつになっても女の子にぇ☆」
 #v2070Nihihihi. Women are girls no matter how old they get nyeh ��
-#v2070Nihihihi. Mulheres são garotas, não importa o quão velhas fiquem, nyeh☆
+#v2070Nihihihi. Não importa o quanto amadureçam, mulheres serão sempre meninas, nyeh☆
 
 #v1683「そういう魔女ごっこはもうお仕舞いにしようぜ、#r　絵羽伯母さん」
 #v1683It's about time you gave up playing witches, Aunt Eva.
-#v1683Já está na hora de parar de brincar de bruxas, tia Eva.
+#v1683Já está na hora de parar de brincar de bruxa, tia Eva.
 
 #v1824「私を伯母と呼ばないで！#r　我こそは右代宮家当主エヴァ・ベアトリーチェ！」
 #v1824Who are you calling 'aunt'?! I am EVA Beatrice, Head of the Ushiromiya Family!
-#v1824Quem você está chamando de 'tia'?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
+#v1824Quem você está chamando de "tia"?! Eu sou EVA BEATRICE, chefe da família Ushiromiya!
 
 #v1825「新しき黄金の魔女に対する敬意を学んで、#r　ハラワタぶちまけて死んじゃえばぁ？！」
 #v1825If only you'd learn to respect the new Golden Witch...while you get your guts ripped out and die!
-#v1825Se você ao menos aprendesse a respeitar a nova Bruxa Dourada...enquanto tem suas entranhas arrancadas e morrer bem devagar!
+#v1825Se ao menos aprendesse a respeitar a nova Bruxa Dourada... por que não morre bem devagar enquanto arranco suas entranhas!
 
 #v1775「決着ね。#r　過去は譲る。でも未来は私たちが紡ぐわ」
 #v1775That settles it. I'll let you keep the past, but we'll be the ones weaving the future.
-#v1775Isso define tudo. Deixarei que mantenha o passado, mas seremos nós que teceremos o futuro.
+#v1775Tudo resolvido. Abirei mão do passado, mas seremos nós que teceremos o futuro!
 
 #v1826「過去は変わらない、未来も変わらない。#r　何を足掻こうとも、誰も連れ帰ることは出来ないのよ。#r　私に譲治が連れ戻せないように…！」
 #v1826Neither the future nor the past will change. No matter how much you struggle, you can't take anyone back with you. Just like how I couldn't take George back with me...!
-#v1826Nem o futuro ou o passado mudarão. Não importa o quanto você lute, não poderá trazer ninguém de volta consigo. Assim como eu não consegui trazer o George comigo...!
+#v1826Nem futuro nem passado serão alterados. Não importa o quanto lute, não poderá trazer ninguém de volta consigo. Assim como eu não consegui trazer o George comigo...!
 
 #v1776「それを足掻くのが私の趣味なの。#r　じゃね。シーユーアゲイン、ハバナイスディ」
 #v1776Struggling despite that is a hobby of mine. <See you again, have a nice day.>
-#v1776Lutar apesar de tudo é um hobby meu. See you again, have a nice day.
+#v1776Lutar contra a maré é um hobby meu. See you again, have a nice day.
 
 #v2071「大事なのは結果じゃなく、過程にぇ。#r　未練を断ち切るためにもにぇ」
 #v2071It's the process that matters, not the result nyeh. Even when it comes to letting go of your regrets.
@@ -56,7 +56,7 @@
 
 #v1684「……必ず帰るさ。#r　これ以上、妹を、……縁寿を待たせられねぇんだ」
 #v1684...I'll definitely return with you. I can't keep my little sister, ...Ange, waiting any longer.
-#v1684...Eu definitivamente retornarei com você. Não posso deixar minha irmãzinha, ...a Ange, esperando por mais tempo.
+#v1684...Eu definitivamente retornarei. Não posso mais deixar minha irmãzinha sozinha. ...A Ange já esperou tempo demais!
 
 #v1685「ベアト。#r　何だかんだでお前とは楽しかったぜ。#r　しかしこれで、お別れだ」
 #v1685Beato... Looking back, the time we spent together was fun, but this is goodbye.
@@ -68,7 +68,7 @@
 
 #v1777「お兄ちゃんはあんたの玩具じゃない！#r　もうあんたの遊びには付き合わない！」
 #v1777Onii-chan isn't your toy! I'm through playing along with your game!
-#v1777Ele não é seu brinquedo. Estou cansada de jogar esse seu joguinho!
+#v1777Meu irmão não é seu brinquedo. Estou cansada de jogar esse seu joguinho!
 
 #v1565「いいや、妾の玩具だ。そして妾の手を離れれば砂と消える。#r　愚かなる妹よ、変えること叶わぬ過去より戦人を連れ帰れると、#r　誰に唆されたやら！」
 #v1565No, he is my toy. And if he leaves the palm of my hand, he'll turn to sand and disappear. Foolish little sister, just who convinced you to try and take Battler back from a past that can never be changed?!
@@ -84,11 +84,11 @@
 
 #v1822「なぜなら私が、１９９８年のベアトリーチェだからよ！！」
 #v1822After all, I'm the Beatrice of 1998!!
-#v1822Afinal, eu sou a BEATRICE de 19989!!
+#v1822Afinal, eu sou a BEATRICE de 1989!!
 
 #v1567「ほう、そなたが１２年の未来に我が称号を引き継ぐのか！」
 #v1567Oh, so you are to inherit my title 12 years in the future?
-#v1567Oh, então você herdará meu título doze anos no futuro?
+#v1567Hoh, então você herdará meu título dentro de 12 anos?
 
 #v1568「面白い気に入ったぞ、エンジェ・ベアトリーチェ！！#r　我が名と戦人、奪えるものなら奪ってみせよ！」
 #v1568Interesting. How truly amusing, ANGE Beatrice!! If you think you can steal away both Battler and my name, just give it a try!
@@ -104,7 +104,7 @@
 
 #v1779「……知ってたわ。#r　この戦いは全て、私の妄想、自己満足…」
 #v1779...I already knew that. This whole fight is a daydream of mine, my search for self-satisfaction...
-#v1779...Eu já sabia disso. Toda essa luta é um devaneio meu; minha busca pela auto-satisfação...
+#v1779...Eu já sabia disso. Toda essa luta é um devaneio meu; minha busca pela autosatisfação...
 
 #v1780「何を足掻いたって、……過去も未来もお兄ちゃんも、…何も変#r　えられないって」
 #v1780No matter how much I struggle, ...I can't change anything about the past or the future or Onii-chan...
@@ -112,7 +112,7 @@
 
 #v1571「戦人は帰るだろうさ、１９８６年にな。#r　だが、兄の帰らぬ１９９８年のそなたのもとへは、誰も帰って#r　来たりはしない！」
 #v1571Battler probably will return home, though only in the year 1986. There's no one coming home to you in the 1998 where your brother never returned!
-#v1571O Battler provavelmente voltará para casa, embora no ano de 1986. Ninguém voltará para você em 19998, quando seu irmão nunca retornou!
+#v1571O Battler provavelmente voltará para casa, embora no ano de 1986. Ninguém voltará para você em 1998, quando seu irmão nunca retornou!
 
 #v1572「知りつつ足掻くことの何と愚かにして愉快なことかッ！#r　わっはははっはっはァーきゃっきゃっきゃっはっはア！！」
 #v1572How truly foolish and amusing you are, struggling on despite knowing this! Wahahahahahahahahahah!!
@@ -148,7 +148,7 @@
 
 #v1977「おはようございます、戦人さま。#r　さて、本日のゲームはお決まりですかな？」
 #v1977Good morning, Battler-sama. So, have you decided on a plan for today's game?
-#v1977Bom dia, Battler-sama. Então, decidiu qual seu plano para o jogo de hoje?
+#v1977Bom dia, Battler-sama. Então, decidiu qual o plano para o jogo de hoje?
 
 #v1688「登場人物がこれだけ多いと、誰と誰を登場させて、誰に見せ場#r　を作るか、考えるだけでも頭痛だぜ…」
 #v1688When you've got this many characters, it's a real headache just thinking up who's gonna be in a scene with whom, and who's gonna take center stage...
@@ -204,11 +204,11 @@
 
 #v1982「おお、それは確かに需要がありそうですなぁ。#r　戦人さまは実によくわかっておいでだ！」
 #v1982Oh, yes indeed. You have quite a keen eye, Battler-sama!
-#v1982Ah, de fato. Você tem bons olhos, Battler-sama!
+#v1982Ah, de fato. Você entende mesmo das coisas, Battler-sama!
 
 #v1694「萌え美少女の次は女装少年の時代だからな。#r　嘉音くんだって化粧次第では、結構バケちゃいそうな#r　予感だぜ～？　いっひっひっひ！」
 #v1694After all, the era of hot moe girls is followed by the era of crossdressing boys. Put a little makeup on Kanon-kun, and I'll bet you'd hardly recognize him. Ihihihihi!
-#v1694Afinal, a era das garotas moe é sucedida pela era dos otoko no ko. Coloque um pouco de maquiagem no Kanon-kun e duvido que será capaz de reconhecê-lo. Ihihihihi!
+#v1694Afinal, a era das garotas moe é sucedida pela era dos otoko-no-ko. Coloque um pouco de maquiagem no Kanon-kun e duvido que será capaz de reconhecê-lo. Ihihihihi!
 
 #v2039「ううぅ、嘉音くん、出番は諦めよう…。#r　私たちには無理だよ…」
 #v2039Nnnggg... Kanon, ...let's give up on getting a role. This is too much for us...
@@ -220,7 +220,7 @@
 
 #v1696「おっぱいハーレム？！　水着でサンオイルを塗り塗り？！#r　いっひっひひひひひひっひ～！！」
 #v1696A boob harem?! Complete with swimsuits and rubbing on suntan lotion? Ihihihihihihihihihihi!!
-#v1696Um harém de peitos? Completo com maiôs e esfregando óleo de bronzear? Ihihihihihihihihihihi!!
+#v1696Um harém de peitos? Todas de biquínis passando bronzeador? Ihihihihihihihihihihi!!
 
 #v1573「戦人ぁ！#r　好敵手の妾にはしっかりと出番があるのだろうな？！」
 #v1573Battler! You have set up a solid role for me, your rival, haven't you?!
@@ -232,19 +232,19 @@
 
 #v2117「やれやれ。やはりゲームマスターの暗黒面に落ちてしまいまし#r　たね」
 #v2117My, my. It seems that being the Game Master really has brought out your dark side.
-#v2117Ora, ora. Parece que ser o Game Master realmente despertou o lado negro dele.
+#v2117Francamente. Parece que ser o Game Master realmente despertou o lado negro dele, não?
 
 #v1983「このまま戦人さまを止められませんと、１８歳未満の方には、#r　お引取り願わねばならないシナリオとなりましょうな。#r　ぷっくっく！」
 #v1983If someone doesn't put a stop to Battler-sama, we might have to start turning away children under 18. Pu ku ku!
-#v1983Se alguém não o parar, vamos ter que começar a evitar os menores de idade. Pu ku ku!
+#v1983Se ninguém não o parar, seremos obrigados a pedir para os menores de idade a se retirarem. Pu ku ku!
 
 #v1574「えぇい、ちゃんとミステリーやファンタジーにせぬか愚か者！#r　そなたにタンコブ一つを進呈して、妾がまともなシナリオに修#r　正してくれる！」
 #v1574Gah, can't you just pick mystery or fantasy, you fool?! I'd better give you a good thrashing and alter the plot into something decent!
-#v1574Gah, você não pode simplesmente escolher entre mistério ou fantasia, seu idiota?! É melhor eu te dar uma boa surra e alterar o enredo em algo mais decente!
+#v1574Gah, você não consegue nem escolher entre mistério ou fantasia, seu idiota?! Será que terei que te dar uma boa surra e editar eu mesma um enredo decente?!
 
 #v1698「えぇい、やかましいッ！　豹柄の紐ビキニとスクール水着！#r　どっちが着たいか選ばせてやるぜ！！」
 #v1698Gah, pipe down, will you?! Will it be a leopard-print string bikini, or a school swimsuit?! I'll let you pick!!
-#v1698Gah, que tal se acalmar? Vai ser o fio dental com estampa leopardo ou um maiô escolar?! Eu te deixo escolher!!
+#v1698Gah, dá pra se aquietar?! Vai querer um fio dental com estampa leopardo ou um maiô escolar?! Eu te deixo escolher!!
 
 #v1984「こうして。ゲームマスター戦人さまへの無謀なる陳情はことご#r　とく退けられたのでありました…」
 #v1984And so, the reckless petitions made to Game Master Battler-sama were rejected one after another.
@@ -276,7 +276,7 @@
 
 #v1988「戦人さまのお背中とお尻を、薔薇の香りのサンオイルで、#r　ぬ～りぬ～りということで、如何でしょう？」
 #v1988Then I could rub rose-tinted suntan lotion all over your back and rear. How does that sound?
-#v1988E então esfregar uma loção de bronzear cor-de-rosa por toda sua costas. Que tal?
+#v1988E então esfregar uma loção de bronzear cor-de-rosa por toda sua costas. O que me diz?
 
 #v1702「やだ！！　絶対嫌だ！！　それ冗談だろ…？」
 #v1702No!! Hell no!! You're joking, right...?
@@ -284,7 +284,7 @@
 
 #v1989「冗談としたいところなのですが。#r　ほら、もうこうしてエンディングの時間でございます」
 #v1989I wish I were, but look, it's almost time for this tale to end.
-#v1989Eu gostaria de estar, mas parece que já está na hora de encerrarmos o conto.
+#v1989Bem que eu gostaria, mas parece que já está na hora de encerrarmos o conto.
 
 #v1990「他にシナリオが思いつけば、私も男同士でサンオイルなどとい#r　うエンディングをせずに済んだのですが…」
 #v1990If you had but thought of a different plot, I too would not now be forced into an ending where we men slather lotion all over each other...
@@ -18404,7 +18404,7 @@
 
 #v3307「ありがとう。#r　この、無限に銃弾が撃てる銃は、本当に便利ね？」
 #v3307Thanks. This gun that shoots bullets endlessly is really convenient.
-#v3307Obrigada.Esta arma disparar balas infinitas é mesmo conveniente.
+#v3307Obrigada. Esta arma disparar balas infinitas é mesmo conveniente.
 
 #v3308「感謝はしてるけれど。#r　……真里亞にはあまり馴れ馴れしくしないでちょうだい」
 #v3308I'm grateful, ...but please don't get too friendly with Maria.
@@ -18776,7 +18776,7 @@
 
 #v4328「なるほど。#r　仮にもかつて、ベアトリーチェを#r　名乗っていただけのことはありますね」
 #v4328I see. I guess you didn't go by the name of Beatrice for nothing.
-#v4328Entendo... Suponho que não tenha o título de BEATRICE em vão.
+#v4328Entendo... Suponho que o título de BEATRICE não seja só para aparecer.
 
 #v5745「名前と一緒に、心も引き継いだつもりでいたのですが。#r　……あの子はまったく…」
 #v5745I intended to pass along my heart as well as my name, ...but really, that child...
