@@ -2348,7 +2348,7 @@ Não suspeite de mim; tente me parar. ...Eu e meus crimes. Alguém, por favor, m
 #v2263Finally. I thought you at least would've managed to spot it long ago.
 Finalmente. Pensei que você ao menos teria percebido isso antes.
 
-#2322Oh, I did. ...However, because I was too naive to believe it, more and more people have died. 
+#v2322Oh, I did. ...However, because I was too naive to believe it, more and more people have died.
 Ah, eu notei. ...Porém, eu fui ingênua demais para acreditar, e mais e mais pessoas morreram.
 
 #v2264So, you acted all flustered and locked your true thoughts away, and all the while kept an eye on me. ...Hahah, hahahahahahaha! You're quite the actor, George-aniki!
@@ -3111,7 +3111,7 @@ Vocês não o quebrarão. Este quarto fechado não possui truque.
 #v6114There are no closed rooms without TRICKS! Allow me to challenge YOURS! 
 Não há quartos fechados sem TRUQUES! Permita-me desafiar os SEUS!
 
-#6115This closed room is STRANGE. ...There really are no tricks, just Battler and Ronove shut up inside IT.
+#v6115This closed room is STRANGE. ...There really are no tricks, just Battler and Ronove shut up inside IT.
 Este quarto fechado é ESTRANHO. ...Realmente não há truques, apenas o Battler e o Ronove trancados dentro DELE.
 
 #v6356Pu ku ku. Welcome to the forbidden closed room, you two. The forbidden room where Battler-sama and I are locked up for all eternity...
@@ -3879,7 +3879,7 @@ Gatos são gatos porque não tentam fazer você gostar deles. Se eu atirar na Be
 #v6210I stole it! I stole the arrow of love! How do I use this thing...? Wait, what?! Hey, where is it going?!! 
 Roubei! Eu roubei o arco do amor! Como eu uso essa coisa...? Espera, quê?! Ei, pra onde foi?!!
 
-#6433Whoops. The guidance system tends to go crazy when used by an amateur nyeh. 
+#v6433Whoops. The guidance system tends to go crazy when used by an amateur nyeh.
 Ops. O sistema guiado tente a ficar enlouquecido quando usado por amadores, nyeh.
 
 #v6311Th-This is no joke! If that arrow hits someone, they'll fall in love with me, right?! But I belong to Bern alone!!
@@ -4647,7 +4647,7 @@ Magia, truque, magia, truque... É, estou perdido!
 #v1420My, my. If you surrender after something like this, you certainly won't be able to beat Beato. 
 Minha nossa. Se você se render após algo assim, certamente não conseguirá derrotar a Beato.
 
-#0251It should be possible to explain everything with tricks! And yet...dammit! Dammit! 
+#v0251It should be possible to explain everything with tricks! And yet...dammit! Dammit!
 Deve ser possível explicar tudo com truques! E ainda assim...porcaria! Que droga!
 
 #v1421Your range of vision is a tad too limited. Think more flexibly... 
@@ -19292,4 +19292,4 @@ Está procurando por um teste de astúcia...? Hah, continue a me fazer rir.
 Eu amo o quão quente você é... É tão gostoso...
 
 #v6542Hahahahahahah... I smell blood.
-Hahahahahahah... Sinto cheiro de sangue.	
+Hahahahahahah... Sinto cheiro de sangue.
