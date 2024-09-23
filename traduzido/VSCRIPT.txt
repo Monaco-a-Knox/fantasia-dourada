@@ -4320,7 +4320,7 @@
 
 #v6064「いやだね。#r　第一。お前が本当に罵りたいのは、……俺だろう？」
 #v6064No way. In the first place, ...you're the one who wants to yell at me, aren't you...?
-#v6064Sem chance. Pra come;ar, ...você é quem quer gritar comigo, não é...?
+#v6064Sem chance. Pra começar, ...você é quem quer gritar comigo, não é...?
 
 #v6405「……はい。#r　……あなたが、みんなを、そして私も、……殺したんです」
 #v6405...Yes. ...After all, you killed everyone...and me, too.
