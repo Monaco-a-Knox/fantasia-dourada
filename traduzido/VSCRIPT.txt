@@ -2052,7 +2052,7 @@
 
 #v2032「ぷっくっく！　ルシファーはお昼寝の時間が欲しかったのです#r　か？」
 #v2032Pu ku ku! Lucifer, you wanted time to take midday naps?
-#v2032Pu ku ku! Lucifer, você quer dormir ao meio-dia?
+#v2032Pu ku ku! Quer tirar o cochilho da tarde, Lucifer?
 
 #v1970「わッ、私は別に昼寝の時間など…！　よ、４１０ぅ…！！」
 #v1970I-I never said I wanted time for naps...! 410...!!
@@ -2096,7 +2096,7 @@
 
 #v2104「ほらほら、長女の沽券沽券～。妹たちも見てるにぇ☆」
 #v2104Come on, don't forget your pride as the eldest sister! Your little sisters are watching you nyeh ��
-#v2104Vamos, não esqueça do seu oprgulho como irmã mais velha! Suas irmãzinhas estão assistindo, nyeh☆
+#v2104Vamos, não esqueça do seu orgulho como irmã mais velha! Suas irmãzinhas estão assistindo, nyeh☆
 
 #v1973「ぅ、あ、そのっ。#r　わ、我ら煉獄の七姉妹におやつと昼寝の権利を…！#r　ちょ、長女として要求いたしますっ。キリっ！」
 #v1973Nn... Umm, uh, a-as the eldest sister, I d-demand that you supply the Seven Sisters of Purgatory with snacks and the right to take naps...! *stomp*!
@@ -2412,11 +2412,11 @@
 
 #v2273「……ごもっともな話ね。#r　お兄ちゃんが間抜けだからよ」
 #v2273...They have a point. You are a moron, Onii-chan.
-#v2273...Eles têm um ponto. Você é idiota, onii-chan.
+#v2273...Eles têm um ponto. Quem mandou ser trouxa, onii-chan?
 
 #v2299「犯人は僕たちで捜すことにしたんだ。#r　戦人くんには、降りてもらうよ」
 #v2299We've decided to search for the culprit ourselves. Battler-kun, it's time to step down.
-#v2299Nós decidimos procurar pelo culpado por contra própria. Está na hora de abidicar, Battler-kun.
+#v2299Nós decidimos procurar pelo culpado por contra própria. Está na hora de cair fora, Battler-kun.
 
 #v2235「しゅ、主人公は俺だぜ…？！#r　そうは行くかってんだ…！！」
 #v2235B-But I'm the main character...! I can't do that...!!
@@ -2424,7 +2424,7 @@
 
 #v2274「はい、お兄ちゃんの負け。#r　さっさと未来に帰るわよ」
 #v2274Yup, Onii-chan lost. Time to take you back to the future.
-#v2274É, o onii-chan perdeu. Hora de te levar de volta para o futuro.
+#v2274Ótimo, o onii-chan perdeu. Hora de te levar de volta para o futuro.
 
 #v2236「そんなぁああぁ、俺が主人公なのにぃ、#r　ぐぉおおおぉお……」
 #v2236Noooooooo, I'm the main character, gaaaaaaaahhhh...
@@ -2452,7 +2452,7 @@
 
 #v2302「君の正体が問題じゃない。#r　君に事件を止めてもらうのが目的だよ」
 #v2302Who you are isn't the problem. We're here to stop you from committing these crimes.
-#v2302Sua identidade não é o problema. Estams aqui para impedir que comete os crimes.
+#v2302Sua identidade não é o problema. Estamos aqui para impedir que comete os crimes.
 
 #v2210「わ、妾の正体とか動機とかァ、色々悩んで欲しかったのにぃ。#r　あー、そうですかー、全部妾が悪いンすかー！#r　へー、ほー、ふーん！」
 #v2210I-I would have hoped that you'd worry a bit more about my identity and motives and stuff... Oh, now I get it, all those crimes were my fault the whole time! Wooow, whoooa, huuuuh!
@@ -2536,7 +2536,7 @@
 
 #v2442「はい、お嬢様。#r　私たちはこの試練を乗り越えて結ばれます」
 #v2442Yes, Milady. We'll overcome this trial and be joined together.
-#v2442Sim, ojou-sma. Vamos superar esta provação e ficarmos juntos.
+#v2442Sim, ojou-sama. Vamos superar esta provação e ficarmos juntos.
 
 #v2367「僕たちも、この試練を乗り越えて、#r　……新しい世界に踏み出すんだ」
 #v2367And we will overcome this trial...and step into a new world.
@@ -2548,7 +2548,7 @@
 
 #v2338「仕方ねぇさ。結ばれるのは一方だけだ。#r　さぁッ、始めようぜ！！」
 #v2338There's no helping it. Only one pair will be joined. Let's get this started!!
-#v2338Não há o que possamos fazer quantoa isso. Apenas um par pode ficar junto. Vamos começar!!
+#v2338Não há o que possamos fazer quanto a isso. Apenas um par pode ficar junto. Vamos começar!!
 
 #v2443「申し訳ございません、お嬢様、嘉音くん…！#r　許して下さい…！」
 #v2443I'm so sorry, Milady, Kanon-kun...! Please forgive me...!
@@ -2592,11 +2592,11 @@
 
 #v2288「紗音！　この泥棒猫！#r　あんたは譲治に相応しくない！　二度と現れられないように、#r　ぐっちゃぐちゃにしてあげるッ！！」
 #v2288Shannon, you little thief! George deserves better than you! I'll mush you up so bad, you'll never appear again!!
-#v2288Shannon, sua ladrãzinha! Meu George merece alguém melhor que você! Vou acabar com você a ponto de nunca mais dar as caras!!
+#v2288Shannon, sua destruidora de lares! Meu George merece alguém melhor que você! Vou te desfigurar a ponto de nunca mais ter coragem de dar as caras!!
 
 #v2315「じゃあね、母さん。#r　僕たちは絶対に、幸せになるから」
 #v2315So long, Mother. We will find happiness. That's for certain.
-#v2315Adeus, mãe. Nós iremos encontrar a felicidade. Tenho certeza disso.
+#v2315Adeus, mãe. Nós definitivamente seremos felizes juntos.
 
 #v2289「譲治ぃいいぃい、#r　ぐぉおおぉ、そんなあぁあああぁあ……！！」
 #v2289Geooooooorge, gyaaaaaah, nooooooooo...!!
@@ -2644,7 +2644,7 @@
 
 #v2368「それは、………僕は、家具ですから」
 #v2368But...I am furniture.
-#v2368Mas... Eu sou uma mobília.
+#v2368Mas...Eu sou uma mobília.
 
 #v2341「また言い出した！　口を開けば家具家具家具！#r　その根性、私が叩き直してやるぜ！」
 #v2341There it is again! Every time you open your mouth, it's furniture, furniture, furniture! I'll whip you into shape until you grow a pair!
@@ -2896,7 +2896,7 @@
 
 #v2416「ベアトリーチェ！　いるんでしょう？！#r　もう約束の時間よ！　……早く現れて！！#r　私と真里亞をここから逃がして！！」
 #v2416Beatrice, you're there, aren't you?! The promised time has come! ...Show yourself now...and take Maria and me from this place!!
-#v2416BEATRICE, você está aí, não está?! O momento prometido chegou! ...Apareça agora...e tire a Maria e eu deste lugar!! 
+#v2416BEATRICE, você está aí, não está?! O momento prometido chegou! ...Apareça agora!! E tire nós duas deste lugar!! 
 
 #v2417「……………………………。#r　……また、……私は裏切られたのね……」
 #v2417............ ...I've...been betrayed again, haven't I...?
