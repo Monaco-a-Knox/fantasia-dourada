@@ -260,23 +260,23 @@
 
 #v1700「俺とロノウェだけでか？#r　どんなシナリオだよ。想像がつかん」
 #v1700What, just you and me? And what are we supposed to do? I can't think of anything.
-#v1700O quê? Só você e eu? E o que vamos fazer? Não consigo pensar em nada.
+#v1700Só eu e você? Como que seria esse enrendo? Eu nem consigo imaginar.
 
 #v1986「ご冗談を。すでに戦人さまが思いつかれているシナリオに、#r　私たちが登場するだけで良いではありませんか」
 #v1986Surely you jest. You've already thought of a plot. We need only act it out ourselves.
-#v1986É claro que está brincando. Você já pensou no enrendo. Só precisamos atuar nós mesmos agora.
+#v1986É mesmo um mesmo um piadista, Battler-sama. Nós dois já somos mais do que suficientes para atuarmos o enredo que você pensou.
 
 #v1701「おっぱいハーレム、水着でサンオイル塗り塗り大作戦の巻、#r　……をか？」
 #v1701You mean...the Great Boob Harem, Swimsuits, and Suntan Lotion Maneuver...?
-#v1701Está falando...do Grande Harém de Peitos, Trajes de Banho e Bronzeador...?
+#v1701Está falando... do Grande Harém de Peitos, Trajes de Banho e Bronzeador...?
 
 #v1987「私は取っておきの、銀ラメのビキニパンツで！」
 #v1987Perhaps I should get out my special silver bikini briefs!
-#v1987Talvez eu deve preparar minhas amostras especiais de biquínis prateados!
+#v1987Usarei minha sunga prateada favorita!
 
 #v1988「戦人さまのお背中とお尻を、薔薇の香りのサンオイルで、#r　ぬ～りぬ～りということで、如何でしょう？」
 #v1988Then I could rub rose-tinted suntan lotion all over your back and rear. How does that sound?
-#v1988E então esfregar uma loção de bronzear cor-de-rosa por toda sua costas. O que me diz?
+#v1988E então passarei um bronzeador com fragrância de rosas por toda sua costas e glúteos. O que me diz?
 
 #v1702「やだ！！　絶対嫌だ！！　それ冗談だろ…？」
 #v1702No!! Hell no!! You're joking, right...?
@@ -288,7 +288,7 @@
 
 #v1990「他にシナリオが思いつけば、私も男同士でサンオイルなどとい#r　うエンディングをせずに済んだのですが…」
 #v1990If you had but thought of a different plot, I too would not now be forced into an ending where we men slather lotion all over each other...
-#v1990Se não tiver pensando em outro enredo, eu também não serei forçado a um final onde homens esfregam loção um no outro...
+#v1990Se tivesse pensado em outro enredo, eu não seria obrigado a atuar esse enredo onde homens lutam esfregando bronzeador, mas...
 
 #v1703「よ、よせ、ロノウェ…。冗談なんだろ？　だろ…？#r　ぎゃぎゃ、……ぎゃぁあああぁああああああぁあああ！！」
 #v1703C-Cut it out, Ronove... You are joking, right? Right...? G-G-Gyaaaaaaaaaaaaaaaaaahh!!
@@ -296,7 +296,7 @@
 
 #v1704「どういうことだ。黄金の魔女はお前じゃないのか。#r　どうしてゲーム盤が乗っ取られる？」
 #v1704What's going on? Aren't you the Golden Bitch? How the heck did your game board get taken over?
-#v1704O que está acontecendo. Você não é a Bruxa Dourada? Como deixou que seu tabuleiro fosse tomado?
+#v1704O que tá acontecendo? Você não é a Bruxa Dourada? Como deixou que seu tabuleiro fosse tomado?
 
 #v1575「あやつめが、よもや碑文を解くとは思わなかったのだ。#r　黄金の謎を解いた新しき魔女は、今やこのゲームの新しき支配#r　者だ」
 #v1575I certainly wasn't counting on that person solving the epitaph. The new witch, who solved the riddle of the gold, is now the new ruler of this game.
