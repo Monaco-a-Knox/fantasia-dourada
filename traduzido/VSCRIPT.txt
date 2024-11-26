@@ -40,7 +40,7 @@
 
 #v1775「決着ね。#r　過去は譲る。でも未来は私たちが紡ぐわ」
 #v1775That settles it. I'll let you keep the past, but we'll be the ones weaving the future.
-#v1775Tudo resolvido. Abirei mão do passado, mas seremos nós que teceremos o futuro!
+#v1775Tudo resolvido. Abrirei mão do passado, mas seremos nós que teceremos o futuro!
 
 #v1826「過去は変わらない、未来も変わらない。#r　何を足掻こうとも、誰も連れ帰ることは出来ないのよ。#r　私に譲治が連れ戻せないように…！」
 #v1826Neither the future nor the past will change. No matter how much you struggle, you can't take anyone back with you. Just like how I couldn't take George back with me...!
@@ -1664,7 +1664,7 @@
 
 #v1637「やってみよッ！！#r　出来やせぬ、だから死ねッ、内より閉ざされた密室で！！」
 #v1637Just you try!! You can't do it, so die! Die in a closed room locked from the inside!!
-#v1637Então tente!! Você não é capaz, então morra! Morra em um quarto fechado trancado por dentro!!
+#v1637Então tente!! Você não é capaz, então morra! Morra em um quarto fechado, trancado por dentro!!
 
 #v1638「それでそなたの推理は終わりか？#r　粗末なる青き真実、全て打ち砕いてやったぞ！」
 #v1638Is that where your reasoning ends? I've crushed all your pitiful blue truths!
@@ -2032,7 +2032,7 @@
 
 #v2099「時折は主張しないと沽券にかかわるにぇ！#r　ビシッと決めれば、ルシファーちゃんの長女としての株も#r　アップすると思うにぇ～？」
 #v2099If you don't speak up every now and then, you're selling your dignity nyeh! If you put your foot down, I'm sure your stock will rise with your sisters nyeh.
-#v2099Se você não falar de vez em quando, estará selando sua dignidade, nyeh! Se colocar os pés no cháo, tenho certeza que seu valor aumentrá junto com o de suas irmãs, nyeh!
+#v2099Se você não falar de vez em quando, estará selando sua dignidade, nyeh! Se colocar os pés no chão, tenho certeza de que seu valor aumentará junto com o de suas irmãs, nyeh!
 
 #v1968「ん、…んん、…それは、ホントに……？」
 #v1968N-Nnngg...... Is that...true...?
@@ -2052,7 +2052,7 @@
 
 #v2032「ぷっくっく！　ルシファーはお昼寝の時間が欲しかったのです#r　か？」
 #v2032Pu ku ku! Lucifer, you wanted time to take midday naps?
-#v2032Pu ku ku! Quer tirar o cochilho da tarde, Lucifer?
+#v2032Pu ku ku! Quer tirar o cochilo da tarde, Lucifer?
 
 #v1970「わッ、私は別に昼寝の時間など…！　よ、４１０ぅ…！！」
 #v1970I-I never said I wanted time for naps...! 410...!!
@@ -2148,7 +2148,7 @@
 
 #v2061「うん、がんばろう。私たちになら出来るよ、きっと」
 #v2061Yeah, let's do our best. I'm sure we can do it.
-#v2061Sim, vamos dar o nosso melhor. Tenho certeza que conseguimos.
+#v2061Sim, vamos dar o nosso melhor. Tenho certeza de que conseguimos.
 
 #v1915「あの魔女のくれたブローチの力。#r　……本当に信じていいのかな」
 #v1915Is it really okay to believe...in the power of the brooch that witch gave us?
@@ -2320,7 +2320,7 @@
 
 #v1887「行くわよ！　私たちより上位にいるライバルは全部全部、ポッ#r　プにキュートに、ぐっちゃぐちゃにしてやるんだから…！！」
 #v1887Come on! Let's turn all our higher-ranked rivals into <pop>, <cute> lumps of goo...!!
-#v1887Anda! Vamos transformar nossas rivais mais bem colocadas em nódulos gosmentos pops e adoráveis...!!
+#v1887Anda! Vamos transformar nossas rivais mais bem colocadas em nódulos gosmentos pop e adoráveis...!!
 
 #v1677「不動の人気投票第１位と言ったら！#r　そりゃァ妾だよなぁ？！#r　待ちくたびれたぞ、エヴァあぁああぁ！！」
 #v1677Were you looking for the eternal number one?! That would be me, wouldn't it?! You've kept me waiting, EVAAAAAAA!!
@@ -2760,7 +2760,7 @@
 
 #v2352「じゃあ、私は作曲！#r　嘉音くんはその気持ちで作詞を頼むぜ！#r　きっと最高の歌になるよ…！！」
 #v2352Okay, I'll compose a piece! Kanon-kun, keep up that attitude and start on the lyrics! I'm sure we'll make an awesome song...!!
-#v2352Certo, vou compor uma música! Mantenha essa atitude e comece com a letra, Kanon-kun! Tenho certeza que fará uma música incrível...!! 
+#v2352Certo, vou compor uma música! Mantenha essa atitude e comece com a letra, Kanon-kun! Tenho certeza de que fará uma música incrível...!! 
 
 #v2379「あの、……それはそうと、#r　……この服は、ちょっと恥ずかしいです…」
 #v2379Also, ...umm... This outfit is...a little embarrassing...
@@ -2804,7 +2804,7 @@
 
 #v2380「……無理もないことです。#r　犯人でないことが確実なのは、#r　……自分自身と、死体だけなのですから」
 #v2380...It's only natural. You can only be sure someone isn't a culprit if it's yourself...or a corpse.
-#v2380...É natural. Você só pode ter certeza que alguém não é culpado se for você mesmo...ou um cadáver.
+#v2380...É natural. Você só pode ter certeza de que alguém não é culpado se for você mesmo...ou um cadáver.
 
 #v2406「…………あなたは、羊？　それとも狼なの？　教えて」
 #v2406......Are you a sheep? Or a wolf? Tell me.
@@ -2892,7 +2892,7 @@
 
 #v2415「あなたの潔白が、やがてきっと証明されるわ。#r　……そしたら仲直りしましょ。……来世でね」
 #v2415I'm sure your innocence will be proven eventually. ...When it is, let's make up. ...In the next life.
-#v2415Tenho certeza que sua inocência será provada eventualmente. ...Quando for, faremos as pazes. ...Na próxima vida.
+#v2415Tenho certeza de que sua inocência será provada eventualmente. ...Quando for, faremos as pazes. ...Na próxima vida.
 
 #v2416「ベアトリーチェ！　いるんでしょう？！#r　もう約束の時間よ！　……早く現れて！！#r　私と真里亞をここから逃がして！！」
 #v2416Beatrice, you're there, aren't you?! The promised time has come! ...Show yourself now...and take Maria and me from this place!!
@@ -5068,7 +5068,7 @@
 
 #v6208「参りましょう、我が主。#r　必ず再び、主の心を捕らえるゲーム盤が見つかります」
 #v6208Let's go, my master. I'm sure we'll find another game board that can capture your heart.
-#v6208Vamos, minha mentora. Tenho certeza que encontraremos outro tabuleiro que irá conquistar seu coração.
+#v6208Vamos, minha mentora. Tenho certeza de que encontraremos outro tabuleiro que irá conquistar seu coração.
 
 #v6507「そうね。……じゃあ眠りましょう。#r　私たちは波間に浮かぶボトルのよう。……いつかどこかの浜辺#r　に打ち上げられるまで、千年を眠り続ける……」
 #v6507You're right. ...Then let's sleep, like a bottle amidst the waves. ...We'll sleep for a thousand years...until we run across a beach sometime, somewhere...
@@ -5588,7 +5588,7 @@
 
 #v2656「いやいや。天性のセンスを感じたよ。#r　戦人くんは、もっと強くなれるよ」
 #v2656Not at all. I can tell that your instincts are incredible. I'm sure you can become much stronger, Battler-kun.
-#v2656Nada disso. Dá para ver que seus instintos são incríveis. Tenho certeza que pode se tornar muito mais forte, Battler-kun.
+#v2656Nada disso. Dá para ver que seus instintos são incríveis. Tenho certeza de que pode se tornar muito mais forte, Battler-kun.
 
 #v2657「格闘は、知識よりセンスか。#r　……思い知らされたよ」
 #v2657Fighting is more about intuition than knowledge. ...Now I see that clearly.
@@ -5636,7 +5636,7 @@
 
 #v3181「真里亞にも守るものが出来たなら、#r　私よりもきっと強くなるでしょうね」
 #v3181Yes. When Maria has something of her own to protect, I'm sure she'll be much stronger than me.
-#v3181Tenho certeza que quando a Maria quer proteger algo, ela se torna ainda mais forte que eu.
+#v3181Tenho de certeza que quando a Maria quer proteger algo, ela se torna ainda mais forte que eu.
 
 #v3182「クッ、戦人くんを甘く見ていたわ。#r　……さすがは留弗夫兄さんの子ね…」
 #v3182Nngg. I underestimated you, Battler-kun. ...That's Rudolf nii-san's kid for you...
@@ -6024,7 +6024,7 @@
 
 #v2660「たくましく成長したね。#r　君の姿、きっとご家族も誇りに思ってるよ」
 #v2660You've grown to be strong, haven't you? I'm sure your family's proud of what you are now.
-#v2660Você se tornou uma pessoa forte, não é mesmo? Tenho certeza que sua família está orgulhosa de quem você é agora.
+#v2660Você se tornou uma pessoa forte, não é mesmo? Tenho certeza de que sua família está orgulhosa de quem você é agora.
 
 #v2570「……やめて。#r　……私はたくましいんじゃない。心を閉ざしただけよ」
 #v2570...Stop that. ...I'm not strong at all. I've just closed off my heart.
@@ -6360,7 +6360,7 @@
 
 #v1122「ありがとうございます。#r　この敗北から、きっと何かを学びます」
 #v1122Thank you. I'm sure I'll learn something from this loss.
-#v1122Obrigada. Tenho certeza que aprenderá algo com esta derrota.
+#v1122Obrigada. Tenho certeza de que aprenderá algo com esta derrota.
 
 #v1443「心優しく、そして強い少女よ。#r　いつも見守っていますよ」
 #v1443You're a kind and strong girl. I'm always watching over you.
@@ -11436,7 +11436,7 @@
 
 #v5718「昔はもう少し互角だったはず。#r　……私もすっかり老いぼれたようで」
 #v5718We were on more of an even footing back in the day. ...It seems I've grown quite old.
-#v5718Nós estávamos em uma situação de maior equilíbrio naquela época. ...Parece que eu evelheci bastante.
+#v5718Nós estávamos em uma situação de maior equilíbrio naquela época. ...Parece que eu envelheci bastante.
 
 #v5719「相変わらず見事ですね。#r　華麗かつ、知的で緻密な戦いでしたよ」
 #v5719Magnificent, as always. It was a gorgeous and intellectually precise battle.
@@ -13768,7 +13768,7 @@
 
 #v0458「私に足りないのは何？#r　力？　思い？　心の余裕？」
 #v0458What is it that I lack? Power? Feelings? Room to relax in my heart?
-#v0458O que é isso que me falta? Poder? Sentimentos? Espaço no coração para relaxar?
+#v0458O que me falta? Poder? Sentimentos? Espaço no coração para relaxar?
 
 #v1328「面積がちょっと足りないにぇ。#r　頭ン中の花畑の。にひ！」
 #v1328Well, your acreage is pretty lacking nyeh. In that flowery garden inside your head. Nihi!
@@ -15012,7 +15012,7 @@
 
 #v0160「つれないヤツよ。#r　パートナーの勝利をどうして喜べぬというのか！#r　くっくっく！」
 #v0160What an unsociable lad you are. Why can't you even rejoice in your partner's victory?! *cackle*cackle*!
-#v0160Mas como você é insociável, hein? Por que não pode ficar contente com a vitória da sua parceita?! *gargalhada*gargalhada*!
+#v0160Mas como você é insociável, hein? Por que não pode ficar contente com a vitória da sua parceira?! *gargalhada*gargalhada*!
 
 #v0161「嘉音にくれてなどやらぬ！#r　この獲物は妾のものだ！#r　くっひゃっひゃっひゃ！」
 #v0161I'm not letting you take Kanon! This prey is mine! Ahyahyahya!
@@ -18396,7 +18396,7 @@
 
 #v3306「ねぇ、何で私を魔女と呼ぶの？#r　……あ、美魔女って意味？#r　お世辞が過ぎるわよ、もう♪」
 #v3306Hey, why do you keep calling me a witch? ...Oh, are you saying I look bewitchingly youthful? Stop it, you're too kind��
-#v3306Ei, por que continua me chamando de bruxca? ...AH, está dizendo que eu pareço encantadoramente jovem? Poxa, você é tão gentil♪
+#v3306Ei, por que continua me chamando de bruxa? ...AH, está dizendo que eu pareço encantadoramente jovem? Poxa, você é tão gentil♪
 
 #v2509「妾の加護を受ける楼座に、負ける道理はない。#r　存分に戦うが良かろう」
 #v2509Now that you've received my divine protection, there's no way you'll lose. Fight however you like.
@@ -20008,7 +20008,7 @@
 
 #v5635「何を睨んでんだよ。#r　……勝ったぞ、喜べよ」
 #v5635Why are you glaring at me? ...We won. Be happy.
-#v5635Por que está me encarando? ...Nós vencemos. Fique feliz.
+#v5635Por que está me encarando? ...Nós vencemos! Alegre-se!
 
 #v4917「がるるるー！#r　このラムダちゃん様が、#r　せっかく華麗なフィニッシュを狙ってたのにー！」
 #v4917Grrrr! Just when Lambda-chan-sama was planning a magnificent finish!
@@ -23156,7 +23156,7 @@
 
 #v5424「にぇ？#r　戦人がおかしなことを口走ってるにぇ。#r　叩けば直るに違いないにぇ！」
 #v5424Nyeh? Battler's saying all kinds of weird stuff nyeh. I'm sure he'll get better if I whack him nyeh!
-#v5424Nyeh? O Battler diz um monte de coisas estranhas, nyeh. Tenho certeza que vai melhorar quando eu bater nele, nyeh!
+#v5424Nyeh? O Battler diz um monte de coisas estranhas, nyeh. Tenho certeza de que vai melhorar quando eu bater nele, nyeh!
 
 #v5425「……４５、観測を頼むにぇ。#r　この戦人、何か様子がおかしいにぇ」
 #v5425...45, keep your eyes open nyeh. There's something wrong with this Battler nyeh.
