@@ -44,7 +44,7 @@
 
 #v1826「過去は変わらない、未来も変わらない。#r　何を足掻こうとも、誰も連れ帰ることは出来ないのよ。#r　私に譲治が連れ戻せないように…！」
 #v1826Neither the future nor the past will change. No matter how much you struggle, you can't take anyone back with you. Just like how I couldn't take George back with me...!
-#v1826Nem futuro nem passado serão alterados. Não importa o quanto lute, não poderá trazer ninguém de volta consigo. Assim como eu não consegui trazer o George comigo...!
+#v1826Nem futuro, nem passado serão alterados. Não importa o quanto lute, não poderá trazer ninguém de volta consigo. Assim como eu não consegui trazer o George comigo...!
 
 #v1776「それを足掻くのが私の趣味なの。#r　じゃね。シーユーアゲイン、ハバナイスディ」
 #v1776Struggling despite that is a hobby of mine. <See you again, have a nice day.>
@@ -100,7 +100,7 @@
 
 #v1570「そして何も変えられぬ未来に絶望するがいい！#r　くっくくくわっははっはっひゃア！！」
 #v1570So, go ahead and despair at the sight of a future where you cannot change a single thing! *cackle*cackle* Wahahahahaaah!!
-#v1570Agora, vá em frente de desespere-se diante de um futuro em que você não pode mudar absolutamente nada! *gargalhada*gargalhada* Wahahahahaaah!!
+#v1570Agora, vá em frente e desespere-se diante de um futuro em que você não pode mudar absolutamente nada! *gargalhada*gargalhada* Wahahahahaaah!!
 
 #v1779「……知ってたわ。#r　この戦いは全て、私の妄想、自己満足…」
 #v1779...I already knew that. This whole fight is a daydream of mine, my search for self-satisfaction...
@@ -152,11 +152,11 @@
 
 #v1688「登場人物がこれだけ多いと、誰と誰を登場させて、誰に見せ場#r　を作るか、考えるだけでも頭痛だぜ…」
 #v1688When you've got this many characters, it's a real headache just thinking up who's gonna be in a scene with whom, and who's gonna take center stage...
-#v1688Quando se tem tantos personagens, é uma dor de cabeça pensar em que vai contracenar com quem, e quem vai assumir o papel principal...
+#v1688Quando se tem tantos personagens, é uma dor de cabeça pensar em quem vai contracenar com quem, e quem vai assumir o papel principal...
 
 #v1978「ぷっくっく！　本日も大勢が陳情に訪れておりますよ？」
 #v1978Pu ku ku! I'm afraid a great many petitioners have come to meet with you today.
-#v1978Pu ku ku! Temo que um grande numero de pedintes tenha vindo encontrá-lo hoje.
+#v1978Pu ku ku! Temo que um grande número de pedintes tenha vindo encontrá-lo hoje.
 
 #v1979「皆さん、腕尽くでも、次のゲームの見せ場をいただきたいと、#r　意気込んでおられます」
 #v1979They all seem quite eager to earn themselves a bigger role in the next game, even if they must resort to force.
@@ -200,7 +200,7 @@
 
 #v1693「バニースーツに体操服、スクール水着もポイント高いぞ～！#r　お、嘉音くんでもＯＫだ。需要ありそうだしなー」
 #v1693Also, I wouldn't say no to a bunny suit, gym clothes, or a school swimsuit either, okay? Oh, and you can come too, Kanon-kun. I'm sure you'll have plenty of fans.
-#v1693E mais, eu não rejeitaria uma roupa de coelhinha, uniforme de ginástica ou um maiô escolar, certo? Ah, e você também pode vir, Kanon-kun. Tenho certeza que você tem muitos fãs.
+#v1693E mais, eu não rejeitaria uma roupa de coelhinha, uniforme de ginástica ou um maiô escolar, certo? Ah, e você também pode vir, Kanon-kun. Tenho certeza de que você tem muitos fãs.
 
 #v1982「おお、それは確かに需要がありそうですなぁ。#r　戦人さまは実によくわかっておいでだ！」
 #v1982Oh, yes indeed. You have quite a keen eye, Battler-sama!
@@ -236,7 +236,7 @@
 
 #v1983「このまま戦人さまを止められませんと、１８歳未満の方には、#r　お引取り願わねばならないシナリオとなりましょうな。#r　ぷっくっく！」
 #v1983If someone doesn't put a stop to Battler-sama, we might have to start turning away children under 18. Pu ku ku!
-#v1983Se ninguém não o parar, seremos obrigados a pedir para os menores de idade a se retirarem. Pu ku ku!
+#v1983Se ninguém o parar, seremos obrigados a pedir para os menores de idade se retirarem. Pu ku ku!
 
 #v1574「えぇい、ちゃんとミステリーやファンタジーにせぬか愚か者！#r　そなたにタンコブ一つを進呈して、妾がまともなシナリオに修#r　正してくれる！」
 #v1574Gah, can't you just pick mystery or fantasy, you fool?! I'd better give you a good thrashing and alter the plot into something decent!
@@ -276,7 +276,7 @@
 
 #v1988「戦人さまのお背中とお尻を、薔薇の香りのサンオイルで、#r　ぬ～りぬ～りということで、如何でしょう？」
 #v1988Then I could rub rose-tinted suntan lotion all over your back and rear. How does that sound?
-#v1988E então passarei um bronzeador com fragrância de rosas por toda sua costas e glúteos. O que me diz?
+#v1988Então, passarei um bronzeador com fragrância de rosas por toda as suas costas e glúteos. O que me diz?
 
 #v1702「やだ！！　絶対嫌だ！！　それ冗談だろ…？」
 #v1702No!! Hell no!! You're joking, right...?
@@ -308,7 +308,7 @@
 
 #v1576「そうとも。これは妾とそなたの血塗られし物語。#r　それを描く鮮血のインクは、妾とそなたで、充分、足りておる#r　わ！」
 #v1576But of course. This is our bloodstained tale. Between the two of us, we have no shortage of fresh, bloody ink!
-#v1576Mas é claro! Este é o nosso conta banhado à sangue. Já há entre nós tinta fresca e sangrenta o suficiente!
+#v1576Mas é claro! Este é o nosso conta banhado a sangue. Já há entre nós tinta fresca e sangrenta o suficiente!
 
 #v2072「にっひひひ！　先代さまも馬鹿なお人だにぇ、せっかく見逃し#r　たのににぇ」
 #v2072Nihihihi! That Predecessor-sama sure is dumb nyeh. And we even let her get away once too nyeh.
@@ -408,7 +408,7 @@
 
 #v1582「そなたとこうして対峙するのが、感慨深いと同時に、なぜか惜#r　しい気もする。なぜに妾たちは、戦わねばならぬのか、とな」
 #v1582I must say, I find facing off against you like this to be a moving experience, but it also seems...regrettable somehow. Why must we fight?
-#v1582Devo dizer que enfrentar você assim é uma experiência comovente, mas também me parece de alguma forma...lamentável. Por que devemos lutar?
+#v1582Devo dizer que enfrentar você assim é uma experiência comovente, mas também me parece, de alguma forma...lamentável. Por que devemos lutar?
 
 #v1713「馬鹿なことを聞くな。俺は家族と妹のために。#r　お前は、俺に魔女だと認めさせるために、互いを否定し合って#r　るんだろうが」
 #v1713Don't ask stupid questions. I'm here for my family and my sister. You're here to make me acknowledge witches, with both sides trying to refute the other.
@@ -488,7 +488,7 @@
 
 #v1720「俺の敵は黄金の魔女ベアトリーチェなんだよ。#r　元魔女ベアトリーチェなんて、情けなくて御免だぜ！　碑文の#r　謎は誰にも譲らねぇ、あれはベアトから俺への挑戦なんだ！」
 #v1720My enemy is the Golden Witch, Beatrice. Taking on 'Beatrice, the Former Witch' would just be embarrassing! I'm not giving up the riddle of the epitaph to anyone! That's a challenge Beato gave to me!
-#v1720Minha inimiga é a Bruxa Dourada, BEATRICE. Vencer a "Antiga Bruxa BETRICE" seria vergonhoso! Não darei o enigma do epitáfio para ninguém! Este é um desafio entre a Beato e eu!
+#v1720Minha inimiga é a Bruxa Dourada, BEATRICE. Vencer a "Antiga Bruxa BETRICE" seria vergonhoso! Não darei o enigma do epitáfio para ninguém! Este é um desafio entre mim e a Beato!
 
 #v1585「よくぞ碑文の謎を解いた。#r　それを認め、そなたを新しき黄金の魔女と認めよう」
 #v1585You did splendidly, solving the epitaph. I acknowledge it, and I also acknowledge you as the new Golden Witch.
@@ -516,7 +516,7 @@
 
 #v1723「……絵羽伯母さん、悪いな。#r　これは俺とベアトのゲームなんだ。#r　黄金はくれてやるから、引っ込んでてくれねぇか」
 #v1723Sorry, Aunt Eva. This is a game between Beato and me. I'll let you have the gold, so will you back off?
-#v1723Desculpa, tia Eva. Este é um jogo entre a Beato e eu. Eu a deixo ficar como ouro, então você abre mão do resto?
+#v1723Desculpa, tia Eva. Este é um jogo entre mim e a Beato. Eu a deixo ficar como ouro, então você abre mão do resto?
 
 #v1832「はぁ？　２００億円の黄金！#r　そして魔女の称号、右代宮家当主の継承！#r　全ては私のものよ？！」
 #v1832Huh? The 20 billion yen in gold, the title of witch, and the inheritance of the Ushiromiya Family Headship...! All of that belongs to me, get it?!
@@ -628,7 +628,7 @@
 
 #v1733「紗音ちゃんとベアトが決闘？#r　俺はその助太刀ってわけか」
 #v1733A duel between Shannon-chan and Beato? So, I guess I'm her second.
-#v1733Um duelo entre a Shannon-chan e a Beato? Então acho que eu fico na reserva.
+#v1733Um duelo entre a Shannon-chan e a Beato? Então, acho que eu fico na reserva.
 
 #v1734「……何の話かさっぱりだが、ベアトをぶん殴る話だってんなら、#r　協力してやるぜ…！」
 #v1734...I've got no clue what's going on, but if it involves beating Beato up, I'm in...!
@@ -672,11 +672,11 @@
 
 #v1996「戦人さまは、その立会人に選ばれたのです。#r　どうか何も言わずに、この戦いを見届けて下さい」
 #v1996Battler-sama, you've been chosen as their witness. Please, watch this fight until the end, without saying anything.
-#v1996Battler-sama, você foi escolhidocomo testemunha. Por favor, assista esta lut até o fim, sem dizer nada.
+#v1996Battler-sama, você foi escolhidocomo testemunha. Por favor, assista esta luta até o fim, sem dizer nada.
 
 #v1738「よせよ、二人とも！#r　何で実の兄弟のような二人が戦わなきゃならないんだ？！」
 #v1738Stop it, you two! Why should a pair of people who are as close as real siblings be forced to fight?!
-#v1738Parem, vocês dois. Por que pessoas tão próximas como irmãos precisam ser forçados a lutar?!
+#v1738Parem, vocês dois. Por que pessoas tão próximas como irmãos precisam ser forçadas a lutar?!
 
 #v2045「始めよう、嘉音くん。#r　……もう私にとって君は」
 #v2045Let's begin, Kanon-kun. ...To me, you're...
@@ -692,7 +692,7 @@
 
 #v1739「教えてくれ。#r　どうして嘉音くんとの決闘が必要だったんだ」
 #v1739Tell me. Why did you have to challenge Kanon-kun to a duel?
-#v1739Por favor, me explique porque precisou desafiar o Kanon-kun para um duelo?
+#v1739Por favor, me explique por que precisou desafiar o Kanon-kun para um duelo?
 
 #v2046「私たち家具は、恋をする資格を持ちません。#r　それを得るために必要でした」
 #v2046We furniture don't have the right to love. We needed the duel to gain that right.
@@ -756,7 +756,7 @@
 
 #v1789「というわけで唐突だけど。#r　今日から私がゲームマスターだから」
 #v1789So, this may be a bit sudden, but from this day forth, I'm the Game Master.
-#v1789Então, sei que pode ser meio repentino, mas desde dia em diante, eu sou a Game Master.
+#v1789Então, sei que pode ser meio repentino, mas desse dia em diante, eu sou a Game Master.
 
 #v1596「はあ？！　誰が譲るか愚か者！#r　寝言は寝てから言えぃ！」
 #v1596What?! You think I'd let you do that, you dolt?! Enough of this foolishness!
@@ -932,7 +932,7 @@
 
 #v1749「すまん、縁寿…。#r　きっと帰るから…、もう少しだけ待っててくれ…」
 #v1749Sorry, Ange... I'll definitely return, ...so please wait just a little longer...
-#v1749Desculpa, Ange... Eu definitivamente retornarei, ...por isso peço que espere um pouco mais...
+#v1749Desculpa, Ange... Eu definitivamente retornarei, ...por isso, peço que espere um pouco mais...
 
 #v1839「これが真実よ。#r　あんたの兄は、魔女と永遠のゲームの中で戦い続けてる。#r　それは永遠に終わることはなく、永遠に帰ることはない！」
 #v1839This is the truth. Your brother has been fighting against a witch in an endless game. It won't end for all eternity, and he will never come home!
@@ -1056,7 +1056,7 @@
 
 #v1600「お前のかーちゃん、デーベソー！#r　アンポンタンのオタンコナース！」
 #v1600Because yo mama's so fat, you pea-brained dingbat!
-#v1600Tua mãe, aquela gorda! Boboca cérebro de passarinho!
+#v1600Tua mãe, aquela gorda! Boboca, cérebro de passarinho!
 
 #v1752「何だと、バカアホマヌケ！#r　おっぺけぺーの＠＃＆￥％＄ー！！」
 #v1752What'd you say, you stupid retarded dumbass?! You insensitive @#&\%$!!
@@ -1132,7 +1132,7 @@
 
 #v1607「妾をいじめるシナリオに、#r　書き換えちゃったみたいなんだよォ…！」
 #v1607They've rewritten the plot to one where I get bullied...!
-#v1607Reescreveram o enrendo para um onde eu sou maltratada...!
+#v1607Reescreveram o enredo para um onde eu sou maltratada...!
 
 #v2135「何ですって？！　あなたの大切なゲーム盤でしょうが…！#r　手伝いますから、早く取り返しなさい…！」
 #v2135What did you say?! But this is your precious game board...! I'll lend a hand, so let's go and take it back...!
@@ -1212,7 +1212,7 @@
 
 #v1815「くっ……。こんなことなら、嫌がらせなんかしないで、#r　とっととお兄ちゃんが島から帰るシナリオを紡ぎ出せばよかっ#r　た…！」
 #v1815Nng... If I knew it'd come to this, instead of bullying you, I would've written a plot where Onii-chan comes straight back home from that island...!
-#v1815Nng... Se eu soubesse que isso aconteceria, ao invés de provocarvocê, eu teria escrito um roteiro onde o onii-chan volta da ilha direto para casa...!
+#v1815Nng... Se eu soubesse que isso aconteceria, ao invés de provocar você, eu teria escrito um roteiro onde o onii-chan volta da ilha direto para casa...!
 
 #v2142「ベアトとの対決が終わり、戦人くんが勝利を得たなら。#r　その結果として、あなたのもとへ帰ることもあるでしょう」
 #v2142If Battler's fight with Beato ends and he is victorious, then he may return to you, as a result.
@@ -1248,7 +1248,7 @@
 
 #v1615「ふぇ？　よ、よせよお師匠様、可愛い顔が台無しだぜェ…？#r　ごめんなさい、戦人は玩具じゃないですライバルです」
 #v1615Huh? D-Don't do that, it's such a waste of your pretty face... I'm sorry, Battler isn't actually my toy, he's my rival, and...
-#v1615Hã? Não faça isso, é um desperdiço com o seu lindo rosto... Desculpe, o Battler não é meu brinquedo, ele é meu rival e...
+#v1615Hã? Não faça isso, é um desperdício com o seu lindo rosto... Desculpe, o Battler não é meu brinquedo, ele é meu rival e...
 
 #v1616「む、無理、やめてそれ、鯖はムリぃいいいぃ、#r　大き過ぎぃいいいぃいい！！」
 #v1616N-No, not that, please stop, not a mackereeeeeel, it's too biiiiiiiiig!!
@@ -1364,7 +1364,7 @@
 
 #v2091「にぇ？！　ちょっと待ったぁ！#r　オチが読めるにぇ、やめるにぇ～！！」
 #v2091Nyeh?! Wait, stop! I see where this is going nyeh, don't do it nyeh!!
-#v2091Nyeh?! Espera, para! Já vi aonde isso vai parar, nyeh! Não faça isso, nyeh!!
+#v2091Nyeh?! Espera, para! Já vi onde isso vai parar, nyeh! Não faça isso, nyeh!!
 
 #v2154「さぁ出来た、みんな召し上がれ。おかわりもありますよ。#r　ワルギリアお姉さん特製、ニンジンと鯖の味噌カレー雑炊です#r　よー☆」
 #v2154Here you go, let's all eat it together. We even have enough for seconds. It's Virgilia onee-san's special carrot and mackerel miso curry rice soup ��
@@ -1396,11 +1396,11 @@
 
 #v2014「お嬢様は、１３人殺しの儀式を経ねば、復活することが出来ま#r　せんので」
 #v2014Milady cannot revive unless she performs a ceremony and kills 13 people.
-#v2014A ojou-sama não pode reviver a não ser que performe sua cerimonia e mate 13 pessoas.
+#v2014A ojou-sama não pode reviver a não ser que performe sua cerimônia e mate 13 pessoas.
 
 #v1619「黙って生贄になれとは言わぬ。好きに抵抗すれば良い。#r　それもまた、儀式の内だ。…くっくっくっく！」
 #v1619I won't ask you to let yourself be sacrificed quietly. Resist however you please. Even that is part of the ceremony. ...*cackle*cackle*!
-#v1619Não pedirei para que deixe-se sacrificar em silêncio. Resista o quanto quiser. Isso também é parte da cerimonia. ...*gargalhada*gargalhada*!
+#v1619Não pedirei para que se deixe sacrificar em silêncio. Resista o quanto quiser. Isso também é parte da cerimonia. ...*gargalhada*gargalhada*!
 
 #v1904「姉さん、やっぱりこいつは邪悪な魔女なんだ！#r　わかりあえるはずなどない！」
 #v1904Nee-san, she really is an evil witch! We'll never be able to understand each other!
@@ -1412,11 +1412,11 @@
 
 #v2053「教えて下さい、ベアトリーチェさま…。#r　どうして、１３人殺しの儀式なんてものが、必要なんですか…」
 #v2053Please tell me, Beatrice-sama... Why is it necessary to perform a ceremony where you kill 13 people...?
-#v2053Por favor, me diga, BEATRICE-sama... Por que é necessário performar uma cerimonia onde você mata 13 pessoas...?
+#v2053Por favor, me diga, BEATRICE-sama... Por que é necessário performar uma cerimônia onde você mata 13 pessoas...?
 
 #v1621「妾が復活するために必要な儀式と、何度も言っておろうが。#r　愚か者」
 #v1621How many times must I tell you that the ceremony is necessary for my resurrection? Fool.
-#v1621Quantas vezes tenho que repetir que essa cerimonia é necessária para a minha ressureição? Tola.
+#v1621Quantas vezes tenho que repetir que essa cerimônia é necessária para a minha ressurreição? Tola.
 
 #v2054「……しゃべり、殺すことも出来るあなたに、…これ以上、何の#r　復活が必要なのか、……私にはわからない…」
 #v2054...I don't understand why you need to revive any further than this, ...when you can already talk and even kill...
@@ -1424,7 +1424,7 @@
 
 #v1622「ふ……。これは慈悲だ。#r　儀式を中断すればそなたらは助かるというな。#r　……いや、あるいは、驕り、か…」
 #v1622Hmph... This is an act of mercy. If the ceremony is halted, you people will be saved. Or perhaps...it's pride...
-#v1622Hmph... Este é apenas um ato de piedade. Se a cerimonia for interrompida, vocês serão salvos. Ou talvez...seja orgulho?
+#v1622Hmph... Este é apenas um ato de piedade. Se a cerimônia for interrompida, vocês serão salvos. Ou talvez...seja orgulho?
 
 #v2015「参りましょう、お嬢様。#r　次なる密室殺人の予告状と共に…」
 #v2015Let us proceed, Milady. Along with a letter announcing the closed room murders to follow...
@@ -1432,7 +1432,7 @@
 
 #v1758「ベアト、ようやく見つけたぞ！#r　お前のおかしな殺人儀式もこれまでだッ！」
 #v1758Beato, I finally found you! This is the end of your weird murder ceremony!
-#v1758Beato, eu finalmente te encontrei! Este é o fim dessa sua estranha cerimonia de assassinato!
+#v1758Beato, eu finalmente te encontrei! Este é o fim dessa sua estranha cerimônia de assassinato!
 
 #v1623「ほう、威勢のいい。#r　ならば無論、……そなたは解けたのであろうな？#r　我が密室殺人の謎の全てを」
 #v1623Oh, you seem quite enthusiastic. ...I assume you already have it solved, then? All of my closed room murder riddles?
@@ -1448,7 +1448,7 @@
 
 #v1760「おかしな黒魔術の儀式のことなんか知ったことか！#r　お前の都合で勝手に殺されちゃたまらねぇんだよ…！！」
 #v1760Why should I care about a bizarre black magic ceremony?! I can't sit by while you kill us for your own reasons...!!
-#v1760Por que eu deveria me importar com uma cerimonia bizarra de magia negra? Não posso ficar sentado esperando enquanto você mata por razões pessoais...!!
+#v1760Por que eu deveria me importar com uma cerimônia bizarra de magia negra? Não posso ficar sentado esperando enquanto você mata por razões pessoais...!!
 
 #v1625「……ふ。まさにその通り。妾の都合よ。#r　残念だぞ戦人。やはりそなたには失望させられる…！！」
 #v1625...Hmph. That's perfectly correct. I am killing for my own reasons. Too bad, Battler. It looks like you'll disappoint me after all...!!
@@ -1468,7 +1468,7 @@
 
 #v2016「これにて、１３人殺しの儀式、完了でございます」
 #v2016And thus ends the ceremony of 13 murders.
-#v2016E assim encerrou-se a cerimonia dos 13 assassinatos.
+#v2016E assim encerrou-se a cerimônia dos 13 assassinatos.
 
 #v1627「やはり今回も、誰も謎を解くことは出来なかったか」
 #v1627It would seem that, once more, no one has solved the riddle.
@@ -1644,7 +1644,7 @@
 
 #v1947「心得ておりますともっ。#r　我が主に敵全ての断末魔の合唱をッ！」
 #v1947Understood. I'll give my master a chorus of all her enemies' death throes!
-#v1947Entendido. Concederei a minha mestra um coro com a agonia da morte de todos os seus inimigos!
+#v1947Entendido. Concederei à minha mestra um coro com a agonia da morte de todos os seus inimigos!
 
 #v1763「どうやって密室殺人を！#r　トリックがあるはずなんだ、必ず！！」
 #v1763How did she do that closed room murder?! There's got to be some kind of trick that could do it!!
@@ -1720,7 +1720,7 @@
 
 #v1644「やはりそなたの目は欺けぬか。#r　そうとも。これまでの密室殺人など、何れも真の意味での密室#r　ではない。……しかし、これは違うぞ？」
 #v1644I see there's no fooling you. That is correct. All of the closed room murders before now...were not truly closed rooms. ...However, this one is different.
-#v1644Vejo que não há como enganá-la. Está correta. Todos os assassinatos de quarto fechados té então...não era verdadeiros quartos fechados. ...Contudo, este é diferente.
+#v1644Vejo que não há como enganá-la. Está correta. Todos os assassinatos de quarto fechados até então...não eram verdadeiros quartos fechados. ...Contudo, este é diferente.
 
 #v1951「完全なる施錠、完全なる隔絶、完全なる断絶！#r　推理不能、絶対完璧、完全封印の密室殺人ですっ、#r　ベアトリーチェさま！！」
 #v1951Perfect locks, perfect isolation, and perfect separation! It's a closed room that's impossible to reason away, absolutely perfect, and completely sealed, Beatrice-sama!!
@@ -1736,7 +1736,7 @@
 
 #v1646「そうとも。密室殺人など、パズルに過ぎぬ。#r　それは解けるように作られた、所詮は遊びだ。#r　しかし、解けぬパズルは魔法に昇華される！」
 #v1646Indeed. Closed room murders are merely puzzles. They're made to be solved, so in the end, they exist for the sake of entertainment. However, an unsolvable puzzle rises to the level of magic!
-#v1646De fato. Assassinatos de quartos fechados são meros enigmas. São feitos para serem resolvidos, por isso, no fim, eles existem pelo bem do entretenimento. Contudo, Um enigma irresolúvel eleva-se ao nível da magia!
+#v1646De fato. Assassinatos de quartos fechados são meros enigmas. São feitos para serem resolvidos, por isso, no fim, eles existem pelo bem do entretenimento. Contudo, um enigma irresolúvel eleva-se ao nível da magia!
 
 #v2059「……この密室も、…碑文も謎も、物語も。#r　……いつか、誰かが解くでしょう」
 #v2059...This closed room, ...the epitaph, the riddles, and this entire tale... ...All of it will be solved by someone, someday.
@@ -1772,7 +1772,7 @@
 
 #v1649「オールイエェエス！！　さぁ行くぞ、新しきベアト！#r　ニンゲンどもを蹴散らし、そなたの復活の儀式を完成させるの#r　だッ！」
 #v1649That's riiiiiight!! Now, let's go, new Beato! Let's rout the Humans and complete the ceremony of your resurrection!
-#v1649Exaaaaatamente! Agogra, vamos lá, Beato. Vamos derrotar os humanos e completar a cerimonia da sua ressurreição!
+#v1649Exaaaaatamente! Agogra, vamos lá, Beato. Vamos derrotar os humanos e completar a cerimônia da sua ressurreição!
 
 #v1650「さぁさ、お出でなさい！#r　シエスタの姉妹兵よ、煉獄の七姉妹よ！」
 #v1650Come, arise! The Chiester Sisters Corps and the Seven Sisters of Purgatory!
@@ -1800,7 +1800,7 @@
 
 #v1955「わ、我らには敵いません…！#r　黄金の魔女を名乗るに…相応しきお力かと…！」
 #v1955W-We're no match for her...! I believe...she has the power to call herself the Golden Witch...!
-#v1955N-Não somos páreos para ela...! Eu acredito...que ela detém do poder para se nomear como Bruxa Dourada...! 
+#v1955N-Não somos páreos para ela...! Eu acredito...que ela detém o poder para se nomear como Bruxa Dourada...! 
 
 #v1866「どんなもん？#r　これで、新しき魔女を名乗る資格は充分かしらぁ？」
 #v1866How'd you like that? Isn't that enough to qualify me as your replacement?
@@ -1860,7 +1860,7 @@
 
 #v1871「うっさいわよ、あと何回殺し返されたいぃ？#r　もう生き返らせないで下さぁーいって懇願しながら、ヘソでも#r　噛んで死んじゃえばぁ？！」
 #v1871Shut up! How many times do I have to kill yooou? If only you'd just beg 'please, don't bring me back to life again' and die!
-#v1871Calado! Quantas vezes mais vou ter que te matar? Se ao menos você implorasse dizendo "por favor, não me traga de volta à vida de novo" e morresse de uma vez!
+#v1871Calado! Quantas vezes mais vou ter que te matar? Se ao menos você implorasse, dizendo "por favor, não me traga de volta à vida de novo" e morresse de uma vez!
 
 #v1872「あっはははは！　魔法、狡猾さ、残忍さ！#r　どれをとっても黄金の魔女に相応しいでしょう？」
 #v1872Ahahahaha! Magic, cunning, and brutality! I'm a fitting Golden Witch in all three ways, am I not?
@@ -1988,7 +1988,7 @@
 
 #v1911「見ろ。やっぱり僕の方が、一枚上手だった」
 #v1911See? I was one step ahead of you after all.
-#v1911Viu? Eu sempre estive um passo a sua frente.
+#v1911Viu? Eu sempre estive um passo à sua frente.
 
 #v1964「わ、私の方が強かったに決まってるでしょ？！#r　そうですよね、ベアトリーチェさまっ！」
 #v1964O-Obviously I was the stronger one! Isn't that right, Beatrice-sama?!
@@ -2132,7 +2132,7 @@
 
 #v1975「明らかにニンジンは私じゃないですっ。#r　ベアトリーチェさま、お許しをぉおおおお！！」
 #v1975Wait, the carrots obviously weren't my idea, right?! Beatrice-sama, forgive meeeeee!!
-#v1975Espera, as cenouras claramente não foram ideia minha, certo?! BEATRICE-sama, me perdoeeeee!!
+#v1975Espera, as cenouras claramente não foram ideia minha, tá?! BEATRICE-sama, me perdoeeeee!!
 
 #v1669「……わかった。良い。認めるぞ。#r　妾もその、七姉妹がいなくなったら、迷惑するのでな。#r　ぷんぷん」
 #v1669...Understood. Very well, I accept your terms. After all, I would be in quite a fix without the Seven Sisters. *sulk*
