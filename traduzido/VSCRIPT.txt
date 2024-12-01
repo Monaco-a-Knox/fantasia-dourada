@@ -12616,7 +12616,7 @@
 
 #v5530「こんなバケモノに勝つという奇跡を起こせなきゃ、#r　奇跡は起きねぇわけだ…」
 #v5530So, unless I bring about the miracle of defeating such a monster, no miracles will occur...
-#v5530Então, a não ser que eu realize o milagre de derrotar tal mostro, nenhum milagre vai acontecer...
+#v5530Então, a não ser que eu realize o milagre de derrotar tal monstro, nenhum milagre vai acontecer...
 
 #v5873「そういうこと。#r　私が立ちはだかるからこそ、奇跡は尊く輝くのよ…？」
 #v5873That's it. Miracles shine and are respected because I block the path to them...
@@ -12664,7 +12664,7 @@
 
 #v4810「私の愛は綿飴のように甘くてふわふわなのに。#r　どうして逃げるの？」
 #v4810My love is as sweet and fluffy as cotton candy. Why are you running away?
-#v4810Meu amor é doce e fofo como um algodão doce. Do que está fugindo?
+#v4810Meu amor é doce e fofo como um algodão-doce. Do que está fugindo?
 
 #v5882「辛子味噌の味にしてくれたら、少しは考えてあげるわ。#r　くすくす…」
 #v5882If you make it mustard miso flavored, I might consider it. *giggle*...
@@ -12684,7 +12684,7 @@
 
 #v3772「……ちぇ、降参だぜ。#r　今日から魔法少女ラムダちゃんにタイトルを変えやがれ…」
 #v3772...Tch, I give up. Go ahead, change the series title to Magical Girl Lambda-chan from now on...
-#v3772...Tch, eu desito. Vá em frente e mude o título para Garota Mágica Lambda-chan...
+#v3772...Tch, eu desisto. Vá em frente e mude o título para Garota Mágica Lambda-chan...
 
 #v3773「もう止めだ止めだ！#r　お前にはまったく勝てる気がしねぇ…！」
 #v3773Enough, enough! I can sense that I've got no chance of beating you...!
@@ -12740,7 +12740,7 @@
 
 #v4820「何でよ、これからじゃない！#r　私、チョオ不完全燃焼ぉ！　ぶー！」
 #v4820What?! We're just getting started! I'm super partially combusted! Boooo!
-#v4820Quê?! Só estamos começando! Eu sou súper parcialmente inflamáve! Boooo!
+#v4820Quê?! Só estamos começando! Eu sou súper parcialmente inflamável! Boooo!
 
 #v4821「なに寝てるのよー！#r　年寄りだからって早寝が過ぎるんじゃなーい？」
 #v4821What are you lying there for?! Even if you are old, isn't it a bit early for a nap?
@@ -12764,7 +12764,7 @@
 
 #v4823「トーゼンでしょ！#r　私、どんだけ最悪のカケラ巡ったか知ってんのー？」
 #v4823Duh! Don't you realize what horrible Fragments I've been through?
-#v4823Dã! Não compreende os Fragmentos horríveis pelo qual eu passei?
+#v4823Dã! Não compreende os Fragmentos horríveis pelos quais eu passei?
 
 #v4824「あんたには可愛さが足りないのよね！#r　その髭、ピンクにしちゃいなさいよ！」
 #v4824You aren't cute enough! Turn your hair pink!
@@ -12872,7 +12872,7 @@
 
 #v4838「新米魔女はついつい全能感に陥るわ？#r　誰もが通る道よ、心配しないで？」
 #v4838Newbie witches tend to get hooked on that all-powerful feeling. Don't worry, it's a path we all walk down.
-#v4838Bruxas novatas tendem a ficarem fascinadas pelo sentimento de poder. Não se preocupe, é um caminho que todas percorremos.
+#v4838Bruxas novatas tendem a ficar fascinadas pelo sentimento de poder. Não se preocupe, é um caminho que todas percorremos.
 
 #v4476「ま、……魔女の道も、長く険しいのね…。#r　ふ、……うふふふふふ……」
 #v4476...S-So, even the path of a witch is a long and hard one... Heh, ...heheheheh...
@@ -12892,7 +12892,7 @@
 
 #v4478「そ、それもどうかと思うわよ……。#r　ヘソでも噛んで死んじゃえヴぁ～？！」
 #v4478Y-You should talk...  If only you'd just give up and die!
-#v4478O-Olha como fala... Por que não desiste e morre bem devagar!
+#v4478O-Olha como fala... Por que não desiste e morre bem devagar?!
 
 #v5376「ニンジンは生が一番にぇ～！#r　そのニンジンを返すにぇ～！」
 #v5376Carrots are best raw nyeh! Give those carrots back nyeh!
@@ -12916,7 +12916,7 @@
 
 #v5378「滅相もないにぇえっ！#r　強くて可愛いラムダデルタ卿が、今回も絶対トップにぇ～」
 #v5378You give me too much credit nyeh! I'm certain the strong and cute Lady Lambdadelta will get the top spot this time nyeh.
-#v5378Está me dando muito crédito, nyeh! Tenho certeza que a forte e fofa Lady LAMBDADELTA vai ficar em primeiro dessa vez, nyeh.
+#v5378Está me dando muito crédito, nyeh! Tenho certeza de que a forte e fofa Lady LAMBDADELTA vai ficar em primeiro dessa vez, nyeh.
 
 #v4847「いい根性だわ！#r　その情熱で、試練も青春も駆け抜けちゃいなさい！」
 #v4847I like your guts! Use that passion to blaze through your trials and your youth!
@@ -12952,7 +12952,7 @@
 
 #v4555「どうやら、……僕如きに勝てる相手じゃ、#r　ないみたいだね……」
 #v4555It seems...you weren't the sort of opponent who could be defeated by the likes of me...
-#v4555Parece que...você não é o tipo de oponente que poderia ser derrotada por alguém como eu...
+#v4555Parece que...você não é o tipo de oponente que poderia ser derrotado por alguém como eu...
 
 #v4845「へぇ、それってカッコイイ負けゼリフ！#r　あんたはいちいち笑えるわ！」
 #v4845Hey, that's a pretty cool loser's line! I can't stop laughing!
@@ -13016,7 +13016,7 @@
 
 #v4856「私、ミステリーとか難しいから嫌いなの！#r　漫画はバトルに限るわよね！」
 #v4856I don't like mysteries, because they're too hard! Manga is better when it's filled with battles!
-#v4856Eu não gosto de mistérios porque são muito difíceis! Mangás repleto de lutas são bem melhores!
+#v4856Eu não gosto de mistérios porque são muito difíceis! Mangás repletos de lutas são bem melhores!
 
 #v3928「……バトル＆ミステリー＆ファンタジー。#r　うみねこをよろしくデス…」
 #v3928...Battles and mystery and FANTASY. I give you: UMINEKO...
@@ -13244,7 +13244,7 @@
 
 #v0875「絶対起きないように、#r　額に思いっ切りねじこんじゃえばいい！」
 #v0875I'll gouge right into their foreheads to make sure they don't!
-#v0875Eu goivo direto na testa para ter certeza que não vão!
+#v0875Eu goivo direto na testa para ter certeza de que não vão!
 
 #v0876「おいで、妹たち！#r　情けない敗者をグチャグチャにえぐってあげて！」
 #v0876Hey, little sisters! Gouge these pathetic losers to pieces!
@@ -13332,7 +13332,7 @@
 
 #v0304「おいおい、褒め殺すな。#r　こっちは勝つ為に必死だぜ」
 #v0304Hey, don't praise me to death. I was desperately trying to win.
-#v0304Ei, não me elogie tanto. Eu estava desesperada tentando vencer.
+#v0304Ei, não me elogie tanto. Eu estava desesperada, tentando vencer.
 
 #v0305「ふぅ！　最後の方は、結構、ヒヤッとしたぜ？」
 #v0305Whew! That last guy really had me on edge.
@@ -13376,15 +13376,15 @@
 
 #v2928「あの軟弱な戦人も、６年経てばずいぶん変わるもんだぜ！」
 #v2928You were so skinny six years ago, but you changed a lot!
-#v2928Você era tão magra há seis anos, e veja como mudou!
+#v2928Aquele Battler fracote de seis anos atrás mudou muito nesses últimos sei anos.
 
 #v2538「いっひっひ。#r　そういう朱志香も、お胸はだいぶ変わったぜぇ？」
 #v2538Ihihi. Yeah, your boobs changed a lot too.
-#v2538Ihihi. Sim, seus peitos mudaram muito.
+#v2538Ihihi. Falando nisso, seus peitos também mudaram muito, hein, Jessica?
 
 #v2929「あのよぅ、男女構わず胸を触りに行くのはどうかと思うぜ？」
 #v2929Could you maybe stop touching other people's chests?
-#v2929Poderia parar de tocar peitos alheios?
+#v2929Escuta, acha que pode ficar tocando peitos alheios assim?
 
 #v2539「触りに行ってんじゃない！#r　俺のおっぱいソムリエとしての血がそうさせるんだ！」
 #v2539I'm not trying to touch them! My breast-sommelier blood gives me no choice!
@@ -13408,7 +13408,7 @@
 
 #v3259「戦人くんのおかげで助かるわ。#r　これなら、犯人を早く見つけ出せそう」
 #v3259You've been a big help, Battler-kun. Now we should be able to find the culprit quickly.
-#v3259Você tem sido de grande ajuda, Battler-kun, Agora devemos ser capaz de achar o culpado rapidamente.
+#v3259Você tem sido de grande ajuda, Battler-kun, Agora devemos ser capazes de achar o culpado rapidamente.
 
 #v2545「これ以上、犠牲者を出したくない。#r　その為なら、誰の相手にもなってやるぜ！」
 #v2545I don't want there to be any more victims. I'll fight anyone to make sure of that!
@@ -13548,7 +13548,7 @@
 
 #v0427「そう？#r　お兄ちゃんに比べたら、地味で恥ずかしいくらいよ」
 #v0427You think so? I'd say I'm embarrassingly plain compared to you.
-#v0427Acha mesmo? Eu diria que comparada a você eu sou bem sem graça.
+#v0427Acha mesmo? Eu diria que, comparada a você, eu sou bem sem graça.
 
 #v0428「お兄ちゃんを絶対に連れ帰る。#r　邪魔はさせない！」
 #v0428I'll definitely bring you back. I won't let anyone get in the way!
@@ -13688,7 +13688,7 @@
 
 #v1177「縁寿さまにも譲れないものがある…。#r　だからお強いのですね」
 #v1177You have something that you aren't willing to back down on, Ange-sama... That's what makes you so strong, isn't it?
-#v1177Você tem algo da qual não abre mão, Ange-sama... É isso que a faz tão forte, não é?
+#v1177Você tem algo do qual não abre mão, Ange-sama... É isso que a faz tão forte, não é?
 
 #v0448「当然でしょ。#r　譲ってもいいなら、戦うのさえ面倒臭い」
 #v0448Of course. If I was willing to back down, even fighting would be a pain.
@@ -13776,7 +13776,7 @@
 
 #v1329「もったいないにぇ。#r　縁寿さまも笑えば可愛いのに」
 #v1329What a waste nyeh. You'd be so cute if you smiled, Ange-sama.
-#v1329Que desperdício, nyeh. Você ficaria linda se sorrise, Ange-sama.
+#v1329Que desperdício, nyeh. Você ficaria linda se sorrisse, Ange-sama.
 
 #v0459「あら、微笑みは忘れないわよ。#r　相手の顔面、ぶん殴る時は」
 #v0459Oh, I don't forget to smile...when I'm punching someone in the face.
@@ -14072,7 +14072,7 @@
 
 #v0130「久しくお師匠様のかつての片鱗を見たぞ。#r　やはり恐ろしい…！」
 #v0130I've managed to catch just a glimpse of the old you. How truly terrifying you are...!
-#v0130Consegui ter um vislumbre de como você era no passado. Era realmente assustador...!
+#v0130Consegui ter um vislumbre de como você era no passado. Devo dizer que era mesmo terrível...!
 
 #v1495「もっと見せていたら、あなたを正しく導けたのでしょうか…」
 #v1495If I had shown you more, perhaps I would have been able to guide you down the proper path...
@@ -14324,7 +14324,7 @@
 
 #v5734「あらあら。#r　素敵ですね。では取って置きの静岡茶を出しましょうか」
 #v5734My, my, isn't that wonderful. Then let me get that Shizuoka green tea I've been saving.
-#v5734Ora, ora, mas que maravilha. Então vou pegar aquele chá verde de Shizuoka que eu estive guardando.
+#v5734Ora, ora, mas que maravilha. Então, vou pegar aquele chá verde de Shizuoka que eu estive guardando.
 
 #v5735「若い子と一緒だと、#r　なんだかこちらまで若返った気持ちになりますね」
 #v5735When you spend time with the young, it starts to feel as though you're growing younger as well.
@@ -14340,7 +14340,7 @@
 
 #v5736「ほっほほほほほ。#r　私は永遠の１７歳なのですよ？」
 #v5736Hohohohohoh. I am endlessly 17, of course.
-#v5736Hohohohohoh. Eu tenho eternos 17 anos, é claro.
+#v5736Hohohohohoh. Eu tenho eternos 17 anos, sabia?
 
 #v5737「あなたに、あの子の心が、本当に解き明かせるのですか…？」
 #v5737Can you really solve the puzzle of that child's heart...?
@@ -14356,7 +14356,7 @@
 
 #v5738「ではこの鯖缶をお土産に。#r　猫ちゃんの一番の大好物ですよ」
 #v5738Then take this can of mackerel with you as a souvenir. That's what kitties like best.
-#v5738Então leve esta cavalinha como lembrancinha. É disso que os gatos gostam.
+#v5738Então, leve esta cavalinha como lembrancinha. É disso que os gatos gostam.
 
 #v5893「ふぅん。#r　……伊達に長生きしてないわね」
 #v5893Oh? ...So, you haven't lived for ages for nothing.
@@ -15196,7 +15196,7 @@
 
 #v3945「良いデスね！#r　アイスクリーム、食べたいデス！」
 #v3945GOOD! I want to eat ice CREAM!
-#v3945ÓTIMO. Eu quero comer SORVETE!
+#v3945ÓTIMO. Quero comer SORVETE!
 
 #v5547「やるな。#r　ゲーム盤の主を名乗るだけのことはある」
 #v5547Not bad. I see why you'd call yourself the ruler of the game board.
