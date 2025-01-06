@@ -220,7 +220,7 @@
 
 #v1696「おっぱいハーレム？！　水着でサンオイルを塗り塗り？！#r　いっひっひひひひひひっひ～！！」
 #v1696A boob harem?! Complete with swimsuits and rubbing on suntan lotion? Ihihihihihihihihihihi!!
-#v1696Um harém de peitos? Todas de biquínis passando bronzeador? Ihihihihihihihihihihi!!
+#v1696Um harém de peitos? Todas de biquínis, passando bronzeador? Ihihihihihihihihihihi!!
 
 #v1573「戦人ぁ！#r　好敵手の妾にはしっかりと出番があるのだろうな？！」
 #v1573Battler! You have set up a solid role for me, your rival, haven't you?!
@@ -260,11 +260,11 @@
 
 #v1700「俺とロノウェだけでか？#r　どんなシナリオだよ。想像がつかん」
 #v1700What, just you and me? And what are we supposed to do? I can't think of anything.
-#v1700Só eu e você? Como que seria esse enrendo? Eu nem consigo imaginar.
+#v1700Só eu e você? Como seria esse enredo? Eu nem consigo imaginar.
 
 #v1986「ご冗談を。すでに戦人さまが思いつかれているシナリオに、#r　私たちが登場するだけで良いではありませんか」
 #v1986Surely you jest. You've already thought of a plot. We need only act it out ourselves.
-#v1986É mesmo um mesmo um piadista, Battler-sama. Nós dois já somos mais do que suficientes para atuarmos o enredo que você pensou.
+#v1986É mesmo um piadista, Battler-sama. Nós dois já somos mais do que suficientes para atuarmos o enredo que você pensou.
 
 #v1701「おっぱいハーレム、水着でサンオイル塗り塗り大作戦の巻、#r　……をか？」
 #v1701You mean...the Great Boob Harem, Swimsuits, and Suntan Lotion Maneuver...?
@@ -452,7 +452,7 @@
 
 #v1928「わ、笑いなさいよ！#r　この高貴な私が、ニンゲン風情の家具に堕ちるなんて…、#r　く…！」
 #v1928Go ahead, laugh! To think that one as noble as me would end up as furniture serving a mere Human... Nngg...!
-#v1928Vá em frente e ria! E pensar que alguém tão nobre como eu acabaria servindo de mobília de um mero humano... Nngg...!
+#v1928Vá em frente e ria! E pensar que alguém tão nobre como eu acabaria servindo de mobília para um mero humano... Nngg...!
 
 #v1994「まんざらでもないようですな。#r　しかし申し訳ございません。#r　お二人にはここでお引取を願わなければなりません」
 #v1994You seem surprisingly accepting of the arrangement. However, you must pardon me. I'm afraid I must ask the two of you to leave.
@@ -556,7 +556,7 @@
 
 #v1726「……あぁ。俺とベアトの決着は、ついた。#r　お前には感謝してる」
 #v1726...Yeah. The match between me and Beato...has been settled. I'm grateful for your help.
-#v1726...Sim. A lutra entre eu e a Beato...foi liquidada. Eu sou grato pela sua ajuda.
+#v1726...Sim. A luta entre mim e a Beato...foi liquidada. Eu sou grato pela sua ajuda.
 
 #v1933「私はベアトリーチェさまの家具。#r　主のためなら、椅子にも絨毯にもなるわ。#r　お前に力を貸したのは、お前を主と認めたからじゃない」
 #v1933I'm Beatrice-sama's furniture. For the sake of my master, I'd become even a chair or a rug. When I lent you my power, it wasn't because I acknowledged you as my master.
@@ -592,7 +592,7 @@
 
 #v2040「どうかお願いします…！#r　戦人さまにしか頼めないんです…！」
 #v2040Please...! You're the only one I can turn to, Battler-sama...!
-#v2040Por favor...! Você é o único para quem eu posso recorrer, Battler-sama...!
+#v2040Por favor...! Você é o único a quem eu posso recorrer, Battler-sama...!
 
 #v1730「俺でよければ、もちろん力は貸すが。#r　一体、何だってんだ？」
 #v1730If you think I'll do, of course I'll help, but what's this all about?
@@ -644,7 +644,7 @@
 
 #v1735「それは構わねぇが、何なんだこれは？#r　誰と戦ってるんだ、俺たちは？」
 #v1735That's fine with me, but what is all this? Who are we fighting against?
-#v1735Por mim, tudo bem, mas o que foi tudo isso? Contra que estamos lutando?
+#v1735Por mim, tudo bem, mas o que foi tudo isso? Contra quem estamos lutando?
 
 #v2043「それは、……その……」
 #v2043That's...umm...
@@ -660,7 +660,7 @@
 
 #v1896「ようやく来たね。#r　……始めるかい、姉さん」
 #v1896So, you've finally come. ...Shall we begin, Nee-san?
-#v1896Então você finalmente veio. ...Vamos começar, nee-san?
+#v1896Então, você finalmente veio. ...Vamos começar, nee-san?
 
 #v1737「ちょ、ちょっと待てよ、どういうことだよ？！#r　紗音ちゃんと嘉音くんがどうして戦うんだ？！」
 #v1737H-Hold on a sec, what's going on here?! Why are Shannon-chan and Kanon-kun fighting?!
@@ -672,7 +672,7 @@
 
 #v1996「戦人さまは、その立会人に選ばれたのです。#r　どうか何も言わずに、この戦いを見届けて下さい」
 #v1996Battler-sama, you've been chosen as their witness. Please, watch this fight until the end, without saying anything.
-#v1996Battler-sama, você foi escolhidocomo testemunha. Por favor, assista esta luta até o fim, sem dizer nada.
+#v1996Battler-sama, você foi escolhido como testemunha. Por favor, assista esta luta até o fim, sem dizer nada.
 
 #v1738「よせよ、二人とも！#r　何で実の兄弟のような二人が戦わなきゃならないんだ？！」
 #v1738Stop it, you two! Why should a pair of people who are as close as real siblings be forced to fight?!
@@ -716,7 +716,7 @@
 
 #v2048「……でも、私たち家具にとってそれは、#r　とても重くて大きくて、背負い切れないほど」
 #v2048...However, to us furniture, it's something so heavy, so big, that we can't fully carry the burden.
-#v2048...Mas, para nós mobílias, é algo muito pesado, que não conseguimos carregar totalmente.
+#v2048...Mas, para nós, mobílias, é algo muito pesado, que não conseguimos carregar totalmente.
 
 #v1595「そなたは恋をしたことはあるのか？#r　なければわからぬ」
 #v1595Have you ever been in love? If not, you won't understand.
@@ -772,7 +772,7 @@
 
 #v1790「知ったこっちゃないわ、下克上よ！#r　あんたらをブチのめして、今日からシナリオは私が紡ぐ#r　わッ！」
 #v1790Why should I care? This is a revolution! I'll beat you up and write the plot myself, starting today!
-#v1790Por que eu deveria me importar? Isto é uma revolução! Vou acabar com você e reescrever o enrendo, começando hoje mesmo!
+#v1790Por que eu deveria me importar? Isto é uma revolução! Vou acabar com você e reescrever o enredo, começando hoje mesmo!
 
 #v1597「そなたに奪われるくらいなら、ゲームマスターの座は戦人に引#r　き継ぐ！」
 #v1597I'd rather give the position of Game Master to Battler than let you steal it!
@@ -904,7 +904,7 @@
 
 #v2123「真実に堪える力のないあなたに、与えられる真実はありません。#r　お茶の相手が必要なら、私がして差し上げましょう」
 #v2123No truth will be given to one who lacks the power to endure it. But if you're looking for someone to drink tea with, I will do so.
-#v2123Verdade alguma será concedida aqueles que não possuem o poder para suportá-la. Mas se busca alguém para beber chá, eu posso fazer isso.
+#v2123Verdade alguma será concedida àqueles que não possuem o poder para suportá-la. Mas se busca alguém para beber chá, eu posso fazer isso.
 
 #v2000「１２年前の真実を知って、#r　縁寿さまはどうなさるおつもりです？」
 #v2000What do you intend to do once you've learned the truth of 12 years ago?
@@ -976,7 +976,7 @@
 
 #v1841「とんだお伽噺でしょう？#r　くすくす、馬鹿にしないでって叫んで、ヘソでも噛んで死ん#r　じゃえばぁ？」
 #v1841Quite a fairy tale, isn't it? *giggle* If only you'd just scream 'don't patronize me' and die.
-#v1841É um conto de fadas e tanto, não? *risos* Se não fosse idiota de ficar gritante para desistir e morrer "bem devagar".
+#v1841É um conto de fadas e tanto, não? *risos* Se não fosse idiota de ficar gritando para desistir e morrer "bem devagar".
 
 #v1810「いいえ。一つだけ、信じられることがあったわ」
 #v1810No. There's one thing I can believe.
@@ -1060,7 +1060,7 @@
 
 #v1752「何だと、バカアホマヌケ！#r　おっぺけぺーの＠＃＆￥％＄ー！！」
 #v1752What'd you say, you stupid retarded dumbass?! You insensitive @#&\%$!!
-#v1752O que disse?! Idiota imbecil retardado! Vai tomar banho @#&\%$!!
+#v1752O que disse?! Idiota imbecil retardado! Vai tomar banho, @#&\%$!!
 
 #v2006「両者、喧嘩のネタもなくなり、低レベルな争いをしているよう#r　ですな…」
 #v2006Ah, it would appear that they have run out of things to argue about and have resorted to juvenile squabbling.
@@ -1148,7 +1148,7 @@
 
 #v1608「まったくであるぞ！#r　妾のゲームで好き放題できるのは妾だけの特権である！」
 #v1608Quite right! Only I have the right to do whatever I please in my game!
-#v1608Isso mesmo! Apenas eu tenho o direito de fazer o que bem entendo no meu jogo!
+#v1608Isso mesmo! Apenas eu tenho o direito de fazer o que bem entender no meu jogo!
 
 #v2008「そのこれまでの好き放題分を、きっちり思い知らせろとのご命#r　令ですのであしからず。ぷっくっく！」
 #v2008Well, our orders were to show you exactly how much you've done that up until now. Pu ku ku!
@@ -1400,7 +1400,7 @@
 
 #v1619「黙って生贄になれとは言わぬ。好きに抵抗すれば良い。#r　それもまた、儀式の内だ。…くっくっくっく！」
 #v1619I won't ask you to let yourself be sacrificed quietly. Resist however you please. Even that is part of the ceremony. ...*cackle*cackle*!
-#v1619Não pedirei para que se deixe sacrificar em silêncio. Resista o quanto quiser. Isso também é parte da cerimonia. ...*gargalhada*gargalhada*!
+#v1619Não pedirei para que se deixe sacrificar em silêncio. Resista o quanto quiser. Isso também é parte da cerimônia. ...*gargalhada*gargalhada*!
 
 #v1904「姉さん、やっぱりこいつは邪悪な魔女なんだ！#r　わかりあえるはずなどない！」
 #v1904Nee-san, she really is an evil witch! We'll never be able to understand each other!
@@ -1408,7 +1408,7 @@
 
 #v1620「わかられようとも思わぬわ。#r　死にたくなくば、妾を殺してみせよ。そなたらには、妾が１３#r　人殺すまでという、充分な時間が与えられているわッ！」
 #v1620And I don't ask to be understood. If you don't want to die, try and kill me. You have been given plenty of time: however long it takes for me to kill 13 people!
-#v1620E eu sequer quero que entenda. Se não quiser morrer, tente me matar. Você tem bastante tempo para isso: contudo leva tempo para eu matar 13 pessoas!
+#v1620E eu sequer quero que entenda. Se não quiser morrer, tente me matar. Você tem bastante tempo para isso: contudo, leva tempo para eu matar 13 pessoas!
 
 #v2053「教えて下さい、ベアトリーチェさま…。#r　どうして、１３人殺しの儀式なんてものが、必要なんですか…」
 #v2053Please tell me, Beatrice-sama... Why is it necessary to perform a ceremony where you kill 13 people...?
@@ -1504,7 +1504,7 @@
 
 #v1846「これで、私が魔女なのね？！　魔法で何でも出来るのね？！」
 #v1846I really am a witch now, right?! I can do anything with magic, right?!
-#v1846Eu sou realmente uma bruxa agora, né? Posso fazer qulquer coisa com magia, né?
+#v1846Eu sou realmente uma bruxa agora, né? Posso fazer qualquer coisa com magia, né?
 
 #v2020「はい。どうぞ思い描かれるままに、存分に魔法の力をお楽しみ#r　下さい」
 #v2020Indeed. Please enjoy the power of magic to your heart's content, using it for whatever purpose you can imagine.
@@ -1636,7 +1636,7 @@
 
 #v1946「傲慢のルシファー、ここにっ！　何事もご命令をっ」
 #v1946Lucifer of Pride, right here! What are your orders?!
-#v1946Lucifer, do Orgulho, está aqui. Quais as suas ordens?!
+#v1946Lucifer, do Orgulho, está aqui. Quais são as suas ordens?!
 
 #v1635「命令などいつも変わらぬ。妾を笑わせろ、ただそれだけだ」
 #v1635The same as always. Make me laugh. That is all.
@@ -1668,7 +1668,7 @@
 
 #v1638「それでそなたの推理は終わりか？#r　粗末なる青き真実、全て打ち砕いてやったぞ！」
 #v1638Is that where your reasoning ends? I've crushed all your pitiful blue truths!
-#v1638É aqui que o seu raciocíno termina? Eu esmaguei todas as suas deploráveis verdades azuis!
+#v1638É aqui que o seu raciocínio termina? Eu esmaguei todas as suas deploráveis verdades azuis!
 
 #v1905「……だから……、申し上げたんです…。#r　ベアトリーチェさまは……、魔女だと……」
 #v1905...I...did warn you... Beatrice-sama...is a witch...
@@ -1712,7 +1712,7 @@
 
 #v1643「そなたの死を以って黄金郷の扉の鍵とするッ！！」
 #v1643Your death will become the key to the door to the Golden Land!!
-#v1643Sua morte tornar-se-há a chave da porta para a Terra Dourada!!
+#v1643Sua morte tornar-se-á a chave da porta para a Terra Dourada!!
 
 #v2057「……満足ですか。#r　ようやく、……本当の密室殺人が達成できて…」
 #v2057...Are you happy now? You've finally...succeeded in creating a true closed room murder...
@@ -1724,7 +1724,7 @@
 
 #v1951「完全なる施錠、完全なる隔絶、完全なる断絶！#r　推理不能、絶対完璧、完全封印の密室殺人ですっ、#r　ベアトリーチェさま！！」
 #v1951Perfect locks, perfect isolation, and perfect separation! It's a closed room that's impossible to reason away, absolutely perfect, and completely sealed, Beatrice-sama!!
-#v1951Trancas perfeitas, isolamento perfeito e separação perfeita! É um quarto fechado impossível de se raciocinar, absolutamente perfeito e completamente selado, BEATRICE-sama!!
+#v1951Trancas perfeitas, isolamento perfeito e separação perfeita! É um quarto fechado, impossível de se raciocinar, absolutamente perfeito e completamente selado, BEATRICE-sama!!
 
 #v1645「感謝するぞ紗音。#r　妾はそなたを１３人目の生贄に捧げることでついに。#r　本当の魔法密室殺人を完成させるに至った…！」
 #v1645You have my gratitude, Shannon. By making you the 13th human sacrifice, I have finally completed a true magical closed room murder...!
@@ -1772,7 +1772,7 @@
 
 #v1649「オールイエェエス！！　さぁ行くぞ、新しきベアト！#r　ニンゲンどもを蹴散らし、そなたの復活の儀式を完成させるの#r　だッ！」
 #v1649That's riiiiiight!! Now, let's go, new Beato! Let's rout the Humans and complete the ceremony of your resurrection!
-#v1649Exaaaaatamente! Agogra, vamos lá, Beato. Vamos derrotar os humanos e completar a cerimônia da sua ressurreição!
+#v1649Exaaaaatamente! Agora, vamos lá, Beato. Vamos derrotar os humanos e completar a cerimônia da sua ressurreição!
 
 #v1650「さぁさ、お出でなさい！#r　シエスタの姉妹兵よ、煉獄の七姉妹よ！」
 #v1650Come, arise! The Chiester Sisters Corps and the Seven Sisters of Purgatory!
@@ -1820,7 +1820,7 @@
 
 #v1653「うっひゃっひゃっひゃ！#r　どうだ戦人ァ？　新しき魔女もなかなかのものであろう？」
 #v1653Uhyahyahya! What did you think of that, Battler? This new witch isn't half bad, is she?
-#v1653
+#v1653Uhyahyahya! O que achou, Battler? Essa nova bruxa não é nada mau, é?
 
 #v1654「見ていて飽きぬだろう、そうだろう、うっひゃっひゃっ#r　ひゃ！！」
 #v1654You could hardly get bored watching this, isn't that right? Uhyahyahya!!
@@ -1900,7 +1900,7 @@
 
 #v1878「ヘソでも噛んで死んじゃえばぁ？！」
 #v1878If only you'd just give up and die!
-#v1878Por que não desiste e morre bem devagar!
+#v1878Por que não desiste e morre bem devagar?!
 
 #v1906「な、何だお前は…！　僕に何の用だ…！！」
 #v1906Wh-What are you doing here...?! What do you want with me...?!!
@@ -2004,7 +2004,7 @@
 
 #v2097「ど、どっちもなかなかに強かったにぇ…。#r　どっちと言われても…」
 #v2097B-Both of you were really strong nyeh... I can't really say which...
-#v2097Ambos são realmente fortes, nyeh... Realmente não sei definir...
+#v2097Ambos são realmente fortes, nyeh... Realmente, não sei definir...
 
 #v1912「それじゃ困る！　僕とこいつ、強いのはどっちなんだ！#r　ベアトリーチェさま！」
 #v1912You can't leave it at that! Beatrice-sama, who was stronger, me or her?!
@@ -2104,7 +2104,7 @@
 
 #v1879「あぁもう面倒臭い…。#r　おやつでも昼寝でもあげちゃえばぁ？」
 #v1879Geez, this is such a pain... If only you'd just give them their snacks and naps...
-#v1879Francamente, mas que incomodo... Se você ao menos desse os lanches de repousos...
+#v1879Francamente, mas que incômodo... Se você ao menos desse os lanches de repousos...
 
 #v1666「か、家具に負けて要求を飲むなんて悔しいぃい！#r　むがー！！」
 #v1666I-I can't bear to let furniture defeat me and force me to accept their terms! Gaaaaah!!
@@ -2196,7 +2196,7 @@
 
 #v2163「残る試練も応援していますよ。#r　あなたたちに魔法の加護があらんことを」
 #v2163We'll cheer you on through the remaining trails. Let the magic of protection go with you.
-#v2163Iremos apoiar vocês durantes as provações que restam. Deixe que a magia da proteção os acompanhe.
+#v2163Iremos apoiar vocês durante as provações que restam. Deixe que a magia da proteção os acompanhe.
 
 #v2065「ベアトリーチェさま…！#r　ここまで試練を勝ち抜いてまいりました…！」
 #v2065Beatrice-sama...! We've won all the trials leading up to here...!
@@ -2272,7 +2272,7 @@
 
 #v2108「上位はいつも鉄板。#r　エヴァさまも私たちも、食い込む余地なんてありませんにぇ」
 #v2108The high-rankers are all made of steel. There's no way for us to sneak in there nyeh.
-#v2108Os mais bem colocados são todos feitos de aço. Não tem como nos infiltramos lá, nyeh.
+#v2108Os mais bem colocados são todos feitos de aço. Não tem como nos infiltrarmos lá, nyeh.
 
 #v1881「強さこそ正義、そして人気だと思わない？！」
 #v1881But aren't strength and justice one and the same, along with popularity?!
@@ -2300,7 +2300,7 @@
 
 #v1884「ふぎぃいい！！　挽き肉の分際で私より人気あるなんて許せ#r　ない！　あんたらなんてヘソ噛んで死んじゃえばぁ？！」
 #v1884Aaaaah!! I can't forgive you for being more popular than me despite being a hamburger! If only you'd just give up and die!
-#v1884Aaaaah!! Não irei perdoá-la por ser mais popular que eu, mesmo sendo um hambúrguer! Por que não desiste e morre bem devagar!
+#v1884Aaaaah!! Não irei perdoá-la por ser mais popular que eu, mesmo sendo um hambúrguer! Por que não desiste e morre bem devagar?!
 
 #v1885「強さこそが正義、そして人気！#r　吹けば飛ぶような軟弱ヒロインが票を取れた時代はとっくに前#r　世紀で終わってるのよ！」
 #v1885Strength is justice...and popularity! Voting for frail heroines who'd fly away if you blew on them is so last century!
@@ -2400,7 +2400,7 @@
 
 #v2298「そういうことさ。#r　今度は僕たちが事件に挑もうじゃないか」
 #v2298Exactly. Let's take on the crime ourselves this time around.
-#v2298Isso mesmo! Vamos cuidar do crime nos mesmos dessa vez
+#v2298Isso mesmo! Vamos cuidar do crime nós mesmos dessa vez.
 
 #v2234「え？！　俺は無能だから主人公は交代？！#r　お、俺は俺なりに！」
 #v2234What?! I'm incompetent, so you want to swap main characters?! I-I've been giving it my all... in my own way!
@@ -2544,7 +2544,7 @@
 
 #v2311「運命が許すなら、……僕たち４人で踏み出したかったね」
 #v2311If fate had permitted it, ...I would have wanted the four of us to step into it together.
-#v2311Se o destino tivesse permitido, ...eu gostaria que nós quarto déssemos essa passo juntos.
+#v2311Se o destino tivesse permitido, ...eu gostaria que nós quatro déssemos esse passo juntos.
 
 #v2338「仕方ねぇさ。結ばれるのは一方だけだ。#r　さぁッ、始めようぜ！！」
 #v2338There's no helping it. Only one pair will be joined. Let's get this started!!
@@ -2556,7 +2556,7 @@
 
 #v2339「いいぜ、恨みっこなしだぜ…。#r　幸せになれよ、畜生っ」
 #v2339Sure, no hard feelings... Go and find happiness, dammit!
-#v2339Claro, sem ressentimentos... Vão e encontre a felicidade, droga!
+#v2339Claro, sem ressentimentos... Vão e encontrem a felicidade, droga!
 
 #v2312「紗音。これでもう、君は家具じゃない。#r　結ばれる資格が出来た」
 #v2312Shannon, you aren't furniture anymore. You've gained the right to be joined with another.
@@ -2624,7 +2624,7 @@
 
 #v2317「忘れない。絶対に。#r　……僕たちを永遠に、見守っていて欲しい」
 #v2317I won't. No matter what. ...Please, watch over us for all eternity.
-#v2317Não irei, não importa o que aconteça. ...Por favor, olhe por nos por toda a eternidade.
+#v2317Não irei, não importa o que aconteça. ...Por favor, olhe por nós por toda a eternidade.
 
 #v2219「……ふっ。ロノウェ、いるか！#r　それではこの二人の挙式を始めようぞ！　魔界から天界まで！#r　あらゆる来賓を呼び、最高の結婚式を開くのだ！」
 #v2219...Hmph. Ronove, are you there?! Now then, let us begin their wedding ceremony! From the demon world to the heavens! Summon honored guests from everywhere and hold the greatest of all weddings!
@@ -2632,7 +2632,7 @@
 
 #v2448「……譲治さん。#r　……これで、私たちは永遠に一緒ですね」
 #v2448...George-san. ...We'll be together forever now, right?
-#v2448
+#v2448...George-san. ...Assim, ficaremos juntos por toda a eternidade, certo?
 
 #v2318「あぁ、紗代。#r　……君を、僕は永遠に離さない……」
 #v2318Yes, Sayo. ...I won't ever let go of you...
@@ -2684,7 +2684,7 @@
 
 #v2345「出来るよ！　私が一緒だもん！#r　その勇気を、君は持てるよ！」
 #v2345You can! You've got me with you! You can find the courage!
-#v2345Você pode! Eu estou contigo! Você pode encontrar a coragem que precisa!
+#v2345Você pode! Eu estou contigo! Você pode encontrar a coragem de que precisa!
 
 #v2372「……勇気…。#r　……僕の心にも、……あるだろうか……」
 #v2372...Courage... ...Does it exist in my heart as well, ...I wonder...?
@@ -2744,11 +2744,11 @@
 
 #v2239「なんだ、そんなことか。#r　いいぜ。一緒に文化祭で共演すればいいじゃねぇか。#r　ロノウェ、そういうシナリオを一本頼むぜ」
 #v2239Oh, is that it? Sure. You could perform together at the school cultural festival. Ronove, write up a scenario like that.
-#v2239Oh, é isso? Claro. Você pode tocr com ela no festival cultural escolar. Ronove, escreve um enredo assim.
+#v2239Oh, é isso? Claro. Você pode tocar com ela no festival cultural escolar. Ronove, escreve um enredo assim.
 
 #v2350「嘉音くん、よく言えたぜ…！！#r　もう君は家具じゃない、……人間なんだ…！！」
 #v2350Kanon-kun, you said it...! You aren't furniture anymore, ...you're human...!!
-#v2350Você conseguiu dizer, Kanon-kun...! Você não é mais uma mobília, ...é uma humano...!
+#v2350Você conseguiu dizer, Kanon-kun...! Você não é mais uma mobília, ...é um humano...!
 
 #v2351「な？　運命なんて、ちょっとの勇気で崩せるだろ？#r　それもあっさり！」
 #v2351See? Fate can be crushed with just a little courage. And it's as easy as that!
@@ -2816,7 +2816,7 @@
 
 #v2407「それが子を持つ母のやり方よ。#r　……警察が来るまで、誰も信じない」
 #v2407This is how mothers with children do things. ...Until the police come, I won't be trusting anyone.
-#v2407É assim que mães fazem as coisas. ...Até a policia chegar, não confiarei em ninguém.
+#v2407É assim que mães fazem as coisas. ...Até a polícia chegar, não confiarei em ninguém.
 
 #v2244「大丈夫か、紗音ちゃん、嘉音くん…。#r　台風が過ぎ去るまでの辛抱だぜ…」
 #v2244Are you okay, Shannon-chan, Kanon-kun...? Just try and hold out until the typhoon passes...
@@ -2852,7 +2852,7 @@
 
 #v2220「……悲しい話であるな。#r　人の世に赤き真実は存在しない。#r　故に、如何なる真実も、楼座には届かぬのだ」
 #v2220...How sad. The red truth doesn't exist in the human world. Therefore, no sort of truth will reach Rosa.
-#v2220...Que tristeza. A verdade vermelha não existe no mundo humano, portando verdade alguma chegará até a Rosa.
+#v2220...Que tristeza. A verdade vermelha não existe no mundo humano, portanto verdade alguma chegará até a Rosa.
 
 #v2411「戦人くん。あなたが犯人だったのね……。#r　よくも、……みんなを…！！」
 #v2411Battler-kun, you were the culprit, weren't you...? How could you...do that to everyone...?!!
@@ -2884,7 +2884,7 @@
 
 #v2414「信じれば裏切られる。#r　信じなければ、誰にも裏切られない。#r　永遠に、悲しまずに済む」
 #v2414If you believe, you'll be betrayed. If you don't believe, no one will betray you. You'll avoid being sad for all eternity.
-#v2414Se acreditar, será traído. Se não acreditar, ninguém o trairá. Assim você evita ficar triste por toda a eternidade.
+#v2414Se acreditar, será traído. Se não acreditar, ninguém o trairá. Assim, você evita ficar triste por toda a eternidade.
 
 #v2252「……叔母さんは、……哀れだ。#r　……そんな生き方で、#r　……ずっと生きてきたって言うのかよ……」
 #v2252...You're so...pitiable, Aunt Rosa. ...Have you been living that way...all this time...?
@@ -2936,7 +2936,7 @@
 
 #v2424「絶対に黄金を手に入れるわ。#r　２００億円あれば、叶わぬ夢などない！」
 #v2424I'll definitely get that gold. With 20 billion yen, no dream would be impossible!
-#v2424Eu definitivamente vou por as mãos no ouro. Com 20 bilhões de iene, não há sonho que seja impossível.
+#v2424Eu definitivamente vou pôr as mãos no ouro. Com 20 bilhões de iene, não há sonho que seja impossível.
 
 #v2319「……つまり、第一の晩というのは、千兆に対しての、」
 #v2319...In other words, the first twilight's connection to a quadrillion is-
@@ -2988,7 +2988,7 @@
 
 #v2290「こちらこそ驚きよ！　楼座も碑文を解くなんてねぇ？#r　でも一足遅かったわぁ！」
 #v2290I'm the one who's surprised! So, you solved it too, Rosa? It looks like you were just a little too late!
-#v2290Sou eu quem estou surpresa! Então você também o resolveu, Rosa? Mas parece que chegou um pouco atrasada!
+#v2290Sou eu quem está surpresa! Então, você também o resolveu, Rosa? Mas parece que chegou um pouco atrasada!
 
 #v2430「……くっ。#r　まさか、姉さんに先を越されるなんて……！」
 #v2430...Nngg. I can't believe Nee-san beat me to it...!
@@ -3004,7 +3004,7 @@
 
 #v2431「悪いけど、私の取り分はもらうわよ、しっかりとね！#r　私だって絶対に譲れないのよ！」
 #v2431Sorry, but I'm taking my share. I'm taking every last yen's worth! I definitely won't give it up!
-#v2431Desculpa, mas vou levar a minha parte. Estou levando cada iene! Definitivamente não desistirei!
+#v2431Desculpa, mas vou levar a minha parte. Estou levando cada iene! Definitivamente, não desistirei!
 
 #v2292「あんたの借金、返済したところで、#r　あの男が帰ってくるわけもない！#r　それを薄々わかってて、どうして黄金に固執するわけェ？」
 #v2292Even if you pay off that debt of yours, there's no way that man's coming home! If you've even managed to realize that yourself, why are you so fixated on getting the gold?
@@ -3140,7 +3140,7 @@
 
 #v2264「そんな素振りも見せずに、うろたえたフリをして俺を観察して#r　たわけだ。……はは、はっはははははは！#r　なかなか役者だな、譲治の兄貴は！」
 #v2264So, you acted all flustered and locked your true thoughts away, and all the while kept an eye on me. ...Hahah, hahahahahahaha! You're quite the actor, George-aniki!
-#v2264Então, você ficou toda perturbado e guardou para si seus pensamentos enquanto ficava de olho em mim. ...Hahah, hahahahahahaha! Você é um bom ator, George-aniki!
+#v2264Então, você ficou todo perturbado e guardou para si seus pensamentos enquanto ficava de olho em mim. ...Hahah, hahahahahahaha! Você é um bom ator, George-aniki!
 
 #v2323「お互い、もう茶番はやめようじゃないか。#r　……君の処遇を、警察に委ねたりはしないよ」
 #v2323How about we both stop pretending? I won't wait for the police to decide what to do with you.
@@ -3200,7 +3200,7 @@
 
 #v2356「意中の人の心をズバッと射止めるような、#r　うまい話はないかな～！」
 #v2356Yeah, could there be something really convenient, like shooting an arrow through the heart of the person you're after?!
-#v2356Será que não tem nada conveniente, tipo atirar com um arco no coração da pessoa que você gosta!
+#v2356Será que não tem nada conveniente, tipo atirar com um arco no coração da pessoa de que você gosta!
 
 #v2452「ベアトリーチェさま。#r　異性の心を射止めるような、#r　そんな魔法のアイテムはないんですか…？」
 #v2452Beatrice-sama, don't you have any magical items that could shoot an arrow through the heart of the opposite sex...?
@@ -3296,11 +3296,11 @@
 
 #v2458「譲治さんっ、この花を受け取って下さい」
 #v2458George-san, please accept this flower.
-#v2458George-sama, por favor aceite esta flor.
+#v2458George-sama, por favor, aceite esta flor.
 
 #v2365「嘉音くんっ、この花束を受け取ってくれ…！！」
 #v2365Kanon-kun, please accept this bouquet...!!
-#v2365Kanon-kun, por favor aceite este buquê...!
+#v2365Kanon-kun, por favor, aceite este buquê...!
 
 #v2327「これは美しい薔薇だね。#r　ありがとう、紗音」
 #v2327This rose is beautiful. Thank you, Shannon.
@@ -3412,11 +3412,11 @@
 
 #v2284「今の二人の戦いぶりで、お兄ちゃんの役割は大体わかったわ。#r　そして、やっぱり私が正しかった！」
 #v2284Watching them fight just now, I've got a pretty good handle on Onii-chan's role. And it looks like I was right!
-#v2284
+#v2284Deu para entender bem o papel do onii-chan assistindo a luta deles. E parece que eu estava certa!
 
 #v2472「おぉ、何てことでしょう…。#r　貴腐人とまで呼ばれた私の眼力が……」
 #v2472Oooh, how humiliating... To think that I, who was once considered a foremost expert, could be so blind...
-#v2472Oooh, quanta humilhação... E pensar que eu, que era considerada amaior das expers, poderia ser tão cega...
+#v2472Oooh, quanta humilhação... E pensar que eu, que era considerada a maior das expers, poderia ser tão cega...
 
 #v2271「……ロノウェ、こいつらが一体、#r　何の話をしているのかわかるか？」
 #v2271...Ronove, do you have any idea what all this is about?
@@ -3456,7 +3456,7 @@
 
 #v6229「だけど何かが足りないんだ！#r　どうして僕は垢抜けないんだろう？！」
 #v6229But something's missing! Why am I still rough around the edges?!
-#v6229Mas está faltando algo! Por que ainda sou tão
+#v6229Mas está faltando algo! Por que ainda sou tão mal-acabado?
 
 #v6345「真の男への道……。#r　険しいですが、果たして付いてこられますかな？」
 #v6345The path to becoming a true man is a difficult one. ...I wonder, would you really be able to keep up?
@@ -3568,7 +3568,7 @@
 
 #v6240「あぁ、至るとも！　教えてくれ！！#r　真の男への最後の一歩！　それは何だい？！」
 #v6240Oh, I will! Teach me! What's the final step to becoming a real man?!
-#v6240
+#v6240Ah, eu irei! Ensine-me! Qual o último passo para se tornar um homem de verdade?!
 
 #v6351「筋肉ッ、マッスルッ、そして笑顔！#r　そうそうッ、イケメンに近付いて参りましたよ！！」
 #v6351Brawn, muscle, and a smile! That's the ticket! Life as a hunk is now within your grasp!!
@@ -3588,11 +3588,11 @@
 
 #v6243「おや、それは願ってもない話だね。#r　証明してみせようじゃないかい」
 #v6243Oh, you don't have to ask. I'll prove it to you.
-#v6243Oh, nem precisa perguntar. Eu irei provara você.
+#v6243Oh, nem precisa perguntar. Eu irei provar a você.
 
 #v6068「くっくくく！　強がっていられるのも今の内だ！#r　我が試練の恐ろしさに慄くが良い！」
 #v6068*cackle*cackle*! Talk tough while you can! Tremble at my judgement!
-#v6068*gargalhada*gargalhada* Fale enquanto pode! Frema diant de meu julgamento!
+#v6068*gargalhada*gargalhada* Fale enquanto pode! Frema diante de meu julgamento!
 
 #v6069「出でよエヴァ！#r　譲治の愚かな婚約を打ち砕いてしまえぃ！」
 #v6069Arise, EVA! Destroy George's foolish engagement!
@@ -3620,7 +3620,7 @@
 
 #v6213「譲治ぃ、騙されないで～！#r　あの子の胸はどうせ寄せて上げてるのよー！」
 #v6213George, don't be fooled! I'm sure she's just pushing them up anyway!
-#v6213Não seja enganado, George! Os seis dela claramente tem enchimento!
+#v6213Não seja enganado, George! Os seis dela claramente têm enchimento!
 
 #v6246「僕は紗音の胸だけに惹かれたわけじゃない！#r　胸だけじゃないんだ！！」
 #v6246I wasn't attracted to Shannon just because of her breasts! Not just because of her breasts!!
@@ -3652,7 +3652,7 @@
 
 #v6416「４５は敏感だし、００はすっごくエロい胸をしてるにぇ。#r　でも、私の胸が一番大きいにぇ～？」
 #v641645's are sensitive, and 00's are perfectly shaped nyeh. But mine are the biggest nyeh.
-#v6416A 45 é bem sensível e a 00 tem o formato prefeito, nyeh. Mas os meus são maiores, nyeh.
+#v6416A 45 é bem sensível e a 00 tem o formato perfeito, nyeh. Mas os meus são maiores, nyeh.
 
 #v6072「くっくっく、壮観であろう？　七姉妹もシエスタ隊も豊満なる美#r　乳巨乳揃い！　紗音を諦めれば、この１０人もの巨乳ハーレムを#r　そなたに授けようぞ。さぁどうする右代宮譲治ぃい？！」
 #v6072*cackle* Quite a sight, is it not? All the bountiful, beautiful, bouncing breasts of the Seven Sisters and the Chiesters! Let Shannon go, and I'll give you this harem of 10 pairs of massive breasts. What do you say, Ushiromiya Geooooorge?!
@@ -3800,7 +3800,7 @@
 
 #v6219「楼座が寛大でよかったわねぇ。#r　あんた、原型を留めてるわよ」
 #v6219You're lucky Rosa's so nice. You're both still recognizable.
-#v6219Vocês tem sorte da Rosa ser boazinha. Ambas ainda estão reconhecíveis.
+#v6219Vocês têm sorte da Rosa ser boazinha. Ambas ainda estão reconhecíveis.
 
 #v6368「ベアトリーチェ！　三回勝ったわよ！#r　願いを叶えて！！」
 #v6368Beatrice! I won three times! Grant me my wish!!
@@ -3820,7 +3820,7 @@
 
 #v6221「ヘソ噛んで死んじゃえヴァ？！　マジカルエヴァ！！」
 #v6221If only you'd just give up and die! Magical EVA!!
-#v6221Por que não desiste e morre bem devagar! Magical EVA!!
+#v6221Por que não desiste e morre bem devagar?! Magical EVA!!
 
 #v6370「ウィンクは１０億の煌き！　マジカルローザ！！」
 #v6370A wink with a billion sparkles! Magical Rosa!!
@@ -3892,7 +3892,7 @@
 
 #v6377「綺麗さっぱり、あとには塵一つ残さないわよ。#r　くすくすくすくす！」
 #v6377Get it absolutely clean, without a smidgen of dirt. *giggle*giggle*giggle*!
-#v6377Fiquem completamente limpa, sem um traço de sujeira. *risos*risos*risos*!
+#v6377Fiquem completamente limpas, sem um traço de sujeira. *risos*risos*risos*!
 
 #v6392「お止め下さい…！#r　どうして子供たちの夢を打ち砕くんですか！」
 #v6392Please, stop...! Why are you crushing the children's dreams?!
@@ -4112,7 +4112,7 @@
 
 #v6474「密室定義の確認からいきましょう。#r　まずは扉と鍵から行きますか？」
 #v6474Let us begin by confirming the closed room definition. Shall we start with the doors and keys?
-#v6474Vamos começar confirmando a definição de quarto fechado. Devemos começar com as porta e chaves?
+#v6474Vamos começar confirmando a definição de quarto fechado. Devemos começar com as portas e chaves?
 
 #v6110「ベアト卿、エヴァ卿。#r　貴女たちの密室、味わわせていただきマス！」
 #v6110Lady Beato, Lady EVA, allow us to sample your closed ROOM!
@@ -4124,7 +4124,7 @@
 
 #v6226「もー！　ベアトはヒントが多過ぎるのよ！#r　せっかくのトリックが～！」
 #v6226Come on! You give out too many hints! What a waste of a perfectly good trick!
-#v6226
+#v6226Poxa! Você deu muitas dicas! Desperdiçou um ótimo truque!
 
 #v6111「とても手応えがありマシタ。#r　まだまだ、トリックに挑みたいデス！」
 #v6111That was quite CHALLENGING. I want to keep figuring out such TRICKS!
@@ -4132,7 +4132,7 @@
 
 #v6475「ではもっと手応えのある本を。#r　……確かこれが、あの子の自信作のはず……」
 #v6475Then let us find an even more challenging book. ...I do believe that child was especially proud of this one...
-#v6475Então vamos buscar por mais livros desafiadores. ...Creio que aquele criança estava especialmente orgulhosa deste...
+#v6475Então, vamos buscar por mais livros desafiadores. ...Creio que aquela criança estava especialmente orgulhosa deste...
 
 #v6112「さぁ、どんな密室でも歓迎デス！#r　密室トリック、暴きまくりデス！」
 #v6112Come, we'll welcome any sort of closed ROOM! Let us expose trick after closed room TRICK!
@@ -4224,7 +4224,7 @@
 
 #v6055「物好きな女だ。#r　………いいぜ、叶えてやるよ。……お前の、その願望を」
 #v6055You're a woman with strange tastes. ...Okay, I'll grant that wish of yours.
-#v6055Você é uma mulher gostos peculiares. ...Certo, garantirei seu desejo.
+#v6055Você é uma mulher de gostos peculiares. ...Certo, garantirei seu desejo.
 
 #v6254「しゃ、紗音？！#r　これはどういうことなんだ…？！#r　教えてくれ…！！」
 #v6254Sh-Shannon?! What is this all about...?! Tell me...!!
@@ -4264,7 +4264,7 @@
 
 #v6400「……はい。#r　……私の本当の名を、……貴方さまに捧げます……」
 #v6400...Yes. ...I dedicate my true name...to you...
-#v6400...Sim. ...Eu dedido meu nome verdadeiro...a você...
+#v6400...Sim. ...Eu dedico meu nome verdadeiro...a você...
 
 #v6059「虫一匹殺せない顔をして、……冷酷な女だな。#r　……だが、嫌いじゃねぇぜ…」
 #v6059You're pretty cold-blooded...for a woman who looks like she couldn't kill a fly. ...But I can't say I dislike that, either...
@@ -4340,7 +4340,7 @@
 
 #v6121「以上で、容疑者以外の全人物のアリバイの証明を#r　終了いたしマス」
 #v6121With that, we have completely proven alibis for everyone but the SUSPECT.
-#v6121Com isso, nós provamos os álibis de todos exceto o SUSPEITO.
+#v6121Com isso, nós provamos os álibis de todos, exceto o SUSPEITO.
 
 #v6180「如何です、皆様方？#r　古戸ヱリカには、この程度の推理が可能です」
 #v6180What do you think, everyone? This level of reasoning is possible for Furudo Erika.
@@ -4364,7 +4364,7 @@
 
 #v6086「その必要などないわ！#r　何しろ全ての事件は妾の戯れ！#r　探偵如きの出番などないわ…！！」
 #v6086There's no need! After all, all of these crimes are me enjoying myself! We have no need of a lowly detective...!!
-#v6086Não é necessário! Afinal, todos esses crimes foram 
+#v6086Não é necessário! Afinal, todos esses crimes foram uma brincadeira minha! Não há espaço para uma metida a detetive...!!
 
 #v6123「魔女の出番もありマセン。#r　あなたは私がお相手致しまショウ」
 #v6123And we have no need of a WITCH. I will be your OPPONENT.
@@ -4388,7 +4388,7 @@
 
 #v6185「私の天才的推理の前に、一切の異論は存在しません。#r　あるなら上等！　このお二人のように、#r　完膚なきまでに叩き潰してご覧にいれます！」
 #v6185No counterarguments stand before my genius reasoning. If you have one, bring it on! I'll crush you thoroughly, just like I did these two!
-#v6185Não há contra-argumentos que prevaleçam diante da minha genial dedução. Se tiver algu, traga-o! Irei esmagá-lo completamente, assim como fiz com esses dois!
+#v6185Não há contra-argumentos que prevaleçam diante da minha genial dedução. Se tiver algum, traga-o! Irei esmagá-lo completamente, assim como fiz com esses dois!
 
 #v6124「夏妃犯人説にまだご不満のある方はおられマスカ。#r　おられるならば、我ら二人、お相手させていただきマス」
 #v6124Are there still people unsatisfied with the Natsuhi Culprit THEORY? If there are, the two of us will be your OPPONENTS.
@@ -4424,7 +4424,7 @@
 
 #v6126「……お待ち下サイ。#r　たった今、元老院から緊急連絡が届きマシタ。#r　署名は大ベルンカステル卿と大ラムダデルタ卿の連名デス」
 #v6126...WAIT. We just received an emergency communication from the SENATE. The Great Lady Bernkastel and the Great Lady Lambdadelta have jointly signed IT.
-#v6126...ESPERE. Acabamos de receber um comunicado de emergência do SENADO. A Grande Lady BERNKASTEL e a Grande Lady LAMBDADELTA o assinaram em CCONJUNTO,
+#v6126...ESPERE. Acabamos de receber um comunicado de emergência do SENADO. A Grande Lady BERNKASTEL e a Grande Lady LAMBDADELTA o assinaram em CONJUNTO,
 
 #v6189「我が主にラムダ卿ですか？！#r　何でしょう、私の完璧な推理に対する祝辞でしょうか！」
 #v6189It's from my master and Lady Lambda?! What could it be? Are they congratulating me on my perfect reasoning?!
@@ -4484,7 +4484,7 @@
 
 #v6098「よぉ、嘉音くんじゃねぇか！#r　修行とは感心だぜ！」
 #v6098Hey, if it isn't Kanon-kun! So you're training? Good for you!
-#v6098Ei, se não é o Kanon-kun! Então está treinando? Que ótimo!
+#v6098Ei, se não é o Kanon-kun! Então, está treinando? Que ótimo!
 
 #v6358「よろしければ、少しお相手致しましょうか…？」
 #v6358If you so desire, shall we be your opponents...?
@@ -4492,11 +4492,11 @@
 
 #v6285「くっ。なぜだ。#r　……なぜ僕は彼らにコンプレックスを感じるんだ…」
 #v6285Nng. Why? ...Why do I feel like I have an inferiority complex against those two...?
-#v6285Nng. Por quê? Por que sinto que tenho um complexto de inferioridade contra esses dois...?
+#v6285Nng. Por quê? Por que sinto que tenho um complexo de inferioridade contra esses dois...?
 
 #v6436「……非力なことがコンプレックスなのか？#r　ならば超えるんだ。あの二人を」
 #v6436...Is being weak the reason for your complex? Then surpass it. Overcome them.
-#v6436...Ser fraco seria a razão do seu complexo? Então supereo-o. Deixe isto para trás.
+#v6436...Ser fraco seria a razão do seu complexo? Então supere. Deixe isto para trás.
 
 #v6286「戦人さま、ロノウェさま…！#r　お手合わせ願いますッ！！」
 #v6286Battler-sama, Ronove-sama...! Please fight me!!
@@ -4624,15 +4624,15 @@
 
 #v6448「今も昔も変わらねェ。#r　……邪悪と魔女は許さねェ。それだけだ」
 #v6448My past and present are no different. ...I can't forgive evil or witches. That's all there is to it.
-#v6448Meu passado e meu presente não são diferentes. ...Não posso tolar o mal ou bruxas. Nada mais do que isso.
+#v6448Meu passado e meu presente não são diferentes. ...Não posso tolerar o mal ou bruxas. Nada mais do que isso.
 
 #v6134「昔のあなたなら。#r　こんな退屈な任務は引き受けなかったでショウ？」
 #v6134The old you wouldn't have accepted such a boring job, CORRECT?
-#v6134Em outros tempos você não teria aceito um trabalho tão chato, CORRETO?
+#v6134Em outros tempos, você não teria aceitado um trabalho tão chato, CORRETO?
 
 #v6449「お前もだろ。#r　ハンコ押しに飽きなきゃ、引き受けなかったくせに」
 #v6449I could say the same. You wouldn't have taken it yourself if you weren't bored to death of stamping documents.
-#v6449Eu diria o mesmo. Você não estaria aqui se não tivesse morrendo de tédio de tanto carimbar documentos.
+#v6449Eu diria o mesmo. Você não estaria aqui se não estivesse morrendo de tédio de tanto carimbar documentos.
 
 #v6135「フッ。……お互い、任務を楽しめているようデス」
 #v6135PFFT. ...It would seem we are both enjoying our MISSION.
@@ -4696,7 +4696,7 @@
 
 #v6453「だから安心して眠れ。#r　明日の朝には、もういいお天気になってらァ」
 #v6453So, sleep peacefully. By tomorrow morning, the weather will have cleared up.
-#v6453Por isso, podem dormir sossegadas. Amanhã de manhã o tempo já terá limpado.
+#v6453Por isso, podem dormir sossegadas. Amanhã de manhã, o tempo já terá limpado.
 
 #v6160「本当にもう、怖い魔女は夢に出てこない……？」
 #v6160Scary witches really won't come into my dreams anymore...?
@@ -4724,7 +4724,7 @@
 
 #v6413「え？！#r　嘉音くんとお泊り旅行、……ですか？！」
 #v6413What?! You're...going on an overnight trip with Kanon-kun?!
-#v6413Oquê? Você...vai sair para viajar com o Kanon-kun!?!
+#v6413O quê? Você...vai sair para viajar com o Kanon-kun!?!
 
 #v6359「ぷっくっく。#r　残念ですが、嘉音のシフトは夏の間もぎっしりで#r　ございますよ」
 #v6359Pu ku ku. I'm so sorry, but Kanon's schedule is quite packed all summer long.
@@ -4784,7 +4784,7 @@
 
 #v6319「敗者は勝者の言うことを聞くものよ！#r　さー、沖縄旅行、朱志香様ご一行、ご案内～！！」
 #v6319The loser has to do what the winner says! Come on, Jessica-sama's party, off to Okinawa, let's gooo!!
-#v6319O perdedor tem que fazer o que o vencedor diz! Vamos time da Jessica-sama, direto para Okinawa, vamos lá!
+#v6319O perdedor tem que fazer o que o vencedor diz! Vamos, time da Jessica-sama, direto para Okinawa, vamos lá!
 
 #v6275「嘉音くんが夏休みを取れるように、もう手配はしてあるんだよ！#r　あとは嘉音くんの準備だけ！」
 #v6275We've already arranged for you to have some vacation time in the summer! All that's left is for you to get ready!
@@ -4796,7 +4796,7 @@
 
 #v6276「準備も任せて！#r　嘉音くんの下着から洗面道具まで全部、私が用意するから！#r　嘉音くんは当日、黙って私に付いてくるだけでいーから！」
 #v6276Leave the preparation to me! I'll get everything from your underwear to your toiletries set up! You just need to stay quiet and follow me when the day comes!
-#v6276Deixe os preparativos comigo! Vou reunir tudo desde a roupa de baixo até a escova de dentes! Você só precisa ficar quieto e me seguir quando chegar o dia!
+#v6276Deixe os preparativos comigo! Vou reunir tudo, desde a roupa de baixo até a escova de dentes! Você só precisa ficar quieto e me seguir quando chegar o dia!
 
 #v6320「さー、嘉音？！　もー逃げ場はないわよ？！#r　これでも断るなら、あんたを今すぐ金平糖に変えて、#r　沖縄に放り投げてあげちゃうんだから！」
 #v6320See, Kanon?! There's nowhere left to run! If you still refuse, I'll turn you into konpeito right now and toss you all the way to Okinawa!
@@ -4844,7 +4844,7 @@
 
 #v6266「てめぇがベルンカステルか！！#r　みんなの命を弄びやがって！！」
 #v6266So you're Bernkastel!! Damn you, toying with everyone's lives!!
-#v6266Então você é a BERNKASTEL!! Maldita, brincando com a vida de todos!!
+#v6266Então, você é a BERNKASTEL!! Maldita, brincando com a vida de todos!!
 
 #v6483「……ウィル。#r　あの威勢のいい駒を消し去ってやりなさい」
 #v6483...Will, erase that energetic piece.
@@ -4952,7 +4952,7 @@
 
 #v6194「我が主。黄金郷への攻撃準備、整いました。#r　いつでも滅ぼせます」
 #v6194My master, we've finished preparations for our attack on the Golden Land. We can destroy it whenever you please.
-#v6194Minha mentora, nós terminamos os preparativos para nosso ataque à Terra Dourada. POdemos destruir tudo assim que desejar.
+#v6194Minha mentora, nós terminamos os preparativos para nosso ataque à Terra Dourada. Podemos destruir tudo assim que desejar.
 
 #v6496「そう。やっとね。#r　……では、始めてちょうだい。少しずつ、ゆっくりと。#r　……だけれども、誰一人逃がすことなくね……」
 #v6496I see. Finally. ...Then begin, bit by bit, but slowly. ...Without letting a single person escape...
@@ -4984,7 +4984,7 @@
 
 #v6197「畏まりました、我が主！！#r　消え去れゲロカスども！#r　今ここにッ、黄金郷は終わりを迎えるッ！」
 #v6197As you wish, my master!! Disappear, scum! This is where the Golden Land comes to an end!
-#v6197Como desejar, minha mentor!! Desapareçam, lixo! É aqui que a Terra Dourada chega ao fim!
+#v6197Como desejar, minha mentora!! Desapareçam, lixo! É aqui que a Terra Dourada chega ao fim!
 
 #v6198「死ッに晒せッ！！#r　右ッ代宮譲治ィ～、右ッ代宮楼座ぁああぁあ！！」
 #v6198Die!! Ushiromiya George, Ushiromiya Rosaaaaaaa!!
@@ -5040,7 +5040,7 @@
 
 #v6503「勝つのは私たちでなく、ベアトであるべきだった、#r　……という意味よ。#r　そうすれば、このゲーム盤はまだまだ遊べた」
 #v6503I mean it should've been Beato who won, not us. That way, we could've played with this game board much more.
-#v6503Refiro-me ao fato de que a Beato deveria ter vencido, não nós. Assim, poderíams brincar ainda mais com esse tabuleiro.
+#v6503Refiro-me ao fato de que a Beato deveria ter vencido, não nós. Assim, poderíamos brincar ainda mais com esse tabuleiro.
 
 #v6205「惜しいことですが、散るからこそ花。#r　儚いからこそ花火なのです。#r　また、次なる哀れなゲーム盤を探せばいいだけの話」
 #v6205It's a shame, but a flower is a flower because its petals eventually scatter. Fireworks are fireworks because they're fleeting. In other words, we just have to find the next unfortunate game board.
@@ -5108,7 +5108,7 @@
 
 #v6428「朱志香ちゃん、紗音ちゃん、ご来店～！#r　いっぱいサービスしちゃうにぇ～！」
 #v6428Welcome, Jessica-chan and Shannon-chan! Look forward to our excellent service nyeh!
-#v6428Bem-vindas, Jessica-chan, Shannon-chan! Aguarde ansiosas pelo nosso excelente serviço, nyeh!
+#v6428Bem-vindas, Jessica-chan, Shannon-chan! Aguardem ansiosas pelo nosso excelente serviço, nyeh!
 
 #v6303「は～い、残念でしたー！#r　二人ともまた挑戦してねー！！」
 #v6303Aw, too bad! Better luck next time, you two!!
@@ -5184,11 +5184,11 @@
 
 #v6433「あちゃー。#r　素人が扱うと、誘導システムがおかしくなるにぇ」
 #v6433Whoops. The guidance system tends to go crazy when used by an amateur nyeh.
-#v6433Ops. O sistema guiado tente a ficar enlouquecido quando usado por amadores, nyeh.
+#v6433Ops. O sistema guiado tende a ficar enlouquecido quando usado por amadores, nyeh.
 
 #v6311「じょ、冗談じゃないわよ！　あの矢、誰かに当たったら、#r　その人が私を好きになるんでしょ？！#r　私はベルンだけのものなのにぃ！！」
 #v6311Th-This is no joke! If that arrow hits someone, they'll fall in love with me, right?! But I belong to Bern alone!!
-#v6311I-Isso não é brincadeira! Se esse flecha atingir alguém, essa pessoa vai se apaixonar por mim, não vai?! Mas eu pertenso só à Bern!!
+#v6311I-Isso não é brincadeira! Se essa flecha atingir alguém, essa pessoa vai se apaixonar por mim, não vai?! Mas eu pertenso só à Bern!!
 
 #v6512「……よくわかんないけど、早く取り戻してらっしゃい。#r　私はお茶の用意をしているわ」
 #v6512...I'm not sure what's going on, but hurry up and get it back. I'll be making tea.
@@ -5240,11 +5240,11 @@
 
 #v6327「ねぇ、ベアトー！#r　最後なんだし、事件の犯人くらい教えなさいよー」
 #v6327Hey, Beato! We're at the end, so why not at least tell us who the culprit is?
-#v6327Ei, Beato1 Já estamos no fim, então por que ao menos não nos diz quem é o culpado?
+#v6327Ei, Beato! Já estamos no fim, então por que ao menos não nos diz quem é o culpado?
 
 #v6092「……誰が、……教えるものか…。#r　それに至れるのは、自ら考え、心を知った者のみだ……」
 #v6092...Like I'd...tell you... No one can reach that knowledge unless they think for themselves and know the heart...
-#v6092...Até parece...que eu diria... Ninguém é capaz de alcançar tal sabedoria a não ser que pensem por conta própria e conheçam o coração...
+#v6092...Até parece...que eu diria... Ninguém é capaz de alcançar tal sabedoria, a não ser que pensem por conta própria e conheçam o coração...
 
 #v6328「私は考えることが嫌いなのっ。ただ答えが知りたいだけ！#r　そしてあたかも、自分は自力で辿り着けたかのように振舞いた#r　いだけなのよ！」
 #v6328I don't like thinking! I just wanna know the answer! And then I wanna go around acting like I figured it out myself!
@@ -5292,7 +5292,7 @@
 
 #v6331「私たちの退屈を癒してくれるゲーム盤なんて滅多にないわ。#r　……最近のゲームはロクなのない。クソゲーばっか、オワコン#r　ばっか！　はーっ、昔のゲームはよかったわー」
 #v6331There aren't many game boards that can heal our boredom. ...I mean, there haven't been any decent games lately. They're all crappy games, all stuff that's jumped the shark! Ah, old games were so good!
-#v6331Não há muitos tabuleiros que podem curar o nosso tédio. ...Afinal, não tem tido jogos decentes recentemente. São todos jogos ruins, que já perderam sua relevância! Ah, os jogos de antigamente era muito melhores!
+#v6331Não há muitos tabuleiros que podem curar o nosso tédio. ...Afinal, não tem tido jogos decentes recentemente. São todos jogos ruins, que já perderam sua relevância! Ah, os jogos de antigamente eram muito melhores!
 
 #v6522「……そうして飽食して、私たちは退屈の海の藻屑と消えていく#r　のだわ」
 #v6522...While sating ourselves on those, we'll gradually disappear and become scraps of seaweed in the sea of boredom.
@@ -5320,7 +5320,7 @@
 
 #v6525「その通りね。……その結果、誰もが消費者になって。#r　この海には退屈だけしかなくなったわけだわ」
 #v6525You're right. ...And as a result, everyone's become a consumer, and there's nothing left in this sea but boredom.
-#v6525Tem razão. ...E como resultado, todos se tornam consumidores, não restando mais nada nesta mar além do tédio.
+#v6525Tem razão. ...E como resultado, todos se tornam consumidores, não restando mais nada neste mar além do tédio.
 
 #v6335「また誰か、面白いゲームを作ってくれないかしらー。#r　それを割って嘲笑って遊ぶの！」
 #v6335I wonder if someone's gonna make another interesting game someday. I'll have so much fun splitting it apart and mocking it!
@@ -5396,7 +5396,7 @@
 
 #v0224「感謝するぜ！#r　これが魔法との戦い方か！」
 #v0224You have my gratitude! So, this is how you fight against magic!
-#v0224Você tem minha gratidão! Então é assim que se luta contra magia!
+#v0224Você tem minha gratidão! Então, é assim que se luta contra a magia!
 
 #v0225「わかってるぜ。#r　手加減したんだろ…」
 #v0225I understand. You went easy on me, right...?
@@ -5648,7 +5648,7 @@
 
 #v3745「お前の推理はこんなもんかよ？！#r　ハッ！　好敵手が聞いて呆れるぜ！」
 #v3745Is that the best your reasoning can manage?! Ha! As a rival, this is just embarrassing to hear!
-#v3745Essa é a melhor teoria que consegue arranjar?! Ha! Como rival, é simplesmente embaraçosos ouvi isso!
+#v3745Essa é a melhor teoria que consegue arranjar?! Ha! Como rival, é simplesmente embaraçoso ouvir isso!
 
 #v4174「これしきのトリック……、#r　まだ、いくらでも、………ぐッ……」
 #v4174Against a mere trick like this, ...I still have...many...nnngg...!
@@ -5656,7 +5656,7 @@
 
 #v4175「グッド！#r　さすがこの探偵、古戸ヱリカの好敵手です！#r　貴方の実力認めましょう！」
 #v4175<Good!> I'd expect no less from the rival of the detective, Furudo Erika! I acknowledge your skill!
-#v4175Good! Não esperaria menoos do rival da detetive, Furudo Erika! Eu reconheço suas habilidades!
+#v4175Good! Não esperaria menos do rival da detetive, Furudo Erika! Eu reconheço suas habilidades!
 
 #v3746「いいから立ちな。#r　俺たちの戦いは、まだまだこれからだぜッ！！」
 #v3746Come on, stand up. Our fight has just begun!!
@@ -5708,7 +5708,7 @@
 
 #v5428「……悪いな、お姫様が家で待ってる。#r　寂しくて暴れると手が付けられないんでな」
 #v5428...Sorry, my princess is waiting at home. When she gets lonely and runs wild, nothing can stop her.
-#v5428...Desculpa, minha princesa está esperando em casa. Nada podê pará-la quando ela fica sozinha e descontrolada.
+#v5428...Desculpa, minha princesa está esperando em casa. Nada pode pará-la quando ela fica sozinha e descontrolada.
 
 #v3753「にっひっひ。#r　相棒がお待ちかねだぜ？#r　しっかり尻をガードして帰るこった！」
 #v3753Nihihi. Has your partner been waiting for you? You'd better head home with a firm guard around your butt!
@@ -5736,7 +5736,7 @@
 
 #v3756「今回も悪役ごくろーさん！#r　次は俺がやられ役になってやるぜ？」
 #v3756Nice job playing the bad guy this round! Next time, I'll play the loser role.
-#v3756Bom trabalho pagando de vilão neste round! Da próxima vez, farei o papel de perdedor.
+#v3756Bom trabalho, pagando de vilão neste round! Da próxima vez, farei o papel de perdedor.
 
 #v5780「あら、人間風情に気を使ってもらえるなんてね。#r　じゃぁお言葉に甘えようかしら…？」
 #v5780Oh my, a lowly human is trying to be nice to me. Perhaps I'll take you up on that offer...
@@ -5756,7 +5756,7 @@
 
 #v4762「ロノウェ～！#r　焼きたてのクッキーと紅茶をちょうだい！#r　温かいミルクも一緒にね！」
 #v4762Ronove! Get us some fresh-baked cookies and tea, if you would! And some warm milk!
-#v4762Ronove! Nos traga cookies recém assados e chá, por favor! E leite quente!
+#v4762Ronove! Nos traga cookies recém-assados e chá, por favor! E leite quente!
 
 #v4763「いったーぃ！#r　か弱いレディになんてことすんのよッ！」
 #v4763Ow! How could you do that to a fragile lady?!
@@ -5812,7 +5812,7 @@
 
 #v0375「シーユーヘル。#r　先に、私の行く地獄で待っていて」
 #v0375<See you in hell.> Go on and wait in the pit I'm headed for.
-#v0375See you in hell. Vá à frente e aguarde no inferno para qual estou indo.
+#v0375See you in hell. Vá à frente e aguarde no inferno para onde estou indo.
 
 #v1417「時代は若者のものですね…。#r　私はもう、隠居でしょうか…」
 #v1417This era belongs to the young... Perhaps it's about time I retired...
@@ -5976,7 +5976,7 @@
 
 #v0519「私は何も知らないわ。#r　あんたがそう思うなら、そう思えばいい…」
 #v0519I know nothing. If that's what you think, why not go on thinking it...?
-#v0519Não sei de nada. Se é isso o que pensa, porque não segue com esse pensamento...? 
+#v0519Não sei de nada. Se é isso o que pensa, por que não segue com esse pensamento...? 
 
 #v0396「語らないつもり？#r　あんたはいつもそう、最期までそう」
 #v0396You don't intend to tell me? You're always like that, up until the very end.
@@ -5984,7 +5984,7 @@
 
 #v1267「にひ…、シエスタ姉妹兵が、そう簡単に負けるわけには……」
 #v1267Nihi... The Chiester Sisters Corps mustn't lose so easily...
-#v1267Nihi... A Tropa das Irmãs Chiester não perderão tão facilmente...
+#v1267Nihi... A Tropa das Irmãs Chiester não perderá tão facilmente...
 
 #v0397「もうやめて！#r　お姉ちゃんの友人と、戦いたくない」
 #v0397Just stop it already! I don't want to fight against Onee-chan's friends.
@@ -6004,7 +6004,7 @@
 
 #v1269「懐かしいにぇ。#r　うーうーのお歌しか、覚えてないにぇ」
 #v1269That takes me back nyeh. Though I only remember the 'uu-uu-' song nyeh.
-#v1269Isso me trás lembranças, nyeh. Embora eu lembre apenas da canção do "uu-uu-", nyeh.
+#v1269Isso me traz lembranças, nyeh. Embora eu lembre apenas da canção do "uu-uu-", nyeh.
 
 #v2568「譲治お兄ちゃんも武道を習わされたのね。#r　……私もよ。すぐに逃げたけど」
 #v2568You were forced to learn martial arts too, right? ...The same goes for me. I escaped pretty quickly though.
@@ -6100,7 +6100,7 @@
 
 #v4179「……なら永遠に捜し求めて彷徨うといいです。#r　青い鳥のようにね…」
 #v4179...Then keep wandering about in search of it for all eternity. It's just like the blue bird, isn't it...?
-#v4179...Então continue vagando em busca dela por toda eternidade. É como O Pássaro Azul, não é...?
+#v4179...Então, continue vagando em busca dela por toda eternidade. É como O Pássaro Azul, não é...?
 
 #v4099「私が求めるのは推理じゃない。#r　真実。……それだけよ」
 #v4099I'm not looking for reasoning. All I want...is the truth.
@@ -6220,7 +6220,7 @@
 
 #v1422「ここが戦人くんの良さでもあり、#r　弱点でもあるのですけれど…」
 #v1422This part of you is your best point...and also your weakness...
-#v1422Essa parte sua é seu melhor qualidade...e também sua fraqueza...
+#v1422Esse seu lado é sua melhor qualidade...e também sua fraqueza...
 
 #v0400「……どうして？！#r　私は１２年も待っているのに！」
 #v0400...Why?! I've waited a whole 12 years!
@@ -6528,7 +6528,7 @@
 
 #v5702「今回は見逃してあげましょう。#r　さぁ、あなたの在るべき所に戻りなさい」
 #v5702I'll let you go this time. Come now, return to the place you are supposed to be.
-#v5702Te deixarei ir dessa vez. Vá, retorne ao local aonde deveria estar.
+#v5702Te deixarei ir dessa vez. Vá, retorne ao local onde deveria estar.
 
 #v4182「と、止めを刺さないつもりですか…。#r　……その甘さ、きっと後悔させます…！」
 #v4182S-So, you don't intend to deliver the final blow...? ...I'll make you regret being so soft...!
@@ -6708,7 +6708,7 @@
 
 #v0983「致し方ありませんな…。#r　では諦めて、その分担で参りましょう」
 #v0983It seems there's nothing else I can do... Then allow me to submit and accept that role.
-#v0983Parece não haver nada mais que eu possa fazer... Então permita-me ceder e aceitar esse papel.
+#v0983Parece não haver nada mais que eu possa fazer... Então, permita-me ceder e aceitar esse papel.
 
 #v0984「惚れ惚れする美男子ですな。#r　おっと、私でしたか。ぷっくっく！」
 #v0984What a dreamily beautiful boy you are. Oh, but you're me. Pu ku ku!
@@ -6740,7 +6740,7 @@
 
 #v0074「妾のモットーは朝令暮改！#r　さっきはさっき、今は今だ！」
 #v0074My orders are as ever-changing as the raging seas! That was then, this is now!
-#v0074Minhas ordens estão em constante mudança como os oceanos furiosos! Aquilo foi naquela hora, isso é agora!
+#v0074Minhas ordens estão em constante mudança, como os oceanos furiosos! Aquilo foi naquela hora, isso é agora!
 
 #v0990「以上でございます。#r　さ、お召し換えをしてからお茶に致しましょう」
 #v0990And that is all. Well then, perhaps we should get you a change of clothes before having tea.
@@ -6808,7 +6808,7 @@
 
 #v0998「家具に心は不要です。#r　君は怒りや焦燥に、翻弄され過ぎですよ」
 #v0998Furniture needs no heart. You let your anger and impatience overcome you.
-#v0998Mobílias não precisam de coração. Você deixou a raiva e impaciência te dominarem.
+#v0998Mobílias não precisam de coração. Você deixou a raiva e a impaciência te dominarem.
 
 #v0674「そんな…。#r　僕はそんな感情に、支配されてなどいないはず…！」
 #v0674Impossible... There's no way I was letting those emotions control me...!
@@ -6956,7 +6956,7 @@
 
 #v4184「ひいっ…！#r　我が主にこの無様な敗北を知られるわけにはッ…！！」
 #v4184Eeep...! I mustn't let her know of this pathetic defeat...!!
-#v4184Aaah...! Não posso deixar ela saber dessa derrota patética...!!
+#v4184Aaah...! Não posso deixá-la saber dessa derrota patética...!!
 
 #v5117「ぷっくっく。#r　私の余興は、お気に召していただけましたでしょうか？」
 #v5117Pu ku ku. Did you like my little game?
@@ -6976,7 +6976,7 @@
 
 #v5119「この辺で引き分けにしませんか？#r　焼きたてのマフィンでお茶は如何です？」
 #v5119Shall we call it a draw? How about some freshly-baked muffins and tea?
-#v5119Devemos considerar isto um empate? Que tal alguns bolinhos recém assados e chá?
+#v5119Devemos considerar isto um empate? Que tal alguns bolinhos recém-assados e chá?
 
 #v3833「マフィン！#r　……し、仕方ありマセン。#r　ここは両成敗にしマス…！」
 #v3833MUFFINS! ...I-If you INSIST. Let's say we're EVEN...!
@@ -7300,7 +7300,7 @@
 
 #v1278「に、にひ…。深刻なエラーが発生したにぇ。#r　サービスセンターに連絡して下さい、にぇ…」
 #v1278N-Nihi... A fatal error has occurred nyeh. Please contact your service center...nyeh...
-#v1278N-Nihi... Um erro fatal ocorreu, nyeh. Por favor contate o departamento de atendimento...nyeh...
+#v1278N-Nihi... Um erro fatal ocorreu, nyeh. Por favor, contate o departamento de atendimento...nyeh...
 
 #v2478「愉快であったぞ、そなたのダンスは！#r　磨きをかけて、また妾を楽しませるがよい！」
 #v2478Your dance was quite amusing! Polish it up more and come entertain me again!
@@ -7308,7 +7308,7 @@
 
 #v2667「……僕の足技が、ダンス呼ばわりとはね…。#r　稽古が、足らないというのか……」
 #v2667...So you call my kicks dancing... Have I not been practicing enough...?
-#v2667Então você chama meus chutes de dança... será que não pratiquei o suficiente...?
+#v2667Então, você chama meus chutes de dança... será que não pratiquei o suficiente...?
 
 #v2479「おぃおぃ？　これが魔王様の本気かァ？#r　結構、失望だぜぇええぇ？」
 #v2479Hey now, is that the best a demon king can do? You've really let me down, you know thaaaaat?
@@ -7432,7 +7432,7 @@
 
 #v3674「引き篭もってばかりいるから鈍るのだ！#r　たまにはバドミントンでもしたらどうか！」
 #v3674Your reflexes are dull because you stay cooped up at home all the time! Why don't you play badminton or something every now and then?
-#v3674Seus reflexos estão enferrujados porque fica trancado em casa todo dia! Por que não joga badmínton ou algo do tipo ocasionalmente?
+#v3674Seus reflexos estão enferrujados porque fica trancado em casa todo dia! Por que não joga badminton ou algo do tipo ocasionalmente?
 
 #v5440「あぁ、鬼コーチにしごかれてるよ。#r　……畜生、お前らグルだな？」
 #v5440Yeah, I've got a demon coach working me hard. ...Dammit, are you two in on this together?
@@ -7628,7 +7628,7 @@
 
 #v0847「も、もう許して…。#r　うぐッ、あぁああ！！#r　やめてぇええぇえ！！」
 #v0847P-Please forgive me... Nng, aaaaah!! Noooooo!!
-#v0847P-Por favor me desculpa... Nng, aaaaah!! Nãoooooo!!
+#v0847P-Por favor, me desculpa... Nng, aaaaah!! Nãoooooo!!
 
 #v0848「化ける相手を間違えたわね？#r　他の妹を選べばよかったのに！」
 #v0848You chose the wrong person to copy. You should've picked one of my younger sisters!
@@ -7696,7 +7696,7 @@
 
 #v0530「く、悔しい…、悔しい悔しい！#r　あんたなんかヘソでも噛んで死んじゃえばぁ？！」
 #v0530I-I hate this... I hate this, I hate this! If only you'd just give up and die!
-#v0530O-Odeio isso... odeio, odeio! Por que você não desiste e morre bem devagar!
+#v0530O-Odeio isso... odeio, odeio! Por que você não desiste e morre bem devagar?!
 
 #v0857「これが魔女ぉ？　あっははは！#r　期待外れでがっかりだわぁ！」
 #v0857You call this a witch? Ahahahah! What a letdown!
@@ -7708,7 +7708,7 @@
 
 #v0531「…ほ、誇ればいいでしょう？！#r　あんたなんかヘソでも噛んで死んじゃえばぁ？！」
 #v0531...S-Sure, whatever, go ahead and be proud! If only you'd just give up and die!
-#v0531...T-Tá, tanto faz, pode se gabar! Por que você não desiste e morre bem devagar!
+#v0531...T-Tá, tanto faz, pode se gabar! Por que você não desiste e morre bem devagar?!
 
 #v0859「一応、家具では私たちが先輩なの！#r　敬ってほしいわ！」
 #v0859At least when it comes to serving as furniture, we're your sempais, okay?! Respect us!
@@ -8032,7 +8032,7 @@
 
 #v1145「ありがとう。#r　あの日の魔法に、感謝します…！」
 #v1145Thank you. I'm grateful for the magic you gave me on that day...!
-#v1145Obrigada. Agradeço pela magica que me deu naquele dia...!
+#v1145Obrigada. Agradeço pela magia que me deu naquele dia...!
 
 #v0113「持ち上げて、一気に落とすはずだったのになァ。#r　……甘く見ていた…」
 #v0113Though...my plan was to lift your hopes and make them come crashing down all at once. ...I was too soft...
@@ -8052,7 +8052,7 @@
 
 #v1147「心なき家具に、今の私は負けたりしない」
 #v1147Right now, I can't lose to heartless furniture.
-#v1147Nesse momento, não posso perder para mobília sem coração.
+#v1147Nesse momento, não posso perder para uma mobília sem coração.
 
 #v1148「恋を覚えた私は、もう家具じゃないっ」
 #v1148Now that I've experienced romance, I'm not furniture anymore.
@@ -8140,7 +8140,7 @@
 
 #v0534「はいはい、あんたの勝ちよ。#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0534Okay, okay, you win. If only you'd just give up and die!
-#v0534Tá legal, tá legal, você venceu. Por que não desiste e morre bem devagar! 
+#v0534Tá legal, tá legal, você venceu. Por que não desiste e morre bem devagar?! 
 
 #v1162「やめましょう。#r　これ以上は真里亞さまが悲しみます」
 #v1162Let's stop this. Any more, and Maria will be sad.
@@ -8160,7 +8160,7 @@
 
 #v1284「うきゅ～。#r　自己診断ツールダウンロード。システムが応答しません…」
 #v1284Ukyuu. Downloading Self-Diagnostic Tool. System Response Negative...
-#v1284Ukyuu. Baixando Ferramenta de Auto-diagnóstico. Resposta do sistema negativa...
+#v1284Ukyuu. Baixando Ferramenta de Autodiagnóstico. Resposta do sistema negativa...
 
 #v1164「真里亞さま、あなたのお友達を傷つけて、ごめんなさい…！」
 #v1164Maria-sama, I'm so sorry for hurting your friend...!
@@ -8208,7 +8208,7 @@
 
 #v3377「少し運動不足ではございませんか？#r　最近少し、頬のお肉が……」
 #v3377Are you sure you've been exercising enough? Lately, your cheeks have been...
-#v3377Tem certeza que está se exercitando o suficiente? Ultimamente, suas bochechas estiveram...
+#v3377Tem certeza de que está se exercitando o suficiente? Ultimamente, suas bochechas estiveram...
 
 #v2870「ぎゃー、言わないでー！！#r　やっぱ怪しいサプリだけじゃ駄目かー！」
 #v2870Gyaah, don't say it!! I knew those shady supplements wouldn't be enough!
@@ -8240,7 +8240,7 @@
 
 #v5271「愛を知らぬ方に、真実は視えたりしません。#r　まずは、愛をお勉強されては？」
 #v5271Those who don't know love are unable to 'see' the truth. Perhaps you should study up on love first.
-#v5271Aqueles que não tem amor são incapazes de "ver" a verdade. Talvez você devesse estudar o amor primeiro.
+#v5271Aqueles que não têm amor são incapazes de "ver" a verdade. Talvez você devesse estudar o amor primeiro.
 
 #v4193「愛がなければ解けないミステリー？！#r　そんなのあるわけ……ないッ…」
 #v4193A mystery you can't solve without love?! That's...impossible...
@@ -8316,7 +8316,7 @@
 
 #v5796「……ならベアトに伝えて。#r　……この貸しは、とても高くつくわよって…！」
 #v5796...Then let Beato know. ...This is going to cost her a lot...!
-#v5796...Então diga à Beato. ...Façe que isso vai custar caro a ela...!
+#v5796...Então diga à Beato. ...Fale que isso vai custar caro a ela...!
 
 #v5281「これで、私に魔法の奇跡を恵んでいただけますか…？」
 #v5281Now, will you grant me a miracle of magic...?
@@ -8424,7 +8424,7 @@
 
 #v0693「ワルギリアさま。#r　それ以上、ご無理をなさいませんよう…」
 #v0693Virgilia-sama, please try to avoid pushing yourself too hard...
-#v0693VIRGILIA-sama, por favor tente evitar se esforçar demais...
+#v0693VIRGILIA-sama, por favor, tente evitar se esforçar demais...
 
 #v1467「やれやれ。#r　悔しいですがそうします。あなたも無理をしないように…」
 #v1467My, my... I don't like it, but I shall do so. Make sure you do the same...
@@ -8524,7 +8524,7 @@
 
 #v1167「そう。だから嘆かないで。決まっていたことだもの…」
 #v1167Yes. So don't lament. It was already decided upon...
-#v1167Sim. Por isso não lamente. Já havia sido decidido...
+#v1167Sim. Por isso, não lamente. Já havia sido decidido...
 
 #v0706「おのれ魔女め。#r　僕が自分を嫌っていると知っていて…！」
 #v0706Damn witch. You know I hate myself...!
@@ -8548,7 +8548,7 @@
 
 #v0711「自分の弱点くらい。#r　自分が一番わかってるさ」
 #v0711I know my own weaknesses better than anyone.
-#v0711Conheço minhas próprias fraquezas melhor que qualquer outro.
+#v0711Conheço minhas próprias fraquezas melhor de que qualquer outro.
 
 #v0712「僕とあなたはよく似てる。#r　……心の影さ」
 #v0712You and I are very much alike. ...The darkness of the heart.
@@ -8556,7 +8556,7 @@
 
 #v0535「はぁ？！　何わけわかんないことを！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0535Huh?! What you mumbling about?! If only you'd just give up and die!
-#v0535Hã?! O que está resmungando?! Por que não desiste e morre bem devagar!
+#v0535Hã?! O que está resmungando?! Por que não desiste e morre bem devagar?!
 
 #v0536「私は黄金の魔女！#r　どうして使用人風情に！#r　うぐ、ぐぉおおおおぉお！！」
 #v0536I'm the Golden Witch! How could I lose to lowly furniture?! Nng, ngaaaaaah!!
@@ -8576,7 +8576,7 @@
 
 #v0715「まだ僕を侮るというのか！#r　これがその代償だ！」
 #v0715So you still underestimate me?! Well, this is your reward!
-#v0715Então você ainda me subestima?! Bem, aqui está sua recompensa!
+#v0715Então, você ainda me subestima?! Bem, aqui está sua recompensa!
 
 #v1285「にひひひ…。#r　ちょびっとばかり、舐め過ぎたにぇ…。にひ…」
 #v1285Nihihihi... I guess...I underestimated you just a tiny little bit nyeh... Nihi...
@@ -8668,7 +8668,7 @@
 
 #v3053「……楼座さま、どうかお心を鎮めて下さい。#r　……くそ、聞く耳持たないか」
 #v3053...Rosa-sama, please calm yourself. ...Damn, she won't listen.
-#v3053...Rosa-sama, por favor se acalme. ...Droga, ela não escuta.
+#v3053...Rosa-sama, por favor, se acalme. ...Droga, ela não escuta.
 
 #v4683「失礼ながら。#r　ヱリカさまは当家の客人には相応しくないかと存じます」
 #v4683Pardon me, but I don't believe you're a suitable guest for this family.
@@ -8756,7 +8756,7 @@
 
 #v4693「き、奇跡なんかじゃない！#r　これは僕の努力の、正当な結果だっ」
 #v4693I-It's no miracle! This is the natural result of all my efforts!
-#v4693N-Não é um milagre! Esse é resultado natural de todo o meu esforço!
+#v4693N-Não é um milagre! Esse é o resultado natural de todo o meu esforço!
 
 #v4694「消えた…。……幻…？！#r　………くそ、これもまた、茶番なのか…」
 #v4694She disappeared... ...Was she an illusion...?! ......Dammit, is this yet another farce...?
@@ -8856,7 +8856,7 @@
 
 #v0546「ババァと説教は大嫌い！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0546I hate being lectured by old hags! If only you'd just give up and die!
-#v0546Odeio ser repreendida por velhotas! Por que não desiste e morre bem devagar!
+#v0546Odeio ser repreendida por velhotas! Por que não desiste e morre bem devagar?!
 
 #v1470「どうしたらわかってもらえるの…？#r　魔法の素晴らしさを、大切さを…！」
 #v1470How can I make you understand...? Understand how wonderful and precious magic truly is...!
@@ -8880,7 +8880,7 @@
 
 #v0549「使えない男！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0549What a useless man! If only you'd just give up and die!
-#v0549Mas que homem inútil! Por que não desiste e morre bem devagar!
+#v0549Mas que homem inútil! Por que não desiste e morre bem devagar?!
 
 #v1020「畏まりました…。#r　しかしその前に、ヨガから始めなければなりませんな…」
 #v1020Very well then. First, though, perhaps I should practice my yoga...
@@ -8904,7 +8904,7 @@
 
 #v0552「あんたの指図は受けない！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0552I won't follow your orders! If only you'd just give up and die!
-#v0552Não seguirei suas ordens! Por que não desiste e morre bem devagar!
+#v0552Não seguirei suas ordens! Por que não desiste e morre bem devagar?!
 
 #v0120「お師匠様の気持ちがわかろうぞ…。#r　不出来な弟子には不出来な弟子か…！」
 #v0120Now I know how Teacher felt... A failed disciple of a failed disciple, is it...?!
@@ -8928,7 +8928,7 @@
 
 #v0555「本当に役立たず！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0555You really are useless! If only you'd just give up and die!
-#v0555Você realmente é inútil!! Por que não desiste e morre bem devagar!
+#v0555Você realmente é inútil!! Por que não desiste e morre bem devagar?!
 
 #v0870「も、申し訳ございません！#r　どうか、それだけはお許しを…！！」
 #v0870F-Forgive me! Please, anything but that...!!
@@ -8952,7 +8952,7 @@
 
 #v0558「二度と譲治に近付かないで！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0558Never get near George again! If only you'd just give up and die!
-#v0558Nunca mais se aproxime do George! Por que não desiste e morre bem devagar!
+#v0558Nunca mais se aproxime do George! Por que não desiste e morre bem devagar?!
 
 #v1170「……譲治さん…。#r　……私、ここまでです。…ごめんなさい……」
 #v1170...George-san... ...This is as far as I can go. ...I'm sorry...
@@ -8980,7 +8980,7 @@
 
 #v0561「いいわね、その悔しそうな顔！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0561That's it! I love that pain-ridden little face! If only you'd just give up and die!
-#v0561É isso! Amo esse rostinho cheio de dor! Por que não desiste e morre bem devagar!
+#v0561É isso! Amo esse rostinho cheio de dor! Por que não desiste e morre bem devagar?!
 
 #v0562「女は常に、昨日の自分より美しく、残酷に」
 #v0562Women always become more beautiful and brutal than who they were yesterday.
@@ -9004,7 +9004,7 @@
 
 #v0567「さよなら偽者さん！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0567So long, fake! If only you'd just give up and die!
-#v0567Adeus, farsa! Por que não desiste e morre bem devagar!
+#v0567Adeus, farsa! Por que não desiste e morre bem devagar?!
 
 #v0568「本当に、私に相応しい家具なんでしょうねぇ？#r　不安だわぁ？」
 #v0568Are you really furniture suitable for me? I'm not so sure anymore.
@@ -9028,7 +9028,7 @@
 
 #v0570「それでも私の家具ぅ？！#r　ヘソでも噛んで死んじゃえばぁ？！」
 #v0570And you call yourself my furniture?! If only you'd just give up and die!
-#v0570E você se autodenomina minha mobília?! Por que não desiste e morre bem devagar!
+#v0570E você se autodenomina minha mobília?! Por que não desiste e morre bem devagar?!
 
 #v2613「譲治、解ってくれたわよね？#r　貴方にはもっと相応しい子がいるの！」
 #v2613George, you understand now, right? I've got the most suitable girl for you!
@@ -9108,7 +9108,7 @@
 
 #v4199「クッ…！#r　この事は、キッチリ我が主に報告させて頂きます……！」
 #v4199Ngg...! I'll report this to my master, never fear...!
-#v4199Ngg...! Irei relatar isto a minha mentora, não tema...!
+#v4199Ngg...! Irei relatar isto à minha mentora, não tema...!
 
 #v4450「猫箱の蓋であるこの私が、#r　ここで負けるわけにはいかないのよ」
 #v4450As the lid of the cat box, I can't afford to lose here.
@@ -9204,7 +9204,7 @@
 
 #v4785「親子そろってムカつくわね！#r　この大ラムダデルタ様に失礼しちゃうわー！」
 #v4785You really piss me off, both parent and child! How can you be so rude to the Great Lambdadelta-sama?!
-#v4785Vocês realmente me irritaram, mãe e filha! COmo podem ser tão rudes com a Grande LAMBDADELTA-sama?!
+#v4785Vocês realmente me irritaram, mãe e filha! Como podem ser tão rudes com a Grande LAMBDADELTA-sama?!
 
 #v4462「我が主の親友だと仰っていたので…。#r　もう少し、楽しめると思ったのですが」
 #v4462You said you were my master's friend, ...so I thought I'd be able to enjoy myself a bit more.
@@ -9368,7 +9368,7 @@
 
 #v1309「おっかない顔してないで遊ぼうにぇ！#r　仕事なんて忘れてにぇ！」
 #v1309Stop looking so deadly serious and play nyeh! Forget about your work nyeh!
-#v1309Parece de parecer tão mortal e brinque, nyeh! Esqueça seu trabalho, nyeh!
+#v1309Pare de fazer essa cara amedrontadora e vamos nos divertir, nyeh! Esqueça seu trabalho, nyeh!
 
 #v1171「私には信念があるはず…！#r　それが、通用しないの……？」
 #v1171But I still have my conviction...! Is that not enough...?
@@ -9724,7 +9724,7 @@
 
 #v3476「……やさしいのですね。#r　……では、今日はお言葉に甘えさせていただきましょう…」
 #v3476How kind you are. Then allow me to take you up on that offer...
-#v3476Você é muito gentil. Permita-me aceitar sua oferta então... 
+#v3476Você é muito gentil. Permita-me aceitar sua oferta... 
 
 #v2694「手加減をありがとう。#r　僕は遊んでもらえちゃったのかな…？」
 #v2694Thanks for going easy on me. Were you just letting me have a little fun...?
@@ -9732,7 +9732,7 @@
 
 #v3144「そこまでお見抜きでしたか…。#r　このロノウェ、完全に降参でございます」
 #v3144So, you noticed. I, Ronove, surrender completely.
-#v3144Então você notou. Eu, Ronove, desisto completamente.
+#v3144Então, você notou? Eu, Ronove, desisto completamente.
 
 #v3145「頼りない少年だったはずのあなたが、#r　これほど成長されるとは…」
 #v3145You once seemed such an unreliable man. To think that you have grown so far...
@@ -9820,7 +9820,7 @@
 
 #v2705「僕の目は節穴じゃない。#r　……化けるなら、もう少しうまくやることだね」
 #v2705I'm not blind. ...If you're going to copy her, do a better job than that.
-#v2705Não sou cego. ...Se vai copiar ela, faça melhor que isso.
+#v2705Não sou cego. ...Se vai copiá-la, faça melhor que isso.
 
 #v2706「少し焦り過ぎだね。#r　心にゆとりがないから、君の攻撃は読まれる」
 #v2706You were a bit too rushed. If you don't have a little peace in your heart, I'll read your moves easily.
@@ -10012,7 +10012,7 @@
 
 #v3855「……どうやら、私の出番はこれまでのようデス。#r　……では、失礼しマス」
 #v3855...It seems my moment in the spotlight is now OVER. ...Then, if you will excuse ME.
-#v3855...Parece que meu momento nos holofotes ACABOU. ...Pois bem, se me ser LICENÇA.
+#v3855...Parece que meu momento nos holofotes ACABOU. ...Pois bem, se me der LICENÇA.
 
 #v4533「これは失礼、まさか当家のお客様だったとはね…！」
 #v4533Pardon me. I never would have guessed that you were a guest of the family...!
@@ -10064,7 +10064,7 @@
 
 #v4539「最後は寸止めのつもりだったんだ。#r　大丈夫かい、お嬢ちゃん」
 #v4539I'd planned to stop that last blow an inch before hitting you. Are you okay there, little lady?
-#v4539Planejei parar aquele ultimo golpe um centímetro antes de te atingir. Está tudo bem ai, jovenzinha?
+#v4539Planejei parar aquele último golpe um centímetro antes de te atingir. Está tudo bem ai, jovenzinha?
 
 #v4791「こ、この大ラムダデルタさまを、ちゃん呼ばわりって何よー、#r　失礼しちゃうー！」
 #v4791Wh-Why are you calling the Great Lambdadelta-sama little?! How rude!
@@ -10152,7 +10152,7 @@
 
 #v2891「魔法より呪いより！#r　私のパンチの方が手っ取り早いぜ！」
 #v2891My punch can settle things faster than magic and curses and stuff!
-#v2891Meus punhos pode decidir as coisas mais rápido de qualquer magia ou maldição!
+#v2891Meus punhos são capazes de decidir as coisas mais rápido de qualquer magia ou maldição!
 
 #v3479「……どうやら、恋もあなたの場合、#r　パンチの方が手っ取り早そうです…」
 #v3479...It would seem that in love as well, your punch can settle things faster...
@@ -10212,7 +10212,7 @@
 
 #v3102「ニ、ニンゲン風情に負けるなんて……、何て…屈辱……」
 #v3102H-How could I lose to a mere Human...? How...disgraceful...
-#v3102C-Como fui perder para uma merda huaman...? Como...que vergonhoso...
+#v3102C-Como fui perder para uma mera humana...? Como...que vergonhoso...
 
 #v3103「上級家具の私が、……ニンゲン如きに、#r　辱しめられるなんてっ…」
 #v3103To think that high-level furniture like me...would be put to shame by a mere Human...
@@ -10348,7 +10348,7 @@
 
 #v2729「参ったね…。#r　……話してもいいけど、……みんなには内緒だよ…？」
 #v2729You win... ...Okay, I'll tell you, ...but keep it a secret from everyone, okay...?
-#v2729Você venceu... ...Certo, eu contarei, ...mas não conte par ninguém, tá...?
+#v2729Você venceu... ...Certo, eu contarei, ...mas não conte para ninguém, tá...?
 
 #v2913「姿は似せれても。#r　ハートの熱さは真似できなかったらしいな…！」
 #v2913You may look like me, but I guess you couldn't copy the flames of my heart...!
@@ -10364,7 +10364,7 @@
 
 #v2916「誰の手先か知らねぇが、#r　化けるならもっと上手くやれと伝えろ！」
 #v2916I don't know who sent you, but tell them that if you're gonna copy me, do a better job of it!
-#v2916Não sei quem te enviou, mas diga que se for me copiar, é bom fazer melhor que isso!
+#v2916Não sei quem te enviou, mas diga que, se for me copiar, é bom fazer melhor que isso!
 
 #v2917「なるほど、これが本当のシャドーボクシングだな！」
 #v2917I see, so this is real shadow boxing!
@@ -10440,7 +10440,7 @@
 
 #v4610「推理とか私には全然わかんねぇ！#r　でも悪いヤツはぶっ飛ばす！」
 #v4610I don't get any of this reasoning stuff! But I'll beat the heck out of evildoers!
-#v4610Eu não entendo nada dessa coisa de raciocínio! Mais vou arrebentar os malfeitores!
+#v4610Eu não entendo nada dessa coisa de raciocínio! Mas vou arrebentar os malfeitores!
 
 #v3858「何と豪快ナ。#r　……あなたは、出るべき物語を#r　間違えているように思いマス…」
 #v3858How HEROIC. ...I believe you belong in a different TALE...
@@ -10552,7 +10552,7 @@
 
 #v2581「降参よ…。#r　ホールドアップなんて、ドラマの中だけだと思ってたわ」
 #v2581I give up... I thought hold-ups only happened on TV.
-#v2581Eu desisto... Pensei que atrasos só acontecia na TV.
+#v2581Eu desisto... Pensei que hold-ups só aconteciam na televisão.
 
 #v3220「貴重な体験が出来てよかったわね。#r　叔母さんもよ」
 #v3220You're lucky to receive such a rare experience. As am I.
@@ -10640,7 +10640,7 @@
 
 #v3231「躾けの悪い子ね。#r　育てた親の顔が見てみたいわ…！」
 #v3231What a poorly-raised child. I'd like to see your parents' faces...!
-#v3231Que criança mal-criada. Eu gostaria de como são seus pais...!
+#v3231Que criança mal-criada. Eu gostaria de conhecer os pais que a criaram...!
 
 #v3105「お、大広間にでっかく飾ってあるじゃない…！」
 #v3105B-But there's a massive picture of her in the reception hall...!
@@ -10776,7 +10776,7 @@
 
 #v3251「姉さんに教えてもらわなかった？#r　子供が大人に口を挟むと、痛い目を見るって」
 #v3251Didn't Nee-san ever teach you? When a kid interrupts an adult, they get burned.
-#v3251A nee-san nunca te ensinou? Quando crianças interrompe um adulto, elas se queimam.
+#v3251A nee-san nunca te ensinou? Quando crianças interrompem um adulto, elas se queimam.
 
 #v2732「ははは…。#r　たった今、楼座叔母さんに教えてもらいました…」
 #v2732Hahahah... I only learned that just now...
@@ -10912,7 +10912,7 @@
 
 #v5816「あぁ、なるほど！#r　今回はそういう趣向なわけ！#r　あっはははははは！」
 #v5816Ah, I see! So that's the theme this time around! Ahahahahaha!
-#v5816Ah, entendi! Então esse é o tema dessa rodada! Ahahahahaha! 
+#v5816Ah, entendi! Então, esse é o tema dessa rodada! Ahahahahaha! 
 
 #v5203「何がおかしいの！#r　負けたのはあんたよ？！#r　……気持ち悪い子…！」
 #v5203What's so funny?! You're the one who lost, right?! ...What a creepy kid...!
@@ -11020,7 +11020,7 @@
 
 #v5717「……どうやらそのようですね。#r　私に抗える力は、ないようです…」
 #v5717...So it would seem. I don't appear to have...the strength to resist...
-#v5717...Então é o que aparenta ser. Não parece que eu tenho...força para resistir...
+#v5717...Então, é o que aparenta ser. Não parece que eu tenho...força para resistir...
 
 #v4223「私の推理は完璧です。#r　如何なる隙も存在しませんっ」
 #v4223My reasoning is perfect. There are no gaps in it.
@@ -11088,7 +11088,7 @@
 
 #v4231「今さら小手調べですか？#r　もっと楽しい密室殺人を用意して下さい！」
 #v4231Another practice match this far in? Get me a closed room murder that's more fun!
-#v4231Outra treino a essa altura? Me arranje um assassinato de quarto fechado que seja mais divertido!
+#v4231Outro treino a essa altura? Me arranje um assassinato de quarto fechado que seja mais divertido!
 
 #v5054「私を雑魚扱いなんて、……く、……悔しい……」
 #v5054Treating me like a common grunt... ...I-I hate this...
@@ -11120,7 +11120,7 @@
 
 #v4235「それでは推理を披露いたします。#r　あなたの敗因についてです！」
 #v4235Then allow me to present my reasoning. This part is regarding your defeat!
-#v4235Então permita-me apresentar meu raciocínio. Esta parte é a respeito da sua derrota!
+#v4235Então, permita-me apresentar meu raciocínio. Esta parte é a respeito da sua derrota!
 
 #v4698「き、聞きたくないっ！#r　僕に負ける理由などあるわけない！」
 #v4698I-I don't want to hear it! There couldn't have been any reason for it!
@@ -11192,7 +11192,7 @@
 
 #v4247「やれやれ！#r　ここまで知性のカケラもないご令嬢は初めてです！」
 #v4247Aw, come on! I've never met a rich girl who was this lacking in intelligence!
-#v4247Aw, qual foi?! Nunca conheci uma garota rica que faltassem tanto com inteligência!
+#v4247Aw, qual foi?! Nunca conheci uma garota rica que faltasse tanto com inteligência!
 
 #v4620「う、うぜーぜ！！#r　大事なのは頭じゃねぇだろ、ハートだろ！」
 #v4620Sh-Shut up!! It's the heart that matters, not the head!
@@ -11240,11 +11240,11 @@
 
 #v4250「あなたのミステリアスな私生活についても、#r　私の推理が必要ですか？」
 #v4250Do you need me to reason out your mysterious personal life too?
-#v4250Precisa que eu deduza os mistérios da sua vida pessoa também?
+#v4250Precisa que eu deduza os mistérios da sua vida pessoal também?
 
 #v5208「わ、私の生活なんて関係ないでしょ？！#r　やめてッ、暴かないで！！」
 #v5208M-My personal life has nothing to do with this! Stop, don't expose it!!
-#v5208M-Minha vida pessoa não tem nada a ver com isso! Pare, não exponha nada!!
+#v5208M-Minha vida pessoal não tem nada a ver com isso! Pare, não exponha nada!!
 
 #v5209「こ、この子はニンゲンなの？#r　それとも魔女なの？！」
 #v5209I-Is this child human? Or a witch?!
@@ -11300,7 +11300,7 @@
 
 #v4260「虚飾を剥いで真実を裸にする快楽！#r　あんたにわからなくて残念です！」
 #v4260Ah, the pleasure of stripping down pretense and leaving the truth stark naked! It's a shame you can't understand that joy!
-#v4260
+#v4260O prazer de estripar pretensões e expor a verdade nua e crua! É uma pena que não consiga entender!
 
 #v4261「チェックメイト。#r　詰めが甘いですね。あるいはどうして手加減を？」
 #v4261Checkmate. You were weak at the end there. Or were you going easy on me for some reason?
@@ -11332,7 +11332,7 @@
 
 #v5468「……事件は心が起こすんだ。#r　……心を、蔑ろにするんじゃねぇ…」
 #v5468...The heart is what triggers the crime. ...Don't neglect the heart...
-#v5468...O gatilho para o crime é o coração. ...Não negligêncie o coração...
+#v5468...O gatilho para o crime é o coração. ...Não negligencie o coração...
 
 #v4265「如何です、我が主！#r　私は鍛えに鍛えてこんなに強くなりました！」
 #v4265How was that, my master?! I kept training and training, and now I'm this strong!
@@ -11440,7 +11440,7 @@
 
 #v5719「相変わらず見事ですね。#r　華麗かつ、知的で緻密な戦いでしたよ」
 #v5719Magnificent, as always. It was a gorgeous and intellectually precise battle.
-#v5719Magnífico, como sempre. Foi uma belo e preciso entrave intelectual.
+#v5719Magnífico, como sempre. Foi um belo e preciso entrave intelectual.
 
 #v3872「ご謙遜ヲ。#r　あなたに負けたくないと、見苦しく戦ってしまいマシタ…」
 #v3872You're too MODEST. I fought shamefully, determined not to lose to YOU...
@@ -11592,7 +11592,7 @@
 
 #v3891「鍵であるあなたごと、#r　猫箱を証拠品として押収させていただきマス」
 #v3891Allow me to confiscate this cat box to be used as evidence, along with you, the KEY.
-#v3891Permita-me confiscar esta caixa para ser usada como evidência, juntamente como você, a CHAVE.
+#v3891Permita-me confiscar esta caixa para ser usada como evidência, juntamente com você, a CHAVE.
 
 #v4469「勝手になさいよ！#r　どこに行ったって、何も喋らないんだからッ！！」
 #v4469Whatever! No matter where you take me, I'm not talking!!
@@ -11648,7 +11648,7 @@
 
 #v3895「これ以上は推理の邪魔になりマス。#r　大人しくしてもらいまショウ」
 #v3895Any more would get in the way of our REASONING. Please give UP.
-#v3895
+#v3895Mais do que isso irá atrapalhar nosso RACIOCÍNIO. Por favor, peço que DESISTA.
 
 #v4545「僕なんか、初めから眼中にないというわけか…。#r　……悔しいね」
 #v4545So, you barely even noticed me from the beginning... ...That stings.
@@ -11680,7 +11680,7 @@
 
 #v5212「そんな…、銃が効かないなんて…！#r　あんた、何者なの…？！」
 #v5212No way... Guns don't work on you...?! Just what are you...?!
-#v5212Sem chance... Armas não tem efeito em você...?! O que é você...?!
+#v5212Sem chance... Armas não têm efeito em você...?! O que é você...?!
 
 #v3902「ルールとでも言いまショウカ。#r　私に勝つには銃よりペンが必要デス」
 #v3902Perhaps you could call me a RULE. To defeat me, you will need a pen rather than a GUN.
@@ -11872,7 +11872,7 @@
 
 #v5722「お見事です。#r　さすが、ライトの名を受け継いだだけのことはあります」
 #v5722Splendid. I can see why you inherited the name of Wright.
-#v5722Esplêndido. Consigo entender o motivo pela qual herdou o nome Wright.
+#v5722Esplêndido. Consigo entender o motivo pelo qual herdou o nome Wright.
 
 #v5479「もう引き継いじまうけどな。#r　次の新ライトに、乞うご期待だぜ」
 #v5479Though I've already passed it on. Look forward to the next one.
@@ -11944,7 +11944,7 @@
 
 #v5059「わ、私の完敗よ…。#r　楽しみだわ…、異端審問官の拷問の数々……」
 #v5059I-I lost completely... Can't wait to see...what all those Inquisitor torture methods are like...
-#v5059P-Perdi por completo... Mal posso esperar parr ver...como são os métodos de tortura dos Inquisidores...
+#v5059P-Perdi por completo... Mal posso esperar para ver...como são os métodos de tortura dos Inquisidores...
 
 #v5488「お前は取調室じゃなく、証拠品保管室だ。#r　ご期待に添えなくて悪いな」
 #v5488You're going to the evidence storage room, not the interrogation room. I'm sorry we won't be living up to your expectations.
@@ -11952,7 +11952,7 @@
 
 #v5489「上司と部下は選べねぇ、お前も大変だな。#r　察するぜ」
 #v5489You've got it rough, not being able to choose your superiors or subordinates. I can tell.
-#v5489Deve ser difícil não ser capaz de escolher seus subordinados ou superiores. Dá para percer.
+#v5489Deve ser difícil não ser capaz de escolher seus subordinados ou superiores. Dá para perceber.
 
 #v5060「わ、わかった風な口をきかないで頂戴ッ！#r　全然大変なんかじゃないんだから！」
 #v5060D-Don't act like you understand! It's not rough at all!
@@ -11976,7 +11976,7 @@
 
 #v5492「すまねぇな。#r　お前には手加減するべきではないと思った」
 #v5492Sorry about that. I figured I shouldn't go easy on you.
-#v5492Desculpe por aquilo. Percebi que não devo pegar leva com você.
+#v5492Desculpe por aquilo. Percebi que não devo pegar leve com você.
 
 #v5294「ありがとうございます。#r　私も全力を尽くさせていただきました」
 #v5294Thank you very much. I gave it my all as well.
@@ -12020,7 +12020,7 @@
 
 #v5497「俺の仕事は、そいつの弔いだ。#r　……決して心を蔑ろにしない。約束する」
 #v5497My job is giving all this a funeral. ...I won't make light of it. You have my promise.
-#v5497Meu trabalhar é oferecer um funeral a tudo isso. ...Não pegarei leve. Você tem a minha palavra.
+#v5497Meu trabalho é oferecer um funeral a tudo isso. ...Não pegarei leve. Você tem a minha palavra.
 
 #v5498「安心しろ。#r　俺は、お前の猫箱をこじ開けるために来たんじゃねぇ」
 #v5498Don't worry. I didn't come here to pry your cat box open.
@@ -12092,7 +12092,7 @@
 
 #v5503「修行を重ねろ。#r　その数が出ただけだ。お前が劣ったわけじゃない」
 #v5503Keep on training. I've merely done it for longer than you have. You aren't inferior at all.
-#v5503Continue treinando. Eu simplesmente venho fazer isso a mais tempo. Você não é inferior.
+#v5503Continue treinando. Eu simplesmente venho fazendo isso há mais tempo. Você não é inferior.
 
 #v5504「絵羽直伝の足技、悪くなかった。#r　修行したくなったらいつでも来い。相手になってやる」
 #v5504Those kicks you learned from Eva weren't bad. If you ever want to train, come and see me. I'll fight you any time.
@@ -12124,11 +12124,11 @@
 
 #v5216「誰だってそうよ？#r　だから私は死んでも真里亞を守るわッ！」
 #v5216Everyone's like that. I'll protect Maria even if I end up dead!
-#v5216Todos são assim. Eu protegerei a Maria mesmo que posso acabar morrendo!
+#v5216Todos são assim. Eu protegerei a Maria mesmo que possa acabar morrendo!
 
 #v5511「なら、これで決まりだな。#r　お前の冷血な推理は、ミステリーじゃねェ」
 #v5511Then that settles it. Your cold-blooded reasoning isn't mystery.
-#v5511Então está decidido. Seu raciocínio de sangue frio não é um mistério.
+#v5511Então está decidido. Seu raciocínio de sangue-frio não é um mistério.
 
 #v4274「わ、私の推理を、……よ、よくも冒涜を……！！#r　お、おのれ………」
 #v4274H-How could you...pr-profane my reasoning like that?!! D-Damn you...
@@ -12140,7 +12140,7 @@
 
 #v5512「なら、この戦いが証明したな。#r　ミステリーだって、心を蔑ろにするんじゃねェ」
 #v5512Then what did this fight prove? Even in the mystery genre, don't neglect the heart.
-#v5512Então o que esta luta prova? Não negligencie o coração, nem mesmo o gênero do mistério.
+#v5512Então, o que esta luta prova? Não negligencie o coração, nem mesmo o gênero do mistério.
 
 #v5513「お前のような知的強姦者に、#r　手加減してやるほど俺は甘くねぇ」
 #v5513I'm not so soft that I'd go easy on an intellectual rapist like you.
@@ -12148,7 +12148,7 @@
 
 #v4276「グッド！　最高の褒め言葉です！#r　如何です？！#r　もう一勝負ッ！」
 #v4276<Good!> Those are the highest words of praise I can hear! What do you say?! Let's have another match!
-#v4276Good! Esse é o melhor elogia que eu poderia ouvir! O que me diz?! Pronto para mais uma!
+#v4276Good! Esse é o melhor elogio que eu poderia ouvir! O que me diz?! Pronto para mais uma!
 
 #v5514「大丈夫か？#r　今回は俺の勝ちだが、俺たちにそもそも優劣はねェ」
 #v5514Are you okay? I won this time, but neither of us is better than the other.
@@ -12180,7 +12180,7 @@
 
 #v5518「……やるな。#r　次にライトを名乗るヤツも、そうあってほしいぜ…」
 #v5518...Not bad. I hope the next person with the name of Wright is the same...
-#v5518...Nada mal. Espero que a próximo pessoa com o nome Wright seja igual....
+#v5518...Nada mal. Espero que o próximo Wright seja igual....
 
 #v5519「これが…、ライトを名乗る男の強さだというのか……」
 #v5519Is this...the strength of a man who takes on the name of Wright...?
@@ -12228,7 +12228,7 @@
 
 #v4806「勝っときなさいよ。#r　あんたの見事な戦いぶりに対する、私の褒美よ」
 #v4806Go ahead and win. It's my reward for that excellent display of fighting you showed me.
-#v4806Vá em frente e vença. É a minha recompensa pela excelente postura de demonstrou.
+#v4806Vá em frente e vença. É a minha recompensa pela excelente postura que demonstrou.
 
 #v4807「ふんっ、今日は負けてあげるー！#r　でも今日だけだからね、今日だけ！」
 #v4807Hmph, I'll let you win this time! But only for today, okay?!
@@ -12236,7 +12236,7 @@
 
 #v5527「言葉通りに受け取るぜ。#r　……あんたに、次に勝てる自信はまったくねェ」
 #v5527I'll take you at your word. ...I've got absolutely no confidence in my ability to beat you again.
-#v5527Aceitarei sua proposta. ...Eu não tenho confiança o suficiente nas minhas habilidade para derrotá-la de novo.
+#v5527Aceitarei sua proposta. ...Eu não tenho confiança o suficiente nas minhas habilidades para derrotá-la de novo.
 
 #v4808「なかなかやるじゃない！#r　このラムダデルタ卿にまぐれでも勝っちゃうなんて！」
 #v4808Not bad! Even if it was a fluke, you beat me, Lady Lambdadelta!
@@ -12296,7 +12296,7 @@
 
 #v5833「絵本の中に帰ったら？#r　本の間に挟んで潰して、しおりにしてあげるわ」
 #v5833Why don't you go back to whatever picture book you came from? I'll crush you inside it and use you as a bookmark.
-#v5833Por que não volte para o livro ilustrado de onde saiu? Vou esmagá-la dentro dele e usá-la como marcador de página.
+#v5833Por que não volta para o livro ilustrado de onde saiu? Vou esmagá-la dentro dele e usá-la como marcador de página.
 
 #v5724「……あなたこそ。#r　いつか討ち取られ、それを絵本に記されるといいでしょう…」
 #v5724...Someday, you will be felled in turn, and that will be recorded in a picture book...
@@ -12364,7 +12364,7 @@
 
 #v3693「ぐっ…。#r　ベルンカステル卿も、なかなか良い趣味をお持ちと見える…」
 #v3693Nngg... I see you have excellent taste yourself, Lady Bernkastel...
-#v3693Nngg... Vejo que tem um excelente gosto, lady BERNKASTEL...
+#v3693Nngg... Vejo que tem um excelente gosto, Lady BERNKASTEL...
 
 #v5842「あんたの前で妹たちをいたぶり殺してあげる。#r　どう？　楽しみでしょう？」
 #v5842I'll toy with your sisters as I kill them in front of you. What do you think? Doesn't that sound fun?
@@ -12464,7 +12464,7 @@
 
 #v5854「余興よね？#r　もしこれが戦いのつもりだったなら、……大変よ？#r　くすくす！」
 #v5854This was just a sideshow, right? If that was supposed to be a fight, ...someone's in trouble. *giggle*
-#v5854Esse foi apenas uma prévia, né? Se era para ser uma luta, ...então alguém está em apuros. *risos* 
+#v5854Essa foi apenas uma prévia, né? Se era para ser uma luta, ...então alguém está em apuros. *risos* 
 
 #v5373「とと、とんでもないにぇ…！#r　こんなの、ほんのおふざけですにぇ…、にぇ…」
 #v5373N-N-Not at all nyeh...! Th-That was just a little joke nyeh... Nyeh...
@@ -12532,7 +12532,7 @@
 
 #v5859「あんた達が言い出したのよ？#r　人を外見で判断しちゃいけないって」
 #v5859What is it you people are always saying? You shouldn't judge people on their appearances, is it?
-#v5859Como é mesmo que as pessoas dize? Não julgue alguém pela aparência, né?
+#v5859Como é mesmo que as pessoas dizem? Não julgue alguém pela aparência, né?
 
 #v5863「見逃してあげる。#r　あんたに銃を持たせれば、勝手に惨劇が生まれるものね」
 #v5863I'll let you get away. I just need to get a gun in your hands, and a tragedy will arise all by itself.
@@ -12640,7 +12640,7 @@
 
 #v5877「笑えるわ。#r　私よりもさらに最悪の世界を生きる私がいたなんてね」
 #v5877This is hilarious. So, there exists a 'me' who lives in a world even more horrible than mine.
-#v5877Isso é hilário. Então, existe um "eu" que vive em um mondo ainda pior do que o meu.
+#v5877Isso é hilário. Então, existe um "eu" que vive em um mundo ainda pior do que o meu.
 
 #v5878「笑えるでしょう？#r　そしてどこの世界の私も、みんな最悪なの」
 #v5878It is, isn't it? And no matter what world I'm in, I'm horrible.
@@ -12680,7 +12680,7 @@
 
 #v4812「あんた主人公でしょー？！#r　そんなザマじゃ、私が主人公をやっちゃうわよー？！」
 #v4812You're the main character, right?! If you're this pathetic, I'm gonna take your place!
-#v4812VOcê é o personagem principal, né?! Se é tão patético assim, vou tomar o seu lugar!
+#v4812Você é o personagem principal, né?! Se é tão patético assim, vou tomar o seu lugar!
 
 #v3772「……ちぇ、降参だぜ。#r　今日から魔法少女ラムダちゃんにタイトルを変えやがれ…」
 #v3772...Tch, I give up. Go ahead, change the series title to Magical Girl Lambda-chan from now on...
@@ -12900,7 +12900,7 @@
 
 #v4841「いや～よー。#r　甘く煮込んで、素敵なグラッセにしてあげるんだから！」
 #v4841No way. I'll cook them all nice and sweet and make a wonderful glace from them!
-#v4841Sem chance. Vou cozinhar elas com muito cuidado e doçura e fazer um glace maravilhoso!
+#v4841Sem chance. Vou cozinhá-las com muito cuidado e doçura e fazer um glace maravilhoso!
 
 #v5377「戦ってる内に、何だか自分がお菓子みたいに#r　なってきたにぇ…」
 #v5377While we were fighting, I think I became a candy nyeh...
@@ -13048,7 +13048,7 @@
 
 #v5533「これが大魔女、ラムダデルタの実力か…。#r　……まさにバケモノだな…」
 #v5533So this is the true power of the great witch Lambdadelta... ...You really are a monster...
-#v5533Então esse é o verdadeiro poder da grande bruxa LAMBDADELTA... ...Você é mesmo um monstro...
+#v5533Então, esse é o verdadeiro poder da grande bruxa LAMBDADELTA... ...Você é mesmo um monstro...
 
 #v4860「それ言うとアウアウ、傷付くわよー？#r　つーか女の子にバケモノ言わないの！」
 #v4860If you say that, Auau will be sad. And hey, don't go calling girls monsters!
@@ -13064,7 +13064,7 @@
 
 #v4862「私の勝ち～！#r　今夜は互いのネグリジェ、交換して寝るんだからね？！」
 #v4862I win! Tonight, let's swap nighties when we go to bed, okay?!
-#v4862Venci! Esta noite, vamos trocar nossas camisolas quando formas para cama, tá?!
+#v4862Venci! Esta noite, vamos trocar nossas camisolas quando formos para cama, tá?!
 
 #v5884「…………尻尾を出すための穴を空けちゃうけど、いい？」
 #v5884......Sure, if you're okay with me opening a tail hole.
@@ -13072,7 +13072,7 @@
 
 #v5885「え。#r　……それ、本当にやらないといけないの」
 #v5885Huh? ...Do I really have to do that?
-#v5885Hã? ...Eu preciso fazer isso?
+#v5885Hã? ...Eu preciso mesmo fazer isso?
 
 #v4863「えぇそうよ！#r　ラムダ大好き愛してるぅ～って言って、チュッチュしてぇ！」
 #v4863Yep, you do! Kiss me and say 'I wuv you, Lambda!'
@@ -13376,7 +13376,7 @@
 
 #v2928「あの軟弱な戦人も、６年経てばずいぶん変わるもんだぜ！」
 #v2928You were so skinny six years ago, but you changed a lot!
-#v2928Aquele Battler fracote de seis anos atrás mudou muito nesses últimos sei anos.
+#v2928Aquele Battler fracote de seis anos atrás mudou muito nesses últimos seis anos.
 
 #v2538「いっひっひ。#r　そういう朱志香も、お胸はだいぶ変わったぜぇ？」
 #v2538Ihihi. Yeah, your boobs changed a lot too.
@@ -13396,7 +13396,7 @@
 
 #v2930「たまにはパーっと暴れないと！#r　今日はとことん遊ぼうぜ！」
 #v2930Sometimes, you've gotta just let it all out! Let's have a ton of fun today!
-#v2930Às vezes você só precisa extravasar! Vamos nos divertir muito hoje!
+#v2930Às vezes, você só precisa extravasar! Vamos nos divertir muito hoje!
 
 #v2544「さぁ、お二人、話してもらうぜ！#r　犯行時のアリバイについてな！」
 #v2544Come on, you two, talk! Let's hear your alibi for the time of the crime!
@@ -13492,7 +13492,7 @@
 
 #v5537「お前はやるべきことをやっただけだ。#r　深く考えるな、頭痛にならァ」
 #v5537You just did what you needed to. Don't think too deeply about it or you'll just get a headache.
-#v5537Você só fez o que precisava fazer. Não pense muito sobre isso ou só vai ficar com dor de cabeça.
+#v5537Você só fez o que precisava fazer. Não pense muito sobre isso, ou vai ficar com dor de cabeça.
 
 #v5887「あら。#r　……赤き真実で保証された無能にしては、やるじゃない」
 #v5887Oh. ...Not bad for someone guaranteed to be incompetent by the red truth.
@@ -13884,7 +13884,7 @@
 
 #v3934「縁寿。#r　真実を求めるあまり、大事なものを見失ってはいけマセン」
 #v3934Ange, you mustn't search for the truth so hard that you lose sight of what's IMPORTANT.
-#v3934Ange, você não deve ficar obcecada em expor a verdade assim ou vai perder de visto o que é mais IMPORTANTE.
+#v3934Ange, você não deve ficar obcecada em expor a verdade assim ou vai perder de vista o que é mais IMPORTANTE.
 
 #v4130「……あなた、案外、抱き心地がいいのね。#r　……何か意外」
 #v4130...You're surprisingly good for hugging. ...I never would've guessed.
@@ -14032,7 +14032,7 @@
 
 #v1488「分身の魔法も、たまには面白いですね。#r　あとでチェスでも如何？」
 #v1488Body double magic can be fun every now and then. How about a chess match later?
-#v1488Magia de corpo duplo pode ser divertido de vez em quando. Que tal uma partida de xadrez depois?
+#v1488Magia de dublê pode ser divertida de vez em quando. Que tal uma partida de xadrez depois?
 
 #v1489「お相手しましょう。#r　もっとも互角で、もっとも手強い相手ですから」
 #v1489Very well. After all, you are my most well-balanced and formidable opponent.
@@ -14168,7 +14168,7 @@
 
 #v0580「魔法も戦いも、お上品ねぇ。#r　魔法には心が表れるのかしらぁ？」
 #v0580You're graceful when you use magic and when you fight. Does magic reflect a person's heart, I wonder?
-#v0580Você é graciosa quando usa magia e quando luta. Por acaso a magia reflete o coração do indivíduo?
+#v0580Você é graciosa quando usa magia e quando luta. Por acaso, a magia reflete o coração do indivíduo?
 
 #v1507「そんなことはありません。#r　だったら、私の魔法はもっと煤けていますよ」
 #v1507Not at all. If it did, my magic would have been dirtied by age.
@@ -14300,7 +14300,7 @@
 
 #v5731「魔女の戦いも知力が大事です。#r　……考えぬ者に、勝利の女神が微笑むと思いますか？」
 #v5731Intelligence is vital even in a witch's battle. ...Do you imagine that the goddess of victory smiles on those who do not think?
-#v5731Inteligência é vital mesmo em uma batalha entre bruxas. ...Imagina a deus da vitória sorrindo para aqueles que não pensam?
+#v5731Inteligência é vital mesmo em uma batalha entre bruxas. ...Consegue imaginar a deusa da vitória sorrindo para aqueles que não pensam?
 
 #v4291「グッドです。#r　私の推理とあなたの槍。穿てぬ物は、何もありません」
 #v4291<Good.> With my reasoning and your spear, there's nothing we can't pierce.
@@ -14428,7 +14428,7 @@
 
 #v1035「メイドはドジっ子、執事は完璧。#r　それがお約束というものです」
 #v1035Maids are clumsy, and butlers are perfect. We must all obey our respective cliches.
-#v1035Criadas são desastradas e mordomos são perfeitos. Nós precisamos obedecer os nossos próprios clichés.
+#v1035Criadas são desastradas e mordomos são perfeitos. Nós precisamos obedecer aos nossos próprios clichês.
 
 #v0463「やるじゃない。#r　伊達におかしなヒゲしてんじゃないのね」
 #v0463Not bad. I see you don't have that weird mustache for nothing.
@@ -14456,7 +14456,7 @@
 
 #v1513「時々恐ろしくなりますよ。#r　……あなたが、本気になったらどうしようと」
 #v1513You scare me sometimes. ...I wonder what I might have to do if you got serious.
-#v1513Às vezes você me assusta. ...Eu me pergunto o que eu poderia ter feito para deixá-la séria.
+#v1513Às vezes, você me assusta. ...Eu me pergunto o que eu poderia ter feito para deixá-la séria.
 
 #v1039「ご安心を。#r　ワルギリアさまの知る男は、すでに死んでおりますので…」
 #v1039Fear not. The man you knew is already dead...
@@ -14488,7 +14488,7 @@
 
 #v1044「家事に分身は欠かせませんが、戦いにも欠かせませんな」
 #v1044Having a copy of yourself is essential for furniture, but it's also essential for fighting.
-#v1044Ter uma cópia de si mesmo e essencial para uma mobília, mas também é essencial para lutar.
+#v1044Ter uma cópia de si mesmo é essencial para uma mobília, mas também é essencial para lutar.
 
 #v1045「お風呂の時は戻りましょう。#r　お気に入りの石鹸が勿体ないです」
 #v1045Let us return to the bathtub. We mustn't waste that special soap.
@@ -14592,7 +14592,7 @@
 
 #v0735「教えて下さい。#r　どうすれば、ロノウェさまの境地に至れるのでしょう！」
 #v0735Tell me. What can I do to reach your level, Ronove-sama?!
-#v0735Me diga! O que eu preciso fazer para chegar no seu nível, Ronove-sama!
+#v0735Me diga! O que eu preciso fazer para chegar ao seu nível, Ronove-sama!
 
 #v1059「寝る前のお顔のパックとハイネの詩集。#r　それが秘密でしょうかねぇ」
 #v1059A facial mask and a book of Heine's poems before bed. That's probably the secret.
@@ -14740,7 +14740,7 @@
 
 #v5147「おや、この勝ち方はお気に召しませんでしたか。#r　では、ついでの余興に手品でも如何でしょう？」
 #v5147Oh, was that method of victory not to your liking? Then how about a magic trick to go with it?
-#v5147Por acaso esse método de vitória não é do seu agrado? Então que tal executarmos um truque de mágica?
+#v5147Por acaso, esse método de vitória não é do seu agrado? Então, que tal executarmos um truque de mágica?
 
 #v3940「シマッタ…！#r　ホットケーキに現を抜かしていたら、#r　戦いが終わっていまシタ…！」
 #v3940Oh NO...! The fight ended while I was distracted by those HOTCAKES...!
@@ -14776,7 +14776,7 @@
 
 #v5152「ウィルさまに相応しくないお相手はお帰りを。#r　せめてこの私を倒せなくては」
 #v5152Opponents unfit to challenge Will-sama shall leave. You must at least be able to defeat me.
-#v5152Oponentes que não sejam adequados para desafiar o Will-sama devem se retirar. Ao menos você deve ser capaz de me derrotar.
+#v5152Oponentes que não sejam adequados para desafiar o Will-sama devem se retirar. Ao menos, você deve ser capaz de me derrotar.
 
 #v5545「それじゃ相手がいなくなっちまうぜ。#r　……少しは俺にも譲りやがれ」
 #v5545If we do that, we'll run out of opponents. ...Let me have some of them.
@@ -14796,7 +14796,7 @@
 
 #v5154「おや、血のソースが足りませんでしたか？#r　それではふんだんにご用意しましょう」
 #v5154Oh, was that not enough blood sauce? Then let me prepare much, much more for you.
-#v5154Ora, não foi o suficiente para um molho de sangue? Então deixe-me preparar muito mais para você.
+#v5154Ora, não foi o suficiente para um molho de sangue? Então, deixe-me preparar muito mais para você.
 
 #v5155「大ベルンカステル卿にお怪我でもされたら、#r　私の首が飛んでしまいます」
 #v5155If the Great Lady Bernkastel were to be injured, I would lose my head.
@@ -14896,7 +14896,7 @@
 
 #v0143「さぁて、どうやって殺してやろうか！#r　七度は死んでもらうぞ覚悟せよ！」
 #v0143Well now, how shall I kill you?! You'll die seven times, so prepare yourself!
-#v0143Pois bem, como devo te matar/! Você morrerá sete vezes, então prepare-se!
+#v0143Pois bem, como devo te matar?! Você morrerá sete vezes, então prepare-se!
 
 #v1517「またそんな物騒なことを…！#r　さぁ今のうちにお逃げなさい…！」
 #v1517There she goes, spouting off terrifying things like that again...! Quickly now, run while you still can...!
@@ -14956,7 +14956,7 @@
 
 #v0153「生贄にもならぬ脆いヤツよ。#r　安心せよ、次の生贄はそなたに譲ろうぞ！」
 #v0153They were too frail to even be sacrifices. Fear not, I'll let you have the next one!
-#v0153Eles eram fracos de mais até para serem sacrifícios. Não se preocupe, vou deixar os próximos para você!
+#v0153Eles eram fracos demais até para serem sacrifícios. Não se preocupe, vou deixar os próximos para você!
 
 #v0886「さすがはベアトリーチェさま！#r　身も凍る、恐るべき魔法の数々にございます！」
 #v0886That's our Beatrice-sama! What a wonderful display of terrifying spells that chill the body to the bone!
@@ -15044,7 +15044,7 @@
 
 #v0587「ま、死んでも生き返されて、#r　また嬲り殺されるんだけどねぇ？#r　くすくす！」
 #v0587Well, even if they do die, you'll just bring them back to life and then torture them to death again, right? *giggle*!
-#v0587Bom, mesmo que eles morram, você só precisa trazê-los de vola à vida e então torturá-los até a morte novamente, certo? *risos*!
+#v0587Bom, mesmo que eles morram, você só precisa trazê-los de volta à vida e então torturá-los até a morte novamente, certo? *risos*!
 
 #v0588「魔法を理解してもなお、先代さまの力には驚かされるわ…」
 #v0588Even now, when I've come to understand magic, your power amazes me, Predecessor-sama...
@@ -15052,7 +15052,7 @@
 
 #v0165「新米魔女と、千年を経た魔女を比べるでない！#r　当然のことであるわ！」
 #v0165Don't go comparing a newbie witch to one who has lived a thousand years! It's only natural that you'd feel like that!
-#v0165Não compare uma bruxa novada com um que já viveu milhares de anos! É natural que você se sinta assim!
+#v0165Não compare uma bruxa novata com uma que já viveu milhares de anos! É natural que você se sinta assim!
 
 #v1336「豪快な勝利にぇ…。#r　動画に撮って投稿したいくらいにぇ！」
 #v1336What a hearty victory nyeh... I wish I could take a video of it and upload it nyeh!
@@ -15148,7 +15148,7 @@
 
 #v2501「ほう？　本当の死とはまた哲学的な事を！#r　実に味わい深いぞ！」
 #v2501Oh? True death, is it? What a philosophical concept! Isn't it something to ponder deeply?!
-#v2501Oh? A verdadeira morte, é? QUe conceito mais filosófico! Não é algo para se ponderar profundamente?!
+#v2501Hoh? A verdadeira morte, é? Que conceito mais filosófico! Não é de se ponderar profundamente?!
 
 #v3697「流石はベルンカステル卿の駒よ。#r　期待以上に働いてくれるな？」
 #v3697As I'd expect from Lady Bernkastel's piece. You've worked even more effectively than I'd hoped.
@@ -15164,7 +15164,7 @@
 
 #v3698「同感であるなぁ。#r　やるか、ヱリカ？#r　妾と一勝負…！」
 #v3698I feel the same. Shall we have a go, Erika? Fight me...!
-#v3698Eu sinto o mesmo. Devemos então, Erika? Lute comigo...!
+#v3698Eu sinto o mesmo. Devemos, então, Erika? Lute comigo...!
 
 #v4297「やれやれ？#r　その程度の雑魚に、どんだけ時間かけてんです？」
 #v4297My, my. How long do you intend to take on small fry like this?
@@ -15260,7 +15260,7 @@
 
 #v3710「妾の後見人となってくれたこと、決して後悔はさせぬぞ？#r　くっくっく！」
 #v3710I'll make sure you never regret becoming my guardian. *cackle*cackle*!
-#v3710Farei como que nunca se arrependa de ter se tornada a minha guardiã. *gargalhada*gargalhada*
+#v3710Farei como que nunca se arrependa de ter se tornado a minha guardiã. *gargalhada*gargalhada*
 
 #v3711「ラムダデルタ卿ー、もう戦いは終わっておるぞー！」
 #v3711Lady Lambdadelta, the fight is over already!
@@ -15296,7 +15296,7 @@
 
 #v0469「それで充分よ。#r　もう、私たちの邪魔をする気にはならないでしょ」
 #v0469That's enough. I doubt they'll try to get in our way again.
-#v0469Já basta. Eu duvido que eles vão tentar se meter non nosso caminho de novo.
+#v0469Já basta. Eu duvido que eles vão tentar se meter no nosso caminho de novo.
 
 #v0892「邪魔をしたければご勝手に！#r　また痛い目に遭わせてあげるだけだけど！」
 #v0892If you want to get in our way, just you try! Though you'll just end up hurting all over again!
@@ -15304,7 +15304,7 @@
 
 #v0893「最高のえぐり心地だわ…！#r　この喜び、縁寿さまに教えられないなんて！」
 #v0893Piercing that felt heavenly...! It's so sad that I can't share this joy with you, Ange-sama!
-#v0893Perfurá-los são divino...! Eu fico tão triste de não poder compartilhar essa alegria com você, Ange-sama!
+#v0893Perfurá-los é divino...! Eu fico tão triste de não poder compartilhar essa alegria com você, Ange-sama!
 
 #v0470「そんなの知りたくないわよ。#r　……それって、…気持ちいいの…？」
 #v0470I wouldn't even want to know. ...Does it...feel good...?
@@ -15356,7 +15356,7 @@
 
 #v1070「あなたにとっては倒すことより、#r　倒した後の方がお楽しみのようですねぇ」
 #v1070It seems you look forward to what happens after you defeat your foe more than actually defeating them.
-#v1070Parece que você anseia mais para ver o que acontece depois que derrota seu oponente, do que em derrotar ele.
+#v1070Parece que você anseia mais para ver o que acontece depois que derrota seu oponente do que em derrotá-lo.
 
 #v1071「おや、お早い決着ですね。#r　まだ紅茶も蒸らし終わっていないのに」
 #v1071Oh, that ended quite fast. The tea hasn't even finished boiling yet.
@@ -15460,7 +15460,7 @@
 
 #v0915「なら今すぐコンビ解消して、私たちで決着つけるぅ？#r　嘉音くぅん？！」
 #v0915Then why don't we break up this combo right now and settle this amongst ourselves, Kanon-kuuun?!
-#v0915Então porque não desfazemos esta dupla e lutamos agora mesmo para definir isso entre nós, Kanon-kuuun?!
+#v0915Então por que não desfazemos esta dupla e lutamos agora mesmo para definir isso entre nós, Kanon-kuuun?!
 
 #v0589「もっとえぐりなさい！#r　胸も腹も、頭も喉も！　もっともっと！！」
 #v0589Gouge them more! In the chest, in the stomach, in the head and throat! More, more!!
@@ -15556,11 +15556,11 @@
 
 #v3110「蝶のように舞い、蜂のように刺す！#r　それこそ我らの戦い方よ！」
 #v3110Float like a butterfly, sting like a bee! That's how we fight!
-#v3110Flutue como uma borboleta, pique como uma abelha! É assim que lutamos
+#v3110Flutue como uma borboleta, pique como uma abelha! É assim que lutamos!
 
 #v3114「流石はマリア卿のお母様ですっ！#r　全てにおいて隙がありませんっ！」
 #v3114Just what I'd expect from Lady MARIA's mother! You've got no weak points at all!
-#v3114Exatamente o que eu esperava da mãe da Ladu MARIA! Você não possui pontos fracos!
+#v3114Exatamente o que eu esperava da mãe da Lady MARIA! Você não possui pontos fracos!
 
 #v3273「くす、お世辞が上手ね。#r　でも女は、少しくらい隙がないとモテないのよ？」
 #v3273*giggle* You're a good flatterer, aren't you? But women can never be popular unless they've got a few weak points.
@@ -15620,11 +15620,11 @@
 
 #v3947「現場検証には、それで十分デス。#r　……本当に抉ると、怒りマス」
 #v3947We have already finished inspecting the SCENE. ...If you actually gouge them, I will be ANGRY.
-#v3947Nós já terminamos de inspecionar a CENA. ...Se você os goivar, eu fIcarei FURIOSA.
+#v3947Nós já terminamos de inspecionar a CENA. ...Se você os goivar, eu ficarei FURIOSA.
 
 #v3948「残念ながら、私が呼ばれた時点で#r　あなた方の敗北は確定していまシタ」
 #v3948It's too bad, but at the moment I was summoned here, your defeat was GUARANTEED.
-#v3948É uma pena, mas no momento que em que fui invocada aqui, a sua derrota já estava ASSEGURADA.
+#v3948É uma pena, mas no momento em que fui invocada aqui, a sua derrota já estava ASSEGURADA.
 
 #v5072「そして、それを執行する私は処刑人だわ。#r　うっふふ、素敵な響きね…！」
 #v5072And since I'm gonna carry it out, that makes me the executioner. Heheheh, I love the sound of that...!
@@ -15716,7 +15716,7 @@
 
 #v0323「勝ちを譲られたいヤツなんているわけもないさ。#r　いいんだぜ、それで」
 #v0323Of course no one wants to give up their victory. It's okay to feel that way.
-#v0323É claro que ninguém quer abrir mão da vitória. Tudo bem se sentir asssim.
+#v0323É claro que ninguém quer abrir mão da vitória. Tudo bem se sentir assim.
 
 #v0324「いっひっひ、やるなぁ。#r　俺に見せ場を残してくれてもいいんだぜ？」
 #v0324Ihihi, not bad. You could've left me some time to shine, you know?
@@ -15732,7 +15732,7 @@
 
 #v1195「これは、家具として与えられた力…。#r　お見苦しいものをお見せしました…」
 #v1195This is the power given to furniture... I apologize for showing you something so unsightly...
-#v1195Este é o poder concedido às mobílias... Eu peço desculpas por mostra algo desagradável para você...
+#v1195Este é o poder concedido às mobílias... Eu peço desculpas por mostrar algo desagradável para você...
 
 #v1196「目の前の敵を倒すことでしか、今は自分の信念を貫けません」
 #v1196Right now, there's no way to hold to your convictions except by defeating the enemies in front of you.
@@ -15764,7 +15764,7 @@
 
 #v1523「えぇ、知っていますよ。#r　でも、危なくなったら私を頼っていいですからね？」
 #v1523Yes, I know. However, if it ever gets dicey, feel free to rely on me.
-#v1523Sim, eu si. Contudo, se as coisas ficarem difíceis, fique à vontade para depender de mim.
+#v1523Claro, estou ciente. Contudo, se as coisas ficarem difíceis, fique à vontade para depender de mim.
 
 #v1524「大丈夫ですか？#r　少し休んでから行きましょう」
 #v1524Are you okay? Let us take a short break before we go.
@@ -15772,7 +15772,7 @@
 
 #v1200「いえ、これくらい大丈夫です。#r　……私は、戦いから逃げません」
 #v1200No, this is nothing. ...I won't run from a fight.
-#v1200Não, não é nada. ...Eu não fujo a luta.
+#v1200Não, não é nada. ...Eu não fujo à luta.
 
 #v1072「あなたは本当に強くなりました…。#r　そして美しくなりましたね」
 #v1072You really have grown strong... And beautiful as well.
@@ -15792,7 +15792,7 @@
 
 #v1074「お見事です。#r　……ゴールドスミスの家具の力、やはり侮れませんな」
 #v1074Splendidly done. ...Yes, the power of Goldsmith's furniture is not to be underestimated...
-#v1074Esplêndido. ...Sim, o poder das mobílias do GOLDSMITH não devem ser subestimado...
+#v1074Esplêndido. ...Sim, o poder das mobílias do GOLDSMITH não deve ser subestimado...
 
 #v1203「はい。#r　私は、お館様を守護するために生み出されましたから……」
 #v1203Yes. I was born to protect the Master...
@@ -15916,7 +15916,7 @@
 
 #v1221「それを強さに変えられるのが、#r　人間と、…女というものではないですか」
 #v1221And isn't changing that fact into strength what makes us human...? Isn't that what makes us women...?
-#v1221E não é transformar essa fato em força o que nos torna humanos...? Não é isso o que nos faz mulheres...?
+#v1221E não é transformar esse fato em força o que nos torna humanos...? Não é isso o que nos faz mulheres...?
 
 #v1342「最近のメイドは強いにぇ！#r　もうドジっ子は時代遅れかにぇ？」
 #v1342Maids these days are so strong nyeh! I guess klutzes are already out of style, nyeh?
@@ -15992,7 +15992,7 @@
 
 #v3399「楼座さま、油断なさらないで下さい。#r　……魔女の手先は、まだいます」
 #v3399Rosa-sama, please don't let your guard down. ...The witch has more minions out there.
-#v3399Rosa-sama, por favor não baixe a guarda. ...A bruxa possuí mais subordinados por perto.
+#v3399Rosa-sama, por favor, não baixe a guarda. ...A bruxa possui mais subordinados por perto.
 
 #v3276「……信じられないわ。#r　……この島が本当に、オカルトに飲み込まれたなんて…」
 #v3276...I don't believe it. ...This island really is being swallowed up in the occult...
@@ -16044,11 +16044,11 @@
 
 #v3949「異端審問官に冤罪は許されまセン。#r　常に真剣勝負なのデス」
 #v3949Inquisitors musn't make false ACCUSATIONS. We always take fights SERIOUSLY.
-#v3949Inquisidores não deve fazer falsas ACUSAÇÕES. Nós sempre lutamos à SÉRIO.
+#v3949Inquisidores não devem fazer falsas ACUSAÇÕES. Nós sempre lutamos à SÉRIO.
 
 #v3950「一仕事終えた後の、おやつの時間は最高デス！#r　焼きたてのクッキーはまだデスカ！」
 #v3950Snack time after a job is the BEST! Do you have any more fresh baked COOKIES?!
-#v3950Nada melhor do que a hora do lanche depois de um TRABALHO. Você tem mais cookies recém ASSADOS?!
+#v3950Nada melhor do que a hora do lanche depois de um TRABALHO. Você tem mais cookies recém-ASSADOS?!
 
 #v5305「くす、用意してありますよ。#r　もちろん紅茶のお代わりも」
 #v5305*giggle* Yes, I do. Of course, we have some more tea as well.
@@ -16056,7 +16056,7 @@
 
 #v3951「少し、やりすぎてしまいまシタ。#r　申し訳ありませんが、手当てをお願いしマス」
 #v3951I went a bit too FAR. Forgive me, but I ask that you care for their WOUNDS.
-#v3951Eu exagerei um POUCO. Eu pelo perdão, mas também que cuide das feridas DELES.
+#v3951Eu exagerei um POUCO. Eu peço perdão, mas também que cuide das feridas DELES.
 
 #v5306「お優しいのですね。#r　畏まりました。只今、救急箱をご用意します」
 #v5306You're a kind person. As you wish. I'll get a first aid kit right away.
@@ -16068,7 +16068,7 @@
 
 #v5553「まだ終わっちゃいねぇよ。#r　それに俺は、仕事中はコーヒー派だ」
 #v5553This isn't over yet. And anyway, I drink coffee when on the job.
-#v5553Isso ainda não acabou. E de qualquer forme, eu bebo café quando estou trabalhando.
+#v5553Isso ainda não acabou. E, de qualquer forma, eu bebo café quando estou trabalhando.
 
 #v5554「すまん。#r　……背後に誰か立つと、無意識にやっちまう。気にするな」
 #v5554Sorry. ...I do that instinctively when someone stands behind me. Don't worry about it.
@@ -16280,7 +16280,7 @@
 
 #v1225「強くなったね。#r　この間まで、私の後ろに隠れてばかりいる子だと#r　思ってたら…」
 #v1225You've grown strong. I can't believe that, not long ago, you were just a kid who hid behind me all the time...
-#v1225Você ficou mais forte. É difícil acreditar que, não muito tempo atrás, você era só uma criança que se escondida atrás de mim o tempo todo...
+#v1225Você ficou mais forte. É difícil acreditar que, não muito tempo atrás, você era só uma criança que se escondia atrás de mim o tempo todo...
 
 #v0763「そ、そんな昔のことは覚えてないよっ。#r　………姉さんはずるいっ」
 #v0763I-I don't remember anything that happened that long ago! ...That was a cheap shot, Nee-san!
@@ -16328,7 +16328,7 @@
 
 #v0595「あらあら。#r　薔薇の手入れと人を斬るの、どっちが得意なのかしらぁ？」
 #v0595My, my. So, which is your specialty, taking care of roses or taking out people?
-#v0595Ora, ora. Qual a sua especialidade? Aparar rosas ou pessoas?
+#v0595Ora, ora. Qual sua especialidade? Aparar rosas ou pessoas?
 
 #v0772「もっと得意なことがある。#r　……お前を斬ることだ！#r　それを忘れるなっ」
 #v0772There's something else I'm even better at. ...Taking out you! Don't forget it!
@@ -16336,7 +16336,7 @@
 
 #v0773「無駄は嫌いだ。#r　勝った戦いに、さらに残酷さを求めるのは特にね」
 #v0773I hate doing pointless things. Especially when I'm asked to be even more brutal in a fight I've already won.
-#v0773Odeio coisas sem sentido. Especial quando pedem para eu ser ainda mais cruel em uma batalha que já vendi.
+#v0773Odeio coisas sem sentido. Especialmente quando pedem para eu ser ainda mais cruel em uma batalha que já vendi.
 
 #v0596「だからトドメを刺さずにそこでおしまい？#r　ふふ、甘い子ね、あんたは」
 #v0596So, you're gonna stop there, without landing the finishing blow? Heheh, you're a naive kid, aren't you?
@@ -16436,7 +16436,7 @@
 
 #v3070「なるほど。#r　……疑わしい人間は、みんな閉じ込めてしまえばいいわけだ」
 #v3070I see. ...So, all we have to do is lock up all the suspicious people.
-#v3070Entendi. ...Então só precisamos trancar todos os suspeitos.
+#v3070Entendi. ...Então, só precisamos trancar todos os suspeitos.
 
 #v3071「寝ていろ。命までは奪わない」
 #v3071Sleep. I won't go as far as taking your life.
@@ -16452,7 +16452,7 @@
 
 #v4304「そして誰もいなくなっても。#r　推理は存在しますので悪しからずっ」
 #v4304And then when there are none left, there will still be room for reasoning, so no hard feelings, everyone!
-#v4304E mesmo quando todos se forem, ainda teremos o raciocínio, então sem recentimentos. 
+#v4304E mesmo quando todos se forem, ainda teremos o raciocínio, então sem ressentimentos. 
 
 #v4305「あんたの戦いを、どんなトリックで再現できるか#r　推理してみましょう」
 #v4305Let's reason out what sort of trick could be used to reproduce the way you fight.
@@ -16508,7 +16508,7 @@
 
 #v5557「……次からは、#r　倒すのは俺が話を聞き終わってからにしてくれ」
 #v5557...Next time, wait until I've finished hearing what they have to say before defeating them.
-#v5557...Na próxima, espere até terminar de ouvir o que eles tem a dizer antes do golpe final.
+#v5557...Na próxima, espere até terminar de ouvir o que eles têm a dizer antes do golpe final.
 
 #v5558「……ところで。#r　お前は、猫派か？　犬派か？」
 #v5558...By the way, are you a cat person? Or a dog person?
@@ -16524,7 +16524,7 @@
 
 #v4722「……僕は倒すのだけが仕事だ。#r　お前の残酷趣味の手伝いはしないっ」
 #v4722...Defeating my opponents is my only job. I won't help you with your brutal hobbies!
-#v4722...Derrotar meus adversários é meu único dever. Não irei ajudá-la com seus passatempo brutais!
+#v4722...Derrotar meus adversários é meu único dever. Não irei ajudá-la com seus passatempos brutais!
 
 #v4723「こんな残酷な魔女が奇跡を司るのか？#r　どおりで、奇跡など起きないはずだ」
 #v4723So, a witch this brutal controls miracles? It figures that miracles never occur.
@@ -16624,7 +16624,7 @@
 
 #v0605「どうかしらぁ？#r　私の魔法、無限の魔女に相応しくて？」
 #v0605How was that? Isn't my magic fitting for the Endless Witch?
-#v0605O que achou? Minha magina não é apropriada para a Bruxa do Infinito?
+#v0605O que achou? Minha magia não é apropriada para a Bruxa do Infinito?
 
 #v1529「……認めたくありません。#r　……これは、私の罪なのでしょうか…」
 #v1529...I don't want to acknowledge it. ...Is this all the result of my sin...?
@@ -16752,7 +16752,7 @@
 
 #v0780「勝利のはずなのに…。#r　このやるせない気持ちは何なんだ……」
 #v0780We won... So what's with this helpless feeling...?
-#v0780Nós vencemos... Mas então o que é esse sentimento de desamparo...?
+#v0780Nós vencemos... Mas então, o que é esse sentimento de desamparo...?
 
 #v0621「何よその顔ぅ？#r　私がいたから勝てたのよ？#r　感謝なさい！」
 #v0621What's with that look on your face? You were able to win because I was with you. Thank me!
@@ -16828,7 +16828,7 @@
 
 #v2633「私たちは右代宮で一番の親子なんだから！#r　私たちに敵はいないわ！」
 #v2633We're the best parent-child combo in the family! No one can beat us!
-#v2633Somos a melhor dupla mãe e criança da família! Ninguém pode nos derrotar!
+#v2633Somos a melhor dupla, mãe e filha da família! Ninguém pode nos derrotar!
 
 #v2628「やるじゃない！#r　朱志香ちゃんもすっかりたくましくなったわね」
 #v2628Not bad! You've gotten really resilient yourself, Jessica-chan.
@@ -16836,7 +16836,7 @@
 
 #v2952「えっへへ！#r　でも、父さんと母さんには、このことはどうか内緒に……」
 #v2952Eheheheh! But please, keep this a secret from Dad and Mom...
-#v2952Eheheheh! Mas, por favor, mantenha isso em secrego dos meus pais...
+#v2952Eheheheh! Mas, por favor, mantenha isso em segredo dos meus pais...
 
 #v2629「右代宮の女は、か弱くなんかないの！#r　思い知っていただけたぁ？」
 #v2629Ushiromiya women aren't weak! Now do you understand?
@@ -16872,7 +16872,7 @@
 
 #v3284「姉さん、いくら若返ったっていっても、#r　そのドレスは…ちょっと…」
 #v3284Nee-san, even if you've gotten younger, that dress is...a little...
-#v3284Nee-san, mesmo que tinha ficado mais jovem, esse vestido...é um pouco...
+#v3284Nee-san, mesmo que tenha ficado mais jovem, esse vestido...é um pouco...
 
 #v2636「あ、あのね…！#r　私は黄金の魔女ベアトリーチェ！#r　絵羽じゃないわよぅ！」
 #v2636U-Umm...! I'm the Golden Witch, Beatrice! I'm not Eva!
@@ -16916,11 +16916,11 @@
 
 #v3956「微力デスが…、お手伝いさせて頂きまショウ」
 #v3956I may not be of much use, ...but allow me to assist YOU.
-#v3956Eu posso não ser de muito uso, ...mas permita-em auxiliar VOCÊ.
+#v3956Eu posso não ser de muito uso, ...mas permita-me auxiliar VOCÊ.
 
 #v3957「さすがデス。#r　黄金の魔女の名は、伊達では無いデス」
 #v3957As EXPECTED. The name of the Golden Witch is not just for SHOW.
-#v3957Como ESPERADO. O nome de Bruxa Dourada não é apenas para se EXIVBIR.
+#v3957Como ESPERADO. O nome de Bruxa Dourada não é apenas para se EXIBIR.
 
 #v4484「当たり前よ。#r　私こそがベアトリーチェ！#r　こんなのまだまだ、序の口なんだから！」
 #v4484Of course not. I am Beatrice! I've only just gotten started!
@@ -16980,11 +16980,11 @@
 
 #v4895「安心して、簡単には開けないから。#r　私、ケーキの苺は取っとく性質なの！」
 #v4895Don't worry, I won't open it that easily. When I eat cake, I like saving the strawberry for last!
-#v4895Não se preocupe, eu não irei abria facilmente. Quando como um bolo, gosto de deixar o morango por último!
+#v4895Não se preocupe, eu não irei abrir facilmente. Quando como um bolo, gosto de deixar o morango por último!
 
 #v4492「私には、右代宮家の当主となって、#r　黄金を手に入れるという絶対の意思があるの！」
 #v4492I have the certain willpower to become the Ushiromiya Family Head and obtain the gold!
-#v4492Eu tenho a força de vontade absoluta necessária para me tornar a chefe da família Ushiromita e obter o ouro!
+#v4492Eu tenho a força de vontade absoluta necessária para me tornar a chefe da família Ushiromiya e obter o ouro!
 
 #v4896「まぁまぁの根性ね。#r　その絶対の意思が揺るがない限り。#r　私はあんたに力を与えるわ」
 #v4896That's not bad for guts. As long as that certain willpower of yours doesn't waver, I'll give you my support.
@@ -17036,7 +17036,7 @@
 
 #v0482「隠してないから。#r　全然隠してないから」
 #v0482But you aren't. You definitely aren't.
-#v0482Mas você não é. Definitivamente não é.
+#v0482Mas você não é. Definitivamente, não é.
 
 #v0483「その制服、恥ずかしくない？#r　私は恥ずかしいわ。うん」
 #v0483Isn't that uniform embarrassing? I'd be embarrassed. Yep.
@@ -17084,7 +17084,7 @@
 
 #v1082「はいはい、わかっていますよ。#r　さぁ、手を洗っていらっしゃい」
 #v1082Yes, yes, I understand. Come on, wash your hands.
-#v1082Si, sim, eu entendo. Agora anda e lave suas mãos.
+#v1082Sim, sim, eu entendo. Agora vá lavar as mãos.
 
 #v1083「便利なパートナーですねぇ。#r　武具とハサミは使いよう。ぷっくっく」
 #v1083You're quite a convenient partner to have. With both weapons and scissors, it's all in how you handle them. Pu ku ku.
@@ -17300,11 +17300,11 @@
 
 #v3286「大切なものを守るためなら、#r　ニンゲンなんていつでも辞めてやるわ」
 #v3286If it'll protect what's important to me, I'll give up on being Human any time you like.
-#v3286Protegerei o que me é importante; abrirei mão se ser humana quando você quiser.
+#v3286Protegerei o que me é importante; abrirei mão de ser humana quando você quiser.
 
 #v3287「その耳…あなた、どこかで見た覚えが…。#r　えっと、どこだったかしら」
 #v3287Those ears... I get the feeling I've seen you before somewhere... Hmm, where could it have been?
-#v3287Esses orelhas... Tenho a sensação de que já as vi em algum lugar... Hmm, onde será?
+#v3287Essas orelhas... Tenho a sensação de que já as vi em algum lugar... Hmm, onde será?
 
 #v3446「ひ、人違い…いや、ウサギ違いにぇ！#r　会ったことなんて全然ないにぇ」
 #v3446Y-You've got the wrong man...I mean, rabbit nyeh! There's no way we've ever met before nyeh.
@@ -17328,7 +17328,7 @@
 
 #v4312「ご苦労です。#r　下がってよし。後でニンジン味の飴玉でもあげましょう」
 #v4312Good work. You can step back now. I'll give you a carrot-flavored candy later.
-#v4312Bom trabalho. Pode recuar agora. Mais tarde de te dou um doce sabor cenoura.
+#v4312Bom trabalho. Pode recuar agora. Mais tarde te dou um doce sabor cenoura.
 
 #v5381「あれだけ扱き使って、飴玉ひとつじゃ、#r　割りが合わないにぇー！」
 #v5381Only getting a single candy after being worked so hard... It's not worth it nyeeh!
@@ -17628,7 +17628,7 @@
 
 #v2637「動きが小さいわ。#r　いつも先生に怒られるでしょう？#r　もっと大きく蹴るの！」
 #v2637Your movements are too shallow. Didn't your teacher always get mad at you for that? Make your kicks bigger!
-#v2637Seus movimentos são muito vazios. Por acaso sua professora ficava brava por causa disso? Dê chutes maiores!
+#v2637Seus movimentos são muito vazios. Por acaso, sua professora ficava brava por causa disso? Dê chutes maiores!
 
 #v2788「何だか恥ずかしいね。#r　まるで授業参観みたいだ」
 #v2788This is kinda embarrassing. It's almost like a parent-teacher conference at school.
@@ -17696,11 +17696,11 @@
 
 #v2958「すごい蹴りだぜ！#r　こりゃ、紗音も惚れるわけだ…！」
 #v2958That was an awesome kick! It's no wonder Shannon fell for you...!
-#v2958Aquele chute foi incrível! Dá pra imaginar porque a Shannon se apaixonou por você...!
+#v2958Aquele chute foi incrível! Dá pra imaginar por que a Shannon se apaixonou por você...!
 
 #v2793「ははは。#r　それは違うよ、僕の真心が彼女に届いただけさ」
 #v2793Hahaha. That's not it. My true feelings reached her, that's all.
-#v2793Hahaha. Não é nada disso. foram os meus sentimentos que chegaram até ela.
+#v2793Hahaha. Não é nada disso. Foram os meus sentimentos que chegaram até ela.
 
 #v2794「この辺で、僕たちは万年犠牲者じゃないってことを#r　見せてやろう」
 #v2794It's time we showed you that we aren't going to be victims forever.
@@ -17812,7 +17812,7 @@
 
 #v4565「あなたが敵なら。#r　それに気付く頃にはもう負けているというわけです」
 #v4565If you were my enemy, then at the moment you realized that, you would already have lost.
-#v4565Se fosse meu inimigo, então no momento que percebesse isso, você já teria perdido.
+#v4565Se fosse meu inimigo, então, no momento em que percebesse isso, você já teria perdido.
 
 #v5917「それでおしまい？#r　まだ生きてるじゃない」
 #v5917Is that all? But they're still alive.
@@ -17916,7 +17916,7 @@
 
 #v3495「そ、その前に少し休憩しませんか…？#r　お茶とお昼寝は如何です…？」
 #v3495P-Perhaps we should take a quick break first... How about some tea and a nap...?
-#v3495Talvez a gente deve fazer uma pausa primeiro... Que tal um pouco de chá e um cochilo?
+#v3495T-Talvez a gente devesse fazer uma pausa primeiro... Que tal um pouco de chá e um cochilo?
 
 #v3496「朱志香ちゃんは力が強いから。#r　少し手加減しないと駄目ですよ…？」
 #v3496You're strong, so you need to go a little easier on your opponents, Jessica-chan...
@@ -18004,7 +18004,7 @@
 
 #v2978「包帯と消毒液のサンドウィッチだな！#r　仕上げは絆創膏だぜ！」
 #v2978Make 'em a bandage and disinfectant sandwich! With a sticky band-aid to top it off!
-#v2978Transforma eles em um sanduíche de bandagens e desinfectante! Com um band-aid por cima!
+#v2978Transforme-os em um sanduíche de bandagens e desinfectante! Com um band-aid por cima!
 
 #v3405「お嬢様は強いですね。#r　……その強さが、とても眩しいです」
 #v3405You really are strong, Milady. ...That strength is so dazzling.
@@ -18144,7 +18144,7 @@
 
 #v2995「月火水はお前が学校に行く、木金土は私が行く。#r　これならどうよ！」
 #v2995You go to school on Monday, Tuesday, and Wednesday. I'll go to school on Thursday, Friday, and Saturday. How does that sound?!
-#v2995Você vai para escola nas segundas, terças e quartas. Eu vou nas quintas, sextas e sábados. Que tal?!
+#v2995Você vai para a escola nas segundas, terças e quartas. Eu vou às quintas, sextas e sábados. Que tal?!
 
 #v2996「待てよ、土曜は半ドンだろ？！#r　ずるいぞ、私！」
 #v2996Wait, Saturday's a half day, isn't it?! That's cheap, me!
@@ -18292,7 +18292,7 @@
 
 #v4906「私は太らないのよ？#r　だってお菓子が私の主食で、私そのものだもの！」
 #v4906I don't get fat. After all, sweets are my main diet...and what I am!
-#v4906Eu não engordo, afinal doces são a minha dieta...e o que eu sou!
+#v4906Eu não engordo, afinal, doces são a minha dieta...e o que eu sou!
 
 #v2553「いっひっひ。#r　楼座叔母さんだけは、敵に回したくないぜ…！」
 #v2553Ihihi. You're the one person I don't want as my enemy...!
@@ -18392,7 +18392,7 @@
 
 #v2508「噂に聞きし黒き魔女の力…。#r　聞きしに勝る恐ろしきものよ」
 #v2508So this is the rumored power of the Black Witch... It's even more terrifying than I imagined.
-#v2508Então esse é o poder da Bruxa da Escuridão, que os rumores tanto falam... É ainda mais terrível do que imaginei.
+#v2508Então, esse é o poder da Bruxa da Escuridão, que os rumores tanto falam... É ainda mais terrível do que imaginei.
 
 #v3306「ねぇ、何で私を魔女と呼ぶの？#r　……あ、美魔女って意味？#r　お世辞が過ぎるわよ、もう♪」
 #v3306Hey, why do you keep calling me a witch? ...Oh, are you saying I look bewitchingly youthful? Stop it, you're too kind��
@@ -18612,11 +18612,11 @@
 
 #v4319「それはこっちの台詞ですっ。#r　……恐ろしいですね、右代宮の一族は！」
 #v4319That's my line! ...The Ushiromiya Family really is terrifying!
-#v4319Essa fala é minha! ...A família Ushiromiya é mesmo assustadora1
+#v4319Essa fala é minha! ...A família Ushiromiya é mesmo assustadora!
 
 #v4320「私の推理によるならば。#r　その二人を拘束することで、容疑者はぐっと狭まります」
 #v4320According to my reasoning, restraining those two will cut the suspect list down considerably.
-#v4320De acordo com o meu raciocínio, restringir esses dois diminuirá consideravelmente a liste de suspeitos.
+#v4320De acordo com o meu raciocínio, restringir esses dois diminuirá consideravelmente a lista de suspeitos.
 
 #v5224「あなたの推理は頼もしいわね。#r　さぁ、そこの二人！#r　立ってちょうだい！」
 #v5224That reasoning of yours has been a great help. Come on, you two! Stand up!
@@ -18828,7 +18828,7 @@
 
 #v4334「ぐちゃぐちゃにするのが、心か体か。#r　私たちにはそれ位の違いしかありません」
 #v4334The only difference between us is whether we tear up someone's heart or their body.
-#v4334A única diferença entre nós e se dilaceramos o coração de alguém ou seu corpo.
+#v4334A única diferença entre nós é se dilaceramos o coração de alguém ou seu corpo.
 
 #v3713「そなたの見事な働きぶり、#r　ベルンカステル卿によくお伝えしておこうぞ」
 #v3713I'll tell Lady Bernkastel all about the splendid work you've done.
@@ -19020,7 +19020,7 @@
 
 #v5238「そ、それが本当なら協力するわ。#r　……だから早く犯人を見つけてっ」
 #v5238I-If that's true, I'll help. ...So find the culprit quickly!
-#v5238S-Se isso é verdade, irei ajudar. ...Então encontre logo o culpado!
+#v5238S-Se isso é verdade, irei ajudar. ...Então, encontre logo o culpado!
 
 #v5239「どう…？#r　そいつらは犯人なの？#r　犯人じゃないの…？」
 #v5239What do you think...? Are they the culprits? Or not...?
@@ -19032,7 +19032,7 @@
 
 #v5240「あなたが来てから事件が起こったわ。#r　あなたは事件に関係ないの…？」
 #v5240The crimes occurred after you came here. Are you sure you have nothing to do with them...?
-#v5240Os crimes transcorreram depois que você chegou. Tem certeza que não tem relação com eles...?
+#v5240Os crimes transcorreram depois que você chegou. Tem certeza de que não tem relação com eles...?
 
 #v4360「申し訳ないことです。#r　探偵が来てしまうと、どうしても事件が起こってしまうっ」
 #v4360You have my apologies. Crimes always occur when the detective arrives!
@@ -19040,7 +19040,7 @@
 
 #v4361「私が二人で推理を語ったら、#r　推理タイムが半分になってしまいますね」
 #v4361If two of me lay out our reasoning, it'll cut our precious reasoning time in half.
-#v4361Se duas de mim apresentaram nossa teoria, nosso precioso tempo para raciocinar será cortado pela metade.
+#v4361Se duas de mim apresentarmos nossa teoria, nosso precioso tempo para raciocinar será cortado pela metade.
 
 #v4362「なら、いつもの倍、推理を語れば問題ないです。#r　では皆さん、ご清聴を！」
 #v4362Then we'll just need to present twice as much reasoning. Everyone, please listen up!
@@ -19172,7 +19172,7 @@
 
 #v3794「そうさ、魔女幻想なんて全てまやかし！#r　絶対に俺がトリックを暴いてやる！」
 #v3794Yeah, the illusion of the witch is all fake! I'll definitely expose the trick!
-#v3794Sim, a ilusão da bruxa é uma farsa! Definitivamente irei expor seu truque!
+#v3794Sim, a ilusão da bruxa é uma farsa! Definitivamente, irei expor seu truque!
 
 #v3795「ノックスはミステリーを窮屈にするという批判があるが、#r　どう思う…？」
 #v3795Some people criticize the Knox Decalogue, saying that it makes mysteries too restrictive. What do you think...?
@@ -19216,7 +19216,7 @@
 
 #v5749「見ていて惚れ惚れする太刀筋ですね。#r　きっと、お父様も喜ばれていますよ」
 #v5749Your swordplay never fails to enrapture me. I'm sure your Father is proud.
-#v5749Sua destreza com espadas sempre me encanta. Tenho certeza seu pai tem orgulho de você.
+#v5749Sua destreza com espadas sempre me encanta. Tenho certeza de que seu pai tem orgulho de você.
 
 #v3980「ありがとうございマス。#r　……父の域に、わずかでも近づけたなら良いのデスガ」
 #v3980Thank you very MUCH. ...I do hope I have been able to approach my father's level even a LITTLE.
@@ -19224,7 +19224,7 @@
 
 #v5750「なるほど、そんな推理がありましたか。#r　またしても、あなたに一本取られましたね」
 #v5750I see, so you could reason that way. I suppose you've taught me a lesson again.
-#v5750Compreendo, então é possível deduzi assim. Acredito que tenha me ensinado mais uma lição.
+#v5750Compreendo, então é possível deduzir assim. Acredito que tenha me ensinado mais uma lição.
 
 #v3981「いいえ、あなたのヒントがあればこそデス。#r　やはり、あなたとの知的冒険は楽しいデス」
 #v3981No, it was all thanks to your HINTS. As expected, an intellectual adventure with you really is FUN.
@@ -19272,7 +19272,7 @@
 
 #v3987「愚かな推理デス。#r　ベアトリーチェ卿の世界に挑むなら、#r　もう少し心を養うことデス」
 #v3987What foolish REASONING. If you wish to challenge Lady Beatrice's world, cultivate your heart a little MORE.
-#v3987Que conclusão mais TOLA. Se pretende desafiar o mundo da Lady BEATRICE, terÁ que cultivar mais seu CORAÇÃO.
+#v3987Que conclusão mais TOLA. Se pretende desafiar o mundo da Lady BEATRICE, terá que cultivar mais seu CORAÇÃO.
 
 #v3717「それくらいにしてやれぃ。#r　最近の挑戦者はすぐにヘコむ、根性なしが多いのでな！」
 #v3717Leave it at that. Lots of challengers these days have no stamina and just collapse right away!
@@ -19280,7 +19280,7 @@
 
 #v5085「こ、これが異端審問官の力……！#r　ま、まぁまぁよね…！#r　私には及ばないわ！」
 #v5085S-So this is the power of an Inquisitor...! W-Well, you're not bad...! Not as good as me though!
-#v5085E-Então este é o poder de um Inquisidor...! B-Bem, nada mal...! Mas não tão boa quanto eu!
+#v5085E-Então, este é o poder de um Inquisidor...! B-Bem, nada mal...! Mas não tão boa quanto eu!
 
 #v3988「それは心強いお言葉デス。#r　あなたさえよろしければ、#r　ぜひ今度、お手合わせ致しまショウ」
 #v3988I am glad to hear IT. If you are willing, I would like a match against you in the near FUTURE.
@@ -19288,7 +19288,7 @@
 
 #v3989「以上で、否定を完了しマス。#r　……ルシファー、後片付けを頼みマス」
 #v3989That concludes my denial of YOU. ...Lucifer, clean up what's left of THEM.
-#v3989Isto concluí minha negação sobre VOCÊ. ...Lucifer, limpe o que sobrou DELES.
+#v3989Isto conclui minha negação sobre VOCÊ. ...Lucifer, limpe o que sobrou DELES.
 
 #v5086「わ、私はあんたの部下じゃないわよ…！#r　……ま、まぁ、片付けは手伝うけど…」
 #v5086I-I'm not your subordinate...! ...W-Well, okay, I'll help clean them up...
@@ -19360,7 +19360,7 @@
 
 #v3998「二度と我らに挑まぬことデス。#r　この先の真実は、あなたには過ぎたものデス」
 #v3998Do not challenge us AGAIN. The truth that lies beyond is too much for YOU.
-#v3998Não nos desafie NOVAMENTE. A verdade que o aguArda é demais para VOCÊ.
+#v3998Não nos desafie NOVAMENTE. A verdade que o aguarda é demais para VOCÊ.
 
 #v4498「推理も想像も、なーんにもいらないの！#r　あんたたち負け犬は、ヘソでも噛んで死んじゃえヴァ～？！」
 #v4498Who needs reasoning or imagination?! If only you losers would just give up and die!
@@ -19424,11 +19424,11 @@
 
 #v4653「すっげぇな！#r　向かうところ敵なしだぜ！#r　この調子でガンガン行こう！！」
 #v4653Awesome! We've got no enemies wherever we go! Let's keep up this pace!!
-#v4653Incrível! Não há inimigos onde quer que a gente vá! Vamos continuar nesse ritmo!!
+#v4653Incrível! Não há inimigos aonde quer que a gente vá! Vamos continuar nesse ritmo!!
 
 #v4006「ガンガン参りまショウ。#r　あぁ、ハンコ押しでない仕事は生き返りマス！」
 #v4006Let us keep up this pace, INDEED. Aaah, jobs that don't involve stamping bring me back to LIFE!
-#v4006Sim, vamos manter o RITMO. Aaah, ofícios que não envolvam carimbar me traze de volta à VIDA!
+#v4006Sim, vamos manter o RITMO. Aaah, ofícios que não envolvam carimbar me trazem de volta à VIDA!
 
 #v4007「いつも不思議なのデスガ。#r　なぜ朱志香は、令嬢なのに男言葉を話すのデスカ」
 #v4007I've always found this strange, but why do you talk like a boy, when you're a daughter of a rich FAMILY?
@@ -19484,7 +19484,7 @@
 
 #v4380「ご苦労でした。#r　やっぱりあんたは頼れますね。#r　我が主が推薦しただけのことはあります」
 #v4380Good work. You really are reliable. I can see why my master recommended you.
-#v4380Bom trabalho. Você é mesmo confiável. Consigo entender porque minha mestra a recomendou.
+#v4380Bom trabalho. Você é mesmo confiável. Consigo entender por que minha mestra a recomendou.
 
 #v4381「グッド。良い戦いでした。#r　あなたは本当に、戦いの時は生き生きしていますね」
 #v4381<Good.> Very well fought. You really do get fired up when it's time to fight.
@@ -19560,7 +19560,7 @@
 
 #v4026「以上で否定を完了しマス。#r　……ご満足いただけましたか、ベルンカステル卿」
 #v4026That concludes my denial of THEM. ...Were you SATISFIED, Lady Bernkastel?
-#v4026Isto concluí minha negação sobre ELES. ...Satisfeita, lady BERNKASTEL?
+#v4026Isto conclui minha negação sobre ELES. ...Satisfeita, Lady BERNKASTEL?
 
 #v5931「えぇ、満足よ。#r　だからその調子で続けてちょうだい。#r　あんたの戦いは、最高のお茶請けだわ」
 #v5931Yes, I'm satisfied. So keep up the pace. Watching you fight is the greatest snack that can go with tea.
@@ -19600,7 +19600,7 @@
 
 #v5581「お前の思考は鋭く深い。#r　……だが推理を誤った時、なかなか抜くことが出来ない」
 #v5581Your thoughts move deeply and precisely. ...However, when you do mess up on a theory, you have trouble pulling back.
-#v5581Seus pensamentos movimentam-se de forma profunda e precisa. ...Entretanto, quando embaralha sua teoria, acaba tendo dificuldade de colocar de volta aos trilhos.
+#v5581Seus pensamentos movimentam-se de forma profunda e precisa. ...Entretanto, quando embaralha sua teoria, acaba tendo dificuldade de colocá-la de volta aos trilhos.
 
 #v3797「……言われるままだぜ。#r　それは戦いにも言えるよな！」
 #v3797...You've got that right. And you could say the same thing when it comes to fighting!
@@ -19816,7 +19816,7 @@
 
 #v5608「シエスタの姉妹兵か。#r　……案外、頼れるもんだな」
 #v5608The Chiester Sisters Corps, huh? ...You're surprisingly reliable.
-#v5608A Tropa das IrmãsChiester? ...Até que são bem confiáveis.
+#v5608A Tropa das Irmãs Chiester? ...Até que são bem confiáveis.
 
 #v5401「援護射撃が本来の任務にぇ。#r　戦場の黒子とは私たちのことにぇ…！」
 #v5401Covering fire is our main job nyeh. We're the unseen stage hands in a battle nyeh...!
@@ -19908,7 +19908,7 @@
 
 #v4382「ではお帰りになればいいじゃないですか。#r　…帰れるもんならですが」
 #v4382Then maybe you should just go home. ...If you can, that is.
-#v4382Então talvez deva simplesmente ir pra casa. ...Se conseguir, é claro.
+#v4382Então, talvez deva simplesmente ir pra casa. ...Se conseguir, é claro.
 
 #v4383「グッドです。#r　もう少し甘い男かと思ってましたが、やりますね」
 #v4383<Good.> I thought you'd be more soft than that, but you're not bad.
@@ -20020,7 +20020,7 @@
 
 #v5636「観客席に座ってんな。#r　お前は一応、俺と組んでることになってんだろ…」
 #v5636You're sitting in the audience seating, aren't you? You know, you're technically supposed to be my partner...
-#v5636Você está sentada na plateia, não está? Sabe, tecnicamente você deveria ser minha parceira...
+#v5636Você está sentada na plateia, não está? Sabe, tecnicamente, você deveria ser minha parceira...
 
 #v3799「お前は本当に味方なのか…？#r　……たまに、わからなくなるぜ」
 #v3799Are you really my ally...? ...I can't tell sometimes.
@@ -20028,7 +20028,7 @@
 
 #v5935「本当の味方って何よ？#r　世の中、利用する者とされる者の二つしかないのよ？」
 #v5935What is an ally, really? There are only two kinds of people in this world: those who use, and those who are used.
-#v5935Sério, o que é um aliado? Só há dois tipos de pessoa neste mundo: quem usa e quem é usado.
+#v5935Sério, o que é um aliado? Só há dois tipos de pessoas neste mundo: quem usa e quem é usado.
 
 #v5936「……これでいい？#r　あんたが私も戦えって言うから、やってみたわけだけど」
 #v5936...How was that? You told me to fight too, so I did.
@@ -20048,7 +20048,7 @@
 
 #v4150「……頼もしいわね。#r　……あんたと一緒なら、真実に辿り着けそうな気がする」
 #v4150...You sure are reliable. ...With you, I get the feeling that I could actually reach the truth.
-#v4150...Você é mesmo confiável. ...Contigo, eu sinto que poderei alcançar a verade.
+#v4150...Você é mesmo confiável. ...Contigo, eu sinto que poderei alcançar a verdade.
 
 #v5938「えぇ、約束するわ。#r　あなたをあの日の真実に招待すると、約束してあげる……」
 #v5938Yes, I promise it. I promise to invite you to see the truth of that day...
@@ -20080,7 +20080,7 @@
 
 #v5942「ミステリーなら私も得意よ？#r　一つの謎に、百年も挑んだことがあるんだから」
 #v5942Mysteries are my specialty too. I once spent a whole century chasing after a single riddle.
-#v5942Mistérios também são a minha especialidade. Uma vez eu passei um século inteiro buscando por um único enigma.
+#v5942Mistérios também são a minha especialidade. Uma vez, eu passei um século inteiro buscando por um único enigma.
 
 #v5755「その謎は楽しめましたか…？#r　ミステリーとは楽しむもの。苦しむものではありません」
 #v5755Were you able to enjoy that riddle...? Mysteries are about enjoyment. Not suffering.
@@ -20092,7 +20092,7 @@
 
 #v5756「ほっほっほ……。次はそうなさると良いでしょう。#r　きっと、次なる相手も喜びますよ」
 #v5756Hohoho... Perhaps you should do that next time. I'm sure your opponent will be overjoyed.
-#v5756Hohoho... Talvez deva fazer isso na próxima. Tenho certeza que seu oponente vai adorar.
+#v5756Hohoho... Talvez deva fazer isso na próxima. Tenho certeza de que seu oponente vai adorar.
 
 #v5169「お待たせ致しました。#r　ご要望の塩昆布茶、マスタード添えでございます」
 #v5169Pardon me for keeping you waiting. Here is the salted kelp tea with mustard you requested.
@@ -20108,7 +20108,7 @@
 
 #v5170「とんでもない。#r　私如き悪魔風情、ベルンカステル卿の巫女など、#r　畏れ多いことです」
 #v5170Perish the thought. A mere demon like me would be undeserving of the role.
-#v5170Pereça o pensamento. Um mero demônio como eu seria indigno deste papel
+#v5170Pereça o pensamento. Um mero demônio como eu seria indigno deste papel.
 
 #v5946「ロノウェ。#r　なぜあんたは、ベアトなんてつまらないヤツに#r　仕えているの？」
 #v5946Ronove, why are you serving someone as boring as Beato?
@@ -20248,7 +20248,7 @@
 
 #v5963「それにしても面白い世界ね。#r　ウサギが二本足で立って楽器を奏で始めるなんて」
 #v5963Still, this world really is interesting. I never expected that rabbits standing on two legs would start to play musical instruments.
-#v5963Embora este mundo seja realmente interessante. Nunca imaginei coelhos que andam com duas pernas iriam começar a tocar instrumentos musicais.
+#v5963Embora este mundo seja realmente interessante. Nunca imaginei que coelhos que andam com duas pernas iriam começar a tocar instrumentos musicais.
 
 #v5404「シエスタ隊はマーチングバンドから武道館ライブに#r　光速握手会まで、何でもＯＫにぇ！」
 #v5404The Chiester Troops will do everything from marching band work to live stadium performances to light-speed handshake events nyeh!
@@ -20380,7 +20380,7 @@
 
 #v4035「ハイ。#r　実に本当に素晴らしく暇デス。#r　ハンコ押しはもうこりごりデス…！」
 #v4035YES. We really, truly, and splendidly have lots of time on our HANDS. I've had enough of stamping DOCUMENTS...!
-#v4035SIM. De fato, nós realmente e verdadeiramente tempos muito tempo LIVRE. Eu já chance de carimbar DOCUMENTOS...!
+#v4035SIM. De fato, nós realmente e verdadeiramente tempos muito tempo LIVRE. Eu já cansei de carimbar DOCUMENTOS...!
 
 #v5637「無慈悲な真実を突きつけて。#r　……お前は何が楽しいってんだ」
 #v5637You keep hitting them with merciless truths. ...Just what makes that so fun?
@@ -22908,7 +22908,7 @@
 
 #v4519「悪いけど。魔女は私ひとりで充分よ。#r　あんたはヘソでも噛んで死んじゃえヴァ？！」
 #v4519Sorry, but I'm the only witch we need around here. If only you'd just give up and die!
-#v4519Desculpa, mas sou a única bruxa que precisamos aqui. Por que não dessiste e morre bem devagar!
+#v4519Desculpa, mas sou a única bruxa que precisamos aqui. Por que não dessiste e morre bem devagar?!
 
 #v4520「この先へは誰も行かせない。#r　この先に眠る真実は、私だけのもの！！」
 #v4520I won't let anyone continue past this point. The truth that sleeps beyond here belongs to me alone!!
@@ -23060,7 +23060,7 @@
 
 #v3459「今日は譲治坊ちゃんとお人形遊びにぇ！#r　たっぷりからかってやるにぇ！」
 #v3459Time to play dolls with little George-chan nyeh! I'll have lots of fun with you nyeh!
-#v3459Hora de bricar de boneca com o nosso Geroge-chan, nyeh! Vou me divertir muito com você, nyeh!
+#v3459Hora de brincar de boneca com o nosso Geroge-chan, nyeh! Vou me divertir muito com você, nyeh!
 
 #v3460「こいつ、いい顔してるにぇ。#r　こういう手合いは厄介と決まってるにぇ」
 #v3460He's got a good look on his face nyeh. This fight's gonna be a tough one nyeh.
@@ -23096,7 +23096,7 @@
 
 #v5409「私の正体を推理できても、#r　あんたが今から殺されるのは変わらないにぇ！」
 #v5409Even if you can reason out my identity, that won't change the fact that you're gonna die now nyeh!
-#v5409Mesmo que consiga advinhar minha identidade, não mudará o fato de que vai morrer agora, nyeh!
+#v5409Mesmo que consiga adivinhar minha identidade, não mudará o fato de que vai morrer agora, nyeh!
 
 #v5410「我が主の命により！#r　招待状のない客をボッコボコにするにぇ！」
 #v5410By the orders of my master, all uninvited guests will hereby get beaten to a pulp nyeh!
@@ -23136,7 +23136,7 @@
 
 #v5419「これはまたとんでもない獲物にぇ。#r　……私一人には勿体ない獲物にぇ」
 #v5419Now here's some more incredibly strong prey nyeh. ...It'd be wasted on me alone nyeh.
-#v5419Temos aqui mais uma presa incrível, nyeh. ...É um disperdicio ser abatida só por mim, nyeh.
+#v5419Temos aqui mais uma presa incrível, nyeh. ...É um desperdício ser abatida só por mim, nyeh.
 
 #v5420「おっそろしい獲物にぇ！#r　でも、なんだかワクワクしちゃうにぇ！」
 #v5420What terrifying prey nyeh! But I'm getting kinda excited nyeh!
@@ -23312,7 +23312,7 @@
 
 #v2847「楼座叔母さん、どうか落ち着いて下さい。#r　僕たちが、犯人のわけもない」
 #v2847Aunt Rosa, please calm down. There's no way we're culprits.
-#v2847Tia Rosa, por favor se acalme. Não tem como sermos os culpados.
+#v2847Tia Rosa, por favor, se acalme. Não tem como sermos os culpados.
 
 #v2848「……やれやれ。#r　どうやら、銃を持たせちゃいけない類の人らしい」
 #v2848...My, my. It looks like you're the kind of person who should never be given a gun.
@@ -23400,7 +23400,7 @@
 
 #v3007「６年前もこうして取っ組み合いをしたっけな！#r　やろうぜ、久しぶりに！」
 #v3007We got into scuffles like this six years ago, didn't we?! Let's finally do this again!
-#v3007Nós brigávamos assim há seis anos, não?! Finalmente vamos voltar a fazer isso!
+#v3007Nós brigávamos assim há seis anos, não?! Finalmente, vamos voltar a fazer isso!
 
 #v3008「成長したのは、図体だけかぁ？#r　私が確かめてやるぜ！」
 #v3008So what, is it just your body that's grown? Let me see!
@@ -23432,7 +23432,7 @@
 
 #v3015「またお前かよ！#r　最後におかしなことさえなけりゃ、私の勝ちだったんだぜ！」
 #v3015You again?! If you hadn't done something weird at the end, I would've won!
-#v3015Você de novo?! Se não tivesse feito aquela coisa estranho no final, eu teria vencido!
+#v3015Você de novo?! Se não tivesse feito aquela coisa estranha no final, eu teria vencido!
 
 #v3016「リターンマッチと行こうぜ。#r　今度こそ、そのチョビヒゲ、引っこ抜いてやる！」
 #v3016Time for a return match. This time, I'm ripping off that mini-mustache!
@@ -23664,7 +23664,7 @@
 
 #v3346「紳士の前では、淑女でいたいの。#r　……だからこれ以上、私をイラつかせないで！」
 #v3346I want to be a lady when in front of a gentleman. ...So, stop pissing me off!
-#v3346Quero ser uma dama diante de um cavalheiro. ...Então pare de me irritar!
+#v3346Quero ser uma dama diante de um cavalheiro. ...Então, pare de me irritar!
 
 #v3347「物分りが良さそうね。#r　……そこ、退いてもらえないかしら？」
 #v3347You seem to be a quick learner. ...Would you mind standing aside?
@@ -23756,7 +23756,7 @@
 
 #v3366「お願いだからゲストハウスに戻っててちょうだい。#r　じゃないと、怒るわよ」
 #v3366Please, go back to the guesthouse. If you don't, I'll get mad.
-#v3366Por favor, volte para casa de hóspedes. Se não for, ficarei brava.
+#v3366Por favor, volte para a casa de hóspedes. Se não for, ficarei brava.
 
 #v3367「朱志香ちゃんにはアリバイはあるの？#r　……悪いけど、話を聞かせてちょうだい」
 #v3367Do you have an alibi, Jessica-chan? ...Sorry, but I'll need to hear about that in more detail.
@@ -23788,7 +23788,7 @@
 
 #v5255「探偵？#r　こんな子供に何ができるって言うのよ！#r　大人の邪魔しないで頂戴！」
 #v5255The detective? And what could a kid like you possibly do?! Stay out of the adults' way!
-#v5255Detetive? E o que uma criança como você poderia faze?! Não atrapalhe os adultos!
+#v5255Detetive? E o que uma criança como você poderia fazer?! Não atrapalhe os adultos!
 
 #v5256「あんた、どこの子？#r　格好を見る限り、どうやら魔女の手先のようね…？」
 #v5256Where are you from? Judging by your outfit, you must be a servant of the witch...
@@ -23916,7 +23916,7 @@
 
 #v4408「全てが暴き出される、知的恥辱の限り！#r　あなたの体に教えて差し上げましょう」
 #v4408I'll let you personally experience the limits of intellectual shaming, where every part of you is laid bare to the light of day!
-#v4408Deixarei que experimente em pessoa os limites da vergonha intelectual, onde cada parte do sua é exposta à luz do dia!
+#v4408Deixarei que experimente em pessoa os limites da vergonha intelectual, onde cada parte sua é exposta à luz do dia!
 
 #v4409「くすくすくす。#r　大丈夫ですよ？#r　ちょっとあなたの正体を暴くだけですから」
 #v4409*giggle*giggle* It'll be okay. I'm just gonna expose your identity for a bit.
@@ -24088,7 +24088,7 @@
 
 #v4041「楽しみにしていまシタ。#r　…あなたとまた勝負できて嬉しいデス…！」
 #v4041I was looking forward to THIS. ...I'm glad I get to fight you AGAIN...!
-#v4041Eu estava ansiova por ISTO. ...Estou feliz que possamos lutar NOVAMENTE...!
+#v4041Eu estava ansiosa por ISTO. ...Estou feliz que possamos lutar NOVAMENTE...!
 
 #v4042「あなたがしているのは推理ではありマセン。#r　それを教えてあげまショウ」
 #v4042What you're doing isn't REASONING. Allow me to show YOU.
@@ -24220,7 +24220,7 @@
 
 #v4074「あなたの出番はここで終わりデス。#r　さぁ、退場してくだサイ…！」
 #v4074This is the end of your TURN. Come now, leave the STAGE...!
-#v4074Isso concluí a sua PARTICIPAÇÃO. Vamos, deixe o PALCO...!
+#v4074Isso conclui a sua PARTICIPAÇÃO. Vamos, deixe o PALCO...!
 
 #v4075「銃弾如きで、私の体に傷をつけることなど出来マセン。#r　無駄なことデス」
 #v4075You cannot injure my body with mere BULLETS. It is FUTILE.
@@ -24240,7 +24240,7 @@
 
 #v4079「友人として忠告しマス。#r　退いて下サイ。あなたは私には勝てないのデス」
 #v4079I warn you as a FRIEND. Stand DOWN. You cannot defeat ME.
-#v4079Eu lhe avisei, como AMIGA. Afaste, você não pode me DERROTAR.
+#v4079Eu lhe avisei, como AMIGA. Afaste-se, você não pode me DERROTAR.
 
 #v4080「久しぶりデスネ。#r　今日は思いっきり遊びまショウ…！」
 #v4080Long time no SEE. Let us play with all we have TODAY...!
@@ -24316,7 +24316,7 @@
 
 #v5645「おまえが…右代宮戦人か。#r　…フン。……なるほどな」
 #v5645So you're...Ushiromiya Battler. ...Hmph. ...I see.
-#v5645Então você é...Ushiromiya Battler. ...Hmph. ...Compreendo.
+#v5645Então, você é...Ushiromiya Battler. ...Hmph. ...Compreendo.
 
 #v5646「もう少し頭を空っぽにしろ。#r　頭痛になるぜ」
 #v5646Try and make your mind a little more blank. Otherwise, you'll just get a headache.
@@ -24408,11 +24408,11 @@
 
 #v5668「あんたは墓守。俺は葬式屋。#r　……俺たちは似たような仕事さ」
 #v5668You're the grave-keeper. I'm carrying out the funeral. ...We have similar jobs.
-#v5668Você é o coveiro. Eu sou a cerimonialista do funeral. ...Temos papeis similares.
+#v5668Você é o coveiro. Eu sou a cerimonialista do funeral. ...Temos papéis similares.
 
 #v5669「そう目くじらをたてるな…。#r　猫箱を覗きにきたわけじゃねぇ」
 #v5669Don't be so touchy... I didn't come here to peek into the cat box.
-#v5669
+#v5669Não seja tão desconfiada... Não vim aqui para espiar dentro da caixa de gato.
 
 #v5670「真里亞のお友達、か。#r　……お前らの存在自体が、悲しいぜ」
 #v5670So, you girls are Maria's friends? ...Your very existence is sad.
@@ -24440,11 +24440,11 @@
 
 #v5676「魔女の余興か。#r　……譲治とやり合うはめになるとはな」
 #v5676A sideshow of the witch, is it? ...I never thought I'd be up against George.
-#v5676
+#v5676Entretenimento da bruxa, é? ...Nunca pensei que enfrentaria o George.
 
 #v5677「次は譲治と戦えってのか？#r　魔女の茶番も疲れるぜ」
 #v5677You're telling me to fight George next? I'm tired of this witch's farce.
-#v5677
+#v5677Está dizendo que a próxima luta é contra o George? Estou cansada dessa farça da bruxa.
 
 #v5678「絵羽直伝の足技か…。#r　おもしれぇ。試させてもらおう」
 #v5678Kicks learned directly from Eva, huh...? Interesting. Let's put them to the test.
@@ -24452,7 +24452,7 @@
 
 #v5679「落ち着けよ。#r　頭痛になるぜ。……すでになってそうだな」
 #v5679Calm down, you'll just get a headache. ...I guess you've already got one.
-#v5679Acalme-se. só vai ficar com dor de cabeça. ...Acho até que já está;
+#v5679Acalme-se. Só vai ficar com dor de cabeça. ...Parece que já está.
 
 #v5680「その銃を置け。#r　話をややこしくするんじゃねェ」
 #v5680Put that gun down. Stop making this more complicated than it needs to be.
@@ -24628,7 +24628,7 @@
 
 #v6018「あんたを殺して朱志香も殺す。#r　ね、私親切でしょう？　くすくすくす…」
 #v6018I'll kill you, and then I'll kill Jessica too. See, I'm so nice. *giggle*giggle*...
-#v6018Irei matar você, e então matarei a Jessica tmbém. Viu como sou boazinha? *risos*risos*...
+#v6018Irei matar você, e então matarei a Jessica também. Viu como sou boazinha? *risos*risos*...
 
 #v6019「しょうがないわね。#r　新米に少し魔女の厳しさを教えてあげるわ」
 #v6019Okay then. I'll show this newbie just how tough it is to be a witch.
@@ -24684,7 +24684,7 @@
 
 #v6032「くすくすくす…。#r　親子の合びき肉も悪くなさそうね。おいしそう」
 #v6032*giggle*giggle*... Mother-daughter mixed meat, huh? Sounds delicious.
-#v6032*risos*risos*... Um mix de carne mãe e filha, é? Parece uma delícia.
+#v6032*risos*risos*... Um mix de carne mãe-e-filha, é? Parece uma delícia.
 
 #v6033「駒の癖にゲームマスターに逆らうの？#r　どうなるかわかってるわよね？」
 #v6033You dare to disobey the Game Master despite being a mere piece? You know what happens next, right?
@@ -24724,7 +24724,7 @@
 
 #v6042「どこに逃げたかと思ったら、こんなカケラにいたのね。#r　覚悟はできた？」
 #v6042I was wondering where you ran off to, and now I find you in a Fragment like this. Are you ready?
-#v6042Estava me perguntando para onde tinha fugido e agora o encontre em um Fragmento desses. Está pronto?
+#v6042Estava me perguntando para onde tinha fugido e me deparo com um Fragmento desses. Está pronto?
 
 #v6043「どこのカケラの私か知らないけれど、怪我するわよ？」
 #v6043I don't know which Fragment's version of me you are, but this is gonna hurt.
@@ -24940,7 +24940,7 @@
 
 #v5024「あんた、相手間違えてない？#r　私に敵うと思ってるの？」
 #v5024Are you sure you're not up against the wrong person? Do you think you're a match for me?
-#v5024Tem certeza que não está enfrentando a pessoa errada? Acha que tem chances contra mim?
+#v5024Tem certeza de que não está enfrentando a pessoa errada? Acha que tem chances contra mim?
 
 #v5025「魔術師狩りねぇー。#r　少しは楽しめそうじゃない！#r　すぐ壊れないでよね！」
 #v5025A witch hunt, huh? That could be a little fun! Make sure you don't break right away!
@@ -24988,7 +24988,7 @@
 
 #v5036「無駄よ。私は絶対に殺せない。#r　絶対の魔女として宣言しちゃうんだから！」
 #v5036It's all useless. You certainly can't kill me. I proclaim it as the Witch of Certainty!
-#v5036Não está nada certo. Você certamente não pode me amtar. Eu proclamo isso como Bruxa da Certeza!
+#v5036Não está nada certo. Você certamente não pode me matar. Eu proclamo isso como Bruxa da Certeza!
 
 #v3510「いよぅ、俺。#r　……相変わらずの間抜け面だな。#r　まだ俺が誰かわからねぇと見える」
 #v3510Hey there, me. ...I see you're looking as stupid as ever. It looks like you still don't know who I am.
@@ -25084,7 +25084,7 @@
 
 #v3533「くっくっく。#r　そう邪険にするなよ。お互い、猫箱の住人じゃねぇか」
 #v3533*cackle* Don't be so hostile. We're both residents of a cat box, aren't we?
-#v3533*gargalhada. Não seja tão hostil. Somos ambos residentes da uma caixa de gato, não somos?
+#v3533*gargalhada. Não seja tão hostil. Somos ambos residentes da caixa de gato, não somos?
 
 #v3534「いよぅ、絵羽伯母さん。#r　迎えに来たぜ。#r　これであの島は、本当に猫箱にしまわれるんだ」
 #v3534Hey, Aunt Eva. I've come for you. Now, that island will be locked in a cat box for real.
@@ -25340,7 +25340,7 @@
 
 #v3597「お前は今日から俺の女だ。#r　……他の男に、心も体も唇も、絶対に許すな。…いいな」
 #v3597From now on, you're my woman. ...Don't you ever give your heart, your body, or your lips to another man. ...Understand?
-#v3597De agora em diante, você é minha mulher. ...Jamais ceda seu coração, seu corpou ou seus lábios para outro homem. ...Entendeu?
+#v3597De agora em diante, você é minha mulher. ...Jamais ceda seu coração, seu corpo ou seus lábios para outro homem. ...Entendeu?
 
 #v3598「女の腫れた顔はよ、最高の化粧だと思わねぇか？#r　……その怯えた目、ぞくぞくするぜ」
 #v3598Don't you think a woman's tear-stained face makes for the best makeup? ...Those terrified eyes send thrills through me.
@@ -25412,7 +25412,7 @@
 
 #v3615「もうすぐだぜ。#r　……もうすぐ、お前の懐かしい友達に会えるよ。#r　……そら……」
 #v3615Almost there. ...You're almost ready to meet your old friend. ...Come on...
-#v3615
+#v3615Quase lá. ...Só mais um pouco e poderá encontrar seu velho amigo. ...Vamos...
 
 #v3616「……昔。#r　籠の中の小鳥を捕まえて羽をもいだ。#r　……お前と同じ声を出したよ」
 #v3616...Long ago, I took a little bird in a cage and ripped its wings off. ...It made the same sound you just did now.
@@ -25504,7 +25504,7 @@
 
 #v3638「俺の靴の裏を、丹念に舐めて綺麗にしろ。#r　……嫌なら、好きな前歯を選ぶんだな」
 #v3638Lick the soles of my shoes carefully and get them clean. ...If you don't want to, pick a front tooth of your choice.
-#v3638Lamba minusciosamente a sola dos meus sapatos e deixe-os limpos. ...Se não quiser, pode começar escolhendo um dente da frente.
+#v3638Lamba minunciosamente a sola dos meus sapatos e deixe-os limpos. ...Se não quiser, pode começar escolhendo um dente da frente.
 
 #v3639「ノックス十戒？#r　……お前の唇は、これからは別のものを囁くのに使え…」
 #v3639The Knox Decalogue? ...Use those lips of yours to whisper something else to me from now on...
@@ -25512,7 +25512,7 @@
 
 #v3640「たまにはお人形遊びも楽しいな…。#r　……バラバラにブチ壊すのは最高だ…」
 #v3640Playing with dolls can be fun, now and then... ...I get a real kick out of breaking them into pieces...
-#v3640Brincar com bonecas pode ser divertido de tempos em tempos.... ...I get a real kick out of breaking them into pieces...
+#v3640Brincar com bonecas pode ser divertido de tempos em tempos.... ...Desmembrá-las é demais...!
 
 #v3641「……ドラノール？　……おい…？#r　……………また、……壊しちまったか…」
 #v3641...Dlanor? ...Hey... ......Did I break you again...?
@@ -25528,11 +25528,11 @@
 
 #v3644「魔術師狩りのライト？#r　……違うね。俺がお前を狩ってやった。#r　くっくくくく…」
 #v3644Wizard-Hunting Wright? ...Wrong. I just hunted you. *cackle*cackle*...
-#v3644Wizard-Hunting Wright? ...Errado. Eu que a caçei. *gargalhada*gargalhada*
+#v3644Wizard-Hunting Wright? ...Errado. Eu que a cacei. *gargalhada*gargalhada*
 
 #v3645「ヴァンダイン二十則？#r　……そんなのに縛られてちゃ窮屈だろ。#r　ほら、これで楽になった…」
 #v3645Van Dine's Twenty Rules? ...Being bound by those is too constraining. See, now you can rest...
-#v3645As Vinte Regras de Van Dine? ...Começar restringindo por elas é tão constrangedor. Viu só? Assim fica mais fácil...
+#v3645As Vinte Regras de Van Dine? ...Começar restringindo-se por elas é tão constrangedor. Viu só? Assim fica mais fácil...
 
 #v3646「……悲しいよ。#r　だんだんお前の体が冷えてくる。#r　……俺は壊してしか、愛せない」
 #v3646...How sad. Your body's getting colder and colder. ...I can't love what I can't break.
@@ -25640,7 +25640,7 @@
 
 #v6558「チンタラしてんじゃねぇ！　食い殺すぞ？」
 #v6558Stop wasting my time! I'll eat you to death.
-#v6558Não disperdice meu tempo! Vou te devorar assim.
+#v6558Não desperdice meu tempo! Vou te devorar assim.
 
 #v6559「お前は何を見せてくれるんだ？　俺を笑わせてくれよ……」
 #v6559What are you gonna show me? Come on, make me laugh...
