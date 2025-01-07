@@ -4496,7 +4496,7 @@
 
 #v6436「……非力なことがコンプレックスなのか？#r　ならば超えるんだ。あの二人を」
 #v6436...Is being weak the reason for your complex? Then surpass it. Overcome them.
-#v6436...Ser fraco seria a razão do seu complexo? Então supere. Deixe isto para trás.
+#v6436...Ser fraco seria a razão do seu complexo? Então, supere-os.
 
 #v6286「戦人さま、ロノウェさま…！#r　お手合わせ願いますッ！！」
 #v6286Battler-sama, Ronove-sama...! Please fight me!!
