@@ -4,12 +4,7 @@
 ----
 Retomado (?)
 ----
-
 Arquivos de tradução do jogo de luta "Ougon Musou Kyoku †CROSS" (黄金夢想曲†CROSS), abreviado oficialmente para "Fantasia Dourada".
-
-Nem tente entender este script pois a vasta maioria das linhas estão fora de ordem e alguns diálogos ficam separados das histórias principais,
-sendo que a maior parte são diálogos de derrota e interação dos personagens no modo Arcade, apresentadas de forma aleatória de acordo com a dupla selecionada, 
-não fazendo parte das histórias principais e você dificilmente verá todos eles no jogo durante toda a sua vida, afinal cada combinação pode gerar seis diálogos diferentes aleatoriamente.
 
 # Instalação
 Quando pronto ou em fase de testes, bastará substituir o arquivo VSCRIPT.bin na pasta do jogo FILES/STORY. Coloque também nossa fonte customizada dentro da pasta MANGAGAMER para ter o jogo com acentuação.
@@ -18,13 +13,13 @@ Este patch pretende traduzir inicialmente apenas os diálogos de cada cenário. 
 Não há patch disponível ainda.
 
 # Equipe:
-- Tradução: Deca, JesterThirty4 
+- Tradução: Deca, ~~JesterThirty4~~
 - Edição: Deca
 - Revisão: Deca
 - Testes: ????
 - Limpeza do script: Deca
-- Programação: Frost51
-- Edição de fonte: Frost51
+- Programação: Sky Leite
+- Edição de fonte: ~~Frost51~~
 
 # Notas:
 Fantasia, do italiano, (幻想曲 gensoukyoku) é uma composição musical com raízes no improviso, assim como o script deste jogo, que é uma imensa colcha de retalhos improvisada e funciona por meio de magia.
@@ -35,8 +30,8 @@ IMPORTANTE: é necessário um macro para adicionar acentuação e, por ora, a tr
 Caso deseje ajudar, devido a falta de contexto das linhas e a bagunça do script, mantenha as linhas o mais neutro possível, buscando evitar gênero para evitar erros que podem levar séculos para serem notados,
 afinal é difícil saber quem está falando com quem.
 
-Infelizmente só é possível trabalhar com o script em inglês, que não é dos melhores, já que o japonês é totalmente criptografado.
-Ao fim do projeto, será necessário jogar e verificar a fidelidade de cada linha manualmente conforme confere o áudio original.
+~~Infelizmente só é possível trabalhar com o script em inglês, que não é dos melhores, já que o japonês é totalmente criptografado.~~
+Questão solucionada depois que a tradução já havia sido feita. É necessário editar conferindo cada linha agora.
 
 # Duplas que desbloqueiam CGs.
 
